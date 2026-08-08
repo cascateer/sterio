@@ -1,107 +1,16 @@
 import { envConfig, nonNullable, property } from "@cascateer/lib";
 import { createTable } from "@cascateer/lib/database";
 import { LazyPromise } from "@cascateer/lib/promise";
-import { randomBytes } from "crypto";
-import { readFile, writeFile } from "fs/promises";
-import { Credentials } from "google-auth-library";
 import { google, youtube_v3 } from "googleapis";
-import { StatusCodes } from "http-status-codes";
-import {
-  chunk,
-  compact,
-  Function1,
-  intersectionWith,
-  isEmpty,
-  maxBy,
-  tap,
-  uniq,
-} from "lodash";
+import { chunk, compact, intersectionWith, maxBy, uniq } from "lodash";
 import { Ora } from "ora";
-import { defer, firstValueFrom, lastValueFrom, retry, Subject } from "rxjs";
-import { openChrome } from "./lib";
 import { DocumentFileTable } from "./tables";
 import { YoutubePlaylist, YoutubeVideo } from "./types";
 
-const {
-  YOUTUBE_DATA_API_KEY,
-  YOUTUBE_CLIENT_ID,
-  YOUTUBE_CLIENT_SECRET,
-  YOUTUBE_REDIRECT_URI,
-  YOUTUBE_GRANT_PATH = "youtube-grant.json",
-} = envConfig();
+const { YOUTUBE_DATA_API_KEY } = envConfig();
 
 export class YoutubeService {
-  public static codes = new Subject<string>();
-
-  private static readonly readGrant = () =>
-    readFile(YOUTUBE_GRANT_PATH, "utf-8")
-      .then<Credentials | null>(JSON.parse)
-      .catch(() => null);
-
-  private static readonly writeGrant = (grant: Credentials) =>
-    writeFile(YOUTUBE_GRANT_PATH, JSON.stringify(grant, null, "\t")).then(
-      () => grant,
-    );
-
   private api = google.youtube("v3");
-  private oauth2Client = new google.auth.OAuth2(
-    YOUTUBE_CLIENT_ID,
-    YOUTUBE_CLIENT_SECRET,
-    YOUTUBE_REDIRECT_URI,
-  );
-
-  private async codeGrantAuthorization(): Promise<Credentials> {
-    return firstValueFrom(
-      YoutubeService.codes.pipe(
-        openChrome(
-          tap(
-            this.oauth2Client.generateAuthUrl({
-              access_type: "offline",
-              scope: ["https://www.googleapis.com/auth/youtube.force-ssl"],
-              include_granted_scopes: true,
-              state: randomBytes(20).toString("hex"),
-              redirect_uri: YOUTUBE_REDIRECT_URI,
-            }),
-            (url) => {
-              const { pathname, searchParams } = new URL(url);
-
-              console.log(`${pathname}\n\t${[...searchParams].join("\n\t")}`);
-            },
-          ),
-        ),
-      ),
-    ).then((code) =>
-      this.oauth2Client
-        .getToken(code)
-        .then(({ tokens }) => YoutubeService.writeGrant(tokens)),
-    );
-  }
-
-  private request<T>(predicate: Function1<youtube_v3.Youtube, Promise<T>>) {
-    return defer(async () => {
-      if (isEmpty(this.oauth2Client.credentials)) {
-        const credentials = await YoutubeService.readGrant();
-
-        if (credentials != null) {
-          this.oauth2Client.setCredentials(credentials);
-        } else {
-          await this.codeGrantAuthorization();
-        }
-      }
-
-      return predicate(this.api);
-    }).pipe(
-      retry({
-        delay: (error, retryCount) => {
-          if (error.status === StatusCodes.UNAUTHORIZED) {
-            return defer(() => this.codeGrantAuthorization());
-          }
-
-          throw error;
-        },
-      }),
-    );
-  }
 
   private static YoutubeVideoTable = createTable<YoutubeVideo, "id">(
     "youtube-videos",
@@ -263,56 +172,5 @@ export class YoutubeService {
     return this.videos
       .getsertOne(videoId)
       .then((video) => this.getThumbnail(video.snippet?.thumbnails, spinner));
-  }
-
-  public async createPlaylist({
-    title,
-    privacyStatus,
-    templatePlaylistId,
-  }: {
-    title: string;
-    privacyStatus?: "private" | "public" | "unlisted";
-    templatePlaylistId?: string;
-  }) {
-    return lastValueFrom(
-      this.request(async (api) => {
-        const { data: playlist } = await api.playlists.insert({
-          auth: this.oauth2Client,
-          part: ["snippet", "status"],
-          requestBody: {
-            snippet: {
-              title,
-            },
-            status: {
-              privacyStatus,
-            },
-          },
-        });
-
-        if (templatePlaylistId != null) {
-          const templatePlaylist =
-            await this.playlists.getsertOne(templatePlaylistId);
-
-          for (const playlistItem of templatePlaylist.items.toReversed()) {
-            await api.playlistItems.insert({
-              auth: this.oauth2Client,
-              part: ["snippet"],
-              requestBody: {
-                snippet: {
-                  playlistId: playlist.id,
-                  resourceId: {
-                    kind: "youtube#video",
-                    videoId: playlistItem.contentDetails?.videoId,
-                  },
-                  position: 0,
-                },
-              },
-            });
-          }
-        }
-
-        return playlist;
-      }),
-    );
   }
 }

@@ -450,18 +450,6 @@ export class SterioController extends Controller {
     };
   }
 
-  @Post("youtube/playlist")
-  async createYoutubePlaylist(
-    @Query() title: string,
-    @Query() templateId: string,
-  ) {
-    return new YoutubeService().createPlaylist({
-      title,
-      privacyStatus: "unlisted",
-      templatePlaylistId: templateId,
-    });
-  }
-
   async toSpotifyAlbumResponse({
     id,
     name,

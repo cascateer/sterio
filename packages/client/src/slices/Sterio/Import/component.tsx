@@ -31,16 +31,6 @@ export const ImportComponent = sterioSlice
         <button onClick={() => ctx.terminal.actions.stepSterioAlbum(-1)}>
           &lt;
         </button>
-        <button
-          onClick={() =>
-            ctx.api.actions.createYoutubePlaylist({
-              title: "Megadeth - Anthology",
-              templateId: "OLAK5uy_nwYO77auM3UBUr8MROz59UL46-gKrW-GM",
-            })
-          }
-        >
-          Create Playlist
-        </button>
         <div>
           {ctx.terminal.effects
             .sterioAlbumIndex()

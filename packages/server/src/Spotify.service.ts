@@ -1,14 +1,15 @@
 import { AsyncEndoFunction, envConfig } from "@cascateer/lib";
 import { createTable } from "@cascateer/lib/database";
 import { LazyPromise } from "@cascateer/lib/promise";
+import { exec } from "child_process";
 import { readFile, writeFile } from "fs/promises";
 import { StatusCodes } from "http-status-codes";
 import { isObject, maxBy, property, thru } from "lodash";
 import { Ora } from "ora";
-import { firstValueFrom, Subject, UnaryFunction } from "rxjs";
+import { firstValueFrom, Subject, tap, timeout, UnaryFunction } from "rxjs";
 import SpotifyWebApi from "spotify-web-api-node";
 import { v4 } from "uuid";
-import { chainFunctions, openChrome, tapPromise } from "./lib";
+import { chainFunctions, tapPromise } from "./lib";
 import { DocumentFileTable } from "./tables";
 import { SpotifyAlbum, SpotifyGrant } from "./types";
 
@@ -100,15 +101,19 @@ export class SpotifyService {
     return this.chain((api) =>
       firstValueFrom(
         SpotifyService.codes.pipe(
-          openChrome(
-            api.createAuthorizeURL(
-              /**
-               * https://developer.spotify.com/documentation/web-api/concepts/scopes
-               */
-              ["user-library-read", "user-read-email", "user-read-private"],
-              v4(),
-            ),
-          ),
+          timeout(20 * 60e3),
+          tap({
+            subscribe: () =>
+              exec(
+                `start chrome --new-window "${api.createAuthorizeURL(
+                  /**
+                   * https://developer.spotify.com/documentation/web-api/concepts/scopes
+                   */
+                  ["user-library-read", "user-read-email", "user-read-private"],
+                  v4(),
+                )}"`,
+              ),
+          }),
         ),
       ).then((code) =>
         api.authorizationCodeGrant(code).then(async ({ body: grant }) => {

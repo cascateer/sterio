@@ -1,7 +1,6 @@
 import { AsyncEndoFunction, keys, property } from "@cascateer/lib";
 import { reduce } from "@cascateer/lib/observable";
 import { MaybePromise } from "@cascateer/lib/promise";
-import { exec } from "child_process";
 import {
   Dictionary,
   maxBy,
@@ -16,8 +15,6 @@ import {
   mergeAll,
   OperatorFunction,
   startWith,
-  tap,
-  timeout,
   UnaryFunction,
 } from "rxjs";
 
@@ -108,14 +105,4 @@ export const chainFunctions =
         async () => seed(),
       ),
       mergeAll(),
-    );
-
-export const openChrome =
-  (url: string): OperatorFunction<string, string> =>
-  (code) =>
-    code.pipe(
-      timeout(20 * 60e3),
-      tap({
-        subscribe: () => exec(`start chrome --new-window "${url}"`),
-      }),
     );

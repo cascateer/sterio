@@ -17,7 +17,6 @@ import {
   ApiResponseYoutubeMusicArtistResponseArray,
   ApiResponseYoutubeMusicSongResponseArray,
   ApiResponseYoutubePlaylistArray,
-  CreateYoutubePlaylistRequest,
   DefaultApi,
   SpotifyAlbumResponse,
   SterioAlbum,
@@ -170,10 +169,6 @@ export const sterioSlice = createSlice("sterio")
         ),
       }))
       .provideActions(({ action }) => ({
-        createYoutubePlaylist: action((api) => ({
-          predicate: (req: CreateYoutubePlaylistRequest) =>
-            api.createYoutubePlaylist(req),
-        })),
         updateSterioAlbum: action<SterioAlbum, ApiResponseVoid>((api) => ({
           predicate: (sterioAlbum) => api.updateAlbum({ sterioAlbum }),
           invalidatesTags: (_, { invalidatesTags }) => invalidatesTags,

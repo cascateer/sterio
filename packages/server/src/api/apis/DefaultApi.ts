@@ -34,16 +34,10 @@ import type {
     SterioAlbum,
     SterioCompilerConfig,
     SterioPlaylist,
-    YoutubeV3Schema36Playlist,
 } from '../models';
 
 export interface CompileAlbumsRequest {
     sterioCompilerConfig: SterioCompilerConfig;
-}
-
-export interface CreateYoutubePlaylistRequest {
-    title: string;
-    templateId: string;
 }
 
 export interface DeleteAlbumRequest {
@@ -123,26 +117,6 @@ export class DefaultApi extends BaseAPI {
             method: 'POST',
             headers,
             body: sterioCompilerConfig,
-        }, opts?.responseOpts);
-    };
-
-    /**
-     */
-    createYoutubePlaylist({ title, templateId }: CreateYoutubePlaylistRequest): Observable<YoutubeV3Schema36Playlist>
-    createYoutubePlaylist({ title, templateId }: CreateYoutubePlaylistRequest, opts?: OperationOpts): Observable<AjaxResponse<YoutubeV3Schema36Playlist>>
-    createYoutubePlaylist({ title, templateId }: CreateYoutubePlaylistRequest, opts?: OperationOpts): Observable<YoutubeV3Schema36Playlist | AjaxResponse<YoutubeV3Schema36Playlist>> {
-        throwIfNullOrUndefined(title, 'title', 'createYoutubePlaylist');
-        throwIfNullOrUndefined(templateId, 'templateId', 'createYoutubePlaylist');
-
-        const query: HttpQuery = { // required parameters are used directly since they are already checked by throwIfNullOrUndefined
-            'title': title,
-            'templateId': templateId,
-        };
-
-        return this.request<YoutubeV3Schema36Playlist>({
-            url: '/sterio/youtube/playlist',
-            method: 'POST',
-            query,
         }, opts?.responseOpts);
     };
 

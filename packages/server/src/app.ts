@@ -7,7 +7,6 @@ import { resolve } from "path";
 import { RegisterRoutes } from "../build/routes";
 import tsoaConfig from "../tsoa.json";
 import { SpotifyService } from "./Spotify.service";
-import { YoutubeService } from "./Youtube.service";
 
 const { SPOTIFY_REDIRECT_URI, YOUTUBE_REDIRECT_URI } = envConfig();
 
@@ -38,16 +37,6 @@ app.get(new URL(nonNullable(SPOTIFY_REDIRECT_URI)).pathname, (req, res) => {
 
   if (code != null) {
     SpotifyService.codes.next(code);
-  }
-
-  res.render("oauth/auth-callback", { code: req.query.code });
-});
-
-app.get(new URL(nonNullable(YOUTUBE_REDIRECT_URI)).pathname, (req, res) => {
-  const code = req.query.code?.toString();
-
-  if (code != null) {
-    YoutubeService.codes.next(code);
   }
 
   res.render("oauth/auth-callback", { code: req.query.code });

@@ -59,16 +59,10 @@ models/YoutubeMusicArtistResponse.ts
 models/YoutubeMusicSongResponse.ts
 models/YoutubeMusicSongResponseAlbum.ts
 models/YoutubePlaylist.ts
-models/YoutubeV3Schema36Playlist.ts
-models/YoutubeV3Schema36PlaylistContentDetails.ts
 models/YoutubeV3Schema36PlaylistItem.ts
 models/YoutubeV3Schema36PlaylistItemContentDetails.ts
 models/YoutubeV3Schema36PlaylistItemSnippet.ts
 models/YoutubeV3Schema36PlaylistItemStatus.ts
-models/YoutubeV3Schema36PlaylistLocalization.ts
-models/YoutubeV3Schema36PlaylistPlayer.ts
-models/YoutubeV3Schema36PlaylistSnippet.ts
-models/YoutubeV3Schema36PlaylistStatus.ts
 models/YoutubeV3Schema36ResourceId.ts
 models/YoutubeV3Schema36Thumbnail.ts
 models/YoutubeV3Schema36ThumbnailDetails.ts
