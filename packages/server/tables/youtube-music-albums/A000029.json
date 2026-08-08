@@ -1,0 +1,404 @@
+{
+	"id": "29",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"type": "ALBUM",
+				"albumId": "MPREb_NifmzrIvEYq",
+				"name": "Free",
+				"playlistId": "OLAK5uy_mYhHvWan8aHxvUeQBYu7awCT0aiH_JDNI",
+				"artist": {
+					"artistId": "UC8freEDn360RZUbhg4J690A",
+					"name": "Marcus Miller"
+				},
+				"year": 2007,
+				"thumbnails": [
+					{
+						"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w60-h60-l90-rj",
+						"width": 60,
+						"height": 60
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w120-h120-l90-rj",
+						"width": 120,
+						"height": 120
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w226-h226-l90-rj",
+						"width": 226,
+						"height": 226
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w544-h544-l90-rj",
+						"width": 544,
+						"height": 544
+					}
+				],
+				"songs": [
+					{
+						"type": "SONG",
+						"videoId": "6GUuMreWUqI",
+						"name": "Blast",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_NifmzrIvEYq",
+							"name": "Free"
+						},
+						"duration": 344,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "aH_cOWBMNIk",
+						"name": "Funk Joint",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_NifmzrIvEYq",
+							"name": "Free"
+						},
+						"duration": 343,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "LqxEodQUGzw",
+						"name": "Free (feat. Corinne Bailey Rae)",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_NifmzrIvEYq",
+							"name": "Free"
+						},
+						"duration": 339,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "2CvT2yUshIM",
+						"name": "Strum",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_NifmzrIvEYq",
+							"name": "Free"
+						},
+						"duration": 340,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "W-xjmqRuEAk",
+						"name": "Milky Way (feat. Keb' Mo')",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_NifmzrIvEYq",
+							"name": "Free"
+						},
+						"duration": 338,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "ymezJ2ALtgc",
+						"name": "Pluck (Interlude)",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_NifmzrIvEYq",
+							"name": "Free"
+						},
+						"duration": 236,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "CUfijHSqXEQ",
+						"name": "When I Fall in Love",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_NifmzrIvEYq",
+							"name": "Free"
+						},
+						"duration": 324,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "bYNRZMa-XJE",
+						"name": "Jean Pierre",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_NifmzrIvEYq",
+							"name": "Free"
+						},
+						"duration": 446,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "IPnvPUy_g0U",
+						"name": "Higher Ground",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_NifmzrIvEYq",
+							"name": "Free"
+						},
+						"duration": 390,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "Vyu5wzFT3qI",
+						"name": "What Is Hip?",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_NifmzrIvEYq",
+							"name": "Free"
+						},
+						"duration": 361,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/v8ftLkzfWhtrsgBreWLWjBf87FOIvdUHIPRAYTrmCGL2nmo-ma6UJYH3d6BDiT_xtXt-orMoLQhy4Dl60Q=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"previousId": "28"
+}

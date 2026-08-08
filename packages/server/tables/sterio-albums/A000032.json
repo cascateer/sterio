@@ -1,0 +1,15 @@
+{
+	"id": "32",
+	"type": "update",
+	"payload": {
+		"record": {
+			"youtubeMusicId": "MPREb_0LoYnYtprVM",
+			"spotifyId": "1zcm3UvHNHpseYOUfd0pna",
+			"spotifyIteratee": "${${$.name/(?:- (.*))$/($1)/}/( \\(Remastered 2010\\))$//}",
+			"youtubeIteratee": "${$.snippet.title/( \\(Remastered 2010\\))$//}",
+			"youtubeMusicIteratee": "${$.name/( \\(Remastered 2010\\))$//}",
+			"youtubeId": "PLiNU9-It0tYbn8bCDWkbVb3hOSu5tPwIj"
+		}
+	},
+	"previousId": "31"
+}

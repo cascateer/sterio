@@ -1,0 +1,198 @@
+{
+	"id": "23",
+	"previousId": "22",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_3jgbuujlpoF",
+				"spotifyId": "5qa57QOyTJ8EeZmOEno8Rn"
+			},
+			{
+				"youtubeMusicId": "MPREb_yWvlqy9be9a",
+				"spotifyId": "1pU3yOqCRZbSyNFlCj5reN",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_YOTLdFRZMwt",
+				"spotifyId": "47eOItno8EgqlZlSNW54Ru"
+			},
+			{
+				"youtubeMusicId": "MPREb_4evVZmO5Kqv",
+				"spotifyId": "23G3SEackzrkzQQRG4UpeE"
+			},
+			{
+				"youtubeMusicId": "MPREb_usYG0pJHIO5",
+				"spotifyId": "0PWttjBnMtQGK1RWsoe85H",
+				"youtubeIteratee": "${$.snippet.description/^(?:Provided to YouTube by Rhino Atlantic\\n\\n)(.*)( ·[\\s\\S]*)$/$1/m}",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/[$1]/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_qvtTWZkGFBL",
+				"spotifyId": "1uXol4dKqzMsUiqvHpwhZh",
+				"youtubeIteratee": "${${$.snippet.description/^(?:Provided to YouTube by Rhino Atlantic\\n\\n)(.*)( ·[\\s\\S]*)$/$1/m}/^(America|Total Mass Retain)( \\(2025 Remaster\\))$/$1 (Single Version)$2/}",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeMusicIteratee": "${$.name/( \\[(.*)\\])$/ ($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_f3JjYzFVmIm",
+				"spotifyId": "78tN6vBPHHyNk4sZYnS5X4",
+				"youtubeIteratee": "${${$.snippet.description/^(?:Provided to YouTube by Rhino Atlantic\\n\\n)(.*)( ·[\\s\\S]*)$/$1/m}/^(?:(The Fish \\(Schindleria Praematurus\\)|We Have Heaven \\(Reprise\\)) \\(Instrumental\\) \\(2024 Steven Wilson Remix\\))$/$1 [Instrumental] (2024 Steven Wilson Remix)/}",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeMusicIteratee": "${$.name/( \\[([^\\]]*)\\])$/ ($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_018Ed8htCol"
+			},
+			{
+				"youtubeMusicId": "MPREb_41N15iUZolO",
+				"spotifyId": "6qGuLCMRdu6kUlglyxYCTA",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeIteratee": "${$.snippet.title/é/é/g}"
+			},
+			{
+				"youtubeMusicId": "MPREb_wnbMPQV8C1c",
+				"spotifyId": "4Z9xOX9pfFdYLR6Yzqrn1l"
+			},
+			{
+				"youtubeMusicId": "MPREb_uYAqFBVanlt",
+				"spotifyId": "5VhW35Qvv3ig35mm1TZPe1"
+			},
+			{
+				"youtubeMusicId": "MPREb_X6klDfDaq8B",
+				"spotifyId": "1hVhTWO9hlpPr7T8ORczRd"
+			},
+			{
+				"youtubeMusicId": "MPREb_BJKgP7wXKcO",
+				"spotifyId": "7MBQWjukLxXZYvQ8vzEH7t",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_zWHbmC6otiA",
+				"spotifyId": "68W3ppXWhsOLOURmxzRkyA",
+				"youtubeMusicIteratee": "${$.name/( \\(\\[.*\\]\\))$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(\\[.*\\]\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_BrXcH6qOpwb",
+				"spotifyId": "6ELt0QaMOwPGPzfdEXE839",
+				"youtubeMusicIteratee": "${$.name/(?:\\(\\[(.*)\\]\\))$/[$1]/}",
+				"youtubeIteratee": "${$.snippet.title/(?:\\(\\[(.*)\\]\\))$/[$1]/}",
+				"spotifyIteratee": "${$.name/^(Larks' Tongues In Aspic)(?: \\((Part II)\\))$/$1 Pt. II/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_6PZRqnwEn4H",
+				"spotifyId": "6kqOHnshP4RMTUWKrhm6Sy"
+			},
+			{
+				"youtubeMusicId": "MPREb_rryEFN5h6zM",
+				"spotifyId": "2HfdqVaLccOvzfsHej9A8g"
+			},
+			{
+				"youtubeMusicId": "MPREb_iPVvVWSyKHY",
+				"spotifyId": "4VUawqEDCHHfrUe77ScQ2K",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))/}",
+				"youtubeIteratee": "${$.snippet.title/( \\(feat\\..*\\))/}",
+				"spotifyIteratee": "${${$.name/( \\(feat\\..*\\))/}/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_1zSiBYRk6JS",
+				"spotifyId": "0dyIXPKoUBt1vFJHX57dqt",
+				"spotifyIteratee": "${${$.name/(?:- (.*))$/($1)/}/( \\(Rudy Van Gelder Remaster\\))$//}",
+				"youtubeId": "PLIzbjExVZoVU",
+				"youtubeMusicIteratee": "${$.name/( \\(Rudy Van Gelder Remaster\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_F1DepfE2ERG",
+				"spotifyId": "2lmGOFtczCsoZCzmWORyWt"
+			},
+			{
+				"youtubeMusicId": "MPREb_sjpEnUihGkz",
+				"spotifyId": "0toDuabaPv8Pa2KGI88eB7"
+			},
+			{
+				"youtubeMusicId": "MPREb_qIOAJC9wVgN",
+				"spotifyId": "0Hs3BomCdwIWRhgT57x22T"
+			},
+			{
+				"youtubeMusicId": "MPREb_CoTkzvek8lt",
+				"spotifyId": "7HFsrmUlvSSxFSYYPzRz07",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_yTgOCAwYmbl",
+				"spotifyId": "0abfpuzzbTUNxasNmX04RU"
+			},
+			{
+				"youtubeMusicId": "MPREb_lUOXsi7MNUF",
+				"spotifyId": "0hfFLQzo3OwgYFFFvTQYhT"
+			},
+			{
+				"youtubeMusicId": "MPREb_Ct9FnPBJur3",
+				"spotifyId": "6343A7Bos0VdJnDoz7LfaC"
+			},
+			{
+				"youtubeMusicId": "MPREb_h4SQaZTw64p",
+				"spotifyId": "6yTgzvx55ifaab4iuowY4Q"
+			},
+			{
+				"youtubeMusicId": "MPREb_4UebL1wpZIk",
+				"spotifyId": "4bdWE6m1eqF2CCN6Yyetr4"
+			},
+			{
+				"youtubeMusicId": "MPREb_Ea46l72eZyo",
+				"spotifyId": "5ZSncerRzQ9eS3gjQmNFgo"
+			},
+			{
+				"youtubeMusicId": "MPREb_Ao45PeXPmt1",
+				"spotifyId": "0U3fN15yKkPWBicxCUUICK"
+			},
+			{
+				"youtubeMusicId": "MPREb_Hwhc7210ia1",
+				"spotifyId": "64q58AfjSrrX9Egp7Zryw8",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_C8OiRA75O9L",
+				"spotifyId": "4HDJMKkwAMVFewqfZcmf84",
+				"youtubeIteratee": "${$.snippet.title/( \\(Album Version\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_BaQ10Le6MmE",
+				"spotifyId": "7wcMxzlZFIxccoeiSix0O2"
+			},
+			{
+				"youtubeMusicId": "MPREb_BUcGlDiY1J6",
+				"spotifyId": "5aEgt9uHrVL3QGzKaUSy2J"
+			},
+			{
+				"youtubeMusicId": "MPREb_m2dE45yr1vJ",
+				"spotifyId": "6128JCa2uBqHWia5AzJOKV"
+			},
+			{
+				"youtubeMusicId": "MPREb_EKuEOl9K6nD",
+				"spotifyId": "32CbQps06lUasiux6N8tP3",
+				"youtubeIteratee": "${$.snippet.title/( \\(Album Version\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_sY2rLC15e7n",
+				"spotifyId": "6VsJamdhvYKcnpwHAKULI0",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_cDMW2GCTyBK",
+				"spotifyId": "7DdEbYFPKTZ8KB4z6L4UnQ",
+				"youtubeIteratee": "${$.snippet.title/( \\(2015 Remaster\\))$//}",
+				"spotifyIteratee": "${$.name/( - 2015 Remaster)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_87dAc8h6pwW",
+				"spotifyId": "3uFZf8rykoHo7XMIQVYW6r"
+			},
+			{
+				"youtubeMusicId": "MPREb_aXZ0SriZuQh",
+				"spotifyId": "28VpCXV4h5EgAAWGAnGu6x"
+			}
+		]
+	}
+}

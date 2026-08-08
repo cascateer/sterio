@@ -1,0 +1,5009 @@
+{
+	"id": "9",
+	"previousId": "8",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"id": "OLAK5uy_nc6afxSnmK8OFML8dF9q_0D1MBMXsGnL4",
+				"title": "Album - OK Computer",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nc6afxSnmK8OFML8dF9q_0D1MBMXsGnL4/mqdefault.jpg?sqp=CNjP5NIGir7X7AMICI6Q0r0GEAE=&rs=AOn4CLCWovHzPFwMrtqbCJfVr9mp4ZHZHA&v=1739884558",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nc6afxSnmK8OFML8dF9q_0D1MBMXsGnL4/sddefault.jpg?sqp=CNjP5NIGir7X7AMICI6Q0r0GEAE=&rs=AOn4CLAPhbz58FBRvx-NpQbd8GlyhbwiEA&v=1739884558",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nc6afxSnmK8OFML8dF9q_0D1MBMXsGnL4/maxresdefault.jpg?sqp=CNjP5NIGir7X7AMICI6Q0r0GEAE=&rs=AOn4CLCJigjUsyth2eQ78lQ1Qwc9UqVKwA&v=1739884558",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9uYzZhZnhTbm1LOE9GTUw4ZEY5cV8wRDFNQk1Yc0duTDQuRTA5RjQ3RUJGNTdCMTlCMQ",
+						"snippet": {
+							"title": "Airbag",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "jNY_wLukVW0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uYzZhZnhTbm1LOE9GTUw4ZEY5cV8wRDFNQk1Yc0duTDQuRjE4OEZFRTgwMzM4NjE1Nw",
+						"snippet": {
+							"title": "Paranoid Android",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "YTH8cxXBGBo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uYzZhZnhTbm1LOE9GTUw4ZEY5cV8wRDFNQk1Yc0duTDQuODNCNEY4MDI0NkMyMkE1NA",
+						"snippet": {
+							"title": "Subterranean Homesick Alien",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "_fTWmUlTEqE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uYzZhZnhTbm1LOE9GTUw4ZEY5cV8wRDFNQk1Yc0duTDQuOTYyN0U0Qjg5REEzRjNDMQ",
+						"snippet": {
+							"title": "Exit Music (For A Film)",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "Bf01riuiJWA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uYzZhZnhTbm1LOE9GTUw4ZEY5cV8wRDFNQk1Yc0duTDQuRjlGOUUzOUNDQzcyREQ0OA",
+						"snippet": {
+							"title": "Let Down",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "duBCwvC1kP4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uYzZhZnhTbm1LOE9GTUw4ZEY5cV8wRDFNQk1Yc0duTDQuOTYwMjVFNDY2NEQxMzlCMw",
+						"snippet": {
+							"title": "Karma Police",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "4IJI6soiQhI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uYzZhZnhTbm1LOE9GTUw4ZEY5cV8wRDFNQk1Yc0duTDQuQUI5MTQxQkQyNTc0ODY5Qw",
+						"snippet": {
+							"title": "Fitter Happier",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "O4SzvsMFaek"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uYzZhZnhTbm1LOE9GTUw4ZEY5cV8wRDFNQk1Yc0duTDQuODQyREE1MTVEMkUyRTE5Nw",
+						"snippet": {
+							"title": "Electioneering",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "3DtgWrFTtQk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uYzZhZnhTbm1LOE9GTUw4ZEY5cV8wRDFNQk1Yc0duTDQuQzVGNDM3ODJGQkI3MkNEMw",
+						"snippet": {
+							"title": "Climbing Up the Walls",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "XX4EpkR-Sp4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uYzZhZnhTbm1LOE9GTUw4ZEY5cV8wRDFNQk1Yc0duTDQuRTdBQzI4MjEwRTM4Qjg2Qg",
+						"snippet": {
+							"title": "No Surprises",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "LBt60dfwEBY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uYzZhZnhTbm1LOE9GTUw4ZEY5cV8wRDFNQk1Yc0duTDQuRjcxMTExNkYxRTRGQTc1QQ",
+						"snippet": {
+							"title": "Lucky",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "yuZYQvvLXVY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uYzZhZnhTbm1LOE9GTUw4ZEY5cV8wRDFNQk1Yc0duTDQuNTQ3NThGMzQ1NzBEM0E3MA",
+						"snippet": {
+							"title": "The Tourist",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "HkgzObf8uVU"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mtuj9PzFJ-OrQDYU63oNvBGiX4NVT3_zY",
+				"title": "Album - The Now Now",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mtuj9PzFJ-OrQDYU63oNvBGiX4NVT3_zY/mqdefault.jpg?sqp=CITS5NIGir7X7AMICL7e070GEAE=&rs=AOn4CLBA5xwuvfFFSFScL8V6hADV8foD6w&v=1739910974",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mtuj9PzFJ-OrQDYU63oNvBGiX4NVT3_zY/sddefault.jpg?sqp=CITS5NIGir7X7AMICL7e070GEAE=&rs=AOn4CLAFSoRDiqNBUTkgD4kmm8wVZti01A&v=1739910974",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mtuj9PzFJ-OrQDYU63oNvBGiX4NVT3_zY/maxresdefault.jpg?sqp=CITS5NIGir7X7AMICL7e070GEAE=&rs=AOn4CLAt06fxVu38vZvg42PURytmgH4-7Q&v=1739910974",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tdHVqOVB6RkotT3JRRFlVNjNvTnZCR2lYNE5WVDNfelkuMDIxQUE5RTgwRTY5NDY2QQ",
+						"snippet": {
+							"title": "Humility (feat. George Benson)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "vz7Ju8dhe2c"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tdHVqOVB6RkotT3JRRFlVNjNvTnZCR2lYNE5WVDNfelkuQkZGOEJCNjEyQjFFMTMzMg",
+						"snippet": {
+							"title": "Tranz",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "8bzcqRIhxLE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tdHVqOVB6RkotT3JRRFlVNjNvTnZCR2lYNE5WVDNfelkuRDU1NzM5OEZEODU4ODkwQQ",
+						"snippet": {
+							"title": "Hollywood (feat. Snoop Dogg & Jamie Principle)",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "lppTH2IEmUU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tdHVqOVB6RkotT3JRRFlVNjNvTnZCR2lYNE5WVDNfelkuMUU0QTUyRDg0QzMyNkQ5Nw",
+						"snippet": {
+							"title": "Kansas",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "blRDcXkrjuU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tdHVqOVB6RkotT3JRRFlVNjNvTnZCR2lYNE5WVDNfelkuRUQxQjEwOTJEM0ZCMDlENw",
+						"snippet": {
+							"title": "Sorcererz",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "rqGyAkKUTA8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tdHVqOVB6RkotT3JRRFlVNjNvTnZCR2lYNE5WVDNfelkuNEM1QUIwQkI1NzhBMjUwRQ",
+						"snippet": {
+							"title": "Idaho",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "C69jC1LnMo0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tdHVqOVB6RkotT3JRRFlVNjNvTnZCR2lYNE5WVDNfelkuMzE2RUY1MTNCNzkzMkM3Nw",
+						"snippet": {
+							"title": "Lake Zurich",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "8Tl6Uesb7Y0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tdHVqOVB6RkotT3JRRFlVNjNvTnZCR2lYNE5WVDNfelkuNjRCRTBFRkE2MjU3Q0I2NA",
+						"snippet": {
+							"title": "Magic City",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "G8ni4IL4rxg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tdHVqOVB6RkotT3JRRFlVNjNvTnZCR2lYNE5WVDNfelkuNjZGQTEwNjM1NDQxODk2NA",
+						"snippet": {
+							"title": "Fire Flies",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "hXhJAuG_9_Y"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tdHVqOVB6RkotT3JRRFlVNjNvTnZCR2lYNE5WVDNfelkuRjMzMUFGQzFDRDkwREY5NQ",
+						"snippet": {
+							"title": "One Percent",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "DfViwmUc4BU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tdHVqOVB6RkotT3JRRFlVNjNvTnZCR2lYNE5WVDNfelkuRjRFNTYwRkUzNUZBQjY5MQ",
+						"snippet": {
+							"title": "Souk Eye",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "ag2LVnpoRpU"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_kAu2DesTO-9jXZ3-Eo3IufUnuMyHEsTjc",
+				"title": "Album - Infest",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kAu2DesTO-9jXZ3-Eo3IufUnuMyHEsTjc/mqdefault.jpg?sqp=CITS5NIGir7X7AMICKHBs70GEAE=&rs=AOn4CLAxiWnnqMS1N9IxdyTFA4GCpkexmQ&v=1739382945",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kAu2DesTO-9jXZ3-Eo3IufUnuMyHEsTjc/sddefault.jpg?sqp=CITS5NIGir7X7AMICKHBs70GEAE=&rs=AOn4CLDW7KqiUESCZ7hwlHD_E35sBiKwrA&v=1739382945",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kAu2DesTO-9jXZ3-Eo3IufUnuMyHEsTjc/maxresdefault.jpg?sqp=CITS5NIGir7X7AMICKHBs70GEAE=&rs=AOn4CLA-zvLbYtuEVF0qGGuvNvRG4Lcq4Q&v=1739382945",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9rQXUyRGVzVE8tOWpYWjMtRW8zSXVmVW51TXlIRXNUamMuMDY1OUVFNjM0MUQ3RDc3Nw",
+						"snippet": {
+							"title": "Infest",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "fQ4EHxhtwPo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rQXUyRGVzVE8tOWpYWjMtRW8zSXVmVW51TXlIRXNUamMuNEY2Q0E4QzlGRjQyQ0FEOQ",
+						"snippet": {
+							"title": "Last Resort",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "j2R6uT7uLFg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rQXUyRGVzVE8tOWpYWjMtRW8zSXVmVW51TXlIRXNUamMuNzhBOUFBRTYzN0I0ODlCNw",
+						"snippet": {
+							"title": "Broken Home",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "OMIVWveO1GM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rQXUyRGVzVE8tOWpYWjMtRW8zSXVmVW51TXlIRXNUamMuN0NCQzhGRDYzQjkzNzIyQw",
+						"snippet": {
+							"title": "Dead Cell",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "Oq-vxM-1y5M"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rQXUyRGVzVE8tOWpYWjMtRW8zSXVmVW51TXlIRXNUamMuNjU1MzJFM0YwNjg0QThERA",
+						"snippet": {
+							"title": "Between Angels And Insects",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "8-pevGcbu6E"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rQXUyRGVzVE8tOWpYWjMtRW8zSXVmVW51TXlIRXNUamMuQjJFQzZBQzEzRUI3RkY2MA",
+						"snippet": {
+							"title": "Blood Brothers",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "b-Hm9q_WwWU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rQXUyRGVzVE8tOWpYWjMtRW8zSXVmVW51TXlIRXNUamMuRjlEMzQ0QTYxOEYyMEM5NA",
+						"snippet": {
+							"title": "Revenge",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "9p3MwFnfs9w"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rQXUyRGVzVE8tOWpYWjMtRW8zSXVmVW51TXlIRXNUamMuN0Y3RkQwQUEzMDc0RTBCMA",
+						"snippet": {
+							"title": "Snakes",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "ZFKaMtD7rYQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rQXUyRGVzVE8tOWpYWjMtRW8zSXVmVW51TXlIRXNUamMuQkZDNjI1MjcxMkI0QjcwOA",
+						"snippet": {
+							"title": "Never Enough",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "lSeWUt9HuuA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rQXUyRGVzVE8tOWpYWjMtRW8zSXVmVW51TXlIRXNUamMuQjM4NjI2MzFFNEJDNkUyMg",
+						"snippet": {
+							"title": "Binge",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "iwdwZ80uinw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rQXUyRGVzVE8tOWpYWjMtRW8zSXVmVW51TXlIRXNUamMuOUMzMUIwRjQzNzZCOUU4NA",
+						"snippet": {
+							"title": "Thrown Away/Tight Rope",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "veLRwMaoh38"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rQXUyRGVzVE8tOWpYWjMtRW8zSXVmVW51TXlIRXNUamMuMjVGNEFGNDlCNzdGNDNGQQ",
+						"snippet": {
+							"title": "Legacy",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "YSH_OGTklMI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rQXUyRGVzVE8tOWpYWjMtRW8zSXVmVW51TXlIRXNUamMuNzYwRDNCNzc4MDg2NkQyMw",
+						"snippet": {
+							"title": "Dead Cell (Live)",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "1i9hzeW7Buw"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_kTHiWStYIU7_2n1pjJtOwTKZCs2Zneg8A",
+				"title": "Album - Infest",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kTHiWStYIU7_2n1pjJtOwTKZCs2Zneg8A/mqdefault.jpg?sqp=CITS5NIGir7X7AMICKGdor0GEAE=&rs=AOn4CLCpwZSZRyEO10mCeJgMtw9-bOOqjg&v=1739099809",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kTHiWStYIU7_2n1pjJtOwTKZCs2Zneg8A/sddefault.jpg?sqp=CITS5NIGir7X7AMICKGdor0GEAE=&rs=AOn4CLAChn9OfyJ1txa-9nJSPwy6B2-ghA&v=1739099809",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kTHiWStYIU7_2n1pjJtOwTKZCs2Zneg8A/maxresdefault.jpg?sqp=CITS5NIGir7X7AMICKGdor0GEAE=&rs=AOn4CLDKEXuVauBy7S0N7RkBnd11HZXb3g&v=1739099809",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9rVEhpV1N0WUlVN18ybjFwakp0T3dUS1pDczJabmVnOEEuMEY0NzIwRDlEQkUwQkREMQ",
+						"snippet": {
+							"title": "Infest",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "zbHiT6KPR_M"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rVEhpV1N0WUlVN18ybjFwakp0T3dUS1pDczJabmVnOEEuNDNBMkE0QUMyQTZBNkU3Qw",
+						"snippet": {
+							"title": "Last Resort",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "PiihIwhjIvQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rVEhpV1N0WUlVN18ybjFwakp0T3dUS1pDczJabmVnOEEuMjNGNUVEOTUyOEUxRkM1Nw",
+						"snippet": {
+							"title": "Broken Home",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "B4DhgDxd5WA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rVEhpV1N0WUlVN18ybjFwakp0T3dUS1pDczJabmVnOEEuQjI4NEZCNTY2MTZCRjA5Ng",
+						"snippet": {
+							"title": "Dead Cell",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "X7eMqD8QmDo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rVEhpV1N0WUlVN18ybjFwakp0T3dUS1pDczJabmVnOEEuMzc4NjQ1RUVGOTRGM0I0QQ",
+						"snippet": {
+							"title": "Between Angels And Insects",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "DIgpo_oin0Q"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rVEhpV1N0WUlVN18ybjFwakp0T3dUS1pDczJabmVnOEEuMTNERkYyREMyMDQxRDRERQ",
+						"snippet": {
+							"title": "Legacy",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "hoTazncPG1g"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rVEhpV1N0WUlVN18ybjFwakp0T3dUS1pDczJabmVnOEEuM0FCQTU4MTVENUY4MzY3Qg",
+						"snippet": {
+							"title": "Revenge",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "Af_8pKmKUC8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rVEhpV1N0WUlVN18ybjFwakp0T3dUS1pDczJabmVnOEEuRTU4NERCRjAxQjYzQUU3Qg",
+						"snippet": {
+							"title": "Snakes",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "vLxQclN1_js"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rVEhpV1N0WUlVN18ybjFwakp0T3dUS1pDczJabmVnOEEuNURDN0I3RDZBQkYwMkFCQg",
+						"snippet": {
+							"title": "Never Enough",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "-RErgH4tOgc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rVEhpV1N0WUlVN18ybjFwakp0T3dUS1pDczJabmVnOEEuMDNBNzU3NzZFRDAyNkQ3Mw",
+						"snippet": {
+							"title": "Binge",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "LUIsdyQg7hU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rVEhpV1N0WUlVN18ybjFwakp0T3dUS1pDczJabmVnOEEuRDE2QTI1RkIxMERGQjA1NQ",
+						"snippet": {
+							"title": "Thrown Away / Tightrope",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "wCjmnNotBSo"
+						}
+					}
+				]
+			},
+			{
+				"id": "PLwItFtSCuSo7m86NC4Rs1XFsnHFVDbisw",
+				"title": "Iron Maiden - Somewhere Back in Time (The Best of 1980 - 1989) Full Album",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/G6Go8Q-nO94/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/G6Go8Q-nO94/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/G6Go8Q-nO94/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/G6Go8Q-nO94/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/G6Go8Q-nO94/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"items": [
+					{
+						"id": "UEx3SXRGdFNDdVNvN204Nk5DNFJzMVhGc25IRlZEYmlzdy45ODRDNTg0QjA4NkFBNkQy",
+						"snippet": {
+							"title": "Intro (Churchill's Speech) [Live at Long Beach Arena] [1998 Remaster]",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "G6Go8Q-nO94"
+						}
+					},
+					{
+						"id": "UEx3SXRGdFNDdVNvN204Nk5DNFJzMVhGc25IRlZEYmlzdy5EMEEwRUY5M0RDRTU3NDJC",
+						"snippet": {
+							"title": "Aces High (Live) [1998 Remaster]",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "gusSen9UqAw"
+						}
+					},
+					{
+						"id": "UEx3SXRGdFNDdVNvN204Nk5DNFJzMVhGc25IRlZEYmlzdy41MjE1MkI0OTQ2QzJGNzNG",
+						"snippet": {
+							"title": "2 Minutes to Midnight (1998 Remaster)",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "zwz75DHj-QI"
+						}
+					},
+					{
+						"id": "UEx3SXRGdFNDdVNvN204Nk5DNFJzMVhGc25IRlZEYmlzdy41NkI0NEY2RDEwNTU3Q0M2",
+						"snippet": {
+							"title": "The Trooper (1998 Remaster)",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "UnEWgp_auxQ"
+						}
+					},
+					{
+						"id": "UEx3SXRGdFNDdVNvN204Nk5DNFJzMVhGc25IRlZEYmlzdy41Mzk2QTAxMTkzNDk4MDhF",
+						"snippet": {
+							"title": "Wasted Years (1998 Remaster)",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "R_pRlb5atgg"
+						}
+					},
+					{
+						"id": "UEx3SXRGdFNDdVNvN204Nk5DNFJzMVhGc25IRlZEYmlzdy40NzZCMERDMjVEN0RFRThB",
+						"snippet": {
+							"title": "Children of the Damned (1998 Remaster)",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "EfI2FfywiAM"
+						}
+					},
+					{
+						"id": "UEx3SXRGdFNDdVNvN204Nk5DNFJzMVhGc25IRlZEYmlzdy4yODlGNEE0NkRGMEEzMEQy",
+						"snippet": {
+							"title": "The Number of the Beast (1998 Remaster)",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "x9bEQxK9KZE"
+						}
+					},
+					{
+						"id": "UEx3SXRGdFNDdVNvN204Nk5DNFJzMVhGc25IRlZEYmlzdy4wOTA3OTZBNzVEMTUzOTMy",
+						"snippet": {
+							"title": "Run to the Hills (1998 Remaster)",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "BQUMESIK5A8"
+						}
+					},
+					{
+						"id": "UEx3SXRGdFNDdVNvN204Nk5DNFJzMVhGc25IRlZEYmlzdy45NDk1REZENzhEMzU5MDQz",
+						"snippet": {
+							"title": "Phantom of the Opera (Live at the Hammersmith Odeon) [1998 Remaster]",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "xFN6dTC3YGU"
+						}
+					},
+					{
+						"id": "UEx3SXRGdFNDdVNvN204Nk5DNFJzMVhGc25IRlZEYmlzdy4zMDg5MkQ5MEVDMEM1NTg2",
+						"snippet": {
+							"title": "The Evil That Men Do (1998 Remaster)",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "SL-B_jFCOOc"
+						}
+					},
+					{
+						"id": "UEx3SXRGdFNDdVNvN204Nk5DNFJzMVhGc25IRlZEYmlzdy5GNjNDRDREMDQxOThCMDQ2",
+						"snippet": {
+							"title": "Wrathchild (Live at the Hammersmith Odeon) [1998 Remaster]",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "LmvSmCEnaE4"
+						}
+					},
+					{
+						"id": "UEx3SXRGdFNDdVNvN204Nk5DNFJzMVhGc25IRlZEYmlzdy5EQUE1NTFDRjcwMDg0NEMz",
+						"snippet": {
+							"title": "Can I Play with Madness (1998 Remaster)",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "5JaHnimP8Fw"
+						}
+					},
+					{
+						"id": "UEx3SXRGdFNDdVNvN204Nk5DNFJzMVhGc25IRlZEYmlzdy41MzJCQjBCNDIyRkJDN0VD",
+						"snippet": {
+							"title": "Powerslave (1998 Remaster)",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "PQ4FsJ9195k"
+						}
+					},
+					{
+						"id": "UEx3SXRGdFNDdVNvN204Nk5DNFJzMVhGc25IRlZEYmlzdy4wMTcyMDhGQUE4NTIzM0Y5",
+						"snippet": {
+							"title": "Hallowed Be Thy Name (1998 Remaster)",
+							"position": 13
+						},
+						"contentDetails": {
+							"videoId": "jMy_hP5PHUk"
+						}
+					},
+					{
+						"id": "UEx3SXRGdFNDdVNvN204Nk5DNFJzMVhGc25IRlZEYmlzdy4xMkVGQjNCMUM1N0RFNEUx",
+						"snippet": {
+							"title": "Iron Maiden (Live at Long Beach Arena) [1998 Remaster]",
+							"position": 14
+						},
+						"contentDetails": {
+							"videoId": "kTaNymiOVT0"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_nDVLWRxRtpfZl5tZiO0U_utWz_vRe1Pfg",
+				"title": "Album - Fallen",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nDVLWRxRtpfZl5tZiO0U_utWz_vRe1Pfg/mqdefault.jpg?sqp=CLTS59IGir7X7AMICKLvsL0GEAE=&rs=AOn4CLB_F-F7J5Uf0MK7_6QxHd_aQ1HRtQ&v=1739339682",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nDVLWRxRtpfZl5tZiO0U_utWz_vRe1Pfg/sddefault.jpg?sqp=CLTS59IGir7X7AMICKLvsL0GEAE=&rs=AOn4CLCH8wP3PitpLEZbOW8Lrw3B6XFb-g&v=1739339682",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nDVLWRxRtpfZl5tZiO0U_utWz_vRe1Pfg/maxresdefault.jpg?sqp=CLTS59IGir7X7AMICKLvsL0GEAE=&rs=AOn4CLCMdShiR8jzvJxVVxkeDaii1LHtqA&v=1739339682",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9uRFZMV1J4UnRwZlpsNXRaaU8wVV91dFd6X3ZSZTFQZmcuMzhGRTQ4OENDRjNDQUI5Rg",
+						"snippet": {
+							"title": "Going Under",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "OOUzex9msnc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRFZMV1J4UnRwZlpsNXRaaU8wVV91dFd6X3ZSZTFQZmcuQjQzRDg3NDlCMjdDMEE4OQ",
+						"snippet": {
+							"title": "Bring Me To Life",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "y6ZmoejZLWM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRFZMV1J4UnRwZlpsNXRaaU8wVV91dFd6X3ZSZTFQZmcuREVBRDNEMkJDOTRCNDg0RQ",
+						"snippet": {
+							"title": "Everybody's Fool",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "-v4OIStt-CI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRFZMV1J4UnRwZlpsNXRaaU8wVV91dFd6X3ZSZTFQZmcuNzYwRUQzQkE0NzAxMzVGOA",
+						"snippet": {
+							"title": "My Immortal",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "irZ86tVcaJ8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRFZMV1J4UnRwZlpsNXRaaU8wVV91dFd6X3ZSZTFQZmcuMzM1NDA2MjM5REU2NEQ4MQ",
+						"snippet": {
+							"title": "Haunted",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "YjQFTSko2xk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRFZMV1J4UnRwZlpsNXRaaU8wVV91dFd6X3ZSZTFQZmcuNzQ2MDJENDQzMjY4MERDMA",
+						"snippet": {
+							"title": "Tourniquet",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "68i3AVYm-a4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRFZMV1J4UnRwZlpsNXRaaU8wVV91dFd6X3ZSZTFQZmcuNzVCODlGRjBDMTcyQzRDNw",
+						"snippet": {
+							"title": "Imaginary",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "ugGOQ4GQ41E"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRFZMV1J4UnRwZlpsNXRaaU8wVV91dFd6X3ZSZTFQZmcuRjUxRUVCNUFEMTNCQTY1RA",
+						"snippet": {
+							"title": "Taking Over Me",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "CdrkL4d88KI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRFZMV1J4UnRwZlpsNXRaaU8wVV91dFd6X3ZSZTFQZmcuRUU3NTE3MkI5QjY3MUI3NA",
+						"snippet": {
+							"title": "Hello",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "Mrn5BBxoopg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRFZMV1J4UnRwZlpsNXRaaU8wVV91dFd6X3ZSZTFQZmcuNUQ5RTc5QkIxOTc3MkE2MQ",
+						"snippet": {
+							"title": "My Last Breath",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "fM3KFpDhHLA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRFZMV1J4UnRwZlpsNXRaaU8wVV91dFd6X3ZSZTFQZmcuMjFENUExOTJFQTIxN0VFOA",
+						"snippet": {
+							"title": "Whisper",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "Qt298P1kL8E"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRFZMV1J4UnRwZlpsNXRaaU8wVV91dFd6X3ZSZTFQZmcuNUY4QkFDM0UzNjk1NkVBMw",
+						"snippet": {
+							"title": "My Immortal",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "NNsieYrAxkc"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_nmGNF4WxKUqT2DQ-vXtz5BZ90wnTBI48Y",
+				"title": "Album - Frizzle Fry",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nmGNF4WxKUqT2DQ-vXtz5BZ90wnTBI48Y/mqdefault.jpg?sqp=CODU59IGir7X7AMICM2uor0GEAE=&rs=AOn4CLAxWUWJcZaLcIZaQ3ozUfOu9lD_4A&v=1739102029",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nmGNF4WxKUqT2DQ-vXtz5BZ90wnTBI48Y/sddefault.jpg?sqp=CODU59IGir7X7AMICM2uor0GEAE=&rs=AOn4CLAsiN6S5Ne1yyXzdgs9igGVot6D_g&v=1739102029",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nmGNF4WxKUqT2DQ-vXtz5BZ90wnTBI48Y/maxresdefault.jpg?sqp=CODU59IGir7X7AMICM2uor0GEAE=&rs=AOn4CLCprcUp53eWD7Gh0vFBmcyR7IOWFw&v=1739102029",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9ubUdORjRXeEtVcVQyRFEtdlh0ejVCWjkwd25UQkk0OFkuRjk3MjY3RkE4RUEzQTJFNg",
+						"snippet": {
+							"title": "To Defy the Laws of Tradition",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "AccbAu2KmFg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ubUdORjRXeEtVcVQyRFEtdlh0ejVCWjkwd25UQkk0OFkuN0QyRDVFQUFGMzI0OTAyQQ",
+						"snippet": {
+							"title": "Groundhog's Day",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "vI74KB39wyY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ubUdORjRXeEtVcVQyRFEtdlh0ejVCWjkwd25UQkk0OFkuNUUwMTU1RDE2NzlDQzc2NQ",
+						"snippet": {
+							"title": "Too Many Puppies",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "lBpDFjau-Ps"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ubUdORjRXeEtVcVQyRFEtdlh0ejVCWjkwd25UQkk0OFkuOUY3RkJDODhEQTY5MEUwMw",
+						"snippet": {
+							"title": "Mr. Knowitall",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "CYpE6B4SV5E"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ubUdORjRXeEtVcVQyRFEtdlh0ejVCWjkwd25UQkk0OFkuOTg1RkNEMUI2QTJFM0FGNA",
+						"snippet": {
+							"title": "Frizzle Fry",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "U_3nyOueehs"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ubUdORjRXeEtVcVQyRFEtdlh0ejVCWjkwd25UQkk0OFkuQjY5OTRDOTBGNDQwMzMzRQ",
+						"snippet": {
+							"title": "John the Fisherman",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "9ufAE-skaA4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ubUdORjRXeEtVcVQyRFEtdlh0ejVCWjkwd25UQkk0OFkuN0UzNjE0MDhGRTVEMDA1Rg",
+						"snippet": {
+							"title": "You Can't Kill Michael Malloy",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "NyJRKEnCaiA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ubUdORjRXeEtVcVQyRFEtdlh0ejVCWjkwd25UQkk0OFkuRTc5OTBERjVDMzlFRDg5Rg",
+						"snippet": {
+							"title": "The Toys Go Winding Down",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "nJ0tuEmBH9k"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ubUdORjRXeEtVcVQyRFEtdlh0ejVCWjkwd25UQkk0OFkuMzI5N0JFQUVDQzU1RTMxOQ",
+						"snippet": {
+							"title": "Pudding Time",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "wmuJjRpBxEc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ubUdORjRXeEtVcVQyRFEtdlh0ejVCWjkwd25UQkk0OFkuNDMzODE0NjY2OEY4NkE2Nw",
+						"snippet": {
+							"title": "Sathington Willoughby",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "bUAX0qVUnR0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ubUdORjRXeEtVcVQyRFEtdlh0ejVCWjkwd25UQkk0OFkuMTg1NTQ5MjQwOTNFNUI2RQ",
+						"snippet": {
+							"title": "Spegetti Western",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "MKJNbSKOoFw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ubUdORjRXeEtVcVQyRFEtdlh0ejVCWjkwd25UQkk0OFkuNTc1ODlDOEU1QkU0RUUxMQ",
+						"snippet": {
+							"title": "Harold of the Rocks",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "a6KiQ0E0qu8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ubUdORjRXeEtVcVQyRFEtdlh0ejVCWjkwd25UQkk0OFkuMEE1QTE3MjRDQzlBNURCMA",
+						"snippet": {
+							"title": "To Defy",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "VzEZQlmHkVo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ubUdORjRXeEtVcVQyRFEtdlh0ejVCWjkwd25UQkk0OFkuNjQ0Qzc1MzNBMjEzRTBFRA",
+						"snippet": {
+							"title": "Hello Skinny/Constantinople",
+							"position": 13
+						},
+						"contentDetails": {
+							"videoId": "padeNqsWVJw"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_kK0I6bMqqyw2bDmGm8J8VGOJY1qA4Pqqo",
+				"title": "Album - The Red Turtle (Original Motion Picture Soundtrack)",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kK0I6bMqqyw2bDmGm8J8VGOJY1qA4Pqqo/mqdefault.jpg?sqp=CODU59IGir7X7AMICIbMs70GEAE=&rs=AOn4CLDFrvKz1XYxweUvi_EsWKa089bYSQ&v=1739384326",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kK0I6bMqqyw2bDmGm8J8VGOJY1qA4Pqqo/sddefault.jpg?sqp=CODU59IGir7X7AMICIbMs70GEAE=&rs=AOn4CLBiSm2ZWF7s0M7YSrzYgQZOcgocHg&v=1739384326",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kK0I6bMqqyw2bDmGm8J8VGOJY1qA4Pqqo/maxresdefault.jpg?sqp=CODU59IGir7X7AMICIbMs70GEAE=&rs=AOn4CLCHMn5402WfgLgUZ70R78AOAj4OYQ&v=1739384326",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uQjMzMDcyMzFBMEE2MTBGNg",
+						"snippet": {
+							"title": "Love in the Sky",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "VXGynIEVjfo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uMDY5MEVGOEFDODRFMDFCQw",
+						"snippet": {
+							"title": "Flying with the Turtles",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "aiv-X8bFuvw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uMDEyNTAzOTNCODA1NTUxMw",
+						"snippet": {
+							"title": "The Girl",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "XnaNPcP-cTI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uRDVBMDg2MEI4RjhGNTQ4Qw",
+						"snippet": {
+							"title": "The Tsunami",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "R93pdDg0DO4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uNUNFNzJGNTQxNzAyNDkxQg",
+						"snippet": {
+							"title": "White Hair",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "fKCy5F2SOnY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uRjVBOTI2MkZFODYyQ0E1Rg",
+						"snippet": {
+							"title": "She Is Dead",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "UQKIahVBo3Y"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uQjg4M0U3MzBCODQzQzdBNw",
+						"snippet": {
+							"title": "The Baby",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "p01nNho_Xno"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uNEJFNzgwNDU3QkREN0I1MA",
+						"snippet": {
+							"title": "Despair",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "hKbzOFWXhlE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uQUI4RDExQTUxNTIyNjg1QQ",
+						"snippet": {
+							"title": "Baby's Fall",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "OQEfoLQxlvU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uRUE2MzAyODNCMzEwMDE4MA",
+						"snippet": {
+							"title": "L'au revoir",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "_Dz75F5297Y"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uMEQ3NDRENkI1NUNBREExNg",
+						"snippet": {
+							"title": "The First Raft",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "InIZ6_9L_Vs"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uRjk5NzA5NTM5NjE2NEFGNA",
+						"snippet": {
+							"title": "The Red Turtle",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "_WZNjTkwMLU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uMDNBQUM2QTlCQTI0NDE1RQ",
+						"snippet": {
+							"title": "I Will Stay with You",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "eXIFfelSaZs"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uRTdEMTQ5MkM1RUI5QzhCNQ",
+						"snippet": {
+							"title": "The Fall",
+							"position": 13
+						},
+						"contentDetails": {
+							"videoId": "T9cfogGZ_Kc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uRkM0QUM2MTExNTA5MzM5NQ",
+						"snippet": {
+							"title": "The Dream",
+							"position": 14
+						},
+						"contentDetails": {
+							"videoId": "73IliRMPU5w"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uOThEQzMxRTE1Q0RFNTFFQQ",
+						"snippet": {
+							"title": "I've Found Dad",
+							"position": 15
+						},
+						"contentDetails": {
+							"videoId": "njI7WfRmWqs"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uMERDRkYxRTBBNzJGQTY4NQ",
+						"snippet": {
+							"title": "Where Is She?",
+							"position": 16
+						},
+						"contentDetails": {
+							"videoId": "L3UeTBAVnWw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uNUU5QTY1RTM3NjZCOEM5NA",
+						"snippet": {
+							"title": "He Has to Go",
+							"position": 17
+						},
+						"contentDetails": {
+							"videoId": "tUZeH4PLcFI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uNTA2NDlFQ0IyQ0FDOTMyQQ",
+						"snippet": {
+							"title": "Anger",
+							"position": 18
+						},
+						"contentDetails": {
+							"videoId": "kgl11dLw3nA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rSzBJNmJNcXF5dzJiRG1HbThKOFZHT0pZMXFBNFBxcW8uQTU4OTdEODZEODNDOTEwMQ",
+						"snippet": {
+							"title": "Second Raft",
+							"position": 19
+						},
+						"contentDetails": {
+							"videoId": "vYapi4sjE2Q"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_l8z2DTku4A1H-YdM7Vm6xknlNZs0OODyI",
+				"title": "Album - Moving Waves",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_l8z2DTku4A1H-YdM7Vm6xknlNZs0OODyI/mqdefault.jpg?sqp=CODU59IGir7X7AMICKeKmr0GEAE=&rs=AOn4CLDKllSWr6P1g0Oy_GDDQY5yaLLYaQ&v=1738966311",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_l8z2DTku4A1H-YdM7Vm6xknlNZs0OODyI/sddefault.jpg?sqp=CODU59IGir7X7AMICKeKmr0GEAE=&rs=AOn4CLDUsda4zgldR5C1durszHQfVln5dQ&v=1738966311",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_l8z2DTku4A1H-YdM7Vm6xknlNZs0OODyI/maxresdefault.jpg?sqp=CODU59IGir7X7AMICKeKmr0GEAE=&rs=AOn4CLABnFix7VWZp_5p-XcuhT6L_YfKqg&v=1738966311",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sOHoyRFRrdTRBMUgtWWRNN1ZtNnhrbmxOWnMwT09EeUkuODYwNDVCOTZDRUQ0QzNCMA",
+						"snippet": {
+							"title": "Hocus Pocus (Extended Version)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "i00s_m5SOCI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sOHoyRFRrdTRBMUgtWWRNN1ZtNnhrbmxOWnMwT09EeUkuQzJCMjFCNTNERTI5RTREQQ",
+						"snippet": {
+							"title": "Le Clochard",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "IeY8ToZz0KE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sOHoyRFRrdTRBMUgtWWRNN1ZtNnhrbmxOWnMwT09EeUkuQzJCQjE0QzczMDkzQkY1Mg",
+						"snippet": {
+							"title": "Janis",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "tP0nEwDjp84"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sOHoyRFRrdTRBMUgtWWRNN1ZtNnhrbmxOWnMwT09EeUkuQTE3MEJEQUI2M0QxRTlGMg",
+						"snippet": {
+							"title": "Moving Waves",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "zec2PC8nFww"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sOHoyRFRrdTRBMUgtWWRNN1ZtNnhrbmxOWnMwT09EeUkuQkM3NjkwMDg2NDc3REFCNw",
+						"snippet": {
+							"title": "Focus II",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "ike5HEWMrX8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sOHoyRFRrdTRBMUgtWWRNN1ZtNnhrbmxOWnMwT09EeUkuMDM0MTVBRTkzODVGRTZCMw",
+						"snippet": {
+							"title": "Eruption",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "t3_hJ_032Z8"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_lVyojt8hn2Gj5zrdx6cFwtaEPOczq9XQM",
+				"title": "Album - קצת שקט",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lVyojt8hn2Gj5zrdx6cFwtaEPOczq9XQM/mqdefault.jpg?sqp=CIzX59IGir7X7AMICPm6m70GEAE=&rs=AOn4CLDI8fBdqmgAF3JkWKwmJ0vcMdnBCg&v=1738988921",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lVyojt8hn2Gj5zrdx6cFwtaEPOczq9XQM/sddefault.jpg?sqp=CIzX59IGir7X7AMICPm6m70GEAE=&rs=AOn4CLDoZYH4dNaIU9kGTPOf7Jny5qLgvQ&v=1738988921",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lVyojt8hn2Gj5zrdx6cFwtaEPOczq9XQM/maxresdefault.jpg?sqp=CIzX59IGir7X7AMICPm6m70GEAE=&rs=AOn4CLBDGYQnN04UtDaUj4Ef8AwTxOkRPA&v=1738988921",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sVnlvanQ4aG4yR2o1enJkeDZjRnd0YUVQT2N6cTlYUU0uRkQ0MjA2RUFEODM3QTg0Ng",
+						"snippet": {
+							"title": "Musalsal",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "Va-cJrdBvH8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sVnlvanQ4aG4yR2o1enJkeDZjRnd0YUVQT2N6cTlYUU0uMEIyQUYxNTkzQ0IwQ0VFOA",
+						"snippet": {
+							"title": "Sweet Lies",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "wTdHcz531uI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sVnlvanQ4aG4yR2o1enJkeDZjRnd0YUVQT2N6cTlYUU0uRkZCOTc4Q0EyNjc4OTU0Ng",
+						"snippet": {
+							"title": "Undercover",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "WqJj4sIpqCM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sVnlvanQ4aG4yR2o1enJkeDZjRnd0YUVQT2N6cTlYUU0uMUNBQjI3OTFGOUE4NDhDNQ",
+						"snippet": {
+							"title": "Dance When You're Alone",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "Uwy1arYSYnE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sVnlvanQ4aG4yR2o1enJkeDZjRnd0YUVQT2N6cTlYUU0uQkE3N0FDQzEzNzI5QjlGNQ",
+						"snippet": {
+							"title": "קשה אז נוגס",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "6jAyBO4_9h0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sVnlvanQ4aG4yR2o1enJkeDZjRnd0YUVQT2N6cTlYUU0uMzA5NkIyREIyQTJCRTA1Qw",
+						"snippet": {
+							"title": "את חפירה",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "1ete_ntMf90"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sVnlvanQ4aG4yR2o1enJkeDZjRnd0YUVQT2N6cTlYUU0uQTU4RURDNzQ1QTNEMDQ4RQ",
+						"snippet": {
+							"title": "Nothing Missing",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "ffOrurCGYiE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sVnlvanQ4aG4yR2o1enJkeDZjRnd0YUVQT2N6cTlYUU0uNDk3NEMxMjM0NEU4NjJGQw",
+						"snippet": {
+							"title": "Tears",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "4h5jMrUcVAA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sVnlvanQ4aG4yR2o1enJkeDZjRnd0YUVQT2N6cTlYUU0uRTI5N0IzMEVBOUZBRUQ1Qw",
+						"snippet": {
+							"title": "נמתח",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "yJlt7CtRZL0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sVnlvanQ4aG4yR2o1enJkeDZjRnd0YUVQT2N6cTlYUU0uRjcwMTFCMjkwN0IzRjI4RQ",
+						"snippet": {
+							"title": "Physical",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "Yh32ryyPu7c"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sVnlvanQ4aG4yR2o1enJkeDZjRnd0YUVQT2N6cTlYUU0uMEY0NzIwRDlEQkUwQkREMQ",
+						"snippet": {
+							"title": "Guiding Voices",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "W8VmxE4RYjQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sVnlvanQ4aG4yR2o1enJkeDZjRnd0YUVQT2N6cTlYUU0uNDNBMkE0QUMyQTZBNkU3Qw",
+						"snippet": {
+							"title": "ימי פרס",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "mp20xccGWnk"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mwKfefFnDU_FNA6QFDnmts4GuCDFfulVM",
+				"title": "Album - Crime Of The Century",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mwKfefFnDU_FNA6QFDnmts4GuCDFfulVM/mqdefault.jpg?sqp=CIzX59IGir7X7AMICIe5m70GEAE=&rs=AOn4CLCyEa5M4Nd24eOVMiNKp2qpaRB78w&v=1738988679",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mwKfefFnDU_FNA6QFDnmts4GuCDFfulVM/sddefault.jpg?sqp=CIzX59IGir7X7AMICIe5m70GEAE=&rs=AOn4CLAyOWR2qh9sRl4BTKx5J5wprzlXag&v=1738988679",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mwKfefFnDU_FNA6QFDnmts4GuCDFfulVM/maxresdefault.jpg?sqp=CIzX59IGir7X7AMICIe5m70GEAE=&rs=AOn4CLDB8OcurSPoMehEG6oRcVFhGWFE-w&v=1738988679",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9td0tmZWZGbkRVX0ZOQTZRRkRubXRzNEd1Q0RGZnVsVk0uREZEQjdFMTAyODdCQjMxRA",
+						"snippet": {
+							"title": "School",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "hIBR_1ro60U"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9td0tmZWZGbkRVX0ZOQTZRRkRubXRzNEd1Q0RGZnVsVk0uNUM3NkM5NDc2ODY5ODE4NQ",
+						"snippet": {
+							"title": "Bloody Well Right",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "noSXUmwiF9M"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9td0tmZWZGbkRVX0ZOQTZRRkRubXRzNEd1Q0RGZnVsVk0uODRGRkNFNUUwNTY4MTNERQ",
+						"snippet": {
+							"title": "Hide In Your Shell",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "T94GqLtPlN8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9td0tmZWZGbkRVX0ZOQTZRRkRubXRzNEd1Q0RGZnVsVk0uMzU0MjQ0RERDRDA4RjgyMw",
+						"snippet": {
+							"title": "Asylum",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "w1gPg1c4S40"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9td0tmZWZGbkRVX0ZOQTZRRkRubXRzNEd1Q0RGZnVsVk0uMkQ4NzM4Njk4QTI2MDZFMg",
+						"snippet": {
+							"title": "Dreamer",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "6Rq_2Thm_4c"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9td0tmZWZGbkRVX0ZOQTZRRkRubXRzNEd1Q0RGZnVsVk0uNEJCN0FDN0E3Rjg3MTVBNg",
+						"snippet": {
+							"title": "Rudy",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "oc6uUlfyf5E"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9td0tmZWZGbkRVX0ZOQTZRRkRubXRzNEd1Q0RGZnVsVk0uQUYxMkVGOTE4RERDQUU1NA",
+						"snippet": {
+							"title": "If Everyone Was Listening",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "kY0jScjU1eA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9td0tmZWZGbkRVX0ZOQTZRRkRubXRzNEd1Q0RGZnVsVk0uQUVGODI4MkVFRkYzRjlFNg",
+						"snippet": {
+							"title": "Crime Of The Century",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "GpAUDOI24Oo"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mSqR4IfDnC9I33ZZ0jW9OFDdL7zjSKxj4",
+				"title": "Album - Crime Of The Century (Deluxe)",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mSqR4IfDnC9I33ZZ0jW9OFDdL7zjSKxj4/mqdefault.jpg?sqp=CJjs59IGir7X7AMICPy4m70GEAE=&rs=AOn4CLA5VguoVo4SlPhLfZYW4zMOrEPDLA&v=1738988668",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mSqR4IfDnC9I33ZZ0jW9OFDdL7zjSKxj4/sddefault.jpg?sqp=CJjs59IGir7X7AMICPy4m70GEAE=&rs=AOn4CLCnWDsUtq4Poh5kmk7UvkfD_G5N8A&v=1738988668",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mSqR4IfDnC9I33ZZ0jW9OFDdL7zjSKxj4/maxresdefault.jpg?sqp=CJjs59IGir7X7AMICPy4m70GEAE=&rs=AOn4CLDkHUFrg9j3Fz_tHKkZ4KPg_NCjnw&v=1738988668",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuOUMzNTJDQzg4MkI0MEJBRA",
+						"snippet": {
+							"title": "School (Remastered 2010)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "DfMhmnN6VNk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuMjlFMEQwMUVCOUQ0Mzc1OA",
+						"snippet": {
+							"title": "Bloody Well Right (Remastered 2010)",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "-YAMbLHcS-8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuM0I0NzNCMUQwQUU3NDlCRA",
+						"snippet": {
+							"title": "Hide In Your Shell (Remastered 2010)",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "cceq0CVj0K0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuQ0QzMEQ1MDFDNUEzMUUyRQ",
+						"snippet": {
+							"title": "Asylum (Remastered 2010)",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "w9bNoxu-I9o"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuNDBCOTU4RDQ3NDVBNTEyRg",
+						"snippet": {
+							"title": "Dreamer (Remastered 2010)",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "9nD7iSCFS2M"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuNzc0MTM2QUNFNEZGNkNDQg",
+						"snippet": {
+							"title": "Rudy (Remastered 2010)",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "Roa3K2LeAZk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuNkQyRUIyNjI3NEMxNDIzMg",
+						"snippet": {
+							"title": "If Everyone Was Listening (Remastered 2010)",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "Of0kNwTkHs8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuMzIzMzlDMDYyN0FCQTlENg",
+						"snippet": {
+							"title": "Crime Of The Century (Remastered 2010)",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "d_dfFrg0hDA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuNTIzNjcwQjkwMzQ3RDFDMg",
+						"snippet": {
+							"title": "School (Live At Hammersmith Odeon / 1975)",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "hi7_k-U3K60"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuQUJFRjg5NTk5NjVFRTNFRQ",
+						"snippet": {
+							"title": "Bloody Well Right (Live At Hammersmith Odeon / 1975)",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "8NcZYEKLsKA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuRTRBQkQ3OUQzQkZDNUE0NA",
+						"snippet": {
+							"title": "Hide In Your Shell (Live At Hammersmith Odeon / 1975)",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "ACDb8V6b0ak"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuQjFFMjcyRDA1N0Q3RTA2NQ",
+						"snippet": {
+							"title": "Asylum (Live At Hammersmith Odeon / 1975)",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "DtYrdTkYqnA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuN0QzMzRBMkJENDlBNkNCNQ",
+						"snippet": {
+							"title": "Sister Moonshine (Live At Hammersmith Odeon / 1975)",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "6W15QEli_S8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuNTRBMUZERUM1QjNBNTI4RA",
+						"snippet": {
+							"title": "Just A Normal Day (Live At Hammersmith Odeon / 1975)",
+							"position": 13
+						},
+						"contentDetails": {
+							"videoId": "bcOlJKnIX8I"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuQTgxNjhCRkU1OEUxOTI2NA",
+						"snippet": {
+							"title": "Another Man's Woman (Live At Hammersmith Odeon / 1975)",
+							"position": 14
+						},
+						"contentDetails": {
+							"videoId": "N-I1DxaQ7xM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuQjk1QUVGRUNGQzlBMUI5Mg",
+						"snippet": {
+							"title": "Lady (Live At Hammersmith Odeon / 1975)",
+							"position": 15
+						},
+						"contentDetails": {
+							"videoId": "oBm50y9KLxU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuNkJBOEI0RUU0QkNENENFMQ",
+						"snippet": {
+							"title": "\"A\" - You're Adorable (Live At Hammersmith Odeon / 1975)",
+							"position": 16
+						},
+						"contentDetails": {
+							"videoId": "vffdaUfTtfE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuMjhCOTg0QzM0QjNCODE3OQ",
+						"snippet": {
+							"title": "Dreamer (Live At Hammersmith Odeon / 1975)",
+							"position": 17
+						},
+						"contentDetails": {
+							"videoId": "P2PD9MtG8Rs"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuMzVDRDdENTBCRDY5MDNGMg",
+						"snippet": {
+							"title": "Rudy (Live At Hammersmith Odeon / 1975)",
+							"position": 18
+						},
+						"contentDetails": {
+							"videoId": "Gyn2d3KA0kk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuM0NEOUVGNzU4Q0JBM0I1Ng",
+						"snippet": {
+							"title": "If Everyone Was Listening (Live At Hammersmith Odeon / 1975)",
+							"position": 19
+						},
+						"contentDetails": {
+							"videoId": "jB1eEptTnJY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tU3FSNElmRG5DOUkzM1paMGpXOU9GRGRMN3pqU0t4ajQuM0FGNkYyM0Q4QUJDOTUyRg",
+						"snippet": {
+							"title": "Crime Of The Century (Live At Hammersmith Odeon / 1975)",
+							"position": 20
+						},
+						"contentDetails": {
+							"videoId": "yUogPmFLTg8"
+						}
+					}
+				]
+			},
+			{
+				"id": "PLw1Km-CSeMrQkHFBO186Wzd-kBcOw9mHs",
+				"title": "Supertramp crime of the century (deluxe edition)",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/-YAMbLHcS-8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/-YAMbLHcS-8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/-YAMbLHcS-8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/-YAMbLHcS-8/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/-YAMbLHcS-8/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"items": [
+					{
+						"id": "UEx3MUttLUNTZU1yUWtIRkJPMTg2V3pkLWtCY093OW1Icy41NkI0NEY2RDEwNTU3Q0M2",
+						"snippet": {
+							"title": "Bloody Well Right (Remastered 2010)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "-YAMbLHcS-8"
+						}
+					},
+					{
+						"id": "UEx3MUttLUNTZU1yUWtIRkJPMTg2V3pkLWtCY093OW1Icy4yODlGNEE0NkRGMEEzMEQy",
+						"snippet": {
+							"title": "Asylum (Remastered 2010)",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "w9bNoxu-I9o"
+						}
+					},
+					{
+						"id": "UEx3MUttLUNTZU1yUWtIRkJPMTg2V3pkLWtCY093OW1Icy4wMTcyMDhGQUE4NTIzM0Y5",
+						"snippet": {
+							"title": "Dreamer (Remastered 2010)",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "9nD7iSCFS2M"
+						}
+					},
+					{
+						"id": "UEx3MUttLUNTZU1yUWtIRkJPMTg2V3pkLWtCY093OW1Icy41MjE1MkI0OTQ2QzJGNzNG",
+						"snippet": {
+							"title": "Rudy (Remastered 2010)",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "Roa3K2LeAZk"
+						}
+					},
+					{
+						"id": "UEx3MUttLUNTZU1yUWtIRkJPMTg2V3pkLWtCY093OW1Icy4wOTA3OTZBNzVEMTUzOTMy",
+						"snippet": {
+							"title": "Crime Of The Century (Remastered 2010)",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "d_dfFrg0hDA"
+						}
+					},
+					{
+						"id": "UEx3MUttLUNTZU1yUWtIRkJPMTg2V3pkLWtCY093OW1Icy4xMkVGQjNCMUM1N0RFNEUx",
+						"snippet": {
+							"title": "Bloody Well Right (Live At Hammersmith Odeon / 1975)",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "8NcZYEKLsKA"
+						}
+					},
+					{
+						"id": "UEx3MUttLUNTZU1yUWtIRkJPMTg2V3pkLWtCY093OW1Icy41MzJCQjBCNDIyRkJDN0VD",
+						"snippet": {
+							"title": "Asylum (Live At Hammersmith Odeon / 1975)",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "DtYrdTkYqnA"
+						}
+					},
+					{
+						"id": "UEx3MUttLUNTZU1yUWtIRkJPMTg2V3pkLWtCY093OW1Icy5DQUNERDQ2NkIzRUQxNTY1",
+						"snippet": {
+							"title": "Just A Normal Day (Live At Hammersmith Odeon / 1975)",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "bcOlJKnIX8I"
+						}
+					},
+					{
+						"id": "UEx3MUttLUNTZU1yUWtIRkJPMTg2V3pkLWtCY093OW1Icy45NDk1REZENzhEMzU5MDQz",
+						"snippet": {
+							"title": "Another Man's Woman (Live At Hammersmith Odeon / 1975)",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "N-I1DxaQ7xM"
+						}
+					},
+					{
+						"id": "UEx3MUttLUNTZU1yUWtIRkJPMTg2V3pkLWtCY093OW1Icy5GNjNDRDREMDQxOThCMDQ2",
+						"snippet": {
+							"title": "\"A\" - You're Adorable (Live At Hammersmith Odeon / 1975)",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "vffdaUfTtfE"
+						}
+					},
+					{
+						"id": "UEx3MUttLUNTZU1yUWtIRkJPMTg2V3pkLWtCY093OW1Icy40NzZCMERDMjVEN0RFRThB",
+						"snippet": {
+							"title": "Dreamer (Live At Hammersmith Odeon / 1975)",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "P2PD9MtG8Rs"
+						}
+					},
+					{
+						"id": "UEx3MUttLUNTZU1yUWtIRkJPMTg2V3pkLWtCY093OW1Icy5EMEEwRUY5M0RDRTU3NDJC",
+						"snippet": {
+							"title": "Rudy (Live At Hammersmith Odeon / 1975)",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "Gyn2d3KA0kk"
+						}
+					},
+					{
+						"id": "UEx3MUttLUNTZU1yUWtIRkJPMTg2V3pkLWtCY093OW1Icy45ODRDNTg0QjA4NkFBNkQy",
+						"snippet": {
+							"title": "Crime Of The Century (Live At Hammersmith Odeon / 1975)",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "yUogPmFLTg8"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mxpQqGXEEOTfN_YvEPtjFAMSFP6GgBOWo",
+				"title": "Album - girl$ (Layton Giordani Remix)",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mxpQqGXEEOTfN_YvEPtjFAMSFP6GgBOWo/mqdefault.jpg?sqp=CMTu59IGir7X7AMICLinw70GEAE=&rs=AOn4CLB57Rt0UOFPjqdTFK87Vp8R5VfeBw&v=1739641784",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mxpQqGXEEOTfN_YvEPtjFAMSFP6GgBOWo/sddefault.jpg?sqp=CMTu59IGir7X7AMICLinw70GEAE=&rs=AOn4CLCDHddWA2KC0xZbyAJLMvQ-KDjfcQ&v=1739641784",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mxpQqGXEEOTfN_YvEPtjFAMSFP6GgBOWo/maxresdefault.jpg?sqp=CMTu59IGir7X7AMICLinw70GEAE=&rs=AOn4CLBY5zYyoH9MxOf1WHCVjRLTnAC0uA&v=1739641784",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9teHBRcUdYRUVPVGZOX1l2RVB0akZBTVNGUDZHZ0JPV28uNTM2ODM3MDlBRUVFN0MxMQ",
+						"snippet": {
+							"title": "girl$ (Layton Giordani Remix)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "w9VwE146l3I"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_n5gT7tcrXohDPuBxpiCpZdD3bY6IrmC-0",
+				"title": "Album - Phase II",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_n5gT7tcrXohDPuBxpiCpZdD3bY6IrmC-0/mqdefault.jpg?sqp=CPDw59IGir7X7AMICKjT1L0GEAE=&rs=AOn4CLDxMjnQKCW7Umak5RHpDXTT69itmw&v=1739925928",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_n5gT7tcrXohDPuBxpiCpZdD3bY6IrmC-0/sddefault.jpg?sqp=CPDw59IGir7X7AMICKjT1L0GEAE=&rs=AOn4CLA6GGfrHk8rt8FXGwr6yKlwQ_y1rQ&v=1739925928",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_n5gT7tcrXohDPuBxpiCpZdD3bY6IrmC-0/maxresdefault.jpg?sqp=CPDw59IGir7X7AMICKjT1L0GEAE=&rs=AOn4CLC05zsVCTisGaAprW5B0Wq_4pqnFw&v=1739925928",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9uNWdUN3RjclhvaERQdUJ4cGlDcFpkRDNiWTZJcm1DLTAuM0QwQzhGQzlDNDA2OTRBMw",
+						"snippet": {
+							"title": "New York to Amsterdam",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "Bbd_AMxUQxw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uNWdUN3RjclhvaERQdUJ4cGlDcFpkRDNiWTZJcm1DLTAuQjBENjI5OTU3NzQ2RUVDQQ",
+						"snippet": {
+							"title": "Body Language",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "z2CZoIRzvsU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uNWdUN3RjclhvaERQdUJ4cGlDcFpkRDNiWTZJcm1DLTAuNjEyODY3NkIzNUY1NTI5Rg",
+						"snippet": {
+							"title": "Black Mirror",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "cV8lE1uAtVA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uNWdUN3RjclhvaERQdUJ4cGlDcFpkRDNiWTZJcm1DLTAuOUYzRTA4RkNENkZBQkE3NQ",
+						"snippet": {
+							"title": "Enter the Stratosphere",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "_K_ZJRHEMnI"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_m8m0VGOTct0A3LYwuz8uCtbJ_BBvZ08uw",
+				"title": "Album - International Love Affair (Remixes)",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_m8m0VGOTct0A3LYwuz8uCtbJ_BBvZ08uw/mqdefault.jpg?sqp=CPDw59IGir7X7AMICOnv08wGEAE=&rs=AOn4CLDo9VbPWaQxqrlJU4PD4ogIJ65ZJg&v=1771370473",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_m8m0VGOTct0A3LYwuz8uCtbJ_BBvZ08uw/sddefault.jpg?sqp=CPDw59IGir7X7AMICOnv08wGEAE=&rs=AOn4CLD3VqT0_hxl0O_7zrdbmD-HGoi9mQ&v=1771370473",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_m8m0VGOTct0A3LYwuz8uCtbJ_BBvZ08uw/maxresdefault.jpg?sqp=CPDw59IGir7X7AMICOnv08wGEAE=&rs=AOn4CLCKt7gpb4SLaLaQ9L0HyuoQYXndMw&v=1771370473",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tOG0wVkdPVGN0MEEzTFl3dXo4dUN0YkpfQkJ2WjA4dXcuRjYwMDdGNEExRjk1QzBDMg",
+						"snippet": {
+							"title": "Cocktail D'Amore (Session Victim Remix)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "sZ2FKn2zexA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tOG0wVkdPVGN0MEEzTFl3dXo4dUN0YkpfQkJ2WjA4dXcuQkJBMEQwNDA5MDVDNjA2NQ",
+						"snippet": {
+							"title": "Riad De Lister (Trepanado Remix)",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "oiVRK0ZoUFY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tOG0wVkdPVGN0MEEzTFl3dXo4dUN0YkpfQkJ2WjA4dXcuMDRFNTEyODZGRDM1QTdCRQ",
+						"snippet": {
+							"title": "Bahia Escapista (Le Rubrique Remix)",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "-UAUth1Oi9k"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tOG0wVkdPVGN0MEEzTFl3dXo4dUN0YkpfQkJ2WjA4dXcuMDE2MUM1QUQyNTRFQ0FGRA",
+						"snippet": {
+							"title": "Cosmic Camel (Chico Mann Remix)",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "U0ger-SCcRU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tOG0wVkdPVGN0MEEzTFl3dXo4dUN0YkpfQkJ2WjA4dXcuMzFBMjJEMDk5NDU4ODA4MA",
+						"snippet": {
+							"title": "La Brisa (Isaac Soto Remix)",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "jybloPBRn3A"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tOG0wVkdPVGN0MEEzTFl3dXo4dUN0YkpfQkJ2WjA4dXcuNkM3QTM5QUM0M0Y0NEJEMg",
+						"snippet": {
+							"title": "Tokyo Business (Tulshi Remix)",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "NwnHgv1nFak"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tOG0wVkdPVGN0MEEzTFl3dXo4dUN0YkpfQkJ2WjA4dXcuNTlERDQ3NjRDNTAyOTI5Mg",
+						"snippet": {
+							"title": "Riad De Lister (Emperor Machine Special Extended Vocal Remix)",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "rURZJg3rqE0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tOG0wVkdPVGN0MEEzTFl3dXo4dUN0YkpfQkJ2WjA4dXcuMEY4RTNDMTE1NTBFM0NFQQ",
+						"snippet": {
+							"title": "Tokyo Business (Daniele Baldelli & Marco Dionigi Remix)",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "SiK9D43ObfI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tOG0wVkdPVGN0MEEzTFl3dXo4dUN0YkpfQkJ2WjA4dXcuQjU2RTkzRkM2RDg4NUVEMQ",
+						"snippet": {
+							"title": "Cosmic Camel (Mystic Jungle Desert Version)",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "zbhwHR4Eiio"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tOG0wVkdPVGN0MEEzTFl3dXo4dUN0YkpfQkJ2WjA4dXcuQjU3MTA0NDU4QTczMTg2Mw",
+						"snippet": {
+							"title": "Cocktail D’Amore (Mushrooms Project Remix)",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "oL1IqFPSuek"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tOG0wVkdPVGN0MEEzTFl3dXo4dUN0YkpfQkJ2WjA4dXcuREZFMkEzNDMxMEI2QjE2OQ",
+						"snippet": {
+							"title": "Riad De Lister (Emperor Machine Special Extended Dub Remix)",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "qoMFKS7mBcw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tOG0wVkdPVGN0MEEzTFl3dXo4dUN0YkpfQkJ2WjA4dXcuMTNGMjNEQzQxOERENTQwNA",
+						"snippet": {
+							"title": "Riad De Lister (Emperor Machine Special Extended Instrumental Remix)",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "xb-WwI_WN0M"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tOG0wVkdPVGN0MEEzTFl3dXo4dUN0YkpfQkJ2WjA4dXcuNjI2MzEzMkIwNEFEQjdCRQ",
+						"snippet": {
+							"title": "Tokyo Business (Bustin' Loose Remix)",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "0smEokFmqbI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tOG0wVkdPVGN0MEEzTFl3dXo4dUN0YkpfQkJ2WjA4dXcuNDAzRDMwNEEwRUU4RTMwRA",
+						"snippet": {
+							"title": "Tokyo Business (Inca Jones Remix)",
+							"position": 13
+						},
+						"contentDetails": {
+							"videoId": "g2ukZRe_rlA"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_lHMHSJuMAtYsLTvZW-7BWHiOcYuSPTi9M",
+				"title": "Album - The Dream",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lHMHSJuMAtYsLTvZW-7BWHiOcYuSPTi9M/mqdefault.jpg?sqp=CJzz59IGir7X7AMICN3Dt70GEAE=&rs=AOn4CLDxugbLfwmxwcGBnRZGByAGTDjfNQ&v=1739448797",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lHMHSJuMAtYsLTvZW-7BWHiOcYuSPTi9M/sddefault.jpg?sqp=CJzz59IGir7X7AMICN3Dt70GEAE=&rs=AOn4CLCn69zI5bYtKrOefTY6coYo34DVjQ&v=1739448797",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lHMHSJuMAtYsLTvZW-7BWHiOcYuSPTi9M/maxresdefault.jpg?sqp=CJzz59IGir7X7AMICN3Dt70GEAE=&rs=AOn4CLCrZFOu5K-yEpPIm5kc9YA1Ncgiog&v=1739448797",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sSE1IU0p1TUF0WXNMVHZaVy03QldIaU9jWXVTUFRpOU0uQzcxNUY2RDFGQjIwNEQwQQ",
+						"snippet": {
+							"title": "The Dream",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "Jn5gACizLzE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSE1IU0p1TUF0WXNMVHZaVy03QldIaU9jWXVTUFRpOU0uNzEyNTQyMDkzMEIyMTMzRg",
+						"snippet": {
+							"title": "The Dream (Extended Mix)",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "5llV0M2D45E"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_l1EWddFnGlw6GYIRwxesBOEem1Ln8Eq8U",
+				"title": "Album - Discoteca",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_l1EWddFnGlw6GYIRwxesBOEem1Ln8Eq8U/mqdefault.jpg?sqp=CJzz59IGir7X7AMICOffoMIGEAE=&rs=AOn4CLCDh_3NHFEt_NxC5I0ML_KkWq1byA&v=1749561319",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_l1EWddFnGlw6GYIRwxesBOEem1Ln8Eq8U/sddefault.jpg?sqp=CJzz59IGir7X7AMICOffoMIGEAE=&rs=AOn4CLDb-p3gcrdXFJ93DuvUPmqYJYli4A&v=1749561319",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_l1EWddFnGlw6GYIRwxesBOEem1Ln8Eq8U/maxresdefault.jpg?sqp=CJzz59IGir7X7AMICOffoMIGEAE=&rs=AOn4CLBJcDRYoMNG7rAaktQQS-lXtJhlWQ&v=1749561319",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sMUVXZGRGbkdsdzZHWUlSd3hlc0JPRWVtMUxuOEVxOFUuNjI2MzEzMkIwNEFEQjdCRQ",
+						"snippet": {
+							"title": "Discoteca",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "ZQ87-SiE8No"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mFKK3ZkKKvwPlNj5950Tu6SDglKL7kRyU",
+				"title": "Album - Point Of No Return",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mFKK3ZkKKvwPlNj5950Tu6SDglKL7kRyU/mqdefault.jpg?sqp=CJzz59IGir7X7AMICPaR0L0GEAE=&rs=AOn4CLBhIpkww1EyTQMmd7GXU21FkIdvfg&v=1739852022",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mFKK3ZkKKvwPlNj5950Tu6SDglKL7kRyU/sddefault.jpg?sqp=CJzz59IGir7X7AMICPaR0L0GEAE=&rs=AOn4CLC27zwWM0sJiAsBH7v_E1Dt4w9F2g&v=1739852022",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mFKK3ZkKKvwPlNj5950Tu6SDglKL7kRyU/maxresdefault.jpg?sqp=CJzz59IGir7X7AMICPaR0L0GEAE=&rs=AOn4CLCcDEOHzebf5OUw9T10D7mHw1_r9g&v=1739852022",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tRktLM1prS0t2d1BsTmo1OTUwVHU2U0RnbEtMN2tSeVUuREFBNTUxQ0Y3MDA4NDRDMw",
+						"snippet": {
+							"title": "Point Of No Return",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "crFCMaGxkcw"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_lfOpN_TGdceSK17ql4SwwZoNbCtBVkkGo",
+				"title": "Album - Pussy Power (Desiree Remix)",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lfOpN_TGdceSK17ql4SwwZoNbCtBVkkGo/mqdefault.jpg?sqp=CJzz59IGir7X7AMICJSLqsIGEAE=&rs=AOn4CLDIGRn6BSHgeHvJ3Ivo56MK-6dOGA&v=1749714324",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lfOpN_TGdceSK17ql4SwwZoNbCtBVkkGo/sddefault.jpg?sqp=CJzz59IGir7X7AMICJSLqsIGEAE=&rs=AOn4CLAk_TBelfkzcHH4PCoLUtSq4HwyqA&v=1749714324",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lfOpN_TGdceSK17ql4SwwZoNbCtBVkkGo/maxresdefault.jpg?sqp=CJzz59IGir7X7AMICJSLqsIGEAE=&rs=AOn4CLBNhqblcGcjwLcH7qds84gOe9Vdfw&v=1749714324",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sZk9wTl9UR2RjZVNLMTdxbDRTd3dab05iQ3RCVmtrR28uQUYyQzg5OURDNDY5MzFCMg",
+						"snippet": {
+							"title": "Pussy Power (DESIREE Remix)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "byfYAE9ymDw"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_kp-yVDAldde6BxvtybpwAwfGsrdjjtbW4",
+				"title": "Album - Be The One",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kp-yVDAldde6BxvtybpwAwfGsrdjjtbW4/mqdefault.jpg?sqp=CJzz59IGir7X7AMICN-z9M4GEAE=&rs=AOn4CLChm0UriZazuTPYNhbaUQHEktXRLw&v=1776097759",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kp-yVDAldde6BxvtybpwAwfGsrdjjtbW4/sddefault.jpg?sqp=CJzz59IGir7X7AMICN-z9M4GEAE=&rs=AOn4CLD34PFOwoGBN6CjgXFnIC2JXhdHUw&v=1776097759",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kp-yVDAldde6BxvtybpwAwfGsrdjjtbW4/maxresdefault.jpg?sqp=CJzz59IGir7X7AMICN-z9M4GEAE=&rs=AOn4CLBZHJJIioPGLCy5nwIhE5drKqjUeQ&v=1776097759",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9rcC15VkRBbGRkZTZCeHZ0eWJwd0F3ZkdzcmRqanRiVzQuOUYzRTA4RkNENkZBQkE3NQ",
+						"snippet": {
+							"title": "Be The One",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "nEbW0rHlan8"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_kY7erLuD-VL8gkJpduqgFXaoIjFeBDp2g",
+				"title": "Album - Muyè (Black Coffee Remix)",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kY7erLuD-VL8gkJpduqgFXaoIjFeBDp2g/mqdefault.jpg?sqp=CJzz59IGir7X7AMICJ3XnsIGEAE=&rs=AOn4CLDHeam0bd3AGgBrrNUUVBXhneot1w&v=1749527453",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kY7erLuD-VL8gkJpduqgFXaoIjFeBDp2g/sddefault.jpg?sqp=CJzz59IGir7X7AMICJ3XnsIGEAE=&rs=AOn4CLCVM6owfVEPSCzefh6B7cnRxlvn2Q&v=1749527453",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kY7erLuD-VL8gkJpduqgFXaoIjFeBDp2g/maxresdefault.jpg?sqp=CJzz59IGir7X7AMICJ3XnsIGEAE=&rs=AOn4CLDyF-VOatFqRgZCtaWItf8D8HeGjQ&v=1749527453",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9rWTdlckx1RC1WTDhna0pwZHVxZ0ZYYW9JakZlQkRwMmcuRjc5NkU5Q0EzQkMyQkMyRg",
+						"snippet": {
+							"title": "Muyè (Black Coffee Remix)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "EwbaIu8weCo"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mMLRRN2GVlV3IBN-SB2tntpbYn2CXTp1M",
+				"title": "Album - Aus der Tiefe",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mMLRRN2GVlV3IBN-SB2tntpbYn2CXTp1M/mqdefault.jpg?sqp=CMj159IGir7X7AMICNyBnb0GEAE=&rs=AOn4CLDYi4ZM6GHgeMsCL5Xi8-f8TbUa7Q&v=1739014364",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mMLRRN2GVlV3IBN-SB2tntpbYn2CXTp1M/sddefault.jpg?sqp=CMj159IGir7X7AMICNyBnb0GEAE=&rs=AOn4CLAA30KBgW1bj0ddcHsnkMPjjcJaQw&v=1739014364",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mMLRRN2GVlV3IBN-SB2tntpbYn2CXTp1M/maxresdefault.jpg?sqp=CMj159IGir7X7AMICNyBnb0GEAE=&rs=AOn4CLAVGOl7QNufAac3ONdMjj_oOxfmGg&v=1739014364",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uNzg1MTAzODU2Mzc5RDE5NA",
+						"snippet": {
+							"title": "Beschwörung",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "lxlM6LXuayk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uNDMyQTE4MkQ0MTNEODQ5MA",
+						"snippet": {
+							"title": "Willkommen zurück",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "lq2DduL1k3g"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uRDUyQ0MwNjgzN0ZGQjgxNw",
+						"snippet": {
+							"title": "Schwarzes Blut",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "GRMxfi7-M8c"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uNDE5RDc1NUEwNjRFNjI2QQ",
+						"snippet": {
+							"title": "Im dunklen Turm",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "CVDTSRKE8UE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uRTUyRjhCRjRGOTk3NTFEQQ",
+						"snippet": {
+							"title": "Me",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "RiSHKhyLyas"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uMDM1MEQwNUExQTU5NDY1Ng",
+						"snippet": {
+							"title": "Schattenschreie",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "mn92WzvxFGU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uNTIyRThGNjEwODUyRDBBMg",
+						"snippet": {
+							"title": "Hunger",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "Os3Ajb8uoEo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uRjM3MjEyQTBGRUI5QzQyQw",
+						"snippet": {
+							"title": "Fremde Erinnerungen",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "p2_XY9CkYpk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uMUEyQUMzN0ZGNDk5RTE4Mw",
+						"snippet": {
+							"title": "Ballade von der Erweckung",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "bj6KdKIcRHc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uNDMyQTdDMUMyQUIyN0JEQQ",
+						"snippet": {
+							"title": "Tiefenrausch",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "iMwQRNm3iAg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uNDkwMUQ5NTczMkZCNTQ0Mw",
+						"snippet": {
+							"title": "Schmetterling, Du kleines Ding",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "osMCtQEeojI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uMDk4MjVCNDg0QzQ2Mzk4Mw",
+						"snippet": {
+							"title": "Ich komm Dich holn",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "xVsZAfpsS-4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uQTkxN0I0N0YxRTgwQ0Q1NQ",
+						"snippet": {
+							"title": "Werben",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "FrwlMY-8K04"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uQjE1M0REQzIzOUMyRDlFQw",
+						"snippet": {
+							"title": "Spiegelauge, Pt. 1: Aus Der Tiefe",
+							"position": 13
+						},
+						"contentDetails": {
+							"videoId": "MNGgMLgvGso"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uNTZEMDNEQTU4Q0ZDNDAzNg",
+						"snippet": {
+							"title": "Spiegelauge, Pt. 2: Spiegelaugen",
+							"position": 14
+						},
+						"contentDetails": {
+							"videoId": "iOqnSVhhnpA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uMzI2RjI4RDQ5RkM3NDgwMw",
+						"snippet": {
+							"title": "Spiegelauge, Pt. 3: Tiefenrausch (Reprise)",
+							"position": 15
+						},
+						"contentDetails": {
+							"videoId": "4CNbVTMm2gk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uN0IzQ0U4RTZEMkUxMTJCQg",
+						"snippet": {
+							"title": "Spiegelauge, Pt. 4: Panik",
+							"position": 16
+						},
+						"contentDetails": {
+							"videoId": "qkmk1cMjixc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTUxSUk4yR1ZsVjNJQk4tU0IydG50cGJZbjJDWFRwMU0uMkMzQzE1NUYxMEFCNkY1RQ",
+						"snippet": {
+							"title": "Spiegelauge, Pt. 5: Spiegel",
+							"position": 17
+						},
+						"contentDetails": {
+							"videoId": "d--KfMAr5vM"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_kw8rDAlIt5yGYp_bQlG1TLeD1NdePx9lo",
+				"title": "Album - Back In Black",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kw8rDAlIt5yGYp_bQlG1TLeD1NdePx9lo/mqdefault.jpg?sqp=CMj159IGir7X7AMICOqNn70GEAE=&rs=AOn4CLD0fvLrm8Y2Z90NpOuunORPRQNV4g&v=1739048682",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kw8rDAlIt5yGYp_bQlG1TLeD1NdePx9lo/sddefault.jpg?sqp=CMj159IGir7X7AMICOqNn70GEAE=&rs=AOn4CLCO1nJ6TXhvTgmizG05VFRFD9nVRg&v=1739048682",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kw8rDAlIt5yGYp_bQlG1TLeD1NdePx9lo/maxresdefault.jpg?sqp=CMj159IGir7X7AMICOqNn70GEAE=&rs=AOn4CLBTfHON6iTfvFVopfqXFI69GRNa5Q&v=1739048682",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9rdzhyREFsSXQ1eUdZcF9iUWxHMVRMZUQxTmRlUHg5bG8uMDZBNUZEREY5MzA0RUZDMg",
+						"snippet": {
+							"title": "Hells Bells",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "GL56LY6fE0E"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rdzhyREFsSXQ1eUdZcF9iUWxHMVRMZUQxTmRlUHg5bG8uNTkzMEMxMzdBQ0Q0RDdGNQ",
+						"snippet": {
+							"title": "Shoot to Thrill",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "wLoWd2KyUro"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rdzhyREFsSXQ1eUdZcF9iUWxHMVRMZUQxTmRlUHg5bG8uNkIxRjkxOUM2MDk3OEIxRQ",
+						"snippet": {
+							"title": "What Do You Do for Money Honey",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "yuvWF2I7BTI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rdzhyREFsSXQ1eUdZcF9iUWxHMVRMZUQxTmRlUHg5bG8uOEJENzU1Mjc4OTQ3RTkwNw",
+						"snippet": {
+							"title": "Givin the Dog a Bone",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "ZjYjjLJtGpo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rdzhyREFsSXQ1eUdZcF9iUWxHMVRMZUQxTmRlUHg5bG8uMDkxMDVGQjA2QjlBNjU2OA",
+						"snippet": {
+							"title": "Let Me Put My Love Into You",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "Sd_gZlL_Mok"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rdzhyREFsSXQ1eUdZcF9iUWxHMVRMZUQxTmRlUHg5bG8uN0RDNTdBNzEwNEU2NjdFNw",
+						"snippet": {
+							"title": "Back In Black",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "9vWNauaZAgg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rdzhyREFsSXQ1eUdZcF9iUWxHMVRMZUQxTmRlUHg5bG8uREZBNjg5MDVGRjY4MUZGNw",
+						"snippet": {
+							"title": "You Shook Me All Night Long",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "SP9t2Iq_zQ8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rdzhyREFsSXQ1eUdZcF9iUWxHMVRMZUQxTmRlUHg5bG8uRDYwMDc1QkQzQzZFQzgyNg",
+						"snippet": {
+							"title": "Have a Drink on Me",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "dN61WU57zBw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rdzhyREFsSXQ1eUdZcF9iUWxHMVRMZUQxTmRlUHg5bG8uM0I4NzdENDk5RDVDMUE1Qg",
+						"snippet": {
+							"title": "Shake a Leg",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "ww40RmFNsNo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rdzhyREFsSXQ1eUdZcF9iUWxHMVRMZUQxTmRlUHg5bG8uQjdBNDE3NDA0QUM5OUQ2MQ",
+						"snippet": {
+							"title": "Rock and Roll Ain't Noise Pollution",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "lwRHkS912ks"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_nUSRBi7cifiAYJVsZLya6syD-qqKlLP7w",
+				"title": "Album - The Blackening",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nUSRBi7cifiAYJVsZLya6syD-qqKlLP7w/mqdefault.jpg?sqp=CMj159IGir7X7AMICLCcn70GEAE=&rs=AOn4CLD-bnnHZHeUOIJyzzLnpGRY6uwSjw&v=1739050544",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nUSRBi7cifiAYJVsZLya6syD-qqKlLP7w/sddefault.jpg?sqp=CMj159IGir7X7AMICLCcn70GEAE=&rs=AOn4CLAubnQbrMSPqvamELLQJYxx0N4fhg&v=1739050544",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nUSRBi7cifiAYJVsZLya6syD-qqKlLP7w/maxresdefault.jpg?sqp=CMj159IGir7X7AMICLCcn70GEAE=&rs=AOn4CLCtW_7R_gv1MvU51XnN0dpHWTPycw&v=1739050544",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9uVVNSQmk3Y2lmaUFZSlZzWkx5YTZzeUQtcXFLbExQN3cuODc4NEQ3RkYyOUJCRUVBNQ",
+						"snippet": {
+							"title": "Clenching The Fists Of Dissent",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "aeh4jH9OL1I"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uVVNSQmk3Y2lmaUFZSlZzWkx5YTZzeUQtcXFLbExQN3cuNUU3NEE2NjJGMEI1M0Q4QQ",
+						"snippet": {
+							"title": "Beautiful Mourning",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "l6CWibI0Q_0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uVVNSQmk3Y2lmaUFZSlZzWkx5YTZzeUQtcXFLbExQN3cuNkI2NjRCRUY2M0ZGODEzRg",
+						"snippet": {
+							"title": "Aesthetics Of Hate",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "ebnyapcAiPM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uVVNSQmk3Y2lmaUFZSlZzWkx5YTZzeUQtcXFLbExQN3cuMURGOEY4NDc5NTkxRTFCRA",
+						"snippet": {
+							"title": "Now I Lay Thee Down",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "Unt9HKiZBkw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uVVNSQmk3Y2lmaUFZSlZzWkx5YTZzeUQtcXFLbExQN3cuMDU0MDhGN0U5MjI5NjU4MQ",
+						"snippet": {
+							"title": "Slanderous",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "rUz_wTsJLDU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uVVNSQmk3Y2lmaUFZSlZzWkx5YTZzeUQtcXFLbExQN3cuMTI4RDYzRUI5RjM0MzFERQ",
+						"snippet": {
+							"title": "Halo",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "j4H4bWEyXls"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uVVNSQmk3Y2lmaUFZSlZzWkx5YTZzeUQtcXFLbExQN3cuQkQ0OTRDQzA5NzNCQ0U1Mw",
+						"snippet": {
+							"title": "Wolves",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "ZzER_3yfBBI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uVVNSQmk3Y2lmaUFZSlZzWkx5YTZzeUQtcXFLbExQN3cuNEUzOEZCOEU2OTNGQzk4Mg",
+						"snippet": {
+							"title": "A Farewell To Arms",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "nzvNzL0kyZM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uVVNSQmk3Y2lmaUFZSlZzWkx5YTZzeUQtcXFLbExQN3cuOUJEN0E1NTg2QjA1OTM0NQ",
+						"snippet": {
+							"title": "Hallowed Be Thy Name",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "uhpMPshFomc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uVVNSQmk3Y2lmaUFZSlZzWkx5YTZzeUQtcXFLbExQN3cuQ0Q0NkFDRDBEMTc1NDczMA",
+						"snippet": {
+							"title": "Battery",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "EWz9ZfBionk"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_k1N3K14GQT90XmYCH3jSaoWUkdieOJmxs",
+				"title": "Album - The Congregation",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_k1N3K14GQT90XmYCH3jSaoWUkdieOJmxs/mqdefault.jpg?sqp=CPT359IGir7X7AMICPSyzL0GEAE=&rs=AOn4CLA1g3Xcffh17R35BGM-D7ch1Ye5Zw&v=1739790708",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_k1N3K14GQT90XmYCH3jSaoWUkdieOJmxs/sddefault.jpg?sqp=CPT359IGir7X7AMICPSyzL0GEAE=&rs=AOn4CLB6VMwjT_X75EpcWeo0kL2eWUVCNg&v=1739790708",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_k1N3K14GQT90XmYCH3jSaoWUkdieOJmxs/maxresdefault.jpg?sqp=CPT359IGir7X7AMICPSyzL0GEAE=&rs=AOn4CLBub4vU8EPuJDPWCdUcV833dx7rRw&v=1739790708",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9rMU4zSzE0R1FUOTBYbVlDSDNqU2FvV1VrZGllT0pteHMuODdCOTlBQTAwRjE2OTM2MA",
+						"snippet": {
+							"title": "The Price",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "tdjVn95817A"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMU4zSzE0R1FUOTBYbVlDSDNqU2FvV1VrZGllT0pteHMuQTU2NEVFN0FCOTkwREQzRA",
+						"snippet": {
+							"title": "Third Law",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "vMY5jkQHhRo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMU4zSzE0R1FUOTBYbVlDSDNqU2FvV1VrZGllT0pteHMuMjMyQzk3ODY2ODIzODkyOA",
+						"snippet": {
+							"title": "Rewind",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "OoA8yuO5CD4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMU4zSzE0R1FUOTBYbVlDSDNqU2FvV1VrZGllT0pteHMuMEJBMDVFRjY1Mjg3OTA4RQ",
+						"snippet": {
+							"title": "The Flood",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "VG8YgNM_m9g"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMU4zSzE0R1FUOTBYbVlDSDNqU2FvV1VrZGllT0pteHMuMkNENTQwNEI0MERBQzNERA",
+						"snippet": {
+							"title": "Triumphant",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "S0Wj61K2A_0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMU4zSzE0R1FUOTBYbVlDSDNqU2FvV1VrZGllT0pteHMuNzk4RjIwMEMyMzhCMkQ0Rg",
+						"snippet": {
+							"title": "Within My Fence",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "0Ahd--Nkq4M"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMU4zSzE0R1FUOTBYbVlDSDNqU2FvV1VrZGllT0pteHMuODU3MDRDOURCMDI2MTI0Qg",
+						"snippet": {
+							"title": "Red",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "IM5-xkdzCA4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMU4zSzE0R1FUOTBYbVlDSDNqU2FvV1VrZGllT0pteHMuNzA1MEMzQUFBQ0Q2MDUyNg",
+						"snippet": {
+							"title": "Slave",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "P2Tr3RqU9rM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMU4zSzE0R1FUOTBYbVlDSDNqU2FvV1VrZGllT0pteHMuOTMzQjRDMjQxNTMzNjNGQQ",
+						"snippet": {
+							"title": "Moon",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "ceM4hWx5Vuw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMU4zSzE0R1FUOTBYbVlDSDNqU2FvV1VrZGllT0pteHMuMUMxMzMwMEYzQTFDRDk5NQ",
+						"snippet": {
+							"title": "Down",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "VOvua5Ajjkg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMU4zSzE0R1FUOTBYbVlDSDNqU2FvV1VrZGllT0pteHMuNEQ5NTIzRTM1MDMxMzIzRg",
+						"snippet": {
+							"title": "Lower",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "493nc1PjN04"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_l8CgNuFa9oQzEjenXxEcS_dhV7nzoK3uM",
+				"title": "Album - Dance of Death",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_l8CgNuFa9oQzEjenXxEcS_dhV7nzoK3uM/mqdefault.jpg?sqp=CPT359IGir7X7AMICKvRz70GEAE=&rs=AOn4CLDlDDTdIIF1wu_4xKsu3TZQSKsc1g&v=1739843755",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_l8CgNuFa9oQzEjenXxEcS_dhV7nzoK3uM/sddefault.jpg?sqp=CPT359IGir7X7AMICKvRz70GEAE=&rs=AOn4CLBr6xoyM69HUyrGxlKalg9-k5YMlQ&v=1739843755",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_l8CgNuFa9oQzEjenXxEcS_dhV7nzoK3uM/maxresdefault.jpg?sqp=CPT359IGir7X7AMICKvRz70GEAE=&rs=AOn4CLAB-PhPgMcDtvu3UPtPliHHV5-bFQ&v=1739843755",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sOENnTnVGYTlvUXpFamVuWHhFY1NfZGhWN256b0szdU0uMDM1MEQwNUExQTU5NDY1Ng",
+						"snippet": {
+							"title": "Wildest Dreams (2015 Remaster)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "rlp_wB3i6DQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sOENnTnVGYTlvUXpFamVuWHhFY1NfZGhWN256b0szdU0uNTIyRThGNjEwODUyRDBBMg",
+						"snippet": {
+							"title": "Rainmaker (2015 Remaster)",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "sxefBf865Vg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sOENnTnVGYTlvUXpFamVuWHhFY1NfZGhWN256b0szdU0uRjM3MjEyQTBGRUI5QzQyQw",
+						"snippet": {
+							"title": "No More Lies (2015 Remaster)",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "Pp6nqnRJ3hg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sOENnTnVGYTlvUXpFamVuWHhFY1NfZGhWN256b0szdU0uMUEyQUMzN0ZGNDk5RTE4Mw",
+						"snippet": {
+							"title": "Montségur (2015 Remaster)",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "UaYyJhLB4Qw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sOENnTnVGYTlvUXpFamVuWHhFY1NfZGhWN256b0szdU0uNDMyQTdDMUMyQUIyN0JEQQ",
+						"snippet": {
+							"title": "Dance of Death (2015 Remaster)",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "3659fTXvFts"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sOENnTnVGYTlvUXpFamVuWHhFY1NfZGhWN256b0szdU0uNDkwMUQ5NTczMkZCNTQ0Mw",
+						"snippet": {
+							"title": "Gates of Tomorrow (2015 Remaster)",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "Bxs7DInokvk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sOENnTnVGYTlvUXpFamVuWHhFY1NfZGhWN256b0szdU0uMDk4MjVCNDg0QzQ2Mzk4Mw",
+						"snippet": {
+							"title": "New Frontier (2015 Remaster)",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "L9ZO3sOTAfE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sOENnTnVGYTlvUXpFamVuWHhFY1NfZGhWN256b0szdU0uQTkxN0I0N0YxRTgwQ0Q1NQ",
+						"snippet": {
+							"title": "Paschendale (2015 Remaster)",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "oEFmrm_GdUw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sOENnTnVGYTlvUXpFamVuWHhFY1NfZGhWN256b0szdU0uQjE1M0REQzIzOUMyRDlFQw",
+						"snippet": {
+							"title": "Face in the Sand (2015 Remaster)",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "MQ_l51NBHlw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sOENnTnVGYTlvUXpFamVuWHhFY1NfZGhWN256b0szdU0uNTZEMDNEQTU4Q0ZDNDAzNg",
+						"snippet": {
+							"title": "Age of Innocence (2015 Remaster)",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "bQPK9-k7YtE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sOENnTnVGYTlvUXpFamVuWHhFY1NfZGhWN256b0szdU0uMzI2RjI4RDQ5RkM3NDgwMw",
+						"snippet": {
+							"title": "Journeyman (2015 Remaster)",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "9TqrcywbY6U"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_lIZirsnSbg41CX1xYgibpRhMlZWOwb1LM",
+				"title": "Album - Death Magnetic",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lIZirsnSbg41CX1xYgibpRhMlZWOwb1LM/mqdefault.jpg?sqp=CPj-59IGir7X7AMICLqs9L0GEAE=&rs=AOn4CLAexBrupO4CxPPPJ2KfjDw5uOeY-g&v=1740445242",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lIZirsnSbg41CX1xYgibpRhMlZWOwb1LM/sddefault.jpg?sqp=CPj-59IGir7X7AMICLqs9L0GEAE=&rs=AOn4CLBMCEjs1M-z_U429jVt19jgjLuYNg&v=1740445242",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lIZirsnSbg41CX1xYgibpRhMlZWOwb1LM/maxresdefault.jpg?sqp=CPj-59IGir7X7AMICLqs9L0GEAE=&rs=AOn4CLDP8_Y5N-JH4uGM9Gb3eo3oDNEn3A&v=1740445242",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sSVppcnNuU2JnNDFDWDF4WWdpYnBSaE1sWldPd2IxTE0uRTRGRUJENzE2MUE4MzcxQQ",
+						"snippet": {
+							"title": "That Was Just Your Life",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "VBKtoY8TucA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSVppcnNuU2JnNDFDWDF4WWdpYnBSaE1sWldPd2IxTE0uNDk4OUU0QTI0QUIzRUI5Qg",
+						"snippet": {
+							"title": "The End Of The Line",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "s9CqlV_c71Q"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSVppcnNuU2JnNDFDWDF4WWdpYnBSaE1sWldPd2IxTE0uMUM1OTRGRjg2MDk4NjFGRg",
+						"snippet": {
+							"title": "Broken, Beat & Scarred",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "c6jcz9rStyE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSVppcnNuU2JnNDFDWDF4WWdpYnBSaE1sWldPd2IxTE0uNEU4NkMyN0IxNTE5QUMzOQ",
+						"snippet": {
+							"title": "The Day That Never Comes",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "RD83oy7ksUE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSVppcnNuU2JnNDFDWDF4WWdpYnBSaE1sWldPd2IxTE0uRkVDQzk4NjlGMzAxQkFBQg",
+						"snippet": {
+							"title": "All Nightmare Long",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "kKKxPofBQfU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSVppcnNuU2JnNDFDWDF4WWdpYnBSaE1sWldPd2IxTE0uMTg1RDZFNkNDMDRGRTY2Qg",
+						"snippet": {
+							"title": "Cyanide",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "-bImcFOi7Dg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSVppcnNuU2JnNDFDWDF4WWdpYnBSaE1sWldPd2IxTE0uQTNGRUI0MzVBMjRFNEJCRg",
+						"snippet": {
+							"title": "The Unforgiven III",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "VD4PYP7WUCA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSVppcnNuU2JnNDFDWDF4WWdpYnBSaE1sWldPd2IxTE0uMEI5OUEwN0ZGQTEyNjk0RA",
+						"snippet": {
+							"title": "The Judas Kiss",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "ccRMI9cRxfI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSVppcnNuU2JnNDFDWDF4WWdpYnBSaE1sWldPd2IxTE0uQzM5OENERkY3NUI2RjlFNw",
+						"snippet": {
+							"title": "Suicide & Redemption",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "skXGZUOoY74"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSVppcnNuU2JnNDFDWDF4WWdpYnBSaE1sWldPd2IxTE0uQzYxQUFFMzY1MjNBN0ZBMg",
+						"snippet": {
+							"title": "My Apocalypse",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "dz-987H26zQ"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_lHcqxbTBKlaAcN0490lxBaNs_gg94dTqY",
+				"title": "Album - Flick of the Switch",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lHcqxbTBKlaAcN0490lxBaNs_gg94dTqY/mqdefault.jpg?sqp=CPj-59IGir7X7AMICJnn0b0GEAE=&rs=AOn4CLB2DRgt_Atfh3Q6-oxwku1sc4S9gQ&v=1739879321",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lHcqxbTBKlaAcN0490lxBaNs_gg94dTqY/sddefault.jpg?sqp=CPj-59IGir7X7AMICJnn0b0GEAE=&rs=AOn4CLAtyzGVbfuoIy2iM8yhZUNdz35o_w&v=1739879321",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lHcqxbTBKlaAcN0490lxBaNs_gg94dTqY/maxresdefault.jpg?sqp=CPj-59IGir7X7AMICJnn0b0GEAE=&rs=AOn4CLC_7Nza_YWlhJk7GezhaUmEmnQMVw&v=1739879321",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sSGNxeGJUQktsYUFjTjA0OTBseEJhTnNfZ2c5NGRUcVkuNUI0NzBEQzg0Q0QwNEExOA",
+						"snippet": {
+							"title": "Rising Power",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "jr7r-mjVgfg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSGNxeGJUQktsYUFjTjA0OTBseEJhTnNfZ2c5NGRUcVkuN0RBNTk4QjI3RUY3MURFNQ",
+						"snippet": {
+							"title": "This House Is on Fire",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "XFQVKgi9ECc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSGNxeGJUQktsYUFjTjA0OTBseEJhTnNfZ2c5NGRUcVkuQURFMkUwMTk1REFFMUUwMA",
+						"snippet": {
+							"title": "Flick of the Switch",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "q-rCY3RivDg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSGNxeGJUQktsYUFjTjA0OTBseEJhTnNfZ2c5NGRUcVkuQTU3MUQzNkQ4MDY4QzBBNg",
+						"snippet": {
+							"title": "Nervous Shakedown",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "x9mJ4NVbeoQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSGNxeGJUQktsYUFjTjA0OTBseEJhTnNfZ2c5NGRUcVkuRjY5NEU3MTk4OEQ1RjU3Qg",
+						"snippet": {
+							"title": "Landslide",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "WU6gXQY624A"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSGNxeGJUQktsYUFjTjA0OTBseEJhTnNfZ2c5NGRUcVkuNkE3RkQ0QTI2RTMxQzAwMw",
+						"snippet": {
+							"title": "Guns for Hire",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "Qp8Y5rWBog4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSGNxeGJUQktsYUFjTjA0OTBseEJhTnNfZ2c5NGRUcVkuNzVFNEI3QTFBRTREQjg2Nw",
+						"snippet": {
+							"title": "Deep in the Hole",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "ZWZsgRHJTDw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSGNxeGJUQktsYUFjTjA0OTBseEJhTnNfZ2c5NGRUcVkuQkY3MkVGNDQxMTE1QkRGNw",
+						"snippet": {
+							"title": "Bedlam in Belgium",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "9aijFg3AFRc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSGNxeGJUQktsYUFjTjA0OTBseEJhTnNfZ2c5NGRUcVkuODBBNDI2RDk1QjM3NTM5Qw",
+						"snippet": {
+							"title": "Badlands",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "59i04FwmQZ4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sSGNxeGJUQktsYUFjTjA0OTBseEJhTnNfZ2c5NGRUcVkuRDI4Mzg5M0VBMTU4N0QyQw",
+						"snippet": {
+							"title": "Brain Shake",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "MJ4J6xl7gGU"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mP_wfmnLAK7yp4KyBjrkNjpFiDIaLXba0",
+				"title": "Album - Master of Reality",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mP_wfmnLAK7yp4KyBjrkNjpFiDIaLXba0/mqdefault.jpg?sqp=CPj-59IGir7X7AMICOytq70GEAE=&rs=AOn4CLBhGW5IJT3t-AiJt24ctTbuNyg85A&v=1739249388",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mP_wfmnLAK7yp4KyBjrkNjpFiDIaLXba0/sddefault.jpg?sqp=CPj-59IGir7X7AMICOytq70GEAE=&rs=AOn4CLDBawoNCG-2Ux6kS3yeBXiC2Mdf6g&v=1739249388",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mP_wfmnLAK7yp4KyBjrkNjpFiDIaLXba0/maxresdefault.jpg?sqp=CPj-59IGir7X7AMICOytq70GEAE=&rs=AOn4CLCinmhw5B_OTdcvAFGgj2tl3AaWuQ&v=1739249388",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tUF93Zm1uTEFLN3lwNEt5Qmpya05qcEZpRElhTFhiYTAuOTJENDgwQzc5NUUxODIxRg",
+						"snippet": {
+							"title": "Sweet Leaf (2009 Remaster)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "aXpKtZbHhQI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUF93Zm1uTEFLN3lwNEt5Qmpya05qcEZpRElhTFhiYTAuQzNCODlBODM2NDc1MjJGOQ",
+						"snippet": {
+							"title": "After Forever (2009 Remaster)",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "F-VfSPA8iLc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUF93Zm1uTEFLN3lwNEt5Qmpya05qcEZpRElhTFhiYTAuQzE0MjNEM0RDRTg0QjczNA",
+						"snippet": {
+							"title": "Embryo (2009 Remaster)",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "a6Di2JW-0yc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUF93Zm1uTEFLN3lwNEt5Qmpya05qcEZpRElhTFhiYTAuNjUzQ0QxQkMwMzVFQzc5RA",
+						"snippet": {
+							"title": "Children of the Grave (2009 Remaster)",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "1NN67EzOFO4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUF93Zm1uTEFLN3lwNEt5Qmpya05qcEZpRElhTFhiYTAuMDc3NTI3MjY3MzE0NjkyOA",
+						"snippet": {
+							"title": "Orchid (2009 Remaster)",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "9eHNPWyF_uk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUF93Zm1uTEFLN3lwNEt5Qmpya05qcEZpRElhTFhiYTAuMUQyMzAwMDBENTBFNzI0Mg",
+						"snippet": {
+							"title": "Lord of this World (2009 Remaster)",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "rCJ95vya8l0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUF93Zm1uTEFLN3lwNEt5Qmpya05qcEZpRElhTFhiYTAuNzkzNTI2RDk4RUIwQTU4OA",
+						"snippet": {
+							"title": "Solitude (2009 Remaster)",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "lejk2BmBbvk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUF93Zm1uTEFLN3lwNEt5Qmpya05qcEZpRElhTFhiYTAuMjEwRjVBMTc0MjZEM0FEMQ",
+						"snippet": {
+							"title": "Into the Void (2009 Remaster)",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "-R5XnrZn47Q"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_lhrQQKBwL-MndIQ077Jq-4eKiq5oo-hJw",
+				"title": "Album - Paranoid",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lhrQQKBwL-MndIQ077Jq-4eKiq5oo-hJw/mqdefault.jpg?sqp=CPj-59IGir7X7AMICOPMnL0GEAE=&rs=AOn4CLDVCORtntuiNB9jx1y6YNHjaRiv5w&v=1739007587",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lhrQQKBwL-MndIQ077Jq-4eKiq5oo-hJw/sddefault.jpg?sqp=CPj-59IGir7X7AMICOPMnL0GEAE=&rs=AOn4CLAIWW3dFu9sQwPW3OxdqR_x8rws8Q&v=1739007587",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lhrQQKBwL-MndIQ077Jq-4eKiq5oo-hJw/maxresdefault.jpg?sqp=CPj-59IGir7X7AMICOPMnL0GEAE=&rs=AOn4CLBypNK5MjmfiSIXyvclSRK4rgeenQ&v=1739007587",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9saHJRUUtCd0wtTW5kSVEwNzdKcS00ZUtpcTVvby1oSncuNThCRDJDNUM2NEZCRDMwRQ",
+						"snippet": {
+							"title": "War Pigs / Luke's Wall (2012 Remaster)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "zVY--knsDc4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9saHJRUUtCd0wtTW5kSVEwNzdKcS00ZUtpcTVvby1oSncuRUFDNkI3RTBEM0FFNTAzMA",
+						"snippet": {
+							"title": "Paranoid (2012 Remaster)",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "WfmXJuurKH8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9saHJRUUtCd0wtTW5kSVEwNzdKcS00ZUtpcTVvby1oSncuOTIxNEJBNTFDNEIxMkRDNg",
+						"snippet": {
+							"title": "Planet Caravan (2012 Remaster)",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "NhyGGLic1QM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9saHJRUUtCd0wtTW5kSVEwNzdKcS00ZUtpcTVvby1oSncuNjhGQjYzOTNDQjZBMDI0QQ",
+						"snippet": {
+							"title": "Iron Man (2012 Remaster)",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "pOfBdvuky1s"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9saHJRUUtCd0wtTW5kSVEwNzdKcS00ZUtpcTVvby1oSncuNEEzRkYyMEU4QUIxNkQ2RQ",
+						"snippet": {
+							"title": "Electric Funeral (2012 Remaster)",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "ZyEUk1ZJLn4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9saHJRUUtCd0wtTW5kSVEwNzdKcS00ZUtpcTVvby1oSncuQjYyREMyRjA1NjE4NjRGMQ",
+						"snippet": {
+							"title": "Hand of Doom (2012 Remaster)",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "o6HmfTdwYZg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9saHJRUUtCd0wtTW5kSVEwNzdKcS00ZUtpcTVvby1oSncuN0I4RTI1OTFBQTg2Mjk4Nw",
+						"snippet": {
+							"title": "Rat Salad (2012 Remaster)",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "RLlU-5GqLvo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9saHJRUUtCd0wtTW5kSVEwNzdKcS00ZUtpcTVvby1oSncuQzhCRjY5NUZBRUI1Rjc2OQ",
+						"snippet": {
+							"title": "Jack the Stripper / Fairies Wear Boots (2012 Remaster)",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "GQ_zSa8KxMY"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_msHcqLxIGsqY6jJzI2rDdf_PmgyIVBC2c",
+				"title": "Album - System Of A Down",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_msHcqLxIGsqY6jJzI2rDdf_PmgyIVBC2c/mqdefault.jpg?sqp=CKSB6NIGir7X7AMICIWoxcAGEAE=&rs=AOn4CLALZOwwoIz-XSrJkZQgzeEb2rxntQ&v=1745966085",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_msHcqLxIGsqY6jJzI2rDdf_PmgyIVBC2c/sddefault.jpg?sqp=CKSB6NIGir7X7AMICIWoxcAGEAE=&rs=AOn4CLDRCBxRyjHXyeJ1Lqpyr8cNPNHkRQ&v=1745966085",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_msHcqLxIGsqY6jJzI2rDdf_PmgyIVBC2c/maxresdefault.jpg?sqp=CKSB6NIGir7X7AMICIWoxcAGEAE=&rs=AOn4CLDIlsAQtfkN2uS1suyd9ez8i06dzA&v=1745966085",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tc0hjcUx4SUdzcVk2akp6STJyRGRmX1BtZ3lJVkJDMmMuNDkxQkU2ODNFRTk3RjdENQ",
+						"snippet": {
+							"title": "Suite-Pee",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "aA0VhVJg2pU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tc0hjcUx4SUdzcVk2akp6STJyRGRmX1BtZ3lJVkJDMmMuRUI2RDhCOTkwQ0NGMDM2OQ",
+						"snippet": {
+							"title": "Know",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "cBPNGzq3aTk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tc0hjcUx4SUdzcVk2akp6STJyRGRmX1BtZ3lJVkJDMmMuMTc0N0RDMDYyQTQwMDAxOQ",
+						"snippet": {
+							"title": "Sugar",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "JYWYcgxOz_M"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tc0hjcUx4SUdzcVk2akp6STJyRGRmX1BtZ3lJVkJDMmMuRjk0QkE1Nzg2NTlEOEE1Mg",
+						"snippet": {
+							"title": "Suggestions",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "-AY4CHQNG3Q"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tc0hjcUx4SUdzcVk2akp6STJyRGRmX1BtZ3lJVkJDMmMuNkM4NTQwNkRFRjRBMzNGNg",
+						"snippet": {
+							"title": "Spiders",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "HUsltIKMh8Q"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tc0hjcUx4SUdzcVk2akp6STJyRGRmX1BtZ3lJVkJDMmMuNTI2NUMxOEI2NDhERjJENg",
+						"snippet": {
+							"title": "DDevil",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "wCUTpATg-eE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tc0hjcUx4SUdzcVk2akp6STJyRGRmX1BtZ3lJVkJDMmMuQ0IzMjc4QzFCMjU4NkNCRg",
+						"snippet": {
+							"title": "Soil",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "HwS0fKWg8F4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tc0hjcUx4SUdzcVk2akp6STJyRGRmX1BtZ3lJVkJDMmMuNjM3QzZGQ0FCRjJBMzJBNA",
+						"snippet": {
+							"title": "War?",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "DkdEDRpTTfc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tc0hjcUx4SUdzcVk2akp6STJyRGRmX1BtZ3lJVkJDMmMuNkE2QzU1MjUwNDg4MzZGNg",
+						"snippet": {
+							"title": "Mind",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "2GXPV95nKJQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tc0hjcUx4SUdzcVk2akp6STJyRGRmX1BtZ3lJVkJDMmMuNkFGNEQwNkI0QkEzNDhCQw",
+						"snippet": {
+							"title": "Peephole",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "OVW6n1Nn2OQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tc0hjcUx4SUdzcVk2akp6STJyRGRmX1BtZ3lJVkJDMmMuNTY1M0ZFM0M1RkVBMjA4NQ",
+						"snippet": {
+							"title": "CUBErt",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "B0jih75w5Tw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tc0hjcUx4SUdzcVk2akp6STJyRGRmX1BtZ3lJVkJDMmMuNjNCQTY2NUNCMjQxRTUwOQ",
+						"snippet": {
+							"title": "Darts",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "hOlvVWrbeaM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tc0hjcUx4SUdzcVk2akp6STJyRGRmX1BtZ3lJVkJDMmMuNkEyOUIxRDdEOEFCQkMyNA",
+						"snippet": {
+							"title": "P.L.U.C.K.",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "1Y1sPqwKOsM"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_n1sOLxWCfeedpeiN-YS7H5xJq5Qptac-M",
+				"title": "Album - Toxicity",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_n1sOLxWCfeedpeiN-YS7H5xJq5Qptac-M/mqdefault.jpg?sqp=CKSB6NIGir7X7AMICLqOycAGEAE=&rs=AOn4CLAoTshMn2lLlg310jGezmdcfzS_Uw&v=1746028346",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_n1sOLxWCfeedpeiN-YS7H5xJq5Qptac-M/sddefault.jpg?sqp=CKSB6NIGir7X7AMICLqOycAGEAE=&rs=AOn4CLBRlqrw3P0_p9AyhnTcV58h-wmpQw&v=1746028346",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_n1sOLxWCfeedpeiN-YS7H5xJq5Qptac-M/maxresdefault.jpg?sqp=CKSB6NIGir7X7AMICLqOycAGEAE=&rs=AOn4CLCab6qDqyMlJaA8JWgWrVmU7ZTfrg&v=1746028346",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9uMXNPTHhXQ2ZlZWRwZWlOLVlTN0g1eEpxNVFwdGFjLU0uQjVFRUZGQ0VCNkI0MjYxMQ",
+						"snippet": {
+							"title": "Prison Song",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "s7ZsYe5Uwg0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uMXNPTHhXQ2ZlZWRwZWlOLVlTN0g1eEpxNVFwdGFjLU0uMkJERDU4NkZFRjA2MTdFQw",
+						"snippet": {
+							"title": "Needles",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "Y45oADjAAuQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uMXNPTHhXQ2ZlZWRwZWlOLVlTN0g1eEpxNVFwdGFjLU0uNDkyQkQwN0JDQUU0MEM1OQ",
+						"snippet": {
+							"title": "Deer Dance",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "mdNLnT7GpN0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uMXNPTHhXQ2ZlZWRwZWlOLVlTN0g1eEpxNVFwdGFjLU0uMDlFN0U0MkRCNTBDMzY1RQ",
+						"snippet": {
+							"title": "Jet Pilot",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "QwyZ1gOhU_o"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uMXNPTHhXQ2ZlZWRwZWlOLVlTN0g1eEpxNVFwdGFjLU0uOUY4RDRCMkVEOUZFRkU5Mw",
+						"snippet": {
+							"title": "X",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "-s3pZTbS724"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uMXNPTHhXQ2ZlZWRwZWlOLVlTN0g1eEpxNVFwdGFjLU0uRTM5QkM2NzYwREUyNTMwOQ",
+						"snippet": {
+							"title": "Chop Suey!",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "MlcJQYON2Go"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uMXNPTHhXQ2ZlZWRwZWlOLVlTN0g1eEpxNVFwdGFjLU0uQkI5RDk0N0VBQzRDMjgxNA",
+						"snippet": {
+							"title": "Bounce",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "BB3qCFrJSIM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uMXNPTHhXQ2ZlZWRwZWlOLVlTN0g1eEpxNVFwdGFjLU0uRTU0QjdEQjZENjkzQjVBQw",
+						"snippet": {
+							"title": "Forest",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "GkPna4xPJmE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uMXNPTHhXQ2ZlZWRwZWlOLVlTN0g1eEpxNVFwdGFjLU0uOUJBRjIzRjQ5M0ZDQkQzQQ",
+						"snippet": {
+							"title": "ATWA",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "Ph8Qt3DHVwo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uMXNPTHhXQ2ZlZWRwZWlOLVlTN0g1eEpxNVFwdGFjLU0uNEFCMEU3QzRFOTY3QzA2OA",
+						"snippet": {
+							"title": "Science",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "n4W31QsA8NA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uMXNPTHhXQ2ZlZWRwZWlOLVlTN0g1eEpxNVFwdGFjLU0uRjg1M0EyQjY3QjJEODQ4OQ",
+						"snippet": {
+							"title": "Shimmy",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "CEtm75L0NAw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uMXNPTHhXQ2ZlZWRwZWlOLVlTN0g1eEpxNVFwdGFjLU0uNDIwRjk0ODM3RDE0NTU2QQ",
+						"snippet": {
+							"title": "Toxicity",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "mUEsqQpact0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uMXNPTHhXQ2ZlZWRwZWlOLVlTN0g1eEpxNVFwdGFjLU0uNzBDMDNFODU0NkU4MTIyMg",
+						"snippet": {
+							"title": "Psycho",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "-n90NojU8O0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uMXNPTHhXQ2ZlZWRwZWlOLVlTN0g1eEpxNVFwdGFjLU0uMzFCQTJBNkMzRjRDOTFBRA",
+						"snippet": {
+							"title": "Aerials",
+							"position": 13
+						},
+						"contentDetails": {
+							"videoId": "e-2251_at-k"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uMXNPTHhXQ2ZlZWRwZWlOLVlTN0g1eEpxNVFwdGFjLU0uOEE1MjZDNDA5NkE5QjFCOA",
+						"snippet": {
+							"title": "Der Voghormia",
+							"position": 14
+						},
+						"contentDetails": {
+							"videoId": "qNG7H0r2-SE"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mYq4gxdQ-HjhNUXxEZW0qKb-HAB5hb4qk",
+				"title": "Album - Undertow",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mYq4gxdQ-HjhNUXxEZW0qKb-HAB5hb4qk/mqdefault.jpg?sqp=CKSB6NIGir7X7AMICL6Nur0GEAE=&rs=AOn4CLCtlK73sRRkRr0aPXrm3_lofIo-3w&v=1739491006",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mYq4gxdQ-HjhNUXxEZW0qKb-HAB5hb4qk/sddefault.jpg?sqp=CKSB6NIGir7X7AMICL6Nur0GEAE=&rs=AOn4CLCMHTlUS4kxUwvoxvpbtjPr8LeVKA&v=1739491006",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mYq4gxdQ-HjhNUXxEZW0qKb-HAB5hb4qk/maxresdefault.jpg?sqp=CKSB6NIGir7X7AMICL6Nur0GEAE=&rs=AOn4CLCqvS4MQq7OcOKT7flsBL2ewwifaQ&v=1739491006",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tWXE0Z3hkUS1IamhOVVh4RVpXMHFLYi1IQUI1aGI0cWsuNUI0NzBEQzg0Q0QwNEExOA",
+						"snippet": {
+							"title": "Intolerance",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "Ebr85ORhciU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tWXE0Z3hkUS1IamhOVVh4RVpXMHFLYi1IQUI1aGI0cWsuN0RBNTk4QjI3RUY3MURFNQ",
+						"snippet": {
+							"title": "Prison Sex",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "CeTKHfMNO58"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tWXE0Z3hkUS1IamhOVVh4RVpXMHFLYi1IQUI1aGI0cWsuQURFMkUwMTk1REFFMUUwMA",
+						"snippet": {
+							"title": "Sober",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "DhMv5WVOli4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tWXE0Z3hkUS1IamhOVVh4RVpXMHFLYi1IQUI1aGI0cWsuQTU3MUQzNkQ4MDY4QzBBNg",
+						"snippet": {
+							"title": "Bottom",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "7w4AE4Mat8o"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tWXE0Z3hkUS1IamhOVVh4RVpXMHFLYi1IQUI1aGI0cWsuRjY5NEU3MTk4OEQ1RjU3Qg",
+						"snippet": {
+							"title": "Crawl Away",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "Cw8V1TQXcGc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tWXE0Z3hkUS1IamhOVVh4RVpXMHFLYi1IQUI1aGI0cWsuNkE3RkQ0QTI2RTMxQzAwMw",
+						"snippet": {
+							"title": "Swamp Song",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "2vFY8ufrslw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tWXE0Z3hkUS1IamhOVVh4RVpXMHFLYi1IQUI1aGI0cWsuNzVFNEI3QTFBRTREQjg2Nw",
+						"snippet": {
+							"title": "Undertow",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "QixM_mwdVoQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tWXE0Z3hkUS1IamhOVVh4RVpXMHFLYi1IQUI1aGI0cWsuQkY3MkVGNDQxMTE1QkRGNw",
+						"snippet": {
+							"title": "4°",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "dzEahGFoEsw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tWXE0Z3hkUS1IamhOVVh4RVpXMHFLYi1IQUI1aGI0cWsuODBBNDI2RDk1QjM3NTM5Qw",
+						"snippet": {
+							"title": "Flood",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "FgNuLP3xpjo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tWXE0Z3hkUS1IamhOVVh4RVpXMHFLYi1IQUI1aGI0cWsuRDI4Mzg5M0VBMTU4N0QyQw",
+						"snippet": {
+							"title": "Disgustipated",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "b2BKKeiYH24"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_maU4SwS7_CypBvS0iQyjlmIXYv-RCWA7A",
+				"title": "Album - Spiritual Instinct",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_maU4SwS7_CypBvS0iQyjlmIXYv-RCWA7A/mqdefault.jpg?sqp=CKSB6NIGir7X7AMICNu3x70GEAE=&rs=AOn4CLAHuTemobCy55GatF90H1Kd9laIhQ&v=1739709403",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_maU4SwS7_CypBvS0iQyjlmIXYv-RCWA7A/sddefault.jpg?sqp=CKSB6NIGir7X7AMICNu3x70GEAE=&rs=AOn4CLA4opfvI3goFQ5LdYFiUZjTq79O_Q&v=1739709403",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_maU4SwS7_CypBvS0iQyjlmIXYv-RCWA7A/maxresdefault.jpg?sqp=CKSB6NIGir7X7AMICNu3x70GEAE=&rs=AOn4CLD-diXQNzNQfUdE2JWO7Jwas4suJQ&v=1739709403",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tYVU0U3dTN19DeXBCdlMwaVF5amxtSVhZdi1SQ1dBN0EuODI3Q0FGNkQ0NDgzMzRDRA",
+						"snippet": {
+							"title": "Les jardins de minuit",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "sYrIKhDYRqg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tYVU0U3dTN19DeXBCdlMwaVF5amxtSVhZdi1SQ1dBN0EuQkFGRjRENkU3NDQ4RjgyRQ",
+						"snippet": {
+							"title": "Protection",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "3cMNQWFAWoQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tYVU0U3dTN19DeXBCdlMwaVF5amxtSVhZdi1SQ1dBN0EuQkEyMjdEMTgxQTgyMTNEMQ",
+						"snippet": {
+							"title": "Sapphire",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "ZsXsZqPKXfA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tYVU0U3dTN19DeXBCdlMwaVF5amxtSVhZdi1SQ1dBN0EuRDE0Q0NENDE2MkUzNTdCOA",
+						"snippet": {
+							"title": "L'île des morts",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "u7LH04APJxA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tYVU0U3dTN19DeXBCdlMwaVF5amxtSVhZdi1SQ1dBN0EuNEU0NTIwNUE5Qzg3QzBGNQ",
+						"snippet": {
+							"title": "Le miroir",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "e5KajWwRMwY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tYVU0U3dTN19DeXBCdlMwaVF5amxtSVhZdi1SQ1dBN0EuQzZBODVEMEMxRUI2NEQ3RA",
+						"snippet": {
+							"title": "Spiritual Instinct",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "ZhEkE5gWEGQ"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_kwFOUs5ekm4FZd1BiX9fBkZL2qmcKqBvs",
+				"title": "Album - Step into Liquid Soundtrack",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kwFOUs5ekm4FZd1BiX9fBkZL2qmcKqBvs/mqdefault.jpg?sqp=CNSK6NIGir7X7AMICP7wjswGEAE=&rs=AOn4CLC5Y0oLz-jxo4PsaZ1tKZFDy4Px1A&v=1770240126",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kwFOUs5ekm4FZd1BiX9fBkZL2qmcKqBvs/sddefault.jpg?sqp=CNSK6NIGir7X7AMICP7wjswGEAE=&rs=AOn4CLA68h_ywrMhuMP4CveMoJmM6hz-qQ&v=1770240126",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kwFOUs5ekm4FZd1BiX9fBkZL2qmcKqBvs/maxresdefault.jpg?sqp=CNSK6NIGir7X7AMICP7wjswGEAE=&rs=AOn4CLDnBFiGiY5FNfjk2Cqts8Yrgx1yFw&v=1770240126",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuMzU0OTkzQTBBNzU5QUM3Mw",
+						"snippet": {
+							"title": "Dialogue from the Movie 1",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "7Z4E3HyW3y0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuNDgxQkM2MTAwNzk5RjI0MA",
+						"snippet": {
+							"title": "Step into Liquid",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "AGqN4Hfx5Fw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuRERDMzkyMTYzRjU0QjQwNQ",
+						"snippet": {
+							"title": "Dialogue from the Movie 2",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "Gu0p4Txs9S8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuNURDMjNGQTAxNDhGRDJGRg",
+						"snippet": {
+							"title": "Only One",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "KdNoeo_Ur1U"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuNkFEOEY0RjBCRTc4NjQ4OQ",
+						"snippet": {
+							"title": "Dialogue from the Movie 3",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "H7JnDswVZj4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuNUNENzM5N0U2OUFDNTdCQw",
+						"snippet": {
+							"title": "Dracula from Houston",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "R3Z8mrvWWKY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuN0ZEREM1MDU1MUFFMDVBMg",
+						"snippet": {
+							"title": "Dialogue from the Movie 4",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "JYHblP6CH7Q"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuNTIyRkEzMjFBRTdCQkU5MA",
+						"snippet": {
+							"title": "Endlessly",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "sOKXbwjhf7s"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuQzcyN0M5RjkxMzM5MkFGQw",
+						"snippet": {
+							"title": "Dialogue from the Movie 5",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "sxY_zJsr6R0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuMDIxMjBBQzE4MzVFM0U4OQ",
+						"snippet": {
+							"title": "(The Legend Of) Johnny Cool",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "WKHSCF4sn-I"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuNEQ5RTI2MUJGNEMzREYwMg",
+						"snippet": {
+							"title": "Dialogue from the Movie 6",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "XuatAQtGfio"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuQ0IxMTIxNkIyRDEwQkUyMQ",
+						"snippet": {
+							"title": "Cinecitta",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "SQeuPnE-368"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuMDIxQUE5RTgwRTY5NDY2QQ",
+						"snippet": {
+							"title": "Dialogue from the Movie 7",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "ojyGTxRj1Hg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuQkZGOEJCNjEyQjFFMTMzMg",
+						"snippet": {
+							"title": "Submission",
+							"position": 13
+						},
+						"contentDetails": {
+							"videoId": "PCgYJRgobsk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuRDU1NzM5OEZEODU4ODkwQQ",
+						"snippet": {
+							"title": "Dialogue from the Movie 8",
+							"position": 14
+						},
+						"contentDetails": {
+							"videoId": "S7p8dP5SZSc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuMUU0QTUyRDg0QzMyNkQ5Nw",
+						"snippet": {
+							"title": "Touched",
+							"position": 15
+						},
+						"contentDetails": {
+							"videoId": "JrBaqtU0M3k"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuRUQxQjEwOTJEM0ZCMDlENw",
+						"snippet": {
+							"title": "Dialogue from the Movie 9",
+							"position": 16
+						},
+						"contentDetails": {
+							"videoId": "R8SppqYHBYQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuNEM1QUIwQkI1NzhBMjUwRQ",
+						"snippet": {
+							"title": "Mellow Mood",
+							"position": 17
+						},
+						"contentDetails": {
+							"videoId": "mLsZc_Q0cYo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuMzE2RUY1MTNCNzkzMkM3Nw",
+						"snippet": {
+							"title": "Dialogue from the Movie 10",
+							"position": 18
+						},
+						"contentDetails": {
+							"videoId": "DJffKmryHwA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuNjRCRTBFRkE2MjU3Q0I2NA",
+						"snippet": {
+							"title": "Irish Waves",
+							"position": 19
+						},
+						"contentDetails": {
+							"videoId": "fXiIcwSPiu8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuNjZGQTEwNjM1NDQxODk2NA",
+						"snippet": {
+							"title": "Dialogue from the Movie 11",
+							"position": 20
+						},
+						"contentDetails": {
+							"videoId": "72FR_3hgJHY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuRjMzMUFGQzFDRDkwREY5NQ",
+						"snippet": {
+							"title": "Call of the Wave",
+							"position": 21
+						},
+						"contentDetails": {
+							"videoId": "KOucLjNl2Ng"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuRjRFNTYwRkUzNUZBQjY5MQ",
+						"snippet": {
+							"title": "Dialogue from the Movie 12",
+							"position": 22
+						},
+						"contentDetails": {
+							"videoId": "AX4pd57MPIE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuRjcwMjRBNzJEOTlFNTBDOQ",
+						"snippet": {
+							"title": "Windshield Wipers",
+							"position": 23
+						},
+						"contentDetails": {
+							"videoId": "CsBP5dexN4E"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuNEExNTVERTJFNTc5QjNGQQ",
+						"snippet": {
+							"title": "Dialogue from the Movie 13",
+							"position": 24
+						},
+						"contentDetails": {
+							"videoId": "FI0fat_jGoY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuN0Y1MThCRDIzRDcyNjQzMw",
+						"snippet": {
+							"title": "Back to You",
+							"position": 25
+						},
+						"contentDetails": {
+							"videoId": "nyAVTD1hGzU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuREYxMkNBQTFGNzlFQTU0NQ",
+						"snippet": {
+							"title": "Dialogue from the Movie 14",
+							"position": 26
+						},
+						"contentDetails": {
+							"videoId": "7dB0AxN49uk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuMUNGQzYyMDBCRUNGMzA2QQ",
+						"snippet": {
+							"title": "Life Is a Miracle",
+							"position": 27
+						},
+						"contentDetails": {
+							"videoId": "cyzyC3-JsKM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuNjZCMjZBRERCN0U1NEYwRA",
+						"snippet": {
+							"title": "Glassier & Glassier",
+							"position": 28
+						},
+						"contentDetails": {
+							"videoId": "IDqBi69RvBU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuNzAwQkU4REZEQzVGODA4Nw",
+						"snippet": {
+							"title": "Rapa Nui",
+							"position": 29
+						},
+						"contentDetails": {
+							"videoId": "tF0j8tE8l-U"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuQUQwNURDODQ2RThGRThGRQ",
+						"snippet": {
+							"title": "100 Miles Out",
+							"position": 30
+						},
+						"contentDetails": {
+							"videoId": "JlBl40zoJNE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuMzFDNDA5RjkyMDFCMTlEQQ",
+						"snippet": {
+							"title": "Down Under",
+							"position": 31
+						},
+						"contentDetails": {
+							"videoId": "cnX8un_NI7w"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuMTU4QzVEMUNFMkFEMjgzRg",
+						"snippet": {
+							"title": "Erin Go Surf",
+							"position": 32
+						},
+						"contentDetails": {
+							"videoId": "aX0awnvAyZo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuM0FDNTJCQzc1RTI4MkZFMg",
+						"snippet": {
+							"title": "Jesse",
+							"position": 33
+						},
+						"contentDetails": {
+							"videoId": "Jl67hUZhCXo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuMjc3MDA1NzFFNjk0M0QxRA",
+						"snippet": {
+							"title": "Size Doesn't Matter",
+							"position": 34
+						},
+						"contentDetails": {
+							"videoId": "KVpzOeLkMBc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rd0ZPVXM1ZWttNEZaZDFCaVg5ZkJrWkwycW1jS3FCdnMuRUNCMzMyRDBBQjBGNThCMg",
+						"snippet": {
+							"title": "Dialogue from the Movie 15",
+							"position": 35
+						},
+						"contentDetails": {
+							"videoId": "u9uhb8BKdmU"
+						}
+					}
+				]
+			},
+			{
+				"id": "PLeG_OwnDgwh8",
+				"title": "&ME - Pussy Power (DESIREE Remix)",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/KrtHHN25taI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/KrtHHN25taI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/KrtHHN25taI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/KrtHHN25taI/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/KrtHHN25taI/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"items": [
+					{
+						"id": "UExlR19Pd25EZ3doOC41NkI0NEY2RDEwNTU3Q0M2",
+						"snippet": {
+							"title": "Pussy Power (DESIREE Remix)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "KrtHHN25taI"
+						}
+					}
+				]
+			},
+			{
+				"id": "PLHTo__bpnlYXWk1oGp5lPHXdFBDlOsN4k",
+				"title": "Machine Head - The Blackening (Deluxe)",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/OiIvbuy_pik/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/OiIvbuy_pik/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/OiIvbuy_pik/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/OiIvbuy_pik/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/OiIvbuy_pik/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"items": [
+					{
+						"id": "UExIVG9fX2JwbmxZWFdrMW9HcDVsUEhYZEZCRGxPc040ay41NkI0NEY2RDEwNTU3Q0M2",
+						"snippet": {
+							"title": "Clenching the Fists of Dissent",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "OiIvbuy_pik"
+						}
+					},
+					{
+						"id": "UExIVG9fX2JwbmxZWFdrMW9HcDVsUEhYZEZCRGxPc040ay4yODlGNEE0NkRGMEEzMEQy",
+						"snippet": {
+							"title": "Beautiful Mourning",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "fiWLim1XvVs"
+						}
+					},
+					{
+						"id": "UExIVG9fX2JwbmxZWFdrMW9HcDVsUEhYZEZCRGxPc040ay4wMTcyMDhGQUE4NTIzM0Y5",
+						"snippet": {
+							"title": "Aesthetics of Hate",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "HXfp0w-0HBw"
+						}
+					},
+					{
+						"id": "UExIVG9fX2JwbmxZWFdrMW9HcDVsUEhYZEZCRGxPc040ay41MjE1MkI0OTQ2QzJGNzNG",
+						"snippet": {
+							"title": "Now I Lay Thee Down",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "CWkJ-FSSETs"
+						}
+					},
+					{
+						"id": "UExIVG9fX2JwbmxZWFdrMW9HcDVsUEhYZEZCRGxPc040ay4wOTA3OTZBNzVEMTUzOTMy",
+						"snippet": {
+							"title": "Slanderous",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "FxyUM0OI7dY"
+						}
+					},
+					{
+						"id": "UExIVG9fX2JwbmxZWFdrMW9HcDVsUEhYZEZCRGxPc040ay4xMkVGQjNCMUM1N0RFNEUx",
+						"snippet": {
+							"title": "Halo",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "qJ2kZrHsGOU"
+						}
+					},
+					{
+						"id": "UExIVG9fX2JwbmxZWFdrMW9HcDVsUEhYZEZCRGxPc040ay41MzJCQjBCNDIyRkJDN0VD",
+						"snippet": {
+							"title": "Wolves",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "TSIL8KaGqwo"
+						}
+					},
+					{
+						"id": "UExIVG9fX2JwbmxZWFdrMW9HcDVsUEhYZEZCRGxPc040ay5DQUNERDQ2NkIzRUQxNTY1",
+						"snippet": {
+							"title": "A Farewell to Arms",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "_ulPfju9o5s"
+						}
+					},
+					{
+						"id": "UExIVG9fX2JwbmxZWFdrMW9HcDVsUEhYZEZCRGxPc040ay45NDk1REZENzhEMzU5MDQz",
+						"snippet": {
+							"title": "Hallowed Be Thy Name",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "mqhI30R_850"
+						}
+					},
+					{
+						"id": "UExIVG9fX2JwbmxZWFdrMW9HcDVsUEhYZEZCRGxPc040ay5GNjNDRDREMDQxOThCMDQ2",
+						"snippet": {
+							"title": "Battery",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "vL_t6c6mZYg"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_lCl8VFn-xBO9PlDF2E0FXSjhaU0dLJP9I",
+				"title": "Album - Pablo Honey",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lCl8VFn-xBO9PlDF2E0FXSjhaU0dLJP9I/mqdefault.jpg?sqp=CMzH6NIGir7X7AMICI-ZzcAGEAE=&rs=AOn4CLCfCwrCgWolkPlpCwE0o1PKxzDDCA&v=1746095247",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lCl8VFn-xBO9PlDF2E0FXSjhaU0dLJP9I/sddefault.jpg?sqp=CMzH6NIGir7X7AMICI-ZzcAGEAE=&rs=AOn4CLCzGbsDApkbLfNpYQPiSCCLB1auSQ&v=1746095247",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lCl8VFn-xBO9PlDF2E0FXSjhaU0dLJP9I/maxresdefault.jpg?sqp=CMzH6NIGir7X7AMICI-ZzcAGEAE=&rs=AOn4CLARv4xroLy5rPhvKOXQRmIIAUD_aA&v=1746095247",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sQ2w4VkZuLXhCTzlQbERGMkUwRlhTamhhVTBkTEpQOUkuNkQzODNBMjI0OTZFMDkwOA",
+						"snippet": {
+							"title": "You",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "OzL7u5teZhg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQ2w4VkZuLXhCTzlQbERGMkUwRlhTamhhVTBkTEpQOUkuREFGN0IzMjhEMDE1NTM4MQ",
+						"snippet": {
+							"title": "Creep",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "zFYEYRcjK2g"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQ2w4VkZuLXhCTzlQbERGMkUwRlhTamhhVTBkTEpQOUkuRjFGNkNDRDc0MDA2REZGRg",
+						"snippet": {
+							"title": "How Do You?",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "ukFTig7exNU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQ2w4VkZuLXhCTzlQbERGMkUwRlhTamhhVTBkTEpQOUkuN0MxNTgxMTYwQjE1N0Q0NA",
+						"snippet": {
+							"title": "Stop Whispering",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "DPpug5FUQsc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQ2w4VkZuLXhCTzlQbERGMkUwRlhTamhhVTBkTEpQOUkuNUU4QjZGODFERUZBMTkxMQ",
+						"snippet": {
+							"title": "Thinking About You",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "2jsPEOiMNaA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQ2w4VkZuLXhCTzlQbERGMkUwRlhTamhhVTBkTEpQOUkuMTkxRjY2QjNCN0M4OUNCRA",
+						"snippet": {
+							"title": "Anyone Can Play Guitar",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "i_GZJLH0ynY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQ2w4VkZuLXhCTzlQbERGMkUwRlhTamhhVTBkTEpQOUkuNEI1RjJGMDYzRjQ5NDg5Rg",
+						"snippet": {
+							"title": "Ripcord",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "i0GC7Oo_Zo4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQ2w4VkZuLXhCTzlQbERGMkUwRlhTamhhVTBkTEpQOUkuRDdFNDU3MzkwOUI0RDQ4Mg",
+						"snippet": {
+							"title": "Vegetable",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "kALoYb7bepI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQ2w4VkZuLXhCTzlQbERGMkUwRlhTamhhVTBkTEpQOUkuNUQwN0JFNzM0QTM4N0E3Qg",
+						"snippet": {
+							"title": "Prove Yourself",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "o6Hqe1qKUhA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQ2w4VkZuLXhCTzlQbERGMkUwRlhTamhhVTBkTEpQOUkuQkU5NzRDOTFEREY4RjAxMg",
+						"snippet": {
+							"title": "I Can't",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "cwQZ3O3hUe8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQ2w4VkZuLXhCTzlQbERGMkUwRlhTamhhVTBkTEpQOUkuRDdENTc0M0M4OTNFQjJBNw",
+						"snippet": {
+							"title": "Lurgee",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "RGx5wxznSOE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQ2w4VkZuLXhCTzlQbERGMkUwRlhTamhhVTBkTEpQOUkuNDJGN0I1RkQzQzFBMDA4Ng",
+						"snippet": {
+							"title": "Blow Out",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "ocQImpRfPMk"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_k5UkkoR5FNHkjtFjFWzu7xa523AFXe70U",
+				"title": "Album - Marathon",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_k5UkkoR5FNHkjtFjFWzu7xa523AFXe70U/mqdefault.jpg?sqp=CMzH6NIGir7X7AMICJTmx70GEAE=&rs=AOn4CLBCYkVwb6bWxtovUEGkU9OFAZ3afQ&v=1739715348",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_k5UkkoR5FNHkjtFjFWzu7xa523AFXe70U/sddefault.jpg?sqp=CMzH6NIGir7X7AMICJTmx70GEAE=&rs=AOn4CLDdtaED7-z4avUK9bqSJUP4JnL-EA&v=1739715348",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_k5UkkoR5FNHkjtFjFWzu7xa523AFXe70U/maxresdefault.jpg?sqp=CMzH6NIGir7X7AMICJTmx70GEAE=&rs=AOn4CLCumGEO1ZvULvyK6EuVoZcscWo4pQ&v=1739715348",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9rNVVra29SNUZOSGtqdEZqRld6dTd4YTUyM0FGWGU3MFUuNTU0NzY1M0EyOEVFRjBEMg",
+						"snippet": {
+							"title": "Marathon",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "DCa-otx1eRI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rNVVra29SNUZOSGtqdEZqRld6dTd4YTUyM0FGWGU3MFUuOTVBMTY0Rjg3QTc5N0U5Ng",
+						"snippet": {
+							"title": "Lightning In the Sky",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "lMD1q75qJHw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rNVVra29SNUZOSGtqdEZqRld6dTd4YTUyM0FGWGU3MFUuNDMxRDc1MTEyRjQxRDA1QQ",
+						"snippet": {
+							"title": "Aqua Marine",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "waxFYn5LNOU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rNVVra29SNUZOSGtqdEZqRld6dTd4YTUyM0FGWGU3MFUuQUI1MTU4QzI3OUNCRjQ1Nw",
+						"snippet": {
+							"title": "You Know That I Love You",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "P1oC_u0gj74"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rNVVra29SNUZOSGtqdEZqRld6dTd4YTUyM0FGWGU3MFUuREFEOUJFMzU3QUE0NzA3Ng",
+						"snippet": {
+							"title": "All I Ever Wanted",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "6HFFAUdzuVc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rNVVra29SNUZOSGtqdEZqRld6dTd4YTUyM0FGWGU3MFUuMTExMzI3NDU5ODcyMzg5Ng",
+						"snippet": {
+							"title": "Stand Up",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "j9etlkSmcYo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rNVVra29SNUZOSGtqdEZqRld6dTd4YTUyM0FGWGU3MFUuQzMwMUY5NTg4RDdGQTA0Nw",
+						"snippet": {
+							"title": "Runnin",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "KybZb0kmEow"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rNVVra29SNUZOSGtqdEZqRld6dTd4YTUyM0FGWGU3MFUuOEVGNkJGMTFFQjA0ODYyMw",
+						"snippet": {
+							"title": "Summer Lady",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "AyephKnbNBk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rNVVra29SNUZOSGtqdEZqRld6dTd4YTUyM0FGWGU3MFUuNDhCQzY0NDI5RkM2MTM4QQ",
+						"snippet": {
+							"title": "Love",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "qUQweEgorsU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rNVVra29SNUZOSGtqdEZqRld6dTd4YTUyM0FGWGU3MFUuQTAwOEM0QkY0NTg0QzA1QQ",
+						"snippet": {
+							"title": "Stay (Beside Me)",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "r1hRJA2W16k"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rNVVra29SNUZOSGtqdEZqRld6dTd4YTUyM0FGWGU3MFUuNDBDRjhEMzAxNzgyODQyNA",
+						"snippet": {
+							"title": "Hard Times",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "knPT5wYC0xQ"
+						}
+					}
+				]
+			}
+		]
+	}
+}

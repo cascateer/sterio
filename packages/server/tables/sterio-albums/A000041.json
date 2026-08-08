@@ -1,0 +1,12 @@
+{
+	"id": "41",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_27IQFbfGFQj"
+			}
+		]
+	},
+	"previousId": "40"
+}

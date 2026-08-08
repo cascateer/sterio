@@ -1,0 +1,14 @@
+{
+	"id": "242",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"url": "https://youtube.com/watch?v=Fi7iB7nAy6w",
+				"name": "Fi7iB7nAy6w.mp3",
+				"checksum": "073a54721c89611d23849c633195c6cf"
+			}
+		]
+	},
+	"previousId": "241"
+}

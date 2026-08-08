@@ -1,0 +1,224 @@
+{
+	"id": "28",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"type": "ALBUM",
+				"albumId": "MPREb_pI6PUb4DiJZ",
+				"name": "Black Talk!",
+				"playlistId": "OLAK5uy_l4JjMo7zoUqXv_XsC7oiZ_8sQrXJg5WgQ",
+				"artist": {
+					"artistId": "UC4ohJsoQoubX6CBqMjIkOog",
+					"name": "Charles Earland"
+				},
+				"year": 1970,
+				"thumbnails": [
+					{
+						"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w60-h60-l90-rj",
+						"width": 60,
+						"height": 60
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w120-h120-l90-rj",
+						"width": 120,
+						"height": 120
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w226-h226-l90-rj",
+						"width": 226,
+						"height": 226
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w544-h544-l90-rj",
+						"width": 544,
+						"height": 544
+					}
+				],
+				"songs": [
+					{
+						"type": "SONG",
+						"videoId": "R0mEQwK5zGg",
+						"name": "Black Talk (Rudy Van Gelder Remaster)",
+						"artist": {
+							"artistId": "UC4ohJsoQoubX6CBqMjIkOog",
+							"name": "Charles Earland"
+						},
+						"album": {
+							"albumId": "MPREb_pI6PUb4DiJZ",
+							"name": "Black Talk!"
+						},
+						"duration": 470,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "qq579tk1Zko",
+						"name": "The Mighty Burner (Rudy Van Gelder Remaster)",
+						"artist": {
+							"artistId": "UC4ohJsoQoubX6CBqMjIkOog",
+							"name": "Charles Earland"
+						},
+						"album": {
+							"albumId": "MPREb_pI6PUb4DiJZ",
+							"name": "Black Talk!"
+						},
+						"duration": 185,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "xIqpdIhKSxY",
+						"name": "Here Comes Charlie (Instrumental)",
+						"artist": {
+							"artistId": "UC4ohJsoQoubX6CBqMjIkOog",
+							"name": "Charles Earland"
+						},
+						"album": {
+							"albumId": "MPREb_pI6PUb4DiJZ",
+							"name": "Black Talk!"
+						},
+						"duration": 498,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "yfgGj2q8oeo",
+						"name": "Aquarius (Instrumental)",
+						"artist": {
+							"artistId": "UC4ohJsoQoubX6CBqMjIkOog",
+							"name": "Charles Earland"
+						},
+						"album": {
+							"albumId": "MPREb_pI6PUb4DiJZ",
+							"name": "Black Talk!"
+						},
+						"duration": 482,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "hB08rTxyMsU",
+						"name": "More Today Than Yesterday (Instrumental)",
+						"artist": {
+							"artistId": "UC4ohJsoQoubX6CBqMjIkOog",
+							"name": "Charles Earland"
+						},
+						"album": {
+							"albumId": "MPREb_pI6PUb4DiJZ",
+							"name": "Black Talk!"
+						},
+						"duration": 674,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/lX7Shuzyb5hCLnEKR5z6Pw0mq1iTPFhwUiJYZnQ7v_ZeltDdaVCcCRTd2xfe-i0XeeD9NlDV78O6BLNq=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"previousId": "27"
+}

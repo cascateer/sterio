@@ -1,0 +1,237 @@
+{
+	"id": "18",
+	"previousId": "17",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_xZoYvxt2nvS",
+				"spotifyId": "64gUb1lgmNhAK0IPfVsR6K"
+			},
+			{
+				"youtubeMusicId": "MPREb_Bp0wKuj2SJv",
+				"spotifyId": "7DDls7RWrCLvZgTVCJgfcq"
+			},
+			{
+				"youtubeMusicId": "MPREb_YBFQ7ZxxeER",
+				"spotifyId": "5nzzU118YRlXdhjRMb3fq0"
+			},
+			{
+				"youtubeMusicId": "MPREb_xwFJw81c4L1",
+				"spotifyId": "5TEFNL3l7ELSJCq8tq4PNy"
+			},
+			{
+				"youtubeMusicId": "MPREb_eMSpzSeWXRW",
+				"spotifyId": "2xXblCIb5G6ji70efT7THx"
+			},
+			{
+				"youtubeMusicId": "MPREb_zhHo4QkZiIv",
+				"spotifyId": "1tkE7mAFHRLwrySs5mQzeN"
+			},
+			{
+				"youtubeMusicId": "MPREb_NKITeC0Ab1n",
+				"spotifyId": "6s9twOs9wMKOEluU5dkBE0",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_wwVRBumXJR0",
+				"youtubeMusicIteratee": "${$.name/^(The Caverns of Isengard)( \\(feat\\...*\\))$/$1/}",
+				"spotifyId": "55RTkgUCP7t80hiTUhATMH"
+			},
+			{
+				"youtubeMusicId": "MPREb_yAjNigs5kVj",
+				"youtubeMusicIteratee": "${${$.name/(?: \\(feat\\. Emiliana Torrini\\))( \\(feat\\. Emiliana Torrini\\))$/$1/}/^(The Tales That Really Matter)( \\(feat\\...*\\))$/$1/}",
+				"spotifyId": "1MrqY9fdmJFExV6cWhxgQ6"
+			},
+			{
+				"youtubeMusicId": "MPREb_3tia1pV3wA4",
+				"youtubeMusicIteratee": "${${${$.name/( \\(feat\\. Billy Boyd, Dominic Monaghan & )(Billy Boyd and Dominic Monaghan)\\)$/ (feat. $2)/}/( \\(feat\\. Billy Boyd)( & Billy Boyd)( Performing \"The Edge of Night\"\\))$/$1$3/}/( \\(feat\\. Sir James Galway)( &)( Viggo Mortensen and Renée Fleming\\))$/$1,$3/}",
+				"spotifyId": "2Re6RMBEfD8iv1HMxLMdzI"
+			},
+			{
+				"youtubeMusicId": "MPREb_GJTBZtYaSBy",
+				"spotifyId": "71N6oT6Vtqs5xjn9b1xxYK"
+			},
+			{
+				"youtubeMusicId": "MPREb_7bCEbaAPJMC",
+				"spotifyId": "0p1SwlD81kC5zvGuOyhoFg",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_kgQwnLRDxcg",
+				"spotifyId": "3U5f7F8vWN3TIbdQHYpEji",
+				"songs": [
+					2
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_N7Dh8jcGPU8",
+				"spotifyId": "6x8QhgzstEOQZl50dvArzI",
+				"songs": [
+					4
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_nvZdC86GCXZ",
+				"spotifyId": "0JMayIqWFUZbGsNBPj3XvW"
+			},
+			{
+				"youtubeMusicId": "MPREb_q4KHwpHqWuZ",
+				"spotifyId": "66Fc3Pnt5NEk65E0OPGU6v"
+			},
+			{
+				"youtubeMusicId": "MPREb_R9TXYz8vnbe",
+				"youtubeMusicIteratee": "${$.name/^(Goodbye)( \\(Worakls Remix\\))/$1/}",
+				"songs": [
+					10
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_BK0fZ5lbOBi",
+				"draft": false,
+				"youtubeMusicIteratee": "${${${$.name/( \\(feat\\..*\\))( \\(feat\\..*\\))$/$1/}/( \\[feat\\. Julie Harrington\\] \\[Chris Coco Remix\\])( \\(feat\\. Julie Harrington\\))$/$1/}/( \\(Original Mix\\))$//}",
+				"spotifyId": "1QG5GYYjwWlBY1VDdNQ9Wd",
+				"youtubeIteratee": "${${${$.snippet.title/( \\(Original (Mix|Version)\\))$//}/(?: \\((feat\\. Julie Harrington)\\) \\((Chris Coco Remix)\\))$/ [$1] [$2]/}/(?:\\((Hp Hoeger & Rusty Egan Remix)\\))$/($1 )/}",
+				"spotifyIteratee": "${${$.name/( \\(Original (Mix|Version)\\))$//}/( \\[Original (Mix|Version)\\])$//}",
+				"songs": [
+					83
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_Pt3U6Nb1Zki",
+				"youtubeIteratee": "${$.snippet.title/( \\(Original\\))$//}",
+				"spotifyId": "31AgEt2RKn5CTgrzgL948A",
+				"spotifyIteratee": "${${$.name/(?:- (.*))$/($1)/}/( \\(Original\\))$//}",
+				"songs": [
+					4
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_MIJ4Jo15jiq",
+				"spotifyId": "6XepuRQQxX2qDlkIuIOnpn",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"spotifyIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"songs": [
+					7
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_eDa2SeghDw2",
+				"spotifyId": "0ctnEmvKp27xYxq4LbNrVv",
+				"songs": [
+					4
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_gxyr1lXUABB",
+				"spotifyId": "75ol9OP8bJaRqzGimpFHDm",
+				"youtubeIteratee": "${$.snippet.description/^(Provided to YouTube by Aviator-Management GmbH & Co\\. KG\\n\\n)(.*)( · [\\s\\S]*)$/$2/m}",
+				"spotifyIteratee": "${${$.name/(?: \\[(.*)\\] - (.*))$/ - $2 ([$1] )/}/^(A Man A City)/A Man, A City/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_EuCdorLm7G0",
+				"spotifyId": "5SBYcUgDbjQNxILy4xvhop"
+			},
+			{
+				"youtubeMusicId": "MPREb_skrEOd5gmiC",
+				"spotifyId": "3TaVHXcasAxVabtg5mLdho"
+			},
+			{
+				"youtubeMusicId": "MPREb_ghwaAiMSgdi",
+				"spotifyId": "6SJoq1m57kfab14THB7Tsm",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_qG0OCwmpoBs",
+				"spotifyId": "57pdwokXUIOHrmM272v7qk",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_01ObTmUUVsU",
+				"spotifyId": "4COZn5okauxP5luXkwEPLd",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_rA5GsTT8Okh",
+				"spotifyId": "007uXtoywb3mFmunAfpa76"
+			},
+			{
+				"youtubeMusicId": "MPREb_nQauvv7Dijr",
+				"spotifyId": "2JARH6A2TX28OzcPwJnD1p",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_EgusyYVD9T3",
+				"spotifyId": "2HT7Ru1nE56j5hE2xTm6Wh"
+			},
+			{
+				"youtubeMusicId": "MPREb_UVXYlnnbTvm",
+				"spotifyId": "0ZzOJ3XuyVDBIWxrA17YE5"
+			},
+			{
+				"youtubeMusicId": "MPREb_VcS4rAsEHS0",
+				"spotifyId": "0WYYrC9My9rYWigac003hw"
+			},
+			{
+				"youtubeMusicId": "MPREb_YUyYSbiJnd8",
+				"spotifyId": "7IzNAyOsxeWhKPyNNz1urS"
+			},
+			{
+				"youtubeMusicId": "MPREb_KT10nPF5iBX",
+				"spotifyId": "28CqPyXyEMtCEJ5DrYh3Tu"
+			},
+			{
+				"youtubeMusicId": "MPREb_wvBLv01Bccf",
+				"spotifyId": "33lk2GnP8cJzl7cd1OJrXn",
+				"spotifyIteratee": "${${$.name/(?:- (.*))$/($1)/}/( \\(Explicit\\)\\))$/)/}",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(Explicit\\)\\))$/)/}",
+				"songs": [
+					3
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_l5JMMrLhxd8",
+				"spotifyId": "6J5bh0XtpMx4ClNfLqKv0H",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"songs": [
+					2
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_asefopDb8Cw",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"spotifyId": "3Gby5NNeNYkMgAnrtEA3lc",
+				"spotifyIteratee": "${${$.name/(?:- (.*))$/($1)/}/( \\((feat\\.|with).*?\\))//}",
+				"songs": [
+					4
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_fR9Maw1EBir",
+				"spotifyId": "1PjYHybPrB6rU3qABrNldm",
+				"spotifyIteratee": "${$.name/^(Sky and Sand)$/Sky & Sand/}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_jSrhhcMDuCY",
+				"spotifyId": "47ocREpAaYK0DZHlD9vLCx",
+				"songs": [
+					4
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_b6vU1bhdVWa",
+				"spotifyId": "7mI1XA20ReNz09JlfJzn10"
+			}
+		]
+	}
+}

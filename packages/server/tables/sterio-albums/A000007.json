@@ -1,0 +1,244 @@
+{
+	"id": "7",
+	"previousId": "6",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_cZvSEwf4WyP",
+				"spotifyId": "3sj64vlMjeymCV05otr8FA",
+				"spotifyIteratee": "${$.name/^(Hollow)$/$1 (feat. The Warriors)/}",
+				"youtubeIteratee": "${$.snippet.title/^(Hollow)$/$1 (feat. The Warriors)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_9NxV3559c1c",
+				"spotifyId": "4bH0evmCfukCN7BqCZ2ck8"
+			},
+			{
+				"youtubeMusicId": "MPREb_ibJIxQD6oBH",
+				"draft": false,
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(feat\\..*(\\)|\\.\\.\\.))//}",
+				"spotifyId": "1RvJmGd47lKS4XMXs9j8hD",
+				"spotifyIteratee": "${$.name/( \\(feat\\..*\\))//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_WX88ytn8ln9",
+				"spotifyId": "1k6btoJNXzOvQ6dexSaNKE"
+			},
+			{
+				"youtubeMusicId": "MPREb_vbNohrhu6ae",
+				"youtubeIteratee": "${$.snippet.title/( \\(Remastered\\))$//}",
+				"spotifyId": "05DePtm7oQMdL3Uzw2Jmsc",
+				"spotifyIteratee": "${$.name/( - Remastered)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_7veWHIA9DhL",
+				"spotifyId": "0Ip2GlQPoAIgdkqCO2YkMa",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\. Marianne Faithfull\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_tBWoJuHumZq",
+				"youtubeIteratee": "${$.snippet.title/( \\(2015 Remaster\\))$//}",
+				"spotifyId": "3DNeMApEMCo4IDXNMYnlFi",
+				"spotifyIteratee": "${$.name/( - 2015 Remaster)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_aPccwn439An",
+				"youtubeIteratee": "${$.snippet.title/( \\(2015 Remaster\\))$//}",
+				"spotifyId": "1hDF0QPIHVTnSJtxyQVguB",
+				"spotifyIteratee": "${$.name/( - 2015 Remaster)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_otNQ6sdtZgL",
+				"youtubeIteratee": "${$.snippet.title/( \\(2015 Remaster\\))$//}",
+				"spotifyId": "21ZEAwY2TDnoQvVMJKkjUk",
+				"spotifyIteratee": "${$.name/( - 2015 Remaster)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_eykWKToJ5OD",
+				"youtubeIteratee": "${$.snippet.title/( \\(2015 Remaster\\))$//}",
+				"spotifyId": "5S3gls8Kjn8KVmqlIDEBbO",
+				"spotifyIteratee": "${$.name/( - 2015 Remaster)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_42Ni43KUr21",
+				"youtubeIteratee": "${${$.snippet.title/( \\(2015 Remaster\\))$//}/( \\[2015 Remaster\\])$//}",
+				"spotifyId": "0OEg65hPhgP7B0Dy9TqP2L",
+				"spotifyIteratee": "${$.name/( - 2015 Remaster)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_ifEE5tT5dRg",
+				"spotifyId": "4T95uimM0PQNgAkcyLTym0",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(feat\\..*\\))//}",
+				"spotifyIteratee": "${$.name/( \\(feat\\..*\\))//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_JwB2hetPNs8",
+				"spotifyId": "4tUxQkrduOE8sfgwJ5BI2F",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_ZHeJPKFJ464",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(feat\\..*\\))//}",
+				"spotifyId": "0NvirtaDCaZU5PAW1O5FDE",
+				"spotifyIteratee": "${$.name/( \\(feat\\..*\\))//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_gOjZj8fOMXV",
+				"spotifyId": "0sKxhkgYfgfewMtj2oh4SN"
+			},
+			{
+				"youtubeMusicId": "MPREb_LeOC2pb2rH0",
+				"spotifyId": "46iqcXOj4xIWYbCcJl8yds",
+				"songs": [
+					1
+				],
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeMusicIteratee": "${$.name/(\\[(Radio Edit)\\])$/($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_zMZxB414KIU",
+				"spotifyId": "095GfLmokf7gyy4Rc3JYBo"
+			},
+			{
+				"youtubeMusicId": "MPREb_zbII6NraPz2",
+				"songs": [
+					1
+				],
+				"spotifyId": "71cSlH8G5x86OcWv92Kckt"
+			},
+			{
+				"youtubeMusicId": "MPREb_Va21f67vBrY",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}",
+				"songs": [
+					0
+				],
+				"spotifyId": "5SaUbb8APnS3MvXg0FJcnZ"
+			},
+			{
+				"youtubeMusicId": "MPREb_saRzXqwHUEl",
+				"songs": [
+					2
+				],
+				"spotifyId": "2Sbdg5ZrKwO61owbGzEQae",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_ptwKiXgV0j5",
+				"songs": [
+					0
+				],
+				"spotifyId": "7y0YP09fBrKyq8WrWG4inh"
+			},
+			{
+				"youtubeMusicId": "MPREb_pfBQ51rKaEE",
+				"youtubeMusicIteratee": "${${$.name/( \\(feat\\..*\\))//}/( feat\\..*)//}",
+				"songs": [
+					5
+				],
+				"spotifyId": "0wxDpY8DkJolwnxgJ7WZSw",
+				"youtubeIteratee": "${${${$.snippet.title/( feat\\..*)//}/ó/ó/g}/ñ/ñ/g}",
+				"draft": false,
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_nJpOJ7YZGSf",
+				"spotifyId": "1ecylWuXIarpbPCgPg0pwa"
+			},
+			{
+				"youtubeMusicId": "MPREb_WWcycTTc4sA",
+				"spotifyId": "4JG9iU4O51GLseXEWAkZkw"
+			},
+			{
+				"youtubeMusicId": "MPREb_OxEysX0LDW0",
+				"spotifyId": "4vwuEQxih13GqLFGwkIEgT"
+			},
+			{
+				"youtubeMusicId": "MPREb_3BLM1zBwq7G",
+				"spotifyId": "5iYYQwB0oH9FVyVlaOXZdr"
+			},
+			{
+				"youtubeMusicId": "MPREb_yplUgAfrpnH",
+				"spotifyId": "59nxyxeutJIEUdExqFivk5",
+				"spotifyIteratee": "${$.name/^Bharam Paap ke$/Bharam Bhap Ke/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_VG8q3oHnC4t",
+				"spotifyId": "2EdcAg2GBLN7ODdfGd5WYp",
+				"youtubeIteratee": "${$.snippet.title/( \\(2020 Digitally Remastered\\))$//}",
+				"youtubeMusicIteratee": "${$.name/( \\(2020 Digitally Remastered\\))$//}",
+				"spotifyIteratee": "${$.name/^Tune-Up/Tune Up/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_ScyrtfT45RF",
+				"spotifyId": "2zzC7Dqx288TEsWsU5ozT9",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_SfjYOALYGtY",
+				"spotifyId": "0SmIkzc7YgxqBV0V5RcbPt",
+				"spotifyIteratee": "${$.name/( - ((Live( at (Long Beach Arena|the Hammersmith Odeon))?; )?1998 Remaster))$//}",
+				"youtubeIteratee": "${${${${$.snippet.title/( \\((Live( at (Long Beach Arena|the Hammersmith Odeon))?; )?1998 Remaster\\))$//}/( \\[(1998 Remaster|Live at Long Beach Arena)\\])//g}/^(Aces High) \\(Live\\)$/$1/}/( \\(Live at (Long Beach Arena|the Hammersmith Odeon)\\))//}",
+				"youtubeMusicIteratee": "${${${${$.name/( \\((Live( at (Long Beach Arena|the Hammersmith Odeon))?; )?1998 Remaster\\))$//}/( \\[(1998 Remaster|Live at Long Beach Arena)\\])//g}/^(Aces High) \\(Live\\)$/$1/}/( \\(Live at (Long Beach Arena|the Hammersmith Odeon)\\))//}",
+				"youtubeId": "PLwItFtSCuSo7m86NC4Rs1XFsnHFVDbisw"
+			},
+			{
+				"youtubeMusicId": "MPREb_vYvkccdNlj3"
+			},
+			{
+				"youtubeMusicId": "MPREb_1mqVqtZ5Smb",
+				"spotifyId": "2FoPae81NmFY9puNcEcsSk"
+			},
+			{
+				"youtubeMusicId": "MPREb_Ri4Is0fWkf4",
+				"youtubeIteratee": "${$.snippet.title/( \\(Original Mix\\))//}",
+				"songs": [
+					0
+				],
+				"spotifyId": "0xmSvogtxUCqvOXHeVqrf2",
+				"spotifyIteratee": "${${$.name/(?:- (.*))$/($1)/}/( \\(Original Mix\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_K4cF4QpaN7y",
+				"spotifyId": "7LghgY89QHKA7QdyLjx2Eh",
+				"songs": [
+					2
+				],
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_Sr5aDn9ucBE",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"spotifyId": "59ZZ5lCjcxyHz1ULozDnmA"
+			},
+			{
+				"youtubeMusicId": "MPREb_OCAreDRwF8J",
+				"spotifyId": "3gPsV43XyWlsrP8UrTXPdq",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_duLilQ0t6Zi",
+				"spotifyId": "6ooBxhsOVedpX4zPTCyL86"
+			},
+			{
+				"youtubeMusicId": "MPREb_FHoAoytChUm",
+				"spotifyId": "7oqbVAvYPVslcVE7Czr0Wk"
+			},
+			{
+				"youtubeMusicId": "MPREb_zuzIDRUlVGz",
+				"spotifyId": "3dTladlytcen9civMOFzz2",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_CA6gpEcQntH",
+				"spotifyId": "0NDZWNHJ5ySx3YeFLbsdMe",
+				"spotifyIteratee": "${${$.name/( - Remastered 2019)$//}/(?:- (.*))$/($1)/}",
+				"youtubeIteratee": "${$.snippet.title/( \\(Remastered 2019\\))$//}",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\...*\\))$//}"
+			}
+		]
+	}
+}

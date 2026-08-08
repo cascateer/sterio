@@ -1,0 +1,459 @@
+{
+	"id": "31",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"album_type": "album",
+				"total_tracks": 9,
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/0s8ocv3yT42JcDq7Hkxz8L"
+				},
+				"href": "https://api.spotify.com/v1/albums/0s8ocv3yT42JcDq7Hkxz8L",
+				"id": "0s8ocv3yT42JcDq7Hkxz8L",
+				"images": [
+					{
+						"url": "https://i.scdn.co/image/ab67616d0000b27384ba7f790cda595193895ac5",
+						"height": 640,
+						"width": 640
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00001e0284ba7f790cda595193895ac5",
+						"height": 300,
+						"width": 300
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d0000485184ba7f790cda595193895ac5",
+						"height": 64,
+						"width": 64
+					}
+				],
+				"name": "A Night in Monte-Carlo (Live)",
+				"release_date": "2010-03-29",
+				"release_date_precision": "day",
+				"type": "album",
+				"uri": "spotify:album:0s8ocv3yT42JcDq7Hkxz8L",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+						},
+						"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+						"id": "6fmq5mv6HnduZdlTOEYBC9",
+						"name": "Marcus Miller",
+						"type": "artist",
+						"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4GF5QvKBZxR05HoK7ncGQb"
+						},
+						"href": "https://api.spotify.com/v1/artists/4GF5QvKBZxR05HoK7ncGQb",
+						"id": "4GF5QvKBZxR05HoK7ncGQb",
+						"name": "Orchestre Philharmonique de Monte-Carlo",
+						"type": "artist",
+						"uri": "spotify:artist:4GF5QvKBZxR05HoK7ncGQb"
+					}
+				],
+				"tracks": {
+					"href": "https://api.spotify.com/v1/albums/0s8ocv3yT42JcDq7Hkxz8L/tracks?offset=0&limit=50",
+					"limit": 50,
+					"next": null,
+					"offset": 0,
+					"previous": null,
+					"total": 9,
+					"items": [
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								},
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4GF5QvKBZxR05HoK7ncGQb"
+									},
+									"href": "https://api.spotify.com/v1/artists/4GF5QvKBZxR05HoK7ncGQb",
+									"id": "4GF5QvKBZxR05HoK7ncGQb",
+									"name": "Orchestre Philharmonique de Monte-Carlo",
+									"type": "artist",
+									"uri": "spotify:artist:4GF5QvKBZxR05HoK7ncGQb"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 474413,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/7k8CNNqQIVGitdxcWWjUwZ"
+							},
+							"href": "https://api.spotify.com/v1/tracks/7k8CNNqQIVGitdxcWWjUwZ",
+							"id": "7k8CNNqQIVGitdxcWWjUwZ",
+							"name": "Blast! (Live)",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:7k8CNNqQIVGitdxcWWjUwZ",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								},
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4GF5QvKBZxR05HoK7ncGQb"
+									},
+									"href": "https://api.spotify.com/v1/artists/4GF5QvKBZxR05HoK7ncGQb",
+									"id": "4GF5QvKBZxR05HoK7ncGQb",
+									"name": "Orchestre Philharmonique de Monte-Carlo",
+									"type": "artist",
+									"uri": "spotify:artist:4GF5QvKBZxR05HoK7ncGQb"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 455666,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0XnEcdB7oxLmgEL6Rbk0I5"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0XnEcdB7oxLmgEL6Rbk0I5",
+							"id": "0XnEcdB7oxLmgEL6Rbk0I5",
+							"name": "So What (Live)",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:0XnEcdB7oxLmgEL6Rbk0I5",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								},
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE"
+									},
+									"href": "https://api.spotify.com/v1/artists/2z3984YB48d3CFltzVlFYE",
+									"id": "2z3984YB48d3CFltzVlFYE",
+									"name": "Raul Midón",
+									"type": "artist",
+									"uri": "spotify:artist:2z3984YB48d3CFltzVlFYE"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 383613,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2lRR4TYvU0hA88PgcdgPHk"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2lRR4TYvU0hA88PgcdgPHk",
+							"id": "2lRR4TYvU0hA88PgcdgPHk",
+							"name": "State of Mind (feat. Raúl Midón) (Live)",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:2lRR4TYvU0hA88PgcdgPHk",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								},
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4GF5QvKBZxR05HoK7ncGQb"
+									},
+									"href": "https://api.spotify.com/v1/artists/4GF5QvKBZxR05HoK7ncGQb",
+									"id": "4GF5QvKBZxR05HoK7ncGQb",
+									"name": "Orchestre Philharmonique de Monte-Carlo",
+									"type": "artist",
+									"uri": "spotify:artist:4GF5QvKBZxR05HoK7ncGQb"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 422840,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4IRUg0bj96vr1VPNUH19wV"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4IRUg0bj96vr1VPNUH19wV",
+							"id": "4IRUg0bj96vr1VPNUH19wV",
+							"name": "I Loves You Porgy (Live)",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:4IRUg0bj96vr1VPNUH19wV",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								},
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4GF5QvKBZxR05HoK7ncGQb"
+									},
+									"href": "https://api.spotify.com/v1/artists/4GF5QvKBZxR05HoK7ncGQb",
+									"id": "4GF5QvKBZxR05HoK7ncGQb",
+									"name": "Orchestre Philharmonique de Monte-Carlo",
+									"type": "artist",
+									"uri": "spotify:artist:4GF5QvKBZxR05HoK7ncGQb"
+								},
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+									},
+									"href": "https://api.spotify.com/v1/artists/49zXTngyUTielHTbbH5YKs",
+									"id": "49zXTngyUTielHTbbH5YKs",
+									"name": "Roy Hargrove",
+									"type": "artist",
+									"uri": "spotify:artist:49zXTngyUTielHTbbH5YKs"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 516065,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5AeR1RoPZmJcSlDTLiAxuf"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5AeR1RoPZmJcSlDTLiAxuf",
+							"id": "5AeR1RoPZmJcSlDTLiAxuf",
+							"name": "Amandla (feat. Roy Hargrove) (Live)",
+							"track_number": 5,
+							"type": "track",
+							"uri": "spotify:track:5AeR1RoPZmJcSlDTLiAxuf",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								},
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4GF5QvKBZxR05HoK7ncGQb"
+									},
+									"href": "https://api.spotify.com/v1/artists/4GF5QvKBZxR05HoK7ncGQb",
+									"id": "4GF5QvKBZxR05HoK7ncGQb",
+									"name": "Orchestre Philharmonique de Monte-Carlo",
+									"type": "artist",
+									"uri": "spotify:artist:4GF5QvKBZxR05HoK7ncGQb"
+								},
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+									},
+									"href": "https://api.spotify.com/v1/artists/49zXTngyUTielHTbbH5YKs",
+									"id": "49zXTngyUTielHTbbH5YKs",
+									"name": "Roy Hargrove",
+									"type": "artist",
+									"uri": "spotify:artist:49zXTngyUTielHTbbH5YKs"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 360026,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3sYlg2mtiy8cp245QNu93G"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3sYlg2mtiy8cp245QNu93G",
+							"id": "3sYlg2mtiy8cp245QNu93G",
+							"name": "I'm Glad There Is You (feat. Roy Hargrove) (Live)",
+							"track_number": 6,
+							"type": "track",
+							"uri": "spotify:track:3sYlg2mtiy8cp245QNu93G",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								},
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4GF5QvKBZxR05HoK7ncGQb"
+									},
+									"href": "https://api.spotify.com/v1/artists/4GF5QvKBZxR05HoK7ncGQb",
+									"id": "4GF5QvKBZxR05HoK7ncGQb",
+									"name": "Orchestre Philharmonique de Monte-Carlo",
+									"type": "artist",
+									"uri": "spotify:artist:4GF5QvKBZxR05HoK7ncGQb"
+								},
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE"
+									},
+									"href": "https://api.spotify.com/v1/artists/2z3984YB48d3CFltzVlFYE",
+									"id": "2z3984YB48d3CFltzVlFYE",
+									"name": "Raul Midón",
+									"type": "artist",
+									"uri": "spotify:artist:2z3984YB48d3CFltzVlFYE"
+								},
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+									},
+									"href": "https://api.spotify.com/v1/artists/49zXTngyUTielHTbbH5YKs",
+									"id": "49zXTngyUTielHTbbH5YKs",
+									"name": "Roy Hargrove",
+									"type": "artist",
+									"uri": "spotify:artist:49zXTngyUTielHTbbH5YKs"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 432213,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1JjKzbvLoUjvwZA7QRa3BM"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1JjKzbvLoUjvwZA7QRa3BM",
+							"id": "1JjKzbvLoUjvwZA7QRa3BM",
+							"name": "Medley: O Mio Babbino Caro / Mas Que Nada (feat. Raúl Midón & Roy Hargrove) (Live)",
+							"track_number": 7,
+							"type": "track",
+							"uri": "spotify:track:1JjKzbvLoUjvwZA7QRa3BM",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								},
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4GF5QvKBZxR05HoK7ncGQb"
+									},
+									"href": "https://api.spotify.com/v1/artists/4GF5QvKBZxR05HoK7ncGQb",
+									"id": "4GF5QvKBZxR05HoK7ncGQb",
+									"name": "Orchestre Philharmonique de Monte-Carlo",
+									"type": "artist",
+									"uri": "spotify:artist:4GF5QvKBZxR05HoK7ncGQb"
+								},
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE"
+									},
+									"href": "https://api.spotify.com/v1/artists/2z3984YB48d3CFltzVlFYE",
+									"id": "2z3984YB48d3CFltzVlFYE",
+									"name": "Raul Midón",
+									"type": "artist",
+									"uri": "spotify:artist:2z3984YB48d3CFltzVlFYE"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 413346,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3iT3HMpMtangK29qBZb5YD"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3iT3HMpMtangK29qBZb5YD",
+							"id": "3iT3HMpMtangK29qBZb5YD",
+							"name": "Your Amazing Grace (feat. Raúl Midón) (Live)",
+							"track_number": 8,
+							"type": "track",
+							"uri": "spotify:track:3iT3HMpMtangK29qBZb5YD",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 352066,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1XYmpcjc0mV6qO8RnwZvqV"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1XYmpcjc0mV6qO8RnwZvqV",
+							"id": "1XYmpcjc0mV6qO8RnwZvqV",
+							"name": "Strange Fruit",
+							"track_number": 9,
+							"type": "track",
+							"uri": "spotify:track:1XYmpcjc0mV6qO8RnwZvqV",
+							"is_local": false
+						}
+					]
+				},
+				"copyrights": [
+					{
+						"text": "2010 Francis Dreyfus Music SARL, a BMG Company",
+						"type": "C"
+					},
+					{
+						"text": "2010 3 Deuces Records, Inc. under exclusive license to Francis Dreyfus Music SARL, a BMG Company",
+						"type": "P"
+					}
+				],
+				"external_ids": {
+					"upc": "0886443394094"
+				},
+				"genres": []
+			}
+		]
+	},
+	"previousId": "30"
+}

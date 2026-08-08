@@ -1,0 +1,261 @@
+{
+	"id": "28",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"album_type": "album",
+				"total_tracks": 7,
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+				},
+				"href": "https://api.spotify.com/v1/albums/0nTTEAhCZsbbeplyDMIFuA",
+				"id": "0nTTEAhCZsbbeplyDMIFuA",
+				"images": [
+					{
+						"url": "https://i.scdn.co/image/ab67616d0000b273b6bd44cf06bf8f4d5ce1e080",
+						"height": 640,
+						"width": 640
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00001e02b6bd44cf06bf8f4d5ce1e080",
+						"height": 300,
+						"width": 300
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00004851b6bd44cf06bf8f4d5ce1e080",
+						"height": 64,
+						"width": 64
+					}
+				],
+				"name": "Time Out",
+				"release_date": "1959-12-14",
+				"release_date_precision": "day",
+				"type": "album",
+				"uri": "spotify:album:0nTTEAhCZsbbeplyDMIFuA",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+						},
+						"href": "https://api.spotify.com/v1/artists/4iRZAbYvBqnxrbs6K25aJ7",
+						"id": "4iRZAbYvBqnxrbs6K25aJ7",
+						"name": "The Dave Brubeck Quartet",
+						"type": "artist",
+						"uri": "spotify:artist:4iRZAbYvBqnxrbs6K25aJ7"
+					}
+				],
+				"tracks": {
+					"href": "https://api.spotify.com/v1/albums/0nTTEAhCZsbbeplyDMIFuA/tracks?offset=0&limit=50",
+					"limit": 50,
+					"next": null,
+					"offset": 0,
+					"previous": null,
+					"total": 7,
+					"items": [
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+									},
+									"href": "https://api.spotify.com/v1/artists/4iRZAbYvBqnxrbs6K25aJ7",
+									"id": "4iRZAbYvBqnxrbs6K25aJ7",
+									"name": "The Dave Brubeck Quartet",
+									"type": "artist",
+									"uri": "spotify:artist:4iRZAbYvBqnxrbs6K25aJ7"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 409359,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/7CrNF9zL7tIQ2269DVxzST"
+							},
+							"href": "https://api.spotify.com/v1/tracks/7CrNF9zL7tIQ2269DVxzST",
+							"id": "7CrNF9zL7tIQ2269DVxzST",
+							"name": "Blue Rondo à la Turk",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:7CrNF9zL7tIQ2269DVxzST",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+									},
+									"href": "https://api.spotify.com/v1/artists/4iRZAbYvBqnxrbs6K25aJ7",
+									"id": "4iRZAbYvBqnxrbs6K25aJ7",
+									"name": "The Dave Brubeck Quartet",
+									"type": "artist",
+									"uri": "spotify:artist:4iRZAbYvBqnxrbs6K25aJ7"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 446314,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6HvyFdP5JrCQdmxq2qi7MC",
+							"id": "6HvyFdP5JrCQdmxq2qi7MC",
+							"name": "Strange Meadow Lark",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:6HvyFdP5JrCQdmxq2qi7MC",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+									},
+									"href": "https://api.spotify.com/v1/artists/4iRZAbYvBqnxrbs6K25aJ7",
+									"id": "4iRZAbYvBqnxrbs6K25aJ7",
+									"name": "The Dave Brubeck Quartet",
+									"type": "artist",
+									"uri": "spotify:artist:4iRZAbYvBqnxrbs6K25aJ7"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 328831,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1YQWosTIljIvxAgHWTp7KP",
+							"id": "1YQWosTIljIvxAgHWTp7KP",
+							"name": "Take Five",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:1YQWosTIljIvxAgHWTp7KP",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+									},
+									"href": "https://api.spotify.com/v1/artists/4iRZAbYvBqnxrbs6K25aJ7",
+									"id": "4iRZAbYvBqnxrbs6K25aJ7",
+									"name": "The Dave Brubeck Quartet",
+									"type": "artist",
+									"uri": "spotify:artist:4iRZAbYvBqnxrbs6K25aJ7"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 326546,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3k5O0RKO6zEqu9JJ7JqxDX"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3k5O0RKO6zEqu9JJ7JqxDX",
+							"id": "3k5O0RKO6zEqu9JJ7JqxDX",
+							"name": "Three to Get Ready",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:3k5O0RKO6zEqu9JJ7JqxDX",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+									},
+									"href": "https://api.spotify.com/v1/artists/4iRZAbYvBqnxrbs6K25aJ7",
+									"id": "4iRZAbYvBqnxrbs6K25aJ7",
+									"name": "The Dave Brubeck Quartet",
+									"type": "artist",
+									"uri": "spotify:artist:4iRZAbYvBqnxrbs6K25aJ7"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 291223,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3XfaSRXfGuWT1rrn9lWx30",
+							"id": "3XfaSRXfGuWT1rrn9lWx30",
+							"name": "Kathy's Waltz",
+							"track_number": 5,
+							"type": "track",
+							"uri": "spotify:track:3XfaSRXfGuWT1rrn9lWx30",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+									},
+									"href": "https://api.spotify.com/v1/artists/4iRZAbYvBqnxrbs6K25aJ7",
+									"id": "4iRZAbYvBqnxrbs6K25aJ7",
+									"name": "The Dave Brubeck Quartet",
+									"type": "artist",
+									"uri": "spotify:artist:4iRZAbYvBqnxrbs6K25aJ7"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 264633,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0r3ZObqOhirTkBCr8f4L9q"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0r3ZObqOhirTkBCr8f4L9q",
+							"id": "0r3ZObqOhirTkBCr8f4L9q",
+							"name": "Everybody's Jumpin'",
+							"track_number": 6,
+							"type": "track",
+							"uri": "spotify:track:0r3ZObqOhirTkBCr8f4L9q",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+									},
+									"href": "https://api.spotify.com/v1/artists/4iRZAbYvBqnxrbs6K25aJ7",
+									"id": "4iRZAbYvBqnxrbs6K25aJ7",
+									"name": "The Dave Brubeck Quartet",
+									"type": "artist",
+									"uri": "spotify:artist:4iRZAbYvBqnxrbs6K25aJ7"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 259553,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0XugQpP1aeQwpdGKHpjcci"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0XugQpP1aeQwpdGKHpjcci",
+							"id": "0XugQpP1aeQwpdGKHpjcci",
+							"name": "Pick up Sticks",
+							"track_number": 7,
+							"type": "track",
+							"uri": "spotify:track:0XugQpP1aeQwpdGKHpjcci",
+							"is_local": false
+						}
+					]
+				},
+				"copyrights": [
+					{
+						"text": "Originally released 1959. All rights reserved by SONY BMG MUSIC ENTERTAINMENT",
+						"type": "P"
+					}
+				],
+				"external_ids": {
+					"upc": "074646512227"
+				},
+				"genres": []
+			}
+		]
+	},
+	"previousId": "27"
+}

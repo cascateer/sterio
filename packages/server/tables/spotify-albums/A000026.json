@@ -1,0 +1,4633 @@
+{
+	"id": "26",
+	"previousId": "25",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"album_type": "compilation",
+				"total_tracks": 35,
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/2UpRdZUOrFVtAnXN0l2EfQ"
+				},
+				"href": "https://api.spotify.com/v1/albums/2UpRdZUOrFVtAnXN0l2EfQ",
+				"id": "2UpRdZUOrFVtAnXN0l2EfQ",
+				"images": [
+					{
+						"url": "https://i.scdn.co/image/ab67616d0000b27356a95e957fade2ea54ec41b0",
+						"height": 640,
+						"width": 640
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00001e0256a95e957fade2ea54ec41b0",
+						"height": 300,
+						"width": 300
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d0000485156a95e957fade2ea54ec41b0",
+						"height": 64,
+						"width": 64
+					}
+				],
+				"name": "Anthology: Set The World Afire",
+				"release_date": "2008-01-01",
+				"release_date_precision": "day",
+				"type": "album",
+				"uri": "spotify:album:2UpRdZUOrFVtAnXN0l2EfQ",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+						},
+						"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+						"id": "1Yox196W7bzVNZI7RBaPnf",
+						"name": "Megadeth",
+						"type": "artist",
+						"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+					}
+				],
+				"tracks": {
+					"href": "https://api.spotify.com/v1/albums/2UpRdZUOrFVtAnXN0l2EfQ/tracks?offset=0&limit=50",
+					"limit": 50,
+					"next": null,
+					"offset": 0,
+					"previous": null,
+					"total": 35,
+					"items": [
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 261693,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/632NGRUM82aKSbaiQrO7g2"
+							},
+							"href": "https://api.spotify.com/v1/tracks/632NGRUM82aKSbaiQrO7g2",
+							"id": "632NGRUM82aKSbaiQrO7g2",
+							"restrictions": {
+								"reason": "market"
+							},
+							"name": "Mechanix",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:632NGRUM82aKSbaiQrO7g2",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 219306,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/57MaEQ0mJ5fJQ6EQa6v2C9"
+							},
+							"href": "https://api.spotify.com/v1/tracks/57MaEQ0mJ5fJQ6EQa6v2C9",
+							"id": "57MaEQ0mJ5fJQ6EQa6v2C9",
+							"restrictions": {
+								"reason": "market"
+							},
+							"name": "Rattlehead",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:57MaEQ0mJ5fJQ6EQa6v2C9",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 241760,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3QstMaPUhmOiol7HIvdFYA"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3QstMaPUhmOiol7HIvdFYA",
+							"id": "3QstMaPUhmOiol7HIvdFYA",
+							"name": "Peace Sells - 2004 Remaster",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:3QstMaPUhmOiol7HIvdFYA",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 217306,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4tgmXYBxCIrA6TT1vBfCbe"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4tgmXYBxCIrA6TT1vBfCbe",
+							"id": "4tgmXYBxCIrA6TT1vBfCbe",
+							"name": "Wake Up Dead - 2004 Remaster",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:4tgmXYBxCIrA6TT1vBfCbe",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 305293,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/51Uta6YhUA219MpTVMmJ5o"
+							},
+							"href": "https://api.spotify.com/v1/tracks/51Uta6YhUA219MpTVMmJ5o",
+							"id": "51Uta6YhUA219MpTVMmJ5o",
+							"name": "Devils Island - 2004 Remaster",
+							"track_number": 5,
+							"type": "track",
+							"uri": "spotify:track:51Uta6YhUA219MpTVMmJ5o",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 181173,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5DMS0C8yGSipFtByBBRvhF"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5DMS0C8yGSipFtByBBRvhF",
+							"id": "5DMS0C8yGSipFtByBBRvhF",
+							"name": "Anarchy In The U.K. - Remastered 2004",
+							"track_number": 6,
+							"type": "track",
+							"uri": "spotify:track:5DMS0C8yGSipFtByBBRvhF",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 348226,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5YHpyEEYDfwI6IT1nT4cNM"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5YHpyEEYDfwI6IT1nT4cNM",
+							"id": "5YHpyEEYDfwI6IT1nT4cNM",
+							"name": "Set The World Afire - Remastered 2004",
+							"track_number": 7,
+							"type": "track",
+							"uri": "spotify:track:5YHpyEEYDfwI6IT1nT4cNM",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 202706,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0hCaJmc1AKvR7kIuzgfr5w"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0hCaJmc1AKvR7kIuzgfr5w",
+							"id": "0hCaJmc1AKvR7kIuzgfr5w",
+							"name": "Into The Lungs Of Hell - Remastered 2004",
+							"track_number": 8,
+							"type": "track",
+							"uri": "spotify:track:0hCaJmc1AKvR7kIuzgfr5w",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 385533,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/7lgdts2VO6LLeHQBAQNoSZ"
+							},
+							"href": "https://api.spotify.com/v1/tracks/7lgdts2VO6LLeHQBAQNoSZ",
+							"id": "7lgdts2VO6LLeHQBAQNoSZ",
+							"name": "In My Darkest Hour - Remastered 2004",
+							"track_number": 9,
+							"type": "track",
+							"uri": "spotify:track:7lgdts2VO6LLeHQBAQNoSZ",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 391466,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3go5IMVv6f4rO5J0WGHYAC"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3go5IMVv6f4rO5J0WGHYAC",
+							"id": "3go5IMVv6f4rO5J0WGHYAC",
+							"name": "Holy Wars...The Punishment Due - 2004 Remix",
+							"track_number": 10,
+							"type": "track",
+							"uri": "spotify:track:3go5IMVv6f4rO5J0WGHYAC",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 319293,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/19iaOZmVP6D9rdmrntBnjF"
+							},
+							"href": "https://api.spotify.com/v1/tracks/19iaOZmVP6D9rdmrntBnjF",
+							"id": "19iaOZmVP6D9rdmrntBnjF",
+							"name": "Tornado Of Souls - 2004 Remix",
+							"track_number": 11,
+							"type": "track",
+							"uri": "spotify:track:19iaOZmVP6D9rdmrntBnjF",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 311133,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4A29VubriBxWSGjXe8Zh8I"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4A29VubriBxWSGjXe8Zh8I",
+							"id": "4A29VubriBxWSGjXe8Zh8I",
+							"name": "Hangar 18 - 2004 Remix",
+							"track_number": 12,
+							"type": "track",
+							"uri": "spotify:track:4A29VubriBxWSGjXe8Zh8I",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 207106,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5OuZwDEOlbBDgbD33Hp2Ls"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5OuZwDEOlbBDgbD33Hp2Ls",
+							"id": "5OuZwDEOlbBDgbD33Hp2Ls",
+							"name": "Take No Prisoners - 2004 Remix",
+							"track_number": 13,
+							"type": "track",
+							"uri": "spotify:track:5OuZwDEOlbBDgbD33Hp2Ls",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 275266,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1iFP8aitdsB693mHHSkMi9"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1iFP8aitdsB693mHHSkMi9",
+							"id": "1iFP8aitdsB693mHHSkMi9",
+							"name": "Go To Hell",
+							"track_number": 14,
+							"type": "track",
+							"uri": "spotify:track:1iFP8aitdsB693mHHSkMi9",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 327066,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6ZL6gNIN80vAXtcM9huOUN"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6ZL6gNIN80vAXtcM9huOUN",
+							"id": "6ZL6gNIN80vAXtcM9huOUN",
+							"name": "Sweating Bullets - Remastered 2004",
+							"track_number": 15,
+							"type": "track",
+							"uri": "spotify:track:6ZL6gNIN80vAXtcM9huOUN",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 197893,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/64gXXJa3BQbq937KUZ0oCe"
+							},
+							"href": "https://api.spotify.com/v1/tracks/64gXXJa3BQbq937KUZ0oCe",
+							"id": "64gXXJa3BQbq937KUZ0oCe",
+							"name": "Crown Of Worms - 2004 Remaster",
+							"track_number": 16,
+							"type": "track",
+							"uri": "spotify:track:64gXXJa3BQbq937KUZ0oCe",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 286906,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3ivNqQBJs5usVV80SDjqjM"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3ivNqQBJs5usVV80SDjqjM",
+							"id": "3ivNqQBJs5usVV80SDjqjM",
+							"name": "High Speed Dirt - Demo",
+							"track_number": 17,
+							"type": "track",
+							"uri": "spotify:track:3ivNqQBJs5usVV80SDjqjM",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 195160,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3IxckXt0GbcaQEvWmwqX0P"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3IxckXt0GbcaQEvWmwqX0P",
+							"id": "3IxckXt0GbcaQEvWmwqX0P",
+							"name": "Skin O' My Teeth - 2004 Remastered",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:3IxckXt0GbcaQEvWmwqX0P",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 365066,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5aJ4pPOIOsZH6vd5VuB8P6"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5aJ4pPOIOsZH6vd5VuB8P6",
+							"id": "5aJ4pPOIOsZH6vd5VuB8P6",
+							"name": "Ashes In Your Mouth - 2004 Remastered",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:5aJ4pPOIOsZH6vd5VuB8P6",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 207600,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/372dFU7KIqqujMhnwjYI2C"
+							},
+							"href": "https://api.spotify.com/v1/tracks/372dFU7KIqqujMhnwjYI2C",
+							"id": "372dFU7KIqqujMhnwjYI2C",
+							"name": "Breakpoint",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:372dFU7KIqqujMhnwjYI2C",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 227040,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1UUeKOHlXln9lui9Bt1cJQ"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1UUeKOHlXln9lui9Bt1cJQ",
+							"id": "1UUeKOHlXln9lui9Bt1cJQ",
+							"name": "Angry Again",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:1UUeKOHlXln9lui9Bt1cJQ",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 211000,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1etTbDAvwAGqetLNE0DLPs"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1etTbDAvwAGqetLNE0DLPs",
+							"id": "1etTbDAvwAGqetLNE0DLPs",
+							"name": "Train Of Consequences - Remastered 2004",
+							"track_number": 5,
+							"type": "track",
+							"uri": "spotify:track:1etTbDAvwAGqetLNE0DLPs",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 241693,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4fm5Qwk2LjhGNzXA0EOZPL"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4fm5Qwk2LjhGNzXA0EOZPL",
+							"id": "4fm5Qwk2LjhGNzXA0EOZPL",
+							"name": "Reckoning Day - Short Fade Edit",
+							"track_number": 6,
+							"type": "track",
+							"uri": "spotify:track:4fm5Qwk2LjhGNzXA0EOZPL",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 262266,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/7dsMgeIuSTmnVA8anHRZSz"
+							},
+							"href": "https://api.spotify.com/v1/tracks/7dsMgeIuSTmnVA8anHRZSz",
+							"id": "7dsMgeIuSTmnVA8anHRZSz",
+							"name": "A Tout Le Monde - Remastered 2004",
+							"track_number": 7,
+							"type": "track",
+							"uri": "spotify:track:7dsMgeIuSTmnVA8anHRZSz",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 230706,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4cX1cZid3dEoaOgOw8rHp9"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4cX1cZid3dEoaOgOw8rHp9",
+							"id": "4cX1cZid3dEoaOgOw8rHp9",
+							"name": "The Killing Road - Remastered 2004",
+							"track_number": 8,
+							"type": "track",
+							"uri": "spotify:track:4cX1cZid3dEoaOgOw8rHp9",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 227466,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1eXnnjkNCLt9qqnV0KMHQy"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1eXnnjkNCLt9qqnV0KMHQy",
+							"id": "1eXnnjkNCLt9qqnV0KMHQy",
+							"name": "New World Order",
+							"track_number": 9,
+							"type": "track",
+							"uri": "spotify:track:1eXnnjkNCLt9qqnV0KMHQy",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 310800,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5L8TzowgPy6tJZp9iNiPET"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5L8TzowgPy6tJZp9iNiPET",
+							"id": "5L8TzowgPy6tJZp9iNiPET",
+							"name": "Trust - Remastered 2004 / Remixed",
+							"track_number": 10,
+							"type": "track",
+							"uri": "spotify:track:5L8TzowgPy6tJZp9iNiPET",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 217760,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4sPWMYsIBPGbtBaQspzZTl"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4sPWMYsIBPGbtBaQspzZTl",
+							"id": "4sPWMYsIBPGbtBaQspzZTl",
+							"name": "She-Wolf - Remastered 2004 / Remixed",
+							"track_number": 11,
+							"type": "track",
+							"uri": "spotify:track:4sPWMYsIBPGbtBaQspzZTl",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 255866,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0uJ9B9PUrx7FXE3laScwxu"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0uJ9B9PUrx7FXE3laScwxu",
+							"id": "0uJ9B9PUrx7FXE3laScwxu",
+							"name": "Insomnia - Remastered 2004",
+							"track_number": 12,
+							"type": "track",
+							"uri": "spotify:track:0uJ9B9PUrx7FXE3laScwxu",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 387106,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3LkVMfIFvzUKyTyos3dr9n"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3LkVMfIFvzUKyTyos3dr9n",
+							"id": "3LkVMfIFvzUKyTyos3dr9n",
+							"name": "Prince Of Darkness - Remastered 2004",
+							"track_number": 13,
+							"type": "track",
+							"uri": "spotify:track:3LkVMfIFvzUKyTyos3dr9n",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 223226,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1PRefAB3y5aAVhKY7Mrk0I"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1PRefAB3y5aAVhKY7Mrk0I",
+							"id": "1PRefAB3y5aAVhKY7Mrk0I",
+							"name": "Kill The King",
+							"track_number": 14,
+							"type": "track",
+							"uri": "spotify:track:1PRefAB3y5aAVhKY7Mrk0I",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 262800,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1dTZmzHEmPOVWEnxU4Uyoy"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1dTZmzHEmPOVWEnxU4Uyoy",
+							"id": "1dTZmzHEmPOVWEnxU4Uyoy",
+							"name": "Dread & The Fugitive Mind",
+							"track_number": 15,
+							"type": "track",
+							"uri": "spotify:track:1dTZmzHEmPOVWEnxU4Uyoy",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 262373,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6grXSVQHsDC7DumnDDr4ao"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6grXSVQHsDC7DumnDDr4ao",
+							"id": "6grXSVQHsDC7DumnDDr4ao",
+							"name": "Foreclosure Of A Dream - 2004 Remastered",
+							"track_number": 16,
+							"type": "track",
+							"uri": "spotify:track:6grXSVQHsDC7DumnDDr4ao",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 229738,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/7AD9xXAiBNIJRJ1X00QmPB"
+							},
+							"href": "https://api.spotify.com/v1/tracks/7AD9xXAiBNIJRJ1X00QmPB",
+							"id": "7AD9xXAiBNIJRJ1X00QmPB",
+							"name": "Symphony Of Destruction - Live At The Cow Palace, San Francisco / 1992",
+							"track_number": 17,
+							"type": "track",
+							"uri": "spotify:track:7AD9xXAiBNIJRJ1X00QmPB",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+									},
+									"href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+									"id": "1Yox196W7bzVNZI7RBaPnf",
+									"name": "Megadeth",
+									"type": "artist",
+									"uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 256173,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/26SCIyYgOXRgWznygbSlCI"
+							},
+							"href": "https://api.spotify.com/v1/tracks/26SCIyYgOXRgWznygbSlCI",
+							"id": "26SCIyYgOXRgWznygbSlCI",
+							"name": "Peace Sells - Live At The Cow Palace, San Francisco / 1992",
+							"track_number": 18,
+							"type": "track",
+							"uri": "spotify:track:26SCIyYgOXRgWznygbSlCI",
+							"is_local": false
+						}
+					]
+				},
+				"copyrights": [
+					{
+						"text": "© 2008 Capitol Records, LLC",
+						"type": "C"
+					},
+					{
+						"text": "This Compilation ℗ 2008 Capitol Records, LLC",
+						"type": "P"
+					}
+				],
+				"external_ids": {
+					"upc": "05099923507951"
+				},
+				"genres": []
+			},
+			{
+				"album_type": "album",
+				"total_tracks": 13,
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/0S69wprLxzNEGSB7vvEghL"
+				},
+				"href": "https://api.spotify.com/v1/albums/0S69wprLxzNEGSB7vvEghL",
+				"id": "0S69wprLxzNEGSB7vvEghL",
+				"images": [
+					{
+						"url": "https://i.scdn.co/image/ab67616d0000b273b62f036aec8408922d5b9326",
+						"height": 640,
+						"width": 640
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00001e02b62f036aec8408922d5b9326",
+						"height": 300,
+						"width": 300
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00004851b62f036aec8408922d5b9326",
+						"height": 64,
+						"width": 64
+					}
+				],
+				"name": "Ivory Tower",
+				"release_date": "2010-08-23",
+				"release_date_precision": "day",
+				"type": "album",
+				"uri": "spotify:album:0S69wprLxzNEGSB7vvEghL",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+						},
+						"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+						"id": "0qudezVgvl4Chd9BgNFB83",
+						"name": "Chilly Gonzales",
+						"type": "artist",
+						"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+					}
+				],
+				"tracks": {
+					"href": "https://api.spotify.com/v1/albums/0S69wprLxzNEGSB7vvEghL/tracks?offset=0&limit=50",
+					"limit": 50,
+					"next": null,
+					"offset": 0,
+					"previous": null,
+					"total": 13,
+					"items": [
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 311760,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2PeeXU7B0KReH9jFmzZmSe"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2PeeXU7B0KReH9jFmzZmSe",
+							"id": "2PeeXU7B0KReH9jFmzZmSe",
+							"name": "Knight Moves",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:2PeeXU7B0KReH9jFmzZmSe",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 282506,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/082K9NhSjNLqgHvmlhZBWY"
+							},
+							"href": "https://api.spotify.com/v1/tracks/082K9NhSjNLqgHvmlhZBWY",
+							"id": "082K9NhSjNLqgHvmlhZBWY",
+							"name": "I Am Europe",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:082K9NhSjNLqgHvmlhZBWY",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 220160,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3WRizw1lBrJ56eIEFxS7LW"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3WRizw1lBrJ56eIEFxS7LW",
+							"id": "3WRizw1lBrJ56eIEFxS7LW",
+							"name": "Bittersuite",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:3WRizw1lBrJ56eIEFxS7LW",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 363906,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6jBhscIPvGoDclEWrwOIbg"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6jBhscIPvGoDclEWrwOIbg",
+							"id": "6jBhscIPvGoDclEWrwOIbg",
+							"name": "Smothered Mate",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:6jBhscIPvGoDclEWrwOIbg",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 194306,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2XJ11UitWXaaZQuqpDI9eB"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2XJ11UitWXaaZQuqpDI9eB",
+							"id": "2XJ11UitWXaaZQuqpDI9eB",
+							"name": "The Grudge",
+							"track_number": 5,
+							"type": "track",
+							"uri": "spotify:track:2XJ11UitWXaaZQuqpDI9eB",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 181693,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5du933ynPJJjHasnY91D8b"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5du933ynPJJjHasnY91D8b",
+							"id": "5du933ynPJJjHasnY91D8b",
+							"name": "Rococo Chanel",
+							"track_number": 6,
+							"type": "track",
+							"uri": "spotify:track:5du933ynPJJjHasnY91D8b",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 283853,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/7pg6VTW7swIIw63zaUOvqJ"
+							},
+							"href": "https://api.spotify.com/v1/tracks/7pg6VTW7swIIw63zaUOvqJ",
+							"id": "7pg6VTW7swIIw63zaUOvqJ",
+							"name": "Never Stop",
+							"track_number": 7,
+							"type": "track",
+							"uri": "spotify:track:7pg6VTW7swIIw63zaUOvqJ",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 237413,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1DWR38evPLD7ZDobLeMC7e"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1DWR38evPLD7ZDobLeMC7e",
+							"id": "1DWR38evPLD7ZDobLeMC7e",
+							"name": "Pixel Paxil",
+							"track_number": 8,
+							"type": "track",
+							"uri": "spotify:track:1DWR38evPLD7ZDobLeMC7e",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 310440,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/7mlBwnKsERffDmGskjn2PD"
+							},
+							"href": "https://api.spotify.com/v1/tracks/7mlBwnKsERffDmGskjn2PD",
+							"id": "7mlBwnKsERffDmGskjn2PD",
+							"name": "You Can Dance",
+							"track_number": 9,
+							"type": "track",
+							"uri": "spotify:track:7mlBwnKsERffDmGskjn2PD",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 289573,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0cw0C72A7NS0SPUvVY0QG6"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0cw0C72A7NS0SPUvVY0QG6",
+							"id": "0cw0C72A7NS0SPUvVY0QG6",
+							"name": "Crying",
+							"track_number": 10,
+							"type": "track",
+							"uri": "spotify:track:0cw0C72A7NS0SPUvVY0QG6",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 341786,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2MNPkD5GdRFbboELecMIub"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2MNPkD5GdRFbboELecMIub",
+							"id": "2MNPkD5GdRFbboELecMIub",
+							"name": "Final Fantasy",
+							"track_number": 11,
+							"type": "track",
+							"uri": "spotify:track:2MNPkD5GdRFbboELecMIub",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 209946,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6xtQ28NDs9dCfE4z8t0Gbd"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6xtQ28NDs9dCfE4z8t0Gbd",
+							"id": "6xtQ28NDs9dCfE4z8t0Gbd",
+							"name": "Siren Song",
+							"track_number": 12,
+							"type": "track",
+							"uri": "spotify:track:6xtQ28NDs9dCfE4z8t0Gbd",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 230693,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4uTGrQJWHUsrEzVeJESzeG"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4uTGrQJWHUsrEzVeJESzeG",
+							"id": "4uTGrQJWHUsrEzVeJESzeG",
+							"name": "Never Stop - Chilly Gonzales Rap",
+							"track_number": 13,
+							"type": "track",
+							"uri": "spotify:track:4uTGrQJWHUsrEzVeJESzeG",
+							"is_local": false
+						}
+					]
+				},
+				"copyrights": [
+					{
+						"text": "2010 Gentle Threat LTD",
+						"type": "C"
+					},
+					{
+						"text": "2010 Gentle Threat LTD",
+						"type": "P"
+					}
+				],
+				"external_ids": {
+					"upc": "5414939761171"
+				},
+				"genres": []
+			},
+			{
+				"album_type": "compilation",
+				"total_tracks": 21,
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/5Se5MdfqD1nAitv3muKnCB"
+				},
+				"href": "https://api.spotify.com/v1/albums/5Se5MdfqD1nAitv3muKnCB",
+				"id": "5Se5MdfqD1nAitv3muKnCB",
+				"images": [
+					{
+						"url": "https://i.scdn.co/image/ab67616d0000b273a95d2ea6952dd4ff391d8f73",
+						"height": 640,
+						"width": 640
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00001e02a95d2ea6952dd4ff391d8f73",
+						"height": 300,
+						"width": 300
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00004851a95d2ea6952dd4ff391d8f73",
+						"height": 64,
+						"width": 64
+					}
+				],
+				"name": "Crime Of The Century (Deluxe)",
+				"release_date": "1974-09-01",
+				"release_date_precision": "day",
+				"type": "album",
+				"uri": "spotify:album:5Se5MdfqD1nAitv3muKnCB",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+						},
+						"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+						"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+						"name": "Supertramp",
+						"type": "artist",
+						"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+					}
+				],
+				"tracks": {
+					"href": "https://api.spotify.com/v1/albums/5Se5MdfqD1nAitv3muKnCB/tracks?offset=0&limit=50",
+					"limit": 50,
+					"next": null,
+					"offset": 0,
+					"previous": null,
+					"total": 21,
+					"items": [
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 335286,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4uBuoqevU3VNb6obudB5iq"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4uBuoqevU3VNb6obudB5iq",
+							"id": "4uBuoqevU3VNb6obudB5iq",
+							"name": "School - Remastered 2010",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:4uBuoqevU3VNb6obudB5iq",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 272432,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1Hiu8xfwvnIguinacEyDoY"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1Hiu8xfwvnIguinacEyDoY",
+							"id": "1Hiu8xfwvnIguinacEyDoY",
+							"name": "Bloody Well Right - Remastered 2010",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:1Hiu8xfwvnIguinacEyDoY",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 409889,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0ldE7rHWykc9OUViCzdviV"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0ldE7rHWykc9OUViCzdviV",
+							"id": "0ldE7rHWykc9OUViCzdviV",
+							"name": "Hide In Your Shell - Remastered 2010",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:0ldE7rHWykc9OUViCzdviV",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 409778,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4jhseRQ0QTORU3a8k5oBmA"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4jhseRQ0QTORU3a8k5oBmA",
+							"id": "4jhseRQ0QTORU3a8k5oBmA",
+							"name": "Asylum - Remastered 2010",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:4jhseRQ0QTORU3a8k5oBmA",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 213236,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2MUgwwSI1OlY4Mds5XoFNg"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2MUgwwSI1OlY4Mds5XoFNg",
+							"id": "2MUgwwSI1OlY4Mds5XoFNg",
+							"name": "Dreamer - Remastered 2010",
+							"track_number": 5,
+							"type": "track",
+							"uri": "spotify:track:2MUgwwSI1OlY4Mds5XoFNg",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 440833,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4NZLRuEvCdmXUOdCAbp8dN"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4NZLRuEvCdmXUOdCAbp8dN",
+							"id": "4NZLRuEvCdmXUOdCAbp8dN",
+							"name": "Rudy - Remastered 2010",
+							"track_number": 6,
+							"type": "track",
+							"uri": "spotify:track:4NZLRuEvCdmXUOdCAbp8dN",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 245844,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5Ps2MwjlktaXJ49KrY7L5y"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5Ps2MwjlktaXJ49KrY7L5y",
+							"id": "5Ps2MwjlktaXJ49KrY7L5y",
+							"name": "If Everyone Was Listening - Remastered 2010",
+							"track_number": 7,
+							"type": "track",
+							"uri": "spotify:track:5Ps2MwjlktaXJ49KrY7L5y",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 332992,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6eRTxfsfpnddrm6wTtbjY8"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6eRTxfsfpnddrm6wTtbjY8",
+							"id": "6eRTxfsfpnddrm6wTtbjY8",
+							"name": "Crime Of The Century - Remastered 2010",
+							"track_number": 8,
+							"type": "track",
+							"uri": "spotify:track:6eRTxfsfpnddrm6wTtbjY8",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 354467,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/223ohd4TY0gHaXnR0MnJ0q"
+							},
+							"href": "https://api.spotify.com/v1/tracks/223ohd4TY0gHaXnR0MnJ0q",
+							"id": "223ohd4TY0gHaXnR0MnJ0q",
+							"name": "School - Live At Hammersmith Odeon / 1975",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:223ohd4TY0gHaXnR0MnJ0q",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 406399,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1eNp60k5C0bDWxLS96RIyD"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1eNp60k5C0bDWxLS96RIyD",
+							"id": "1eNp60k5C0bDWxLS96RIyD",
+							"name": "Bloody Well Right - Live At Hammersmith Odeon / 1975",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:1eNp60k5C0bDWxLS96RIyD",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 407445,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1loHijgJGfFEKqjN7IdDdc"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1loHijgJGfFEKqjN7IdDdc",
+							"id": "1loHijgJGfFEKqjN7IdDdc",
+							"name": "Hide In Your Shell - Live At Hammersmith Odeon / 1975",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:1loHijgJGfFEKqjN7IdDdc",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 421078,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1yubL1FEG9suLuwGNNzEOE"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1yubL1FEG9suLuwGNNzEOE",
+							"id": "1yubL1FEG9suLuwGNNzEOE",
+							"name": "Asylum - Live At Hammersmith Odeon / 1975",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:1yubL1FEG9suLuwGNNzEOE",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 330248,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/30TLfzfeyXEQJF2cksahmY"
+							},
+							"href": "https://api.spotify.com/v1/tracks/30TLfzfeyXEQJF2cksahmY",
+							"id": "30TLfzfeyXEQJF2cksahmY",
+							"name": "Sister Moonshine - Live At Hammersmith Odeon / 1975",
+							"track_number": 5,
+							"type": "track",
+							"uri": "spotify:track:30TLfzfeyXEQJF2cksahmY",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 238685,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5XKin5Cgzyzled9livqCnQ"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5XKin5Cgzyzled9livqCnQ",
+							"id": "5XKin5Cgzyzled9livqCnQ",
+							"name": "Just A Normal Day - Live At Hammersmith Odeon / 1975",
+							"track_number": 6,
+							"type": "track",
+							"uri": "spotify:track:5XKin5Cgzyzled9livqCnQ",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 462491,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3kLgUX5h0fWO6MMo5ZOQlQ"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3kLgUX5h0fWO6MMo5ZOQlQ",
+							"id": "3kLgUX5h0fWO6MMo5ZOQlQ",
+							"name": "Another Man's Woman - Live At Hammersmith Odeon / 1975",
+							"track_number": 7,
+							"type": "track",
+							"uri": "spotify:track:3kLgUX5h0fWO6MMo5ZOQlQ",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 355193,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2DlMlTqBphGqRFnA6t5F6d"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2DlMlTqBphGqRFnA6t5F6d",
+							"id": "2DlMlTqBphGqRFnA6t5F6d",
+							"name": "Lady - Live At Hammersmith Odeon / 1975",
+							"track_number": 8,
+							"type": "track",
+							"uri": "spotify:track:2DlMlTqBphGqRFnA6t5F6d",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 177366,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/33THTb6ApJvPgJS3TV5h0I"
+							},
+							"href": "https://api.spotify.com/v1/tracks/33THTb6ApJvPgJS3TV5h0I",
+							"id": "33THTb6ApJvPgJS3TV5h0I",
+							"name": "\"A\" - You're Adorable - Live At Hammersmith Odeon / 1975",
+							"track_number": 9,
+							"type": "track",
+							"uri": "spotify:track:33THTb6ApJvPgJS3TV5h0I",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 208432,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3sDqltmz41OWZQlyY1olmw"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3sDqltmz41OWZQlyY1olmw",
+							"id": "3sDqltmz41OWZQlyY1olmw",
+							"name": "Dreamer - Live At Hammersmith Odeon / 1975",
+							"track_number": 10,
+							"type": "track",
+							"uri": "spotify:track:3sDqltmz41OWZQlyY1olmw",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 443485,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0TXnaQyW8aSMCTL3UwMSX9"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0TXnaQyW8aSMCTL3UwMSX9",
+							"id": "0TXnaQyW8aSMCTL3UwMSX9",
+							"name": "Rudy - Live At Hammersmith Odeon / 1975",
+							"track_number": 11,
+							"type": "track",
+							"uri": "spotify:track:0TXnaQyW8aSMCTL3UwMSX9",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 272685,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2BbU1cFLSLi1uHxuaDBcfJ"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2BbU1cFLSLi1uHxuaDBcfJ",
+							"id": "2BbU1cFLSLi1uHxuaDBcfJ",
+							"name": "If Everyone Was Listening - Live At Hammersmith Odeon / 1975",
+							"track_number": 12,
+							"type": "track",
+							"uri": "spotify:track:2BbU1cFLSLi1uHxuaDBcfJ",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 360766,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6moRMZzzmOk3MbpIuMqv4D"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6moRMZzzmOk3MbpIuMqv4D",
+							"id": "6moRMZzzmOk3MbpIuMqv4D",
+							"name": "Crime Of The Century - Live At Hammersmith Odeon / 1975",
+							"track_number": 13,
+							"type": "track",
+							"uri": "spotify:track:6moRMZzzmOk3MbpIuMqv4D",
+							"is_local": false
+						}
+					]
+				},
+				"copyrights": [
+					{
+						"text": "© 2010 A&M Records",
+						"type": "C"
+					},
+					{
+						"text": "This Compilation ℗ 2010 A&M Records",
+						"type": "P"
+					}
+				],
+				"external_ids": {
+					"upc": "00600753547571"
+				},
+				"genres": []
+			},
+			{
+				"album_type": "album",
+				"total_tracks": 15,
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/6980dSuVArqFiWikMp846E"
+				},
+				"href": "https://api.spotify.com/v1/albums/6980dSuVArqFiWikMp846E",
+				"id": "6980dSuVArqFiWikMp846E",
+				"images": [
+					{
+						"url": "https://i.scdn.co/image/ab67616d0000b273341f4243c3ad6c8768aeacb0",
+						"height": 640,
+						"width": 640
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00001e02341f4243c3ad6c8768aeacb0",
+						"height": 300,
+						"width": 300
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00004851341f4243c3ad6c8768aeacb0",
+						"height": 64,
+						"width": 64
+					}
+				],
+				"name": "Solo Piano III",
+				"release_date": "2018-09-07",
+				"release_date_precision": "day",
+				"type": "album",
+				"uri": "spotify:album:6980dSuVArqFiWikMp846E",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+						},
+						"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+						"id": "0qudezVgvl4Chd9BgNFB83",
+						"name": "Chilly Gonzales",
+						"type": "artist",
+						"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+					}
+				],
+				"tracks": {
+					"href": "https://api.spotify.com/v1/albums/6980dSuVArqFiWikMp846E/tracks?offset=0&limit=50",
+					"limit": 50,
+					"next": null,
+					"offset": 0,
+					"previous": null,
+					"total": 15,
+					"items": [
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 90133,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/76WIqef9cHJmjNNDBP7Wus"
+							},
+							"href": "https://api.spotify.com/v1/tracks/76WIqef9cHJmjNNDBP7Wus",
+							"id": "76WIqef9cHJmjNNDBP7Wus",
+							"name": "Treppen",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:76WIqef9cHJmjNNDBP7Wus",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 163946,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6eHp0rTqMRlvOyKcXS7qBm"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6eHp0rTqMRlvOyKcXS7qBm",
+							"id": "6eHp0rTqMRlvOyKcXS7qBm",
+							"name": "Pretenderness",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:6eHp0rTqMRlvOyKcXS7qBm",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 157986,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2rDZuP1kmhsfehSsnWFpSG"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2rDZuP1kmhsfehSsnWFpSG",
+							"id": "2rDZuP1kmhsfehSsnWFpSG",
+							"name": "Prelude In C Sharp Major",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:2rDZuP1kmhsfehSsnWFpSG",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 125106,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4GLAzhUlcVkLr0BGvjU74G"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4GLAzhUlcVkLr0BGvjU74G",
+							"id": "4GLAzhUlcVkLr0BGvjU74G",
+							"name": "Famous Hungarians",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:4GLAzhUlcVkLr0BGvjU74G",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 94520,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/34572SauMMLjdDKtrPri2W"
+							},
+							"href": "https://api.spotify.com/v1/tracks/34572SauMMLjdDKtrPri2W",
+							"id": "34572SauMMLjdDKtrPri2W",
+							"name": "Chico",
+							"track_number": 5,
+							"type": "track",
+							"uri": "spotify:track:34572SauMMLjdDKtrPri2W",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 121386,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5dQGOFXNlEn8zG8j85n1Hm"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5dQGOFXNlEn8zG8j85n1Hm",
+							"id": "5dQGOFXNlEn8zG8j85n1Hm",
+							"name": "Nimbus",
+							"track_number": 6,
+							"type": "track",
+							"uri": "spotify:track:5dQGOFXNlEn8zG8j85n1Hm",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 226626,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6v0BTda9Sw4uREICry7vff"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6v0BTda9Sw4uREICry7vff",
+							"id": "6v0BTda9Sw4uREICry7vff",
+							"name": "Be Natural",
+							"track_number": 7,
+							"type": "track",
+							"uri": "spotify:track:6v0BTda9Sw4uREICry7vff",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 173813,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4wVmOww20E0qxkpPHeac1g"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4wVmOww20E0qxkpPHeac1g",
+							"id": "4wVmOww20E0qxkpPHeac1g",
+							"name": "Ellis Eye",
+							"track_number": 8,
+							"type": "track",
+							"uri": "spotify:track:4wVmOww20E0qxkpPHeac1g",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 160906,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2FFtrtQOEW52dGsIM5sbEy"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2FFtrtQOEW52dGsIM5sbEy",
+							"id": "2FFtrtQOEW52dGsIM5sbEy",
+							"name": "Present Tense",
+							"track_number": 9,
+							"type": "track",
+							"uri": "spotify:track:2FFtrtQOEW52dGsIM5sbEy",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 141360,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6IYkxXl9qV7FKBsJ7Pe9qw"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6IYkxXl9qV7FKBsJ7Pe9qw",
+							"id": "6IYkxXl9qV7FKBsJ7Pe9qw",
+							"name": "Cactus Impromptu",
+							"track_number": 10,
+							"type": "track",
+							"uri": "spotify:track:6IYkxXl9qV7FKBsJ7Pe9qw",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 180306,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2H0R75PpPPEyJ37OYw5Llx"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2H0R75PpPPEyJ37OYw5Llx",
+							"id": "2H0R75PpPPEyJ37OYw5Llx",
+							"name": "Lost Ostinato",
+							"track_number": 11,
+							"type": "track",
+							"uri": "spotify:track:2H0R75PpPPEyJ37OYw5Llx",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 97026,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4f9D4XO6Wgwpj091oj2P47"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4f9D4XO6Wgwpj091oj2P47",
+							"id": "4f9D4XO6Wgwpj091oj2P47",
+							"name": "Blizzard In B Flat Minor",
+							"track_number": 12,
+							"type": "track",
+							"uri": "spotify:track:4f9D4XO6Wgwpj091oj2P47",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 199280,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/11wVommcybMr4oYAWqpHku"
+							},
+							"href": "https://api.spotify.com/v1/tracks/11wVommcybMr4oYAWqpHku",
+							"id": "11wVommcybMr4oYAWqpHku",
+							"name": "October 3rd",
+							"track_number": 13,
+							"type": "track",
+							"uri": "spotify:track:11wVommcybMr4oYAWqpHku",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 226080,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3UFC3Hgh2GO3XzYbprbHPf"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3UFC3Hgh2GO3XzYbprbHPf",
+							"id": "3UFC3Hgh2GO3XzYbprbHPf",
+							"name": "Kopfkino",
+							"track_number": 14,
+							"type": "track",
+							"uri": "spotify:track:3UFC3Hgh2GO3XzYbprbHPf",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+									},
+									"href": "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+									"id": "0qudezVgvl4Chd9BgNFB83",
+									"name": "Chilly Gonzales",
+									"type": "artist",
+									"uri": "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 147413,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0r7ycJS6ZS8Ak6HmbQjPKs"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0r7ycJS6ZS8Ak6HmbQjPKs",
+							"id": "0r7ycJS6ZS8Ak6HmbQjPKs",
+							"name": "Whist",
+							"track_number": 15,
+							"type": "track",
+							"uri": "spotify:track:0r7ycJS6ZS8Ak6HmbQjPKs",
+							"is_local": false
+						}
+					]
+				},
+				"copyrights": [
+					{
+						"text": "2018 Gentle Threat Ltd",
+						"type": "C"
+					},
+					{
+						"text": "2018 Gentle Threat Ltd",
+						"type": "P"
+					}
+				],
+				"external_ids": {
+					"upc": "5414940019018"
+				},
+				"genres": []
+			},
+			{
+				"album_type": "album",
+				"total_tracks": 20,
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/2tUk95VSnQ5JuLxfaMuZNK"
+				},
+				"href": "https://api.spotify.com/v1/albums/2tUk95VSnQ5JuLxfaMuZNK",
+				"id": "2tUk95VSnQ5JuLxfaMuZNK",
+				"images": [
+					{
+						"url": "https://i.scdn.co/image/ab67616d0000b2739da1c010336f78bd94b4b7c5",
+						"height": 640,
+						"width": 640
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00001e029da1c010336f78bd94b4b7c5",
+						"height": 300,
+						"width": 300
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d000048519da1c010336f78bd94b4b7c5",
+						"height": 64,
+						"width": 64
+					}
+				],
+				"name": "The Whirlwind (Deluxe Edition)",
+				"release_date": "2009-10-26",
+				"release_date_precision": "day",
+				"type": "album",
+				"uri": "spotify:album:2tUk95VSnQ5JuLxfaMuZNK",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+						},
+						"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+						"id": "4eOjprZV7J3pEjQOsdtLjC",
+						"name": "Transatlantic",
+						"type": "artist",
+						"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+					}
+				],
+				"tracks": {
+					"href": "https://api.spotify.com/v1/albums/2tUk95VSnQ5JuLxfaMuZNK/tracks?offset=0&limit=50",
+					"limit": 50,
+					"next": null,
+					"offset": 0,
+					"previous": null,
+					"total": 20,
+					"items": [
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 593920,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1M5rtO1rHI3dvjDkJk3ySg"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1M5rtO1rHI3dvjDkJk3ySg",
+							"id": "1M5rtO1rHI3dvjDkJk3ySg",
+							"name": "Overture / Whirlwind",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:1M5rtO1rHI3dvjDkJk3ySg",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 369946,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/7ChnZpBmbTxgDjoEQVtN03"
+							},
+							"href": "https://api.spotify.com/v1/tracks/7ChnZpBmbTxgDjoEQVtN03",
+							"id": "7ChnZpBmbTxgDjoEQVtN03",
+							"name": "The Wind Blew Them All Away",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:7ChnZpBmbTxgDjoEQVtN03",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 362546,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6VXgIJhnWwoV05Ijqh1Zl7"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6VXgIJhnWwoV05Ijqh1Zl7",
+							"id": "6VXgIJhnWwoV05Ijqh1Zl7",
+							"name": "On the Prowl",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:6VXgIJhnWwoV05Ijqh1Zl7",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 395026,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1KiWMoBix5lsoNVJffzsFl"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1KiWMoBix5lsoNVJffzsFl",
+							"id": "1KiWMoBix5lsoNVJffzsFl",
+							"name": "A Man Can Feel",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:1KiWMoBix5lsoNVJffzsFl",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 262373,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4ocOQnSqn6KJuWXc8bQjHZ"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4ocOQnSqn6KJuWXc8bQjHZ",
+							"id": "4ocOQnSqn6KJuWXc8bQjHZ",
+							"name": "Out of the Night",
+							"track_number": 5,
+							"type": "track",
+							"uri": "spotify:track:4ocOQnSqn6KJuWXc8bQjHZ",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 473773,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2Ywmbg3rpJyKG36mHl3UBM"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2Ywmbg3rpJyKG36mHl3UBM",
+							"id": "2Ywmbg3rpJyKG36mHl3UBM",
+							"name": "Rose Colored Glasses",
+							"track_number": 6,
+							"type": "track",
+							"uri": "spotify:track:2Ywmbg3rpJyKG36mHl3UBM",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 249986,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2mbuUqydR32F9IXl1uvMz6"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2mbuUqydR32F9IXl1uvMz6",
+							"id": "2mbuUqydR32F9IXl1uvMz6",
+							"name": "Evermore",
+							"track_number": 7,
+							"type": "track",
+							"uri": "spotify:track:2mbuUqydR32F9IXl1uvMz6",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 303360,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/67sA3zM6RlURl9FQqBf9uk"
+							},
+							"href": "https://api.spotify.com/v1/tracks/67sA3zM6RlURl9FQqBf9uk",
+							"id": "67sA3zM6RlURl9FQqBf9uk",
+							"name": "Set Us Free",
+							"track_number": 8,
+							"type": "track",
+							"uri": "spotify:track:67sA3zM6RlURl9FQqBf9uk",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 310773,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2cn3lEye74RJASmf7EGjA6"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2cn3lEye74RJASmf7EGjA6",
+							"id": "2cn3lEye74RJASmf7EGjA6",
+							"name": "Lay Down Your Life",
+							"track_number": 9,
+							"type": "track",
+							"uri": "spotify:track:2cn3lEye74RJASmf7EGjA6",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 137106,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4GuC3n3QMwspb221Qe1yUw"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4GuC3n3QMwspb221Qe1yUw",
+							"id": "4GuC3n3QMwspb221Qe1yUw",
+							"name": "Pieces of Heaven",
+							"track_number": 10,
+							"type": "track",
+							"uri": "spotify:track:4GuC3n3QMwspb221Qe1yUw",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 491453,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6JXtzUlfMOocypsBzfbqpS"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6JXtzUlfMOocypsBzfbqpS",
+							"id": "6JXtzUlfMOocypsBzfbqpS",
+							"name": "Is It Really Happening?",
+							"track_number": 11,
+							"type": "track",
+							"uri": "spotify:track:6JXtzUlfMOocypsBzfbqpS",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 723733,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/7qDLaNqiPeQhLtC50216NS"
+							},
+							"href": "https://api.spotify.com/v1/tracks/7qDLaNqiPeQhLtC50216NS",
+							"id": "7qDLaNqiPeQhLtC50216NS",
+							"name": "Dancing with Eternal Glory / Whirlwind (Reprise)",
+							"track_number": 12,
+							"type": "track",
+							"uri": "spotify:track:7qDLaNqiPeQhLtC50216NS",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 598320,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2pIbF7HwJfe9ClGu1mlPBu"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2pIbF7HwJfe9ClGu1mlPBu",
+							"id": "2pIbF7HwJfe9ClGu1mlPBu",
+							"name": "Spinning",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:2pIbF7HwJfe9ClGu1mlPBu",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 260066,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2S1OYY02AmtQTM4YMOR4oa"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2S1OYY02AmtQTM4YMOR4oa",
+							"id": "2S1OYY02AmtQTM4YMOR4oa",
+							"name": "Lenny Johnson",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:2S1OYY02AmtQTM4YMOR4oa",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 322600,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6zahMyuxy8iG4T1H3VLJNU"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6zahMyuxy8iG4T1H3VLJNU",
+							"id": "6zahMyuxy8iG4T1H3VLJNU",
+							"name": "For Such a Time",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:6zahMyuxy8iG4T1H3VLJNU",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 523026,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6Rx0toNs82NGdWbDLcZHq8"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6Rx0toNs82NGdWbDLcZHq8",
+							"id": "6Rx0toNs82NGdWbDLcZHq8",
+							"name": "Lending a Hand",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:6Rx0toNs82NGdWbDLcZHq8",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 506413,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3RxeGNjk1ykpeDTacDegCZ"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3RxeGNjk1ykpeDTacDegCZ",
+							"id": "3RxeGNjk1ykpeDTacDegCZ",
+							"name": "The Return of the Giant Hogweed",
+							"track_number": 5,
+							"type": "track",
+							"uri": "spotify:track:3RxeGNjk1ykpeDTacDegCZ",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 299053,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/64wUsc7FL7NYEHlVrzaZTj"
+							},
+							"href": "https://api.spotify.com/v1/tracks/64wUsc7FL7NYEHlVrzaZTj",
+							"id": "64wUsc7FL7NYEHlVrzaZTj",
+							"name": "A Salty Dog",
+							"track_number": 6,
+							"type": "track",
+							"uri": "spotify:track:64wUsc7FL7NYEHlVrzaZTj",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 279026,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5qSrVAZZpsXknPNmLUp2yD"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5qSrVAZZpsXknPNmLUp2yD",
+							"id": "5qSrVAZZpsXknPNmLUp2yD",
+							"name": "I Need You",
+							"track_number": 7,
+							"type": "track",
+							"uri": "spotify:track:5qSrVAZZpsXknPNmLUp2yD",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 600426,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5EEIUKE0kswtHPGc2QUEyY"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5EEIUKE0kswtHPGc2QUEyY",
+							"id": "5EEIUKE0kswtHPGc2QUEyY",
+							"name": "Soul Sacrifice",
+							"track_number": 8,
+							"type": "track",
+							"uri": "spotify:track:5EEIUKE0kswtHPGc2QUEyY",
+							"is_local": false
+						}
+					]
+				},
+				"copyrights": [
+					{
+						"text": "(P) 2009 InsideOutMusic",
+						"type": "P"
+					}
+				],
+				"external_ids": {
+					"upc": "886447897256"
+				},
+				"genres": []
+			},
+			{
+				"album_type": "album",
+				"total_tracks": 4,
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/2WSR17uMwL0t4mfbumO9nE"
+				},
+				"href": "https://api.spotify.com/v1/albums/2WSR17uMwL0t4mfbumO9nE",
+				"id": "2WSR17uMwL0t4mfbumO9nE",
+				"images": [
+					{
+						"url": "https://i.scdn.co/image/ab67616d0000b273c57d86602c12aa2a1ade89ed",
+						"height": 640,
+						"width": 640
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00001e02c57d86602c12aa2a1ade89ed",
+						"height": 300,
+						"width": 300
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00004851c57d86602c12aa2a1ade89ed",
+						"height": 64,
+						"width": 64
+					}
+				],
+				"name": "Bridge Across Forever",
+				"release_date": "2001-10-02",
+				"release_date_precision": "day",
+				"type": "album",
+				"uri": "spotify:album:2WSR17uMwL0t4mfbumO9nE",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+						},
+						"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+						"id": "4eOjprZV7J3pEjQOsdtLjC",
+						"name": "Transatlantic",
+						"type": "artist",
+						"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+					}
+				],
+				"tracks": {
+					"href": "https://api.spotify.com/v1/albums/2WSR17uMwL0t4mfbumO9nE/tracks?offset=0&limit=50",
+					"limit": 50,
+					"next": null,
+					"offset": 0,
+					"previous": null,
+					"total": 4,
+					"items": [
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 1603600,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4TJa2UqWuhC6x2mqwJG1ia"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4TJa2UqWuhC6x2mqwJG1ia",
+							"id": "4TJa2UqWuhC6x2mqwJG1ia",
+							"name": "Duel with the Devil",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:4TJa2UqWuhC6x2mqwJG1ia",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 869733,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2XlT3IJvDRqVGxdWQOAqON"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2XlT3IJvDRqVGxdWQOAqON",
+							"id": "2XlT3IJvDRqVGxdWQOAqON",
+							"name": "Suite Charlotte Pike",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:2XlT3IJvDRqVGxdWQOAqON",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 332133,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/36CkspQ6U5ZZ7KxyPfxjC7"
+							},
+							"href": "https://api.spotify.com/v1/tracks/36CkspQ6U5ZZ7KxyPfxjC7",
+							"id": "36CkspQ6U5ZZ7KxyPfxjC7",
+							"name": "Bridge Across Forever",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:36CkspQ6U5ZZ7KxyPfxjC7",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+									},
+									"href": "https://api.spotify.com/v1/artists/4eOjprZV7J3pEjQOsdtLjC",
+									"id": "4eOjprZV7J3pEjQOsdtLjC",
+									"name": "Transatlantic",
+									"type": "artist",
+									"uri": "spotify:artist:4eOjprZV7J3pEjQOsdtLjC"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 1800293,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1CCdhD7zY0LodEJMF7SLYT"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1CCdhD7zY0LodEJMF7SLYT",
+							"id": "1CCdhD7zY0LodEJMF7SLYT",
+							"name": "Stranger in Your Soul",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:1CCdhD7zY0LodEJMF7SLYT",
+							"is_local": false
+						}
+					]
+				},
+				"copyrights": [
+					{
+						"text": "(P) 2001 InsideOutMusic",
+						"type": "P"
+					}
+				],
+				"external_ids": {
+					"upc": "886447897324"
+				},
+				"genres": []
+			},
+			{
+				"album_type": "album",
+				"total_tracks": 10,
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/2Se3yqacWPSmAMSfxuWtdM"
+				},
+				"href": "https://api.spotify.com/v1/albums/2Se3yqacWPSmAMSfxuWtdM",
+				"id": "2Se3yqacWPSmAMSfxuWtdM",
+				"images": [
+					{
+						"url": "https://i.scdn.co/image/ab67616d0000b273a924b911ffbb6aab25c48a8a",
+						"height": 640,
+						"width": 640
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00001e02a924b911ffbb6aab25c48a8a",
+						"height": 300,
+						"width": 300
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00004851a924b911ffbb6aab25c48a8a",
+						"height": 64,
+						"width": 64
+					}
+				],
+				"name": "Breakfast In America (Remastered 2026)",
+				"release_date": "1979-03-16",
+				"release_date_precision": "day",
+				"type": "album",
+				"uri": "spotify:album:2Se3yqacWPSmAMSfxuWtdM",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+						},
+						"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+						"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+						"name": "Supertramp",
+						"type": "artist",
+						"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+					}
+				],
+				"tracks": {
+					"href": "https://api.spotify.com/v1/albums/2Se3yqacWPSmAMSfxuWtdM/tracks?offset=0&limit=50",
+					"limit": 50,
+					"next": null,
+					"offset": 0,
+					"previous": null,
+					"total": 10,
+					"items": [
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 317613,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4KJ8qXt0nmj630qfHlBxc2"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4KJ8qXt0nmj630qfHlBxc2",
+							"id": "4KJ8qXt0nmj630qfHlBxc2",
+							"name": "Gone Hollywood - Remastered 2026",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:4KJ8qXt0nmj630qfHlBxc2",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 251546,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4ovN8JcQzTJfCD9ptUXovU"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4ovN8JcQzTJfCD9ptUXovU",
+							"id": "4ovN8JcQzTJfCD9ptUXovU",
+							"name": "The Logical Song - Remastered 2026",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:4ovN8JcQzTJfCD9ptUXovU",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 350946,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4NRGLwK3R5SQE9iGg9mKTA"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4NRGLwK3R5SQE9iGg9mKTA",
+							"id": "4NRGLwK3R5SQE9iGg9mKTA",
+							"name": "Goodbye Stranger - Remastered 2026",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:4NRGLwK3R5SQE9iGg9mKTA",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 159466,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3omTpa42nUfQS3OHiRUSeF"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3omTpa42nUfQS3OHiRUSeF",
+							"id": "3omTpa42nUfQS3OHiRUSeF",
+							"name": "Breakfast In America - Remastered 2026",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:3omTpa42nUfQS3OHiRUSeF",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 225746,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4i2cjEIDkspBaX35MCeQH0"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4i2cjEIDkspBaX35MCeQH0",
+							"id": "4i2cjEIDkspBaX35MCeQH0",
+							"name": "Oh Darling - Remastered 2026",
+							"track_number": 5,
+							"type": "track",
+							"uri": "spotify:track:4i2cjEIDkspBaX35MCeQH0",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 309440,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2NHdponbJLd4qYnJPwJU3W"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2NHdponbJLd4qYnJPwJU3W",
+							"id": "2NHdponbJLd4qYnJPwJU3W",
+							"name": "Take The Long Way Home - Remastered 2026",
+							"track_number": 6,
+							"type": "track",
+							"uri": "spotify:track:2NHdponbJLd4qYnJPwJU3W",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 250480,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4YUy2CrBN5knyvFKgHtWeW"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4YUy2CrBN5knyvFKgHtWeW",
+							"id": "4YUy2CrBN5knyvFKgHtWeW",
+							"name": "Lord Is It Mine - Remastered 2026",
+							"track_number": 7,
+							"type": "track",
+							"uri": "spotify:track:4YUy2CrBN5knyvFKgHtWeW",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 266053,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0SnEa5PLwaVaBIgJy9uHOY"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0SnEa5PLwaVaBIgJy9uHOY",
+							"id": "0SnEa5PLwaVaBIgJy9uHOY",
+							"name": "Just Another Nervous Wreck - Remastered 2026",
+							"track_number": 8,
+							"type": "track",
+							"uri": "spotify:track:0SnEa5PLwaVaBIgJy9uHOY",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 179106,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0axRpZceMBdsGCK3Wfx3Na"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0axRpZceMBdsGCK3Wfx3Na",
+							"id": "0axRpZceMBdsGCK3Wfx3Na",
+							"name": "Casual Conversations - Remastered 2026",
+							"track_number": 9,
+							"type": "track",
+							"uri": "spotify:track:0axRpZceMBdsGCK3Wfx3Na",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 450680,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6niPXDjSwo4CdK6DiUHV46"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6niPXDjSwo4CdK6DiUHV46",
+							"id": "6niPXDjSwo4CdK6DiUHV46",
+							"name": "Child Of Vision - Remastered 2026",
+							"track_number": 10,
+							"type": "track",
+							"uri": "spotify:track:6niPXDjSwo4CdK6DiUHV46",
+							"is_local": false
+						}
+					]
+				},
+				"copyrights": [
+					{
+						"text": "© 1979 UMG Recordings, Inc.",
+						"type": "C"
+					},
+					{
+						"text": "℗ 2026 UMG Recordings, Inc.",
+						"type": "P"
+					}
+				],
+				"external_ids": {
+					"upc": "00199957398657"
+				},
+				"genres": []
+			},
+			{
+				"album_type": "album",
+				"total_tracks": 22,
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+				},
+				"href": "https://api.spotify.com/v1/albums/1zcm3UvHNHpseYOUfd0pna",
+				"id": "1zcm3UvHNHpseYOUfd0pna",
+				"images": [
+					{
+						"url": "https://i.scdn.co/image/ab67616d0000b2735405ef9e393f5f1e53b4b42e",
+						"height": 640,
+						"width": 640
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
+						"height": 300,
+						"width": 300
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d000048515405ef9e393f5f1e53b4b42e",
+						"height": 64,
+						"width": 64
+					}
+				],
+				"name": "Breakfast In America (Deluxe Edition)",
+				"release_date": "1979-03-29",
+				"release_date_precision": "day",
+				"type": "album",
+				"uri": "spotify:album:1zcm3UvHNHpseYOUfd0pna",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+						},
+						"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+						"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+						"name": "Supertramp",
+						"type": "artist",
+						"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+					}
+				],
+				"tracks": {
+					"href": "https://api.spotify.com/v1/albums/1zcm3UvHNHpseYOUfd0pna/tracks?offset=0&limit=50",
+					"limit": 50,
+					"next": null,
+					"offset": 0,
+					"previous": null,
+					"total": 22,
+					"items": [
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 320986,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/43BVfHr7mkNDtNIGVp1vff"
+							},
+							"href": "https://api.spotify.com/v1/tracks/43BVfHr7mkNDtNIGVp1vff",
+							"id": "43BVfHr7mkNDtNIGVp1vff",
+							"name": "Gone Hollywood - Remastered 2010",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:43BVfHr7mkNDtNIGVp1vff",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 251253,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6mHOcVtsHLMuesJkswc0GZ",
+							"id": "6mHOcVtsHLMuesJkswc0GZ",
+							"name": "The Logical Song - Remastered 2010",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:6mHOcVtsHLMuesJkswc0GZ",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 350573,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/67oyFnjJnn78fZP9KjeZx0"
+							},
+							"href": "https://api.spotify.com/v1/tracks/67oyFnjJnn78fZP9KjeZx0",
+							"id": "67oyFnjJnn78fZP9KjeZx0",
+							"name": "Goodbye Stranger - Remastered 2010",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:67oyFnjJnn78fZP9KjeZx0",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 159346,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4a5pNRjwmzYQuEY1E7O6pj",
+							"id": "4a5pNRjwmzYQuEY1E7O6pj",
+							"name": "Breakfast In America - Remastered 2010",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:4a5pNRjwmzYQuEY1E7O6pj",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 242413,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/089NMLhXz421ohFN55A3yo"
+							},
+							"href": "https://api.spotify.com/v1/tracks/089NMLhXz421ohFN55A3yo",
+							"id": "089NMLhXz421ohFN55A3yo",
+							"name": "Oh Darling - Remastered 2010",
+							"track_number": 5,
+							"type": "track",
+							"uri": "spotify:track:089NMLhXz421ohFN55A3yo",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 308853,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0v0XYK0pLgsPiq5u4FKHaw"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0v0XYK0pLgsPiq5u4FKHaw",
+							"id": "0v0XYK0pLgsPiq5u4FKHaw",
+							"name": "Take The Long Way Home - Remastered 2010",
+							"track_number": 6,
+							"type": "track",
+							"uri": "spotify:track:0v0XYK0pLgsPiq5u4FKHaw",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 250186,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3AUpYeScJOpYf8psTIz62l"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3AUpYeScJOpYf8psTIz62l",
+							"id": "3AUpYeScJOpYf8psTIz62l",
+							"name": "Lord Is It Mine - Remastered 2010",
+							"track_number": 7,
+							"type": "track",
+							"uri": "spotify:track:3AUpYeScJOpYf8psTIz62l",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 265680,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6o8nZVzweaEOLDLOgaogX5"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6o8nZVzweaEOLDLOgaogX5",
+							"id": "6o8nZVzweaEOLDLOgaogX5",
+							"name": "Just Another Nervous Wreck - Remastered 2010",
+							"track_number": 8,
+							"type": "track",
+							"uri": "spotify:track:6o8nZVzweaEOLDLOgaogX5",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 178866,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5gLJZBGkpvRXWbEbTcLIz8"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5gLJZBGkpvRXWbEbTcLIz8",
+							"id": "5gLJZBGkpvRXWbEbTcLIz8",
+							"name": "Casual Conversations - Remastered 2010",
+							"track_number": 9,
+							"type": "track",
+							"uri": "spotify:track:5gLJZBGkpvRXWbEbTcLIz8",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 451080,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/7hHTyS1QG0TcX5iQ0sa1Tk"
+							},
+							"href": "https://api.spotify.com/v1/tracks/7hHTyS1QG0TcX5iQ0sa1Tk",
+							"id": "7hHTyS1QG0TcX5iQ0sa1Tk",
+							"name": "Child Of Vision - Remastered 2010",
+							"track_number": 10,
+							"type": "track",
+							"uri": "spotify:track:7hHTyS1QG0TcX5iQ0sa1Tk",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 245866,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/26TsScuJSlqwZyaoWG2l7u"
+							},
+							"href": "https://api.spotify.com/v1/tracks/26TsScuJSlqwZyaoWG2l7u",
+							"id": "26TsScuJSlqwZyaoWG2l7u",
+							"name": "The Logical Song - Live At Pavillon de Paris/1979",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:26TsScuJSlqwZyaoWG2l7u",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 370733,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2G05yFyVGPLPMOtRciS9Tr"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2G05yFyVGPLPMOtRciS9Tr",
+							"id": "2G05yFyVGPLPMOtRciS9Tr",
+							"name": "Goodbye Stranger - Live At Pavillon de Paris/1979",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:2G05yFyVGPLPMOtRciS9Tr",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 185173,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/20R2CCtPvCNWhGYlO3jTUP"
+							},
+							"href": "https://api.spotify.com/v1/tracks/20R2CCtPvCNWhGYlO3jTUP",
+							"id": "20R2CCtPvCNWhGYlO3jTUP",
+							"name": "Breakfast In America - Live At Wembley/1979",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:20R2CCtPvCNWhGYlO3jTUP",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 260853,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5xhMjf8JFK5oJFscG739H9"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5xhMjf8JFK5oJFscG739H9",
+							"id": "5xhMjf8JFK5oJFscG739H9",
+							"name": "Oh Darling - Live In Miami/1979",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:5xhMjf8JFK5oJFscG739H9",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 287720,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3bdcWJPfW9Xxb78BAUiBuf"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3bdcWJPfW9Xxb78BAUiBuf",
+							"id": "3bdcWJPfW9Xxb78BAUiBuf",
+							"name": "Take The Long Way Home - Live At Wembley/1979",
+							"track_number": 5,
+							"type": "track",
+							"uri": "spotify:track:3bdcWJPfW9Xxb78BAUiBuf",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 452080,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2YkZ06KjaXlqAyGKxXKj21"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2YkZ06KjaXlqAyGKxXKj21",
+							"id": "2YkZ06KjaXlqAyGKxXKj21",
+							"name": "Another Man's Woman - Live At Pavillon de Paris/1979",
+							"track_number": 6,
+							"type": "track",
+							"uri": "spotify:track:2YkZ06KjaXlqAyGKxXKj21",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 335933,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1Z0pyFdSNBdFLzBRWEdoN6"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1Z0pyFdSNBdFLzBRWEdoN6",
+							"id": "1Z0pyFdSNBdFLzBRWEdoN6",
+							"name": "Even In The Quietest Moments - Live At Pavillon de Paris/1979",
+							"track_number": 7,
+							"type": "track",
+							"uri": "spotify:track:1Z0pyFdSNBdFLzBRWEdoN6",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 448773,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3O0BsyGfLcjhraBRz2Icvd"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3O0BsyGfLcjhraBRz2Icvd",
+							"id": "3O0BsyGfLcjhraBRz2Icvd",
+							"name": "Rudy - Live At Wembley/1979",
+							"track_number": 8,
+							"type": "track",
+							"uri": "spotify:track:3O0BsyGfLcjhraBRz2Icvd",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 208826,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5ORq8jzBuQ3gLZQpe6Vs5r"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5ORq8jzBuQ3gLZQpe6Vs5r",
+							"id": "5ORq8jzBuQ3gLZQpe6Vs5r",
+							"name": "Downstream - Live At Pavillon de Paris/1979",
+							"track_number": 9,
+							"type": "track",
+							"uri": "spotify:track:5ORq8jzBuQ3gLZQpe6Vs5r",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 242760,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4zuUbVOygkYUQkoYIO3DAP"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4zuUbVOygkYUQkoYIO3DAP",
+							"id": "4zuUbVOygkYUQkoYIO3DAP",
+							"name": "Give A Little Bit - Live At Pavillon de Paris/1979",
+							"track_number": 10,
+							"type": "track",
+							"uri": "spotify:track:4zuUbVOygkYUQkoYIO3DAP",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 413133,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6XdPkXzktPNXpOqGjFp90I"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6XdPkXzktPNXpOqGjFp90I",
+							"id": "6XdPkXzktPNXpOqGjFp90I",
+							"name": "From Now On - Live At Wembley/1979",
+							"track_number": 11,
+							"type": "track",
+							"uri": "spotify:track:6XdPkXzktPNXpOqGjFp90I",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+									},
+									"href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+									"id": "3JsMj0DEzyWc0VDlHuy9Bx",
+									"name": "Supertramp",
+									"type": "artist",
+									"uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+								}
+							],
+							"disc_number": 2,
+							"duration_ms": 451706,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5KTAVQ1TVPOasRCrqE1XiW"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5KTAVQ1TVPOasRCrqE1XiW",
+							"id": "5KTAVQ1TVPOasRCrqE1XiW",
+							"name": "Child Of Vision - Live At Pavillon de Paris/1979",
+							"track_number": 12,
+							"type": "track",
+							"uri": "spotify:track:5KTAVQ1TVPOasRCrqE1XiW",
+							"is_local": false
+						}
+					]
+				},
+				"copyrights": [
+					{
+						"text": "© 2010 A&M Records",
+						"type": "C"
+					},
+					{
+						"text": "℗ 2010 A&M Records",
+						"type": "P"
+					}
+				],
+				"external_ids": {
+					"upc": "00600753304389"
+				},
+				"genres": []
+			},
+			{
+				"album_type": "album",
+				"total_tracks": 9,
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/4seR9L4jUm7oFTJkaFdAMp"
+				},
+				"href": "https://api.spotify.com/v1/albums/4seR9L4jUm7oFTJkaFdAMp",
+				"id": "4seR9L4jUm7oFTJkaFdAMp",
+				"images": [
+					{
+						"url": "https://i.scdn.co/image/ab67616d0000b27312748cd82b69afc28948eb70",
+						"height": 640,
+						"width": 640
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00001e0212748cd82b69afc28948eb70",
+						"height": 300,
+						"width": 300
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d0000485112748cd82b69afc28948eb70",
+						"height": 64,
+						"width": 64
+					}
+				],
+				"name": "Underground Alternatives",
+				"release_date": "2005-09-05",
+				"release_date_precision": "day",
+				"type": "album",
+				"uri": "spotify:album:4seR9L4jUm7oFTJkaFdAMp",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/2XyH5i2qSPSmSkv0Ck9mBF"
+						},
+						"href": "https://api.spotify.com/v1/artists/2XyH5i2qSPSmSkv0Ck9mBF",
+						"id": "2XyH5i2qSPSmSkv0Ck9mBF",
+						"name": "Nick Holder",
+						"type": "artist",
+						"uri": "spotify:artist:2XyH5i2qSPSmSkv0Ck9mBF"
+					}
+				],
+				"tracks": {
+					"href": "https://api.spotify.com/v1/albums/4seR9L4jUm7oFTJkaFdAMp/tracks?offset=0&limit=50",
+					"limit": 50,
+					"next": null,
+					"offset": 0,
+					"previous": null,
+					"total": 9,
+					"items": [
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/2XyH5i2qSPSmSkv0Ck9mBF"
+									},
+									"href": "https://api.spotify.com/v1/artists/2XyH5i2qSPSmSkv0Ck9mBF",
+									"id": "2XyH5i2qSPSmSkv0Ck9mBF",
+									"name": "Nick Holder",
+									"type": "artist",
+									"uri": "spotify:artist:2XyH5i2qSPSmSkv0Ck9mBF"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 416000,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/21YZA9uNHQbGEciPljU6SK"
+							},
+							"href": "https://api.spotify.com/v1/tracks/21YZA9uNHQbGEciPljU6SK",
+							"id": "21YZA9uNHQbGEciPljU6SK",
+							"name": "America Eats It's Young",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:21YZA9uNHQbGEciPljU6SK",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/2XyH5i2qSPSmSkv0Ck9mBF"
+									},
+									"href": "https://api.spotify.com/v1/artists/2XyH5i2qSPSmSkv0Ck9mBF",
+									"id": "2XyH5i2qSPSmSkv0Ck9mBF",
+									"name": "Nick Holder",
+									"type": "artist",
+									"uri": "spotify:artist:2XyH5i2qSPSmSkv0Ck9mBF"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 374800,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1ncWJFNU6CF81I2Ded6t6f"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1ncWJFNU6CF81I2Ded6t6f",
+							"id": "1ncWJFNU6CF81I2Ded6t6f",
+							"name": "Inside Your Soul",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:1ncWJFNU6CF81I2Ded6t6f",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/2XyH5i2qSPSmSkv0Ck9mBF"
+									},
+									"href": "https://api.spotify.com/v1/artists/2XyH5i2qSPSmSkv0Ck9mBF",
+									"id": "2XyH5i2qSPSmSkv0Ck9mBF",
+									"name": "Nick Holder",
+									"type": "artist",
+									"uri": "spotify:artist:2XyH5i2qSPSmSkv0Ck9mBF"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 468000,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2sbUWtAhUyGYXiCch6OcmO"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2sbUWtAhUyGYXiCch6OcmO",
+							"id": "2sbUWtAhUyGYXiCch6OcmO",
+							"name": "Summer Daze",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:2sbUWtAhUyGYXiCch6OcmO",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/2XyH5i2qSPSmSkv0Ck9mBF"
+									},
+									"href": "https://api.spotify.com/v1/artists/2XyH5i2qSPSmSkv0Ck9mBF",
+									"id": "2XyH5i2qSPSmSkv0Ck9mBF",
+									"name": "Nick Holder",
+									"type": "artist",
+									"uri": "spotify:artist:2XyH5i2qSPSmSkv0Ck9mBF"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 395293,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2LuT0TTsHcKueeQDhfgLg7"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2LuT0TTsHcKueeQDhfgLg7",
+							"id": "2LuT0TTsHcKueeQDhfgLg7",
+							"name": "Freedom In '63",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:2LuT0TTsHcKueeQDhfgLg7",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/2XyH5i2qSPSmSkv0Ck9mBF"
+									},
+									"href": "https://api.spotify.com/v1/artists/2XyH5i2qSPSmSkv0Ck9mBF",
+									"id": "2XyH5i2qSPSmSkv0Ck9mBF",
+									"name": "Nick Holder",
+									"type": "artist",
+									"uri": "spotify:artist:2XyH5i2qSPSmSkv0Ck9mBF"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 412866,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0kROrKZHYUQfpXPnuGzBzP"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0kROrKZHYUQfpXPnuGzBzP",
+							"id": "0kROrKZHYUQfpXPnuGzBzP",
+							"name": "Back In Time (To Space 1999)",
+							"track_number": 5,
+							"type": "track",
+							"uri": "spotify:track:0kROrKZHYUQfpXPnuGzBzP",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/2XyH5i2qSPSmSkv0Ck9mBF"
+									},
+									"href": "https://api.spotify.com/v1/artists/2XyH5i2qSPSmSkv0Ck9mBF",
+									"id": "2XyH5i2qSPSmSkv0Ck9mBF",
+									"name": "Nick Holder",
+									"type": "artist",
+									"uri": "spotify:artist:2XyH5i2qSPSmSkv0Ck9mBF"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 414533,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/66Wky7DB4fiLq5nJnGmmj0"
+							},
+							"href": "https://api.spotify.com/v1/tracks/66Wky7DB4fiLq5nJnGmmj0",
+							"id": "66Wky7DB4fiLq5nJnGmmj0",
+							"name": "Moments In Dub",
+							"track_number": 6,
+							"type": "track",
+							"uri": "spotify:track:66Wky7DB4fiLq5nJnGmmj0",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/2XyH5i2qSPSmSkv0Ck9mBF"
+									},
+									"href": "https://api.spotify.com/v1/artists/2XyH5i2qSPSmSkv0Ck9mBF",
+									"id": "2XyH5i2qSPSmSkv0Ck9mBF",
+									"name": "Nick Holder",
+									"type": "artist",
+									"uri": "spotify:artist:2XyH5i2qSPSmSkv0Ck9mBF"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 391533,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4aCyI84U9pVNtsKVmx3He2"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4aCyI84U9pVNtsKVmx3He2",
+							"id": "4aCyI84U9pVNtsKVmx3He2",
+							"name": "Love 'Em, Leave 'Em",
+							"track_number": 7,
+							"type": "track",
+							"uri": "spotify:track:4aCyI84U9pVNtsKVmx3He2",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/2XyH5i2qSPSmSkv0Ck9mBF"
+									},
+									"href": "https://api.spotify.com/v1/artists/2XyH5i2qSPSmSkv0Ck9mBF",
+									"id": "2XyH5i2qSPSmSkv0Ck9mBF",
+									"name": "Nick Holder",
+									"type": "artist",
+									"uri": "spotify:artist:2XyH5i2qSPSmSkv0Ck9mBF"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 372440,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/6USpSWvMFNCIT7g6r13kuI"
+							},
+							"href": "https://api.spotify.com/v1/tracks/6USpSWvMFNCIT7g6r13kuI",
+							"id": "6USpSWvMFNCIT7g6r13kuI",
+							"name": "Black Jazz (You're Gonna Love Me)",
+							"track_number": 8,
+							"type": "track",
+							"uri": "spotify:track:6USpSWvMFNCIT7g6r13kuI",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/2XyH5i2qSPSmSkv0Ck9mBF"
+									},
+									"href": "https://api.spotify.com/v1/artists/2XyH5i2qSPSmSkv0Ck9mBF",
+									"id": "2XyH5i2qSPSmSkv0Ck9mBF",
+									"name": "Nick Holder",
+									"type": "artist",
+									"uri": "spotify:artist:2XyH5i2qSPSmSkv0Ck9mBF"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 403493,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5TEeoitKR1asWHOy291HNf"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5TEeoitKR1asWHOy291HNf",
+							"id": "5TEeoitKR1asWHOy291HNf",
+							"name": "Friday Night At Movements",
+							"track_number": 9,
+							"type": "track",
+							"uri": "spotify:track:5TEeoitKR1asWHOy291HNf",
+							"is_local": false
+						}
+					]
+				},
+				"copyrights": [
+					{
+						"text": "2005 NRK Sound Division Ltd.",
+						"type": "C"
+					},
+					{
+						"text": "2005 NRK Sound Division Ltd.",
+						"type": "P"
+					}
+				],
+				"external_ids": {
+					"upc": "689492007423"
+				},
+				"genres": []
+			}
+		]
+	}
+}

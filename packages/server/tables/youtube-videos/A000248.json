@@ -1,0 +1,67 @@
+{
+	"id": "248",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"id": "qkw-PlOvA58",
+				"snippet": {
+					"publishedAt": "2022-02-28T08:02:42Z",
+					"channelId": "UColTsKEMf0kaZjkoOx7-Cww",
+					"title": "Supertramp - Lord It Is Mine (Official Audio)",
+					"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/qkw-PlOvA58/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/qkw-PlOvA58/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/qkw-PlOvA58/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						},
+						"standard": {
+							"url": "https://i.ytimg.com/vi/qkw-PlOvA58/sddefault.jpg",
+							"width": 640,
+							"height": 480
+						},
+						"maxres": {
+							"url": "https://i.ytimg.com/vi/qkw-PlOvA58/maxresdefault.jpg",
+							"width": 1280,
+							"height": 720
+						}
+					},
+					"channelTitle": "Supertramp ",
+					"tags": [
+						"Supertramp",
+						"Lord It Is Mine",
+						"Official Audio"
+					],
+					"categoryId": "10",
+					"liveBroadcastContent": "none",
+					"defaultLanguage": "da",
+					"localized": {
+						"title": "Supertramp - Lord It Is Mine (Official Audio)",
+						"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home"
+					}
+				},
+				"contentDetails": {
+					"duration": "PT4M10S",
+					"dimension": "2d",
+					"definition": "hd",
+					"caption": "false",
+					"licensedContent": false,
+					"contentRating": {},
+					"projection": "rectangular"
+				}
+			}
+		]
+	},
+	"previousId": "247"
+}

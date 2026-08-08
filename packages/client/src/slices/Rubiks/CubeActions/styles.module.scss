@@ -1,0 +1,17 @@
+:host {
+    display: flex;
+    position: absolute;
+}
+
+.cube-base-action {
+    padding: 0.5em;
+
+    &:not([data-playing="true"]) {
+        opacity: 0.5;
+    }
+
+    sup::before {
+        content: attr(data-value);
+        font-size: 0.6em;
+    }
+}

@@ -1,0 +1,4829 @@
+{
+	"id": "15",
+	"previousId": "14",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"id": "OLAK5uy_lB5tk_UkGpZKY2Pot8YbUPTVh71IZ3xds",
+				"title": "Album - Martini Sprite",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lB5tk_UkGpZKY2Pot8YbUPTVh71IZ3xds/mqdefault.jpg?sqp=COij_NIGir7X7AMICNGRjNAGEAE=&rs=AOn4CLCGEQ9Hu1yX9woRE68auGgokU9pfQ&v=1778583761",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lB5tk_UkGpZKY2Pot8YbUPTVh71IZ3xds/sddefault.jpg?sqp=COij_NIGir7X7AMICNGRjNAGEAE=&rs=AOn4CLDZMfiU-YTnUL9JrzFOUPq4uJ1-zg&v=1778583761",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lB5tk_UkGpZKY2Pot8YbUPTVh71IZ3xds/maxresdefault.jpg?sqp=COij_NIGir7X7AMICNGRjNAGEAE=&rs=AOn4CLBPzoqDNuWKhg9lY3nLn-QQf8IrDg&v=1778583761",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sQjV0a19Va0dwWktZMlBvdDhZYlVQVFZoNzFJWjN4ZHMuQzcxNUY2RDFGQjIwNEQwQQ",
+						"snippet": {
+							"title": "Intro",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "8b22VYT5Nvc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQjV0a19Va0dwWktZMlBvdDhZYlVQVFZoNzFJWjN4ZHMuNzEyNTQyMDkzMEIyMTMzRg",
+						"snippet": {
+							"title": "Autogen",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "X1lDsafi0q8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQjV0a19Va0dwWktZMlBvdDhZYlVQVFZoNzFJWjN4ZHMuQ0NDMkNGODM4NDNFRjhGMA",
+						"snippet": {
+							"title": "Nah bei dir",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "KPGyscFYFyU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQjV0a19Va0dwWktZMlBvdDhZYlVQVFZoNzFJWjN4ZHMuMkFBNkNCRDE5ODUzN0U2Qg",
+						"snippet": {
+							"title": "Es könnte grad nicht schöner sein",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "KF3w2Jvvr4s"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQjV0a19Va0dwWktZMlBvdDhZYlVQVFZoNzFJWjN4ZHMuQzJFODU2NUFBRkE2MDAxNw",
+						"snippet": {
+							"title": "Las Vegas Glamour",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "ItufYWdujbY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQjV0a19Va0dwWktZMlBvdDhZYlVQVFZoNzFJWjN4ZHMuODI3OURBQUVBNjE3RUQ1NA",
+						"snippet": {
+							"title": "Thorsten",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "8fIFwrOc0eM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQjV0a19Va0dwWktZMlBvdDhZYlVQVFZoNzFJWjN4ZHMuNzQ4RUU4MDk0REU1OEY4Nw",
+						"snippet": {
+							"title": "Match",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "HSRYTJfJZ_k"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQjV0a19Va0dwWktZMlBvdDhZYlVQVFZoNzFJWjN4ZHMuNUFGRkE2OTkxOEE0REFFOA",
+						"snippet": {
+							"title": "Sie",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "muqsORML7lU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQjV0a19Va0dwWktZMlBvdDhZYlVQVFZoNzFJWjN4ZHMuM0QwQzhGQzlDNDA2OTRBMw",
+						"snippet": {
+							"title": "Kälberregen",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "9aGe_AgFj4k"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQjV0a19Va0dwWktZMlBvdDhZYlVQVFZoNzFJWjN4ZHMuQjBENjI5OTU3NzQ2RUVDQQ",
+						"snippet": {
+							"title": "Hit",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "Oz3qy3w1UQk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQjV0a19Va0dwWktZMlBvdDhZYlVQVFZoNzFJWjN4ZHMuNjEyODY3NkIzNUY1NTI5Rg",
+						"snippet": {
+							"title": "Sanifair Millionär",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "5w3ViTpX7UE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sQjV0a19Va0dwWktZMlBvdDhZYlVQVFZoNzFJWjN4ZHMuOUYzRTA4RkNENkZBQkE3NQ",
+						"snippet": {
+							"title": "Outro",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "wHHiQ5vT9pk"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mgw449tbeo_icwceb133W20520ogGulJI",
+				"title": "Album - Perlen",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mgw449tbeo_icwceb133W20520ogGulJI/mqdefault.jpg?sqp=COij_NIGir7X7AMICICcsNAGEAE=&rs=AOn4CLCOJXodxV-Dx4Ue8hNJFcDrJNn8JA&v=1779174912",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mgw449tbeo_icwceb133W20520ogGulJI/sddefault.jpg?sqp=COij_NIGir7X7AMICICcsNAGEAE=&rs=AOn4CLAhIUntabsajNNR6XgGO26ZyZ4A1w&v=1779174912",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mgw449tbeo_icwceb133W20520ogGulJI/maxresdefault.jpg?sqp=COij_NIGir7X7AMICICcsNAGEAE=&rs=AOn4CLAzgOmJkcdefVFs_K6iBI-WXAEYwQ&v=1779174912",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tZ3c0NDl0YmVvX2ljd2NlYjEzM1cyMDUyMG9nR3VsSkkuNEEwNzU1NkZDNUM5QjM2MQ",
+						"snippet": {
+							"title": "Intro",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "BoMujFoQ-QI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tZ3c0NDl0YmVvX2ljd2NlYjEzM1cyMDUyMG9nR3VsSkkuQUYyQzg5OURDNDY5MzFCMg",
+						"snippet": {
+							"title": "Durch die Nacht",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "pqHTRZcE5sQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tZ3c0NDl0YmVvX2ljd2NlYjEzM1cyMDUyMG9nR3VsSkkuMTkxM0M4QUM1NzAzQzY3Mw",
+						"snippet": {
+							"title": "Männer",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "kxFps1DKU6E"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tZ3c0NDl0YmVvX2ljd2NlYjEzM1cyMDUyMG9nR3VsSkkuRjQ4NTY3NUM2REY5RUYxOQ",
+						"snippet": {
+							"title": "Du und Ich",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "pUPys3kvZvg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tZ3c0NDl0YmVvX2ljd2NlYjEzM1cyMDUyMG9nR3VsSkkuM0MxQTdERjczRURBQjIwRA",
+						"snippet": {
+							"title": "Sims 3",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "X-vYyBfwSkQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tZ3c0NDl0YmVvX2ljd2NlYjEzM1cyMDUyMG9nR3VsSkkuOTZFRDU5MUQ3QkFBQTA2OA",
+						"snippet": {
+							"title": "toxic",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "VIwr8GmKZ_Q"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tZ3c0NDl0YmVvX2ljd2NlYjEzM1cyMDUyMG9nR3VsSkkuQzZDMEVCNjJCOEJCODQxRg",
+						"snippet": {
+							"title": "immer lustig",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "SUajN8cjExM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tZ3c0NDl0YmVvX2ljd2NlYjEzM1cyMDUyMG9nR3VsSkkuQ0VEMDgzMUM1MkU5RkZGNw",
+						"snippet": {
+							"title": "mein boy",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "Um568qOvki0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tZ3c0NDl0YmVvX2ljd2NlYjEzM1cyMDUyMG9nR3VsSkkuNTM2ODM3MDlBRUVFN0MxMQ",
+						"snippet": {
+							"title": "oberkörperfrei",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "60bZ2dtMy5Y"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tZ3c0NDl0YmVvX2ljd2NlYjEzM1cyMDUyMG9nR3VsSkkuMkI2RUZBMUIxRjg5N0VBQw",
+						"snippet": {
+							"title": "Ich sage ja",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "kIANMt-0uxw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tZ3c0NDl0YmVvX2ljd2NlYjEzM1cyMDUyMG9nR3VsSkkuMkFCRTVFQjM1QzY3MUU5RQ",
+						"snippet": {
+							"title": "Du musst dich nicht schämen",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "iBVQhvzJ_YU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tZ3c0NDl0YmVvX2ljd2NlYjEzM1cyMDUyMG9nR3VsSkkuNEM0QzhFNEFGMDVCMTdDNQ",
+						"snippet": {
+							"title": "Outro",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "2tvDoueM5Js"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mCc55jIv5kJFQqgYGiCedWj1tueRZCBtk",
+				"title": "Album - Sanifair Millionär CYPHER",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mCc55jIv5kJFQqgYGiCedWj1tueRZCBtk/mqdefault.jpg?sqp=CJSm_NIGir7X7AMICMycsNAGEAE=&rs=AOn4CLAGsORUTN7Rniv6p1FyWXrxbcM3rA&v=1779174988",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mCc55jIv5kJFQqgYGiCedWj1tueRZCBtk/sddefault.jpg?sqp=CJSm_NIGir7X7AMICMycsNAGEAE=&rs=AOn4CLDZDGVAwFoPxhkKGa_-4OVBklaeYw&v=1779174988",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mCc55jIv5kJFQqgYGiCedWj1tueRZCBtk/maxresdefault.jpg?sqp=CJSm_NIGir7X7AMICMycsNAGEAE=&rs=AOn4CLCTIQ1c_T-npU3hJScX0kXRqS1Vjw&v=1779174988",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tQ2M1NWpJdjVrSkZRcWdZR2lDZWRXajF0dWVSWkNCdGsuNTIxNTJCNDk0NkMyRjczRg",
+						"snippet": {
+							"title": "Sanifair Millionär CYPHER",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "wwKyvCCpNMA"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_k1iKQFjcutMWdaEMzqxpx8x1UilySoC-E",
+				"title": "Album - Reign In Blood",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_k1iKQFjcutMWdaEMzqxpx8x1UilySoC-E/mqdefault.jpg?sqp=CJSm_NIGir7X7AMICLPgtc4GEAE=&rs=AOn4CLA0Z0A7pqnRgWjG-e04O3oRt10KBA&v=1775071283",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_k1iKQFjcutMWdaEMzqxpx8x1UilySoC-E/sddefault.jpg?sqp=CJSm_NIGir7X7AMICLPgtc4GEAE=&rs=AOn4CLA82bp6-J7FX92mTEIOfJK0iga4Ow&v=1775071283",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_k1iKQFjcutMWdaEMzqxpx8x1UilySoC-E/maxresdefault.jpg?sqp=CJSm_NIGir7X7AMICLPgtc4GEAE=&rs=AOn4CLD-vhtpjtnWkCsH_rn1K5UCqrOIkA&v=1775071283",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9rMWlLUUZqY3V0TVdkYUVNenF4cHg4eDFVaWx5U29DLUUuMzRDOEZGQ0FFODBGMEMyRA",
+						"snippet": {
+							"title": "Angel Of Death",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "-8U9MLAQifw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMWlLUUZqY3V0TVdkYUVNenF4cHg4eDFVaWx5U29DLUUuNDJBODk5NjFGQTBEODRBRA",
+						"snippet": {
+							"title": "Piece By Piece",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "GndpCng828g"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMWlLUUZqY3V0TVdkYUVNenF4cHg4eDFVaWx5U29DLUUuMENGRkI0RDUzMjMyQTc1Mw",
+						"snippet": {
+							"title": "Necrophobic",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "tTwrh2n_oac"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMWlLUUZqY3V0TVdkYUVNenF4cHg4eDFVaWx5U29DLUUuRkJBNUVEMTEwOUZEQzQ2QQ",
+						"snippet": {
+							"title": "Altar Of Sacrifice",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "YHVQF2j3acE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMWlLUUZqY3V0TVdkYUVNenF4cHg4eDFVaWx5U29DLUUuMDNBM0JBNDJFNzVENEIxRg",
+						"snippet": {
+							"title": "Jesus Saves",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "CxQikcieVMA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMWlLUUZqY3V0TVdkYUVNenF4cHg4eDFVaWx5U29DLUUuRjBERTg2NUVFMTQ2MDNFQw",
+						"snippet": {
+							"title": "Criminally Insane",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "9j1P9ya1hg4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMWlLUUZqY3V0TVdkYUVNenF4cHg4eDFVaWx5U29DLUUuRjlBRTNBRTcyOUZFNTYwMQ",
+						"snippet": {
+							"title": "Reborn",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "dILuaDA6QNY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMWlLUUZqY3V0TVdkYUVNenF4cHg4eDFVaWx5U29DLUUuQjcyQ0UxMTJCQTUwRDUyNg",
+						"snippet": {
+							"title": "Epidemic",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "i8HeLhC6uRU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMWlLUUZqY3V0TVdkYUVNenF4cHg4eDFVaWx5U29DLUUuNDcxMjcyNTc1QjU0QTg1Qw",
+						"snippet": {
+							"title": "Postmortem",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "XcM97LW89V0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rMWlLUUZqY3V0TVdkYUVNenF4cHg4eDFVaWx5U29DLUUuMDU5OEI4QjMxQzZENjA4Nw",
+						"snippet": {
+							"title": "Raining Blood",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "CkaE237oiwE"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_niA6Z4GjfJplvRhHariBXgQKw27oUxL8Y",
+				"title": "Album - Seasons In The Abyss",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_niA6Z4GjfJplvRhHariBXgQKw27oUxL8Y/mqdefault.jpg?sqp=CJSm_NIGir7X7AMICJaNtb0GEAE=&rs=AOn4CLD7crFebOV4DfM3dWMbQSNrp-wEHQ&v=1739409046",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_niA6Z4GjfJplvRhHariBXgQKw27oUxL8Y/sddefault.jpg?sqp=CJSm_NIGir7X7AMICJaNtb0GEAE=&rs=AOn4CLAQb10-cK8qIluP3jb2UdiCouIz4A&v=1739409046",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_niA6Z4GjfJplvRhHariBXgQKw27oUxL8Y/maxresdefault.jpg?sqp=CJSm_NIGir7X7AMICJaNtb0GEAE=&rs=AOn4CLDmSWff2zZwOdphuC5Fv4XMSwJVrg&v=1739409046",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9uaUE2WjRHamZKcGx2UmhIYXJpQlhnUUt3MjdvVXhMOFkuOUZEMTY1MzJGMTQyQjMyOQ",
+						"snippet": {
+							"title": "War Ensemble (Album Version)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "vJIVF7VWIvU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uaUE2WjRHamZKcGx2UmhIYXJpQlhnUUt3MjdvVXhMOFkuQ0FENkJCMzZBNjNDNzc3MA",
+						"snippet": {
+							"title": "Blood Red (Album Version)",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "3BQcnZUgEYU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uaUE2WjRHamZKcGx2UmhIYXJpQlhnUUt3MjdvVXhMOFkuNEQ0NzBFNzFEMzNBNEJCMg",
+						"snippet": {
+							"title": "Spirit In Black (Album Version)",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "A7HOMDSuCNA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uaUE2WjRHamZKcGx2UmhIYXJpQlhnUUt3MjdvVXhMOFkuMDU2NTczQzAwQTgzOTcyNQ",
+						"snippet": {
+							"title": "Expendable Youth (Album Version)",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "q4MQ0Zgy7Oc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uaUE2WjRHamZKcGx2UmhIYXJpQlhnUUt3MjdvVXhMOFkuMEI0MTFDQkJBMDI3ODBDQg",
+						"snippet": {
+							"title": "Dead Skin Mask (Album Version)",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "eVmaqj668Fk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uaUE2WjRHamZKcGx2UmhIYXJpQlhnUUt3MjdvVXhMOFkuMzI2Mzk4QjIyOTM3Njg4RQ",
+						"snippet": {
+							"title": "Hallowed Point (Album Version)",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "3_aaD8SjRck"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uaUE2WjRHamZKcGx2UmhIYXJpQlhnUUt3MjdvVXhMOFkuQjg3NjYwMDM5MzI0NEE5MQ",
+						"snippet": {
+							"title": "Skeletons Of Society (Album Version)",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "l8_j7y1U5Qo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uaUE2WjRHamZKcGx2UmhIYXJpQlhnUUt3MjdvVXhMOFkuNDZBRjQ3OThCODZGNDREMA",
+						"snippet": {
+							"title": "Temptation (Album Version)",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "DA059riwkiE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uaUE2WjRHamZKcGx2UmhIYXJpQlhnUUt3MjdvVXhMOFkuNzhERjBBMjE0MUY5RENBQQ",
+						"snippet": {
+							"title": "Born Of Fire (Album Version)",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "yJXjI5CP14A"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uaUE2WjRHamZKcGx2UmhIYXJpQlhnUUt3MjdvVXhMOFkuQThCQjA4MTM3MTZENEFCMw",
+						"snippet": {
+							"title": "Seasons In The Abyss (Album Version)",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "hVJ4rYjUgX4"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_ncguZB2yUq0StUzwpUWz7qaNJO-lcAeis",
+				"title": "Album - The Doors",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_ncguZB2yUq0StUzwpUWz7qaNJO-lcAeis/mqdefault.jpg?sqp=CMCo_NIGir7X7AMICIfBub0GEAE=&rs=AOn4CLCjN6HHt52zEoCy2OXJJw8SBqp3CA&v=1739481223",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_ncguZB2yUq0StUzwpUWz7qaNJO-lcAeis/sddefault.jpg?sqp=CMCo_NIGir7X7AMICIfBub0GEAE=&rs=AOn4CLDOlFek5mqQZ3cEoc1_CvxzLXY1FQ&v=1739481223",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_ncguZB2yUq0StUzwpUWz7qaNJO-lcAeis/maxresdefault.jpg?sqp=CMCo_NIGir7X7AMICIfBub0GEAE=&rs=AOn4CLALEuiPP8yD6-ws56wvDy8CKtGJlA&v=1739481223",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9uY2d1WkIyeVVxMFN0VXp3cFVXejdxYU5KTy1sY0FlaXMuN0IzQ0U4RTZEMkUxMTJCQg",
+						"snippet": {
+							"title": "Break on Through (To the Other Side)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "NFeUko-lQHg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uY2d1WkIyeVVxMFN0VXp3cFVXejdxYU5KTy1sY0FlaXMuMkMzQzE1NUYxMEFCNkY1RQ",
+						"snippet": {
+							"title": "Soul Kitchen",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "kLbfviLC09k"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uY2d1WkIyeVVxMFN0VXp3cFVXejdxYU5KTy1sY0FlaXMuMDE1MDA5NDdCRjk4ODY0RA",
+						"snippet": {
+							"title": "The Crystal Ship",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "GKa1W4a_5mI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uY2d1WkIyeVVxMFN0VXp3cFVXejdxYU5KTy1sY0FlaXMuMkUwQzNDNTE0NzU4N0M0RQ",
+						"snippet": {
+							"title": "Twentieth Century Fox",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "p1IEQr2bOns"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uY2d1WkIyeVVxMFN0VXp3cFVXejdxYU5KTy1sY0FlaXMuQTZCQ0JEOUUwQUJCQTNCNg",
+						"snippet": {
+							"title": "Alabama Song (Whisky Bar)",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "nbtEkZIvMAg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uY2d1WkIyeVVxMFN0VXp3cFVXejdxYU5KTy1sY0FlaXMuMjE0QzdFOTgwNzVFMEM1OQ",
+						"snippet": {
+							"title": "Light My Fire",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "jKU74Uns9_0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uY2d1WkIyeVVxMFN0VXp3cFVXejdxYU5KTy1sY0FlaXMuNjI5QjkyQzAyQkM3OTRGQg",
+						"snippet": {
+							"title": "Back Door Man",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "WTwNzhLvRGs"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uY2d1WkIyeVVxMFN0VXp3cFVXejdxYU5KTy1sY0FlaXMuNEM4MjA2NzFBNDIyOTNCRg",
+						"snippet": {
+							"title": "I Looked at You",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "4Bmy2fWQjRU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uY2d1WkIyeVVxMFN0VXp3cFVXejdxYU5KTy1sY0FlaXMuNkVFQkM0ODAzQjBFNjYxNQ",
+						"snippet": {
+							"title": "End of the Night",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "sO6ouK39mf8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uY2d1WkIyeVVxMFN0VXp3cFVXejdxYU5KTy1sY0FlaXMuQjUzMEJGODY0MDBCQjBBNw",
+						"snippet": {
+							"title": "Take It as It Comes",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "pJt7s7IZ1II"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uY2d1WkIyeVVxMFN0VXp3cFVXejdxYU5KTy1sY0FlaXMuRjQ0REU0M0FDNjQ2NkExNg",
+						"snippet": {
+							"title": "The End",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "BXqPNlng6uI"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_lvi6ZgTzcZcMheEi71P4I9VSTLeME-eX4",
+				"title": "Album - L.A. Woman (50th Anniversary Deluxe Edition)",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lvi6ZgTzcZcMheEi71P4I9VSTLeME-eX4/mqdefault.jpg?sqp=CMCo_NIGir7X7AMICPHV0b0GEAE=&rs=AOn4CLBECRxMfuM9Bx4CbG5BQJ26kErlKg&v=1739877105",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lvi6ZgTzcZcMheEi71P4I9VSTLeME-eX4/sddefault.jpg?sqp=CMCo_NIGir7X7AMICPHV0b0GEAE=&rs=AOn4CLA9u68YJXlxp5pZyOEkhEzsDfWA_g&v=1739877105",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lvi6ZgTzcZcMheEi71P4I9VSTLeME-eX4/maxresdefault.jpg?sqp=CMCo_NIGir7X7AMICPHV0b0GEAE=&rs=AOn4CLBgIt02Ii6D1lm5-cZRNN_lo2W98w&v=1739877105",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuMjlBNDEyRjg1MzM5NUQ3Rg",
+						"snippet": {
+							"title": "The Changeling (2021 Remaster)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "iJQYhokjQ08"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuNUQyMzM0OUU0NTZDRURENA",
+						"snippet": {
+							"title": "Love Her Madly (2021 Remaster)",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "LuwTuc1cNWc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuN0U0RDZBRjhBODk5MkY5MA",
+						"snippet": {
+							"title": "Been Down So Long (2021 Remaster)",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "Iil4QtDzz-A"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuRTFDMDZEMjZFNDE1QjQ0OA",
+						"snippet": {
+							"title": "Cars Hiss By My Window (2021 Remaster)",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "PwvF23bvgTM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuNEFEQzU1RjFERjUxMUM0Qw",
+						"snippet": {
+							"title": "L.A. Woman (2021 Remaster)",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "6Wu9xh71d2g"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuQzdDRkVBNENGOTVFQUE2NQ",
+						"snippet": {
+							"title": "L'America (2021 Remaster)",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "wTE7ENchpGU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuOEI2NjY2MjNBNTQyNDUwMQ",
+						"snippet": {
+							"title": "Hyacinth House (2021 Remaster)",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "dVHCbqVTWEM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuNDY0NEJDNTI0OUZERkQ2NQ",
+						"snippet": {
+							"title": "Crawling King Snake (2021 Remaster)",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "uGoWF2U9yYo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuQzUwMUIzNjgzQUYxNjdFNw",
+						"snippet": {
+							"title": "The WASP (Texas Radio And The Big Beat) (2021 Remaster)",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "we0oo9t1gAQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuNDFDODYxNzQzQzg5MkY0Mw",
+						"snippet": {
+							"title": "Riders On The Storm (2021 Remaster)",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "t_DbxUaYiZQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuMEVBN0IxNzVGMDBEMDI1RA",
+						"snippet": {
+							"title": "Hyacinth House (Demo) (2021 Remaster)",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "BtT87nqJxKw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuMDQwRDUyMDU0RkZCQkI2NA",
+						"snippet": {
+							"title": "Riders On The Storm (Sunset Sound Demo)",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "KyV3F2eD6nM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuMzEzRjFBNEQ3MjNGQjg4OA",
+						"snippet": {
+							"title": "The Changeling (Pt. 1) (L.A. Woman Sessions)",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "_ktgFbAGHi8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuNjZFNDAyQTcxNTFDMjZBMg",
+						"snippet": {
+							"title": "Love Her Madly (Pt. 1) (L.A. Woman Sessions)",
+							"position": 13
+						},
+						"contentDetails": {
+							"videoId": "9uFzNRCgbas"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuQjRENzk1MDU4Rjk2OUUzNA",
+						"snippet": {
+							"title": "Riders On The Storm (L.A. Woman Sessions)",
+							"position": 14
+						},
+						"contentDetails": {
+							"videoId": "7QZ4sxapXLc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuQjJBQkVGMjYwQzVBNDE0Nw",
+						"snippet": {
+							"title": "L.A. Woman (Pt. 1) (L.A. Woman Sessions)",
+							"position": 15
+						},
+						"contentDetails": {
+							"videoId": "rhxIBLyMPBA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuOTZGMzE2NjMzMkNGN0Y5QQ",
+						"snippet": {
+							"title": "L.A. Woman, Pt. 2 (L.A. Woman Sessions)",
+							"position": 16
+						},
+						"contentDetails": {
+							"videoId": "ACUppSvBR3I"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuQkE5NDBDQTlBRjdENjA0OQ",
+						"snippet": {
+							"title": "She Smells So Nice (L.A. Woman Sessions)",
+							"position": 17
+						},
+						"contentDetails": {
+							"videoId": "UWSKI83A_X8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuODEwQ0M4MDg3OEQ4NEM5Qw",
+						"snippet": {
+							"title": "Rock Me Baby (L.A. Woman Sessions)",
+							"position": 18
+						},
+						"contentDetails": {
+							"videoId": "AqA4LGMNb78"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuRjQ4QkQ2MTI3Mzk4MTdCRQ",
+						"snippet": {
+							"title": "Mr. Mojo Risin' (L.A. Woman Sessions)",
+							"position": 19
+						},
+						"contentDetails": {
+							"videoId": "42jlK_L8heM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuMzc3RTY1OThDQ0ZDRDM1NQ",
+						"snippet": {
+							"title": "Baby Please Don't Go (L.A. Woman Sessions)",
+							"position": 20
+						},
+						"contentDetails": {
+							"videoId": "WLgKnN58I5I"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuMjc4REFBQzlDREU4RjA3Ng",
+						"snippet": {
+							"title": "L.A. Woman (Pt. 2) (L.A. Woman Sessions)",
+							"position": 21
+						},
+						"contentDetails": {
+							"videoId": "Hs_Xo4GglWo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuQjVCODJGQzRFMkU1NDY3Mw",
+						"snippet": {
+							"title": "Been Down So Long (Pt. 1) (L.A. Woman Sessions)",
+							"position": 22
+						},
+						"contentDetails": {
+							"videoId": "RQcLKtKbt1w"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuNEMyRkQ3QjVEN0IwM0I1Qg",
+						"snippet": {
+							"title": "Get Out Of My Life Woman (L.A. Woman Sessions)",
+							"position": 23
+						},
+						"contentDetails": {
+							"videoId": "0r6Y_UNfP7w"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuRTRGRUJENzE2MUE4MzcxQQ",
+						"snippet": {
+							"title": "Crawling King Snake (L.A. Woman Sessions)",
+							"position": 24
+						},
+						"contentDetails": {
+							"videoId": "43PwHNghc2w"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuNDk4OUU0QTI0QUIzRUI5Qg",
+						"snippet": {
+							"title": "The Bastard Son Of Jimmy & Mama Reed (Cars Hiss By My Window) (L.A. Woman Sessions)",
+							"position": 25
+						},
+						"contentDetails": {
+							"videoId": "7tB77SWZZr4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuMUM1OTRGRjg2MDk4NjFGRg",
+						"snippet": {
+							"title": "Been Down So Long (Pt. 2) (L.A. Woman Sessions)",
+							"position": 26
+						},
+						"contentDetails": {
+							"videoId": "nvXELPXj7WU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuNEU4NkMyN0IxNTE5QUMzOQ",
+						"snippet": {
+							"title": "Mystery Train (L.A. Woman Sessions)",
+							"position": 27
+						},
+						"contentDetails": {
+							"videoId": "YOlsTNGEeEc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sdmk2WmdUemNaY01oZUVpNzFQNEk5VlNUTGVNRS1lWDQuRkVDQzk4NjlGMzAxQkFBQg",
+						"snippet": {
+							"title": "The WASP (Texas Radio And The Big Beat) (L.A. Woman Sessions)",
+							"position": 28
+						},
+						"contentDetails": {
+							"videoId": "7fNqDloOAMA"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mmM6IEvxyWMmJhYOVc3YyFUH7espfFHP4",
+				"title": "Album - American Idiot",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mmM6IEvxyWMmJhYOVc3YyFUH7espfFHP4/mqdefault.jpg?sqp=CMCo_NIGir7X7AMICOL4u70GEAE=&rs=AOn4CLD8knrJfkhkJw2rDI1jRkq7R6BfEA&v=1739521122",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mmM6IEvxyWMmJhYOVc3YyFUH7espfFHP4/sddefault.jpg?sqp=CMCo_NIGir7X7AMICOL4u70GEAE=&rs=AOn4CLAPmRSINVbxskVQBy3wl70D8j1jyw&v=1739521122",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mmM6IEvxyWMmJhYOVc3YyFUH7espfFHP4/maxresdefault.jpg?sqp=CMCo_NIGir7X7AMICOL4u70GEAE=&rs=AOn4CLAxpgFIY67SlkeVl3lQYKIX6iKrYw&v=1739521122",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tbU02SUV2eHlXTW1KaFlPVmMzWXlGVUg3ZXNwZkZIUDQuNzg1MTAzODU2Mzc5RDE5NA",
+						"snippet": {
+							"title": "American Idiot",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "VyV54YwPAkk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tbU02SUV2eHlXTW1KaFlPVmMzWXlGVUg3ZXNwZkZIUDQuNDMyQTE4MkQ0MTNEODQ5MA",
+						"snippet": {
+							"title": "Jesus of Suburbia",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "XrHjKN2bjb0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tbU02SUV2eHlXTW1KaFlPVmMzWXlGVUg3ZXNwZkZIUDQuRDUyQ0MwNjgzN0ZGQjgxNw",
+						"snippet": {
+							"title": "Holiday / Boulevard of Broken Dreams",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "J0xe5DcnYSA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tbU02SUV2eHlXTW1KaFlPVmMzWXlGVUg3ZXNwZkZIUDQuNDE5RDc1NUEwNjRFNjI2QQ",
+						"snippet": {
+							"title": "Are We the Waiting / St. Jimmy",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "RFjOiqTL8U4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tbU02SUV2eHlXTW1KaFlPVmMzWXlGVUg3ZXNwZkZIUDQuRTUyRjhCRjRGOTk3NTFEQQ",
+						"snippet": {
+							"title": "Give Me Novacaine / She's a Rebel",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "r1-YMsOUE2I"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tbU02SUV2eHlXTW1KaFlPVmMzWXlGVUg3ZXNwZkZIUDQuMDM1MEQwNUExQTU5NDY1Ng",
+						"snippet": {
+							"title": "Extraordinary Girl / Letterbomb",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "zC-X3tLgXK0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tbU02SUV2eHlXTW1KaFlPVmMzWXlGVUg3ZXNwZkZIUDQuNTIyRThGNjEwODUyRDBBMg",
+						"snippet": {
+							"title": "Wake Me up When September Ends",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "ulRXvH8VOl8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tbU02SUV2eHlXTW1KaFlPVmMzWXlGVUg3ZXNwZkZIUDQuRjM3MjEyQTBGRUI5QzQyQw",
+						"snippet": {
+							"title": "Homecoming",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "KevdP2uJOZ0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tbU02SUV2eHlXTW1KaFlPVmMzWXlGVUg3ZXNwZkZIUDQuMUEyQUMzN0ZGNDk5RTE4Mw",
+						"snippet": {
+							"title": "Whatsername",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "tF9xovpVA04"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_lPTPNinQoLJ7RI1MCV0jM6N3VeyZbhp1U",
+				"title": "Album - Rising",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lPTPNinQoLJ7RI1MCV0jM6N3VeyZbhp1U/mqdefault.jpg?sqp=CMCo_NIGir7X7AMICLDEx70GEAE=&rs=AOn4CLBEKsxXmb0Qw1sVXdjuXX6QgHX7Mw&v=1739711024",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lPTPNinQoLJ7RI1MCV0jM6N3VeyZbhp1U/sddefault.jpg?sqp=CMCo_NIGir7X7AMICLDEx70GEAE=&rs=AOn4CLD8SGIvqNVR2u9AHOs9Jiv9cEYRhg&v=1739711024",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lPTPNinQoLJ7RI1MCV0jM6N3VeyZbhp1U/maxresdefault.jpg?sqp=CMCo_NIGir7X7AMICLDEx70GEAE=&rs=AOn4CLB3LqMOguJEU8T_4a3WEhvusNzIhA&v=1739711024",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sUFRQTmluUW9MSjdSSTFNQ1Ywak02TjNWZXlaYmhwMVUuNzg1MTAzODU2Mzc5RDE5NA",
+						"snippet": {
+							"title": "Tarot Woman",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "dDO-Kk9956g"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sUFRQTmluUW9MSjdSSTFNQ1Ywak02TjNWZXlaYmhwMVUuNDMyQTE4MkQ0MTNEODQ5MA",
+						"snippet": {
+							"title": "Run With The Wolf",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "VWFMqA4TjQk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sUFRQTmluUW9MSjdSSTFNQ1Ywak02TjNWZXlaYmhwMVUuRDUyQ0MwNjgzN0ZGQjgxNw",
+						"snippet": {
+							"title": "Starstruck",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "ughtJ6nLowY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sUFRQTmluUW9MSjdSSTFNQ1Ywak02TjNWZXlaYmhwMVUuNDE5RDc1NUEwNjRFNjI2QQ",
+						"snippet": {
+							"title": "Do You Close Your Eyes",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "2Gm3UQCok3I"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sUFRQTmluUW9MSjdSSTFNQ1Ywak02TjNWZXlaYmhwMVUuRTUyRjhCRjRGOTk3NTFEQQ",
+						"snippet": {
+							"title": "Stargazer",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "YmJIccPWnEk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sUFRQTmluUW9MSjdSSTFNQ1Ywak02TjNWZXlaYmhwMVUuMDM1MEQwNUExQTU5NDY1Ng",
+						"snippet": {
+							"title": "A Light In The Black",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "KikLLLeyVOk"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_nD8lilJdUdAqxdIlIzu32YtphJGO98TGU",
+				"title": "Album - Rainier Fog",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nD8lilJdUdAqxdIlIzu32YtphJGO98TGU/mqdefault.jpg?sqp=CMCo_NIGir7X7AMICLbCy70GEAE=&rs=AOn4CLAKcniRQUxbyV7nhI6beGx_7e30tA&v=1739776310",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nD8lilJdUdAqxdIlIzu32YtphJGO98TGU/sddefault.jpg?sqp=CMCo_NIGir7X7AMICLbCy70GEAE=&rs=AOn4CLD07J2ohW1xZzQV_hPrnLxYx-LnwA&v=1739776310",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nD8lilJdUdAqxdIlIzu32YtphJGO98TGU/maxresdefault.jpg?sqp=CMCo_NIGir7X7AMICLbCy70GEAE=&rs=AOn4CLAQolhgDGbFJDiJF92b1UNE8F6ZzA&v=1739776310",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9uRDhsaWxKZFVkQXF4ZElsSXp1MzJZdHBoSkdPOThUR1UuMjNDMkMzOUE1NTM5NkVFOA",
+						"snippet": {
+							"title": "The One You Know",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "zEeezKItlME"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRDhsaWxKZFVkQXF4ZElsSXp1MzJZdHBoSkdPOThUR1UuM0Q5OTM5MzczRTVBODc5NQ",
+						"snippet": {
+							"title": "Rainier Fog",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "wEwRdAViNFU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRDhsaWxKZFVkQXF4ZElsSXp1MzJZdHBoSkdPOThUR1UuRjFDNDE1MEY5RUQ3QUQwNA",
+						"snippet": {
+							"title": "Red Giant",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "cPQEfbZZ3NM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRDhsaWxKZFVkQXF4ZElsSXp1MzJZdHBoSkdPOThUR1UuNEMyMkU3OTY3NTRCQTFFRg",
+						"snippet": {
+							"title": "Fly",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "avNrXTAXBfU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRDhsaWxKZFVkQXF4ZElsSXp1MzJZdHBoSkdPOThUR1UuNEM5RTU3OURGQkIzRDNENg",
+						"snippet": {
+							"title": "Drone",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "r1AxgiRAppA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRDhsaWxKZFVkQXF4ZElsSXp1MzJZdHBoSkdPOThUR1UuOUUyOEM4QzM5RTBCQzQ0RA",
+						"snippet": {
+							"title": "Deaf Ears Blind Eyes",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "1Wtz_fXV00w"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRDhsaWxKZFVkQXF4ZElsSXp1MzJZdHBoSkdPOThUR1UuQTZENzk3MTc2OTcyQzhBOQ",
+						"snippet": {
+							"title": "Maybe",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "TI7S3an8iSc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRDhsaWxKZFVkQXF4ZElsSXp1MzJZdHBoSkdPOThUR1UuNjBDRUY1MzZFRTAwNzlDMQ",
+						"snippet": {
+							"title": "So Far Under",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "-WpNUJ3V-DY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRDhsaWxKZFVkQXF4ZElsSXp1MzJZdHBoSkdPOThUR1UuOEExRTBDMzM0NDdGOTE5Rg",
+						"snippet": {
+							"title": "Never Fade",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "dshRscRyNcY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uRDhsaWxKZFVkQXF4ZElsSXp1MzJZdHBoSkdPOThUR1UuNDc4QTc2MTFBNzZCRkUwOQ",
+						"snippet": {
+							"title": "All I Am",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "acCnzypSdDY"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_l33lV-pSSSn7IHoVBPYrblCO9mLI5ICVc",
+				"title": "Album - Bleach: Deluxe Edition",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_l33lV-pSSSn7IHoVBPYrblCO9mLI5ICVc/mqdefault.jpg?sqp=CMCo_NIGir7X7AMICMeSnr0GEAE=&rs=AOn4CLDHdNyBgzQn2WQaydqbpss3GSkMkg&v=1739032903",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_l33lV-pSSSn7IHoVBPYrblCO9mLI5ICVc/sddefault.jpg?sqp=CMCo_NIGir7X7AMICMeSnr0GEAE=&rs=AOn4CLAf1QY5LP8nCcZ9lTWCZ5SgHtfedg&v=1739032903",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_l33lV-pSSSn7IHoVBPYrblCO9mLI5ICVc/maxresdefault.jpg?sqp=CMCo_NIGir7X7AMICMeSnr0GEAE=&rs=AOn4CLAcngqON5NH7bnw0gS8P_6-ONSufg&v=1739032903",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuODQ0Rjg1RjY0RjI1NEMxRQ",
+						"snippet": {
+							"title": "Blew (Remastered)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "7E-KAP359ys"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuRTc5OUJBQjZGQTM0M0NGMQ",
+						"snippet": {
+							"title": "Floyd The Barber (Remastered)",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "cBm-XeOVIeY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuRTIzNDZEMDVGNEJFNENFNg",
+						"snippet": {
+							"title": "About A Girl (Remastered)",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "JIx2H-plXdU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuMjJERDE5NkRCN0E1MkQwQg",
+						"snippet": {
+							"title": "School (Remastered)",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "sp86SkWKRQE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuNkQwNTQyMTVGMkYzRjkwMg",
+						"snippet": {
+							"title": "Love Buzz (Remastered)",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "ljvhYweP4-0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuNjYzQzhFQkE1MzgwODZEMA",
+						"snippet": {
+							"title": "Paper Cuts (Remastered)",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "Md4icxT6K60"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuNzVFRDRBNUEwRDhBMDhFQQ",
+						"snippet": {
+							"title": "Negative Creep (Remastered)",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "xUgI2h35Pcc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuNzc3NTIwMjExQzE5RDJDQw",
+						"snippet": {
+							"title": "Scoff (Remastered)",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "kETwhcSymeA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuRDJBQ0FGMDk5MTU5RTUzRA",
+						"snippet": {
+							"title": "Swap Meet (Remastered)",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "jJs0hg0nNKI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuRkI2NkFFMThDM0VDQ0JCMw",
+						"snippet": {
+							"title": "Mr. Moustache (Remastered)",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "O4322tT9m7k"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuNDcwQUI1MUIxMEQyQTYyNA",
+						"snippet": {
+							"title": "Sifting (Remastered)",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "DuOxiUiKXBc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuQzcwNjE2NkE4NDU3MTZENw",
+						"snippet": {
+							"title": "Big Cheese (Remastered)",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "8ZCn6daQjWc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuQjZCQkQyRjMxMDVGMDUyNg",
+						"snippet": {
+							"title": "Downer (Remastered)",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "rAeanjCnUmI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuQkNCNDdFNkZCNDhFNUU2MQ",
+						"snippet": {
+							"title": "Intro (Live at Pine Street Theatre)",
+							"position": 13
+						},
+						"contentDetails": {
+							"videoId": "Q1-Eo8uD5WM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuOEI0MjQ4RjYyRjdBOUIzQw",
+						"snippet": {
+							"title": "School (Live at Pine Street Theatre)",
+							"position": 14
+						},
+						"contentDetails": {
+							"videoId": "AiQKprXloXM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuNEIyQ0JBOEQxOTMzMkEzMA",
+						"snippet": {
+							"title": "Floyd The Barber (Live at Pine Street Theatre)",
+							"position": 15
+						},
+						"contentDetails": {
+							"videoId": "A5crGIWkT-E"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuQUY1MEIzMEU1MjNDQ0VEMA",
+						"snippet": {
+							"title": "Dive (Live at Pine Street Theatre)",
+							"position": 16
+						},
+						"contentDetails": {
+							"videoId": "_c-7CK69OgI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuRTIzNDk1MTMwNERCMzRGQg",
+						"snippet": {
+							"title": "Love Buzz (Live at Pine Street Theatre)",
+							"position": 17
+						},
+						"contentDetails": {
+							"videoId": "bm25tUwqhh4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuRjZENzBCRkEyNkI5Q0YzMg",
+						"snippet": {
+							"title": "Spank Thru (Live at Pine Street Theatre)",
+							"position": 18
+						},
+						"contentDetails": {
+							"videoId": "Xq47qqVOE1k"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuQkRCMjAyNDE3MjU2QkY5Mw",
+						"snippet": {
+							"title": "Molly's Lips (Live at Pine Street Theatre)",
+							"position": 19
+						},
+						"contentDetails": {
+							"videoId": "Iu1ajS-X08s"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuMzVGRkMxMzYzQTREN0VDNA",
+						"snippet": {
+							"title": "Sappy (Live at Pine Street Theatre)",
+							"position": 20
+						},
+						"contentDetails": {
+							"videoId": "LgzAIxHaI0U"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuNzlFNDRDRjY3QTZDRjBBMg",
+						"snippet": {
+							"title": "Scoff (Live at Pine Street Theatre)",
+							"position": 21
+						},
+						"contentDetails": {
+							"videoId": "mdh6ZAp4KlI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuM0ZCRkVEOUI5QzhFNUQ0Mw",
+						"snippet": {
+							"title": "About A Girl (Live at Pine Street Theatre)",
+							"position": 22
+						},
+						"contentDetails": {
+							"videoId": "op4rj24lw1Y"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuNDJGMjg2QTk0MThCNUEwMA",
+						"snippet": {
+							"title": "Been A Son (Live at Pine Street Theatre)",
+							"position": 23
+						},
+						"contentDetails": {
+							"videoId": "9F0YkRaQNSQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sMzNsVi1wU1NTbjdJSG9WQlBZcmJsQ085bUxJNUlDVmMuQ0QwNkIyNjgyRDY5NTgxRA",
+						"snippet": {
+							"title": "Blew (Live at Pine Street Theatre)",
+							"position": 24
+						},
+						"contentDetails": {
+							"videoId": "4JUarrjJR_4"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_lYnxawfGdkGePjdFhIYaS6LjP-Md6UYf0",
+				"title": "Album - Nevermind",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lYnxawfGdkGePjdFhIYaS6LjP-Md6UYf0/mqdefault.jpg?sqp=COyq_NIGir7X7AMICJD19L0GEAE=&rs=AOn4CLDG8Q_Fi0C7fZ28mCZ1qE3xFVV7DA&v=1740454544",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lYnxawfGdkGePjdFhIYaS6LjP-Md6UYf0/sddefault.jpg?sqp=COyq_NIGir7X7AMICJD19L0GEAE=&rs=AOn4CLDHxtanv58LeP709HHfdDAoqJg6OQ&v=1740454544",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lYnxawfGdkGePjdFhIYaS6LjP-Md6UYf0/maxresdefault.jpg?sqp=COyq_NIGir7X7AMICJD19L0GEAE=&rs=AOn4CLAbucakGO68u9oRGwnmmn1Vy4Eg3A&v=1740454544",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sWW54YXdmR2RrR2VQamRGaElZYVM2TGpQLU1kNlVZZjAuRjhFOEI2OTQ3NzNGRENFMw",
+						"snippet": {
+							"title": "Smells Like Teen Spirit",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "ljUtuoFt-8c"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sWW54YXdmR2RrR2VQamRGaElZYVM2TGpQLU1kNlVZZjAuOUJCQzUyMTMyQUQ5MEY1QQ",
+						"snippet": {
+							"title": "In Bloom",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "ng_vqlKtxLs"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sWW54YXdmR2RrR2VQamRGaElZYVM2TGpQLU1kNlVZZjAuM0Y1RTEzQjZDQ0NDNUFENg",
+						"snippet": {
+							"title": "Come As You Are",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "ZEMBDKMtHqM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sWW54YXdmR2RrR2VQamRGaElZYVM2TGpQLU1kNlVZZjAuODkyMUQzNTVGRDczQ0VFQQ",
+						"snippet": {
+							"title": "Breed",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "ox_BG6sLPq8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sWW54YXdmR2RrR2VQamRGaElZYVM2TGpQLU1kNlVZZjAuQUUxMzkxQkMwRTJGNEEwOA",
+						"snippet": {
+							"title": "Lithium",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "_oWUgfpGi0M"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sWW54YXdmR2RrR2VQamRGaElZYVM2TGpQLU1kNlVZZjAuRTVEQzBCMDY4MTQ0RTJDOQ",
+						"snippet": {
+							"title": "Polly",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "h5cZvNWxnho"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sWW54YXdmR2RrR2VQamRGaElZYVM2TGpQLU1kNlVZZjAuNTg2MDYyODA1OEU3QkEzRg",
+						"snippet": {
+							"title": "Territorial Pissings",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "W64Bz9wXvRs"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sWW54YXdmR2RrR2VQamRGaElZYVM2TGpQLU1kNlVZZjAuRTI3QUQ4N0IxOTI1OUIyNQ",
+						"snippet": {
+							"title": "Drain You",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "jFU6xiWbHT0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sWW54YXdmR2RrR2VQamRGaElZYVM2TGpQLU1kNlVZZjAuMjQ2MDhDRTBENjI5NTYzQg",
+						"snippet": {
+							"title": "Lounge Act",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "jwcq2Ci6jx0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sWW54YXdmR2RrR2VQamRGaElZYVM2TGpQLU1kNlVZZjAuQkIzRTgwMzYwMzIyMDZDOQ",
+						"snippet": {
+							"title": "Stay Away",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "UGA6zBEyo8Y"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sWW54YXdmR2RrR2VQamRGaElZYVM2TGpQLU1kNlVZZjAuQjhCRDM1OTBBRTI2RUNEMQ",
+						"snippet": {
+							"title": "On A Plain",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "INFH5bt8hxM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sWW54YXdmR2RrR2VQamRGaElZYVM2TGpQLU1kNlVZZjAuMzZDOTBDODA0OUU3NjhGOA",
+						"snippet": {
+							"title": "Something In The Way",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "SVSjcS-N224"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sWW54YXdmR2RrR2VQamRGaElZYVM2TGpQLU1kNlVZZjAuNzM1NDQzNjUwMDIxODlGOQ",
+						"snippet": {
+							"title": "Endless, Nameless",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "MCBzJ2vjYyg"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_loJXykfsijehlplVJ3rNZUZdv8L3PJbXU",
+				"title": "Album - Songs From The Big Chair",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_loJXykfsijehlplVJ3rNZUZdv8L3PJbXU/mqdefault.jpg?sqp=COyq_NIGir7X7AMICOq7nb0GEAE=&rs=AOn4CLBUQgr5njOYyrqGkEtp1X98T6g70A&v=1739021802",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_loJXykfsijehlplVJ3rNZUZdv8L3PJbXU/sddefault.jpg?sqp=COyq_NIGir7X7AMICOq7nb0GEAE=&rs=AOn4CLA_BZpNJOHu2SRTs3N5NBxoYCU2lg&v=1739021802",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_loJXykfsijehlplVJ3rNZUZdv8L3PJbXU/maxresdefault.jpg?sqp=COyq_NIGir7X7AMICOq7nb0GEAE=&rs=AOn4CLBoNnwvw7zhtGF0vZ48AFZPQsFgBQ&v=1739021802",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sb0pYeWtmc2lqZWhscGxWSjNyTlpVWmR2OEwzUEpiWFUuRDA5NzZGMjEzNDFCMTdGRg",
+						"snippet": {
+							"title": "Shout",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "hMSnIFbglNY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sb0pYeWtmc2lqZWhscGxWSjNyTlpVWmR2OEwzUEpiWFUuMjFEMTAyNjhFRTFCQ0MwRQ",
+						"snippet": {
+							"title": "The Working Hour",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "eroNADQ_mL8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sb0pYeWtmc2lqZWhscGxWSjNyTlpVWmR2OEwzUEpiWFUuMDVDQkM3RkVBRjY3QzE4Nw",
+						"snippet": {
+							"title": "Everybody Wants To Rule The World",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "U4zA0xnBEJU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sb0pYeWtmc2lqZWhscGxWSjNyTlpVWmR2OEwzUEpiWFUuMkFCMjBEQ0M4M0JBNDU1Rg",
+						"snippet": {
+							"title": "Mothers Talk",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "Z70sl_noDuQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sb0pYeWtmc2lqZWhscGxWSjNyTlpVWmR2OEwzUEpiWFUuOUIyNzZCNDc2RjU5NkI3OQ",
+						"snippet": {
+							"title": "I Believe",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "1n4OuEJMIEs"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sb0pYeWtmc2lqZWhscGxWSjNyTlpVWmR2OEwzUEpiWFUuNUM4M0EzQzI2MTM3NTE4Mg",
+						"snippet": {
+							"title": "Broken",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "Vsva4qGh8l8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sb0pYeWtmc2lqZWhscGxWSjNyTlpVWmR2OEwzUEpiWFUuNUY1MDYwMEVDM0Q3RTUyOA",
+						"snippet": {
+							"title": "Head Over Heels",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "luOwnc5bqho"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sb0pYeWtmc2lqZWhscGxWSjNyTlpVWmR2OEwzUEpiWFUuMDRGRkU4RjY3ODIyRDNBQw",
+						"snippet": {
+							"title": "Listen",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "OTn2_Kx6qKA"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_m6ar2VP39LMXkXYWkizxXD23XR_RJBaos",
+				"title": "Album - Surfer Rosa (2007 Remaster)",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_m6ar2VP39LMXkXYWkizxXD23XR_RJBaos/mqdefault.jpg?sqp=COyq_NIGir7X7AMICJ6Yq70GEAE=&rs=AOn4CLBQhHWNu_CtdTBqyxROQpz-hr5maw&v=1739246622",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_m6ar2VP39LMXkXYWkizxXD23XR_RJBaos/sddefault.jpg?sqp=COyq_NIGir7X7AMICJ6Yq70GEAE=&rs=AOn4CLAPV7J7kQ89ZAnfscb6SMXAvwvoow&v=1739246622",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_m6ar2VP39LMXkXYWkizxXD23XR_RJBaos/maxresdefault.jpg?sqp=COyq_NIGir7X7AMICJ6Yq70GEAE=&rs=AOn4CLDLsV-uHCR75QU5Nb9aroC8XxxOPA&v=1739246622",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tNmFyMlZQMzlMTVhrWFlXa2l6eFhEMjNYUl9SSkJhb3MuMUY1QjdEODBDNzlGRUY5NQ",
+						"snippet": {
+							"title": "Bone Machine (2007 Remaster)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "Jrxxto5dNQo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tNmFyMlZQMzlMTVhrWFlXa2l6eFhEMjNYUl9SSkJhb3MuMzMyNDVDNUQxNjVBMzI1RQ",
+						"snippet": {
+							"title": "Break My Body (2007 Remaster)",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "Kc4NKz9Ofmk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tNmFyMlZQMzlMTVhrWFlXa2l6eFhEMjNYUl9SSkJhb3MuQzI2N0RCNDAxN0VEMEZGQg",
+						"snippet": {
+							"title": "Something Against You (2007 Remaster)",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "52CYmvP1mds"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tNmFyMlZQMzlMTVhrWFlXa2l6eFhEMjNYUl9SSkJhb3MuMUFDNDMyNEM4RjhGRTM4Nw",
+						"snippet": {
+							"title": "Broken Face (2007 Remaster)",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "vVoMyR9X-4Q"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tNmFyMlZQMzlMTVhrWFlXa2l6eFhEMjNYUl9SSkJhb3MuOEY2NTM1NUI2NkMzRUIxNw",
+						"snippet": {
+							"title": "Gigantic (2007 Remaster)",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "BdR-XpNNwDM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tNmFyMlZQMzlMTVhrWFlXa2l6eFhEMjNYUl9SSkJhb3MuMTJGNDA3Mjg5ODBDRUFDMA",
+						"snippet": {
+							"title": "River Euphrates (2007 Remaster)",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "QYJoc-R2rkU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tNmFyMlZQMzlMTVhrWFlXa2l6eFhEMjNYUl9SSkJhb3MuNjZCNEI5QTMwODMyQTZCMg",
+						"snippet": {
+							"title": "Where Is My Mind? (2007 Remaster)",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "6VG6gIvcjU8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tNmFyMlZQMzlMTVhrWFlXa2l6eFhEMjNYUl9SSkJhb3MuQzg4MjRGNDMxNkMxMDFBRA",
+						"snippet": {
+							"title": "Cactus (2007 Remaster)",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "kfnNbKr8EaE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tNmFyMlZQMzlMTVhrWFlXa2l6eFhEMjNYUl9SSkJhb3MuMEZFMkZBOEJERjdERTQzOQ",
+						"snippet": {
+							"title": "Tony's Theme (2007 Remaster)",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "b7U1nxbwZs8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tNmFyMlZQMzlMTVhrWFlXa2l6eFhEMjNYUl9SSkJhb3MuRTI5MzhBRUI3NTgwOTJDRA",
+						"snippet": {
+							"title": "Oh My Golly! (2007 Remaster)",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "PEu4M3eEuOw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tNmFyMlZQMzlMTVhrWFlXa2l6eFhEMjNYUl9SSkJhb3MuMjFGRjhFRjVENEVCODM4OA",
+						"snippet": {
+							"title": "Vamos (2007 Remaster)",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "f_iaF4LJ5KY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tNmFyMlZQMzlMTVhrWFlXa2l6eFhEMjNYUl9SSkJhb3MuRENCMDlBMjVCOUFGNTc0QQ",
+						"snippet": {
+							"title": "I'm Amazed (2007 Remaster)",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "oGTgVVvvDjM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tNmFyMlZQMzlMTVhrWFlXa2l6eFhEMjNYUl9SSkJhb3MuQkE2OTJBMDAyODMxREY0Mg",
+						"snippet": {
+							"title": "Brick Is Red (2007 Remaster)",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "Pw7vP42qXO8"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_noIcH0mBeZWrm6rU5jPW_Jya8ksytYcEg",
+				"title": "Album - Reggatta De Blanc (Remastered 2003)",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_noIcH0mBeZWrm6rU5jPW_Jya8ksytYcEg/mqdefault.jpg?sqp=COyq_NIGir7X7AMICKDItL0GEAE=&rs=AOn4CLAiZC3yJGbvQRXP8nxYh7PBMNEkxw&v=1739400224",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_noIcH0mBeZWrm6rU5jPW_Jya8ksytYcEg/sddefault.jpg?sqp=COyq_NIGir7X7AMICKDItL0GEAE=&rs=AOn4CLDhpcj98wNZs2NLDa76pVDHdPzdSQ&v=1739400224",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_noIcH0mBeZWrm6rU5jPW_Jya8ksytYcEg/maxresdefault.jpg?sqp=COyq_NIGir7X7AMICKDItL0GEAE=&rs=AOn4CLDa6O8pmGsAAbE0IiXW36vuhZA6gw&v=1739400224",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9ub0ljSDBtQmVaV3JtNnJVNWpQV19KeWE4a3N5dFljRWcuMEY0NzIwRDlEQkUwQkREMQ",
+						"snippet": {
+							"title": "Message In A Bottle",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "WMl1xKJeuuQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ub0ljSDBtQmVaV3JtNnJVNWpQV19KeWE4a3N5dFljRWcuNDNBMkE0QUMyQTZBNkU3Qw",
+						"snippet": {
+							"title": "Reggatta De Blanc",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "GN-nXWHkVpA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ub0ljSDBtQmVaV3JtNnJVNWpQV19KeWE4a3N5dFljRWcuMjNGNUVEOTUyOEUxRkM1Nw",
+						"snippet": {
+							"title": "It's Alright For You",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "FIZQzUM5avE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ub0ljSDBtQmVaV3JtNnJVNWpQV19KeWE4a3N5dFljRWcuQjI4NEZCNTY2MTZCRjA5Ng",
+						"snippet": {
+							"title": "Bring On The Night",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "YVgWQyGOTvk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ub0ljSDBtQmVaV3JtNnJVNWpQV19KeWE4a3N5dFljRWcuMzc4NjQ1RUVGOTRGM0I0QQ",
+						"snippet": {
+							"title": "Deathwish",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "Zlu74Hdvj_A"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ub0ljSDBtQmVaV3JtNnJVNWpQV19KeWE4a3N5dFljRWcuMTNERkYyREMyMDQxRDRERQ",
+						"snippet": {
+							"title": "Walking On The Moon",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "1clHdOoVLD0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ub0ljSDBtQmVaV3JtNnJVNWpQV19KeWE4a3N5dFljRWcuM0FCQTU4MTVENUY4MzY3Qg",
+						"snippet": {
+							"title": "On Any Other Day",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "f6XmfR6TVpQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ub0ljSDBtQmVaV3JtNnJVNWpQV19KeWE4a3N5dFljRWcuRTU4NERCRjAxQjYzQUU3Qg",
+						"snippet": {
+							"title": "The Bed's Too Big Without You",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "BW7pPGqHdYI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ub0ljSDBtQmVaV3JtNnJVNWpQV19KeWE4a3N5dFljRWcuNURDN0I3RDZBQkYwMkFCQg",
+						"snippet": {
+							"title": "Contact",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "1UoY19flAj0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ub0ljSDBtQmVaV3JtNnJVNWpQV19KeWE4a3N5dFljRWcuMDNBNzU3NzZFRDAyNkQ3Mw",
+						"snippet": {
+							"title": "Does Everyone Stare",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "btjIoBotLAA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9ub0ljSDBtQmVaV3JtNnJVNWpQV19KeWE4a3N5dFljRWcuRDE2QTI1RkIxMERGQjA1NQ",
+						"snippet": {
+							"title": "No Time This Time",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "woG54UNJRrE"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_keWoQUGetv5n5E7f2Zrg36XPMeLcKNXl4",
+				"title": "Album - London Calling",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_keWoQUGetv5n5E7f2Zrg36XPMeLcKNXl4/mqdefault.jpg?sqp=COyq_NIGir7X7AMICJKWwb0GEAE=&rs=AOn4CLClBROGSnmIXgyzd3WxN5sRsxuz1Q&v=1739606802",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_keWoQUGetv5n5E7f2Zrg36XPMeLcKNXl4/sddefault.jpg?sqp=COyq_NIGir7X7AMICJKWwb0GEAE=&rs=AOn4CLBzB6_s3RyiVpS8CoHbpVMpPhkjEA&v=1739606802",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_keWoQUGetv5n5E7f2Zrg36XPMeLcKNXl4/maxresdefault.jpg?sqp=COyq_NIGir7X7AMICJKWwb0GEAE=&rs=AOn4CLCnOI5teFQeBClnrjEL3bBCYU8zEA&v=1739606802",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuMDIzQUFEQ0M4QUIzNEI2Mw",
+						"snippet": {
+							"title": "London Calling (Remastered)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "XN7iEFVLf5c"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuNTEwMTlDNDA0OUU3QkVDMw",
+						"snippet": {
+							"title": "Brand New Cadillac (Remastered)",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "z1n7Ll1-pK4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuRTc1RTExRDgyQzkwM0Q1RA",
+						"snippet": {
+							"title": "Jimmy Jazz (Remastered)",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "9JHF-rMrNpc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuMTJFNzgxRUI1QUI4Q0QyQw",
+						"snippet": {
+							"title": "Hateful (Remastered)",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "MWxsKKRjvk8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuMDNGM0U2OTY5ODgzNjNFOA",
+						"snippet": {
+							"title": "Rudie Can't Fail (Remastered)",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "_MgIEKfG0LE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuMjlBNDEyRjg1MzM5NUQ3Rg",
+						"snippet": {
+							"title": "Spanish Bombs (Remastered)",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "KuKtSzqx9i8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuNUQyMzM0OUU0NTZDRURENA",
+						"snippet": {
+							"title": "The Right Profile (Remastered)",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "ABnZ51u7XvQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuN0U0RDZBRjhBODk5MkY5MA",
+						"snippet": {
+							"title": "Lost in the Supermarket (Remastered)",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "FwNVTYwFXS0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuRTFDMDZEMjZFNDE1QjQ0OA",
+						"snippet": {
+							"title": "Clampdown (Remastered)",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "p_WMSJLDwRs"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuNEFEQzU1RjFERjUxMUM0Qw",
+						"snippet": {
+							"title": "The Guns of Brixton (Remastered)",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "kyfxGusQPjE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuQzdDRkVBNENGOTVFQUE2NQ",
+						"snippet": {
+							"title": "Wrong 'Em Boyo (Remastered)",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "m463sDOYxPY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuOEI2NjY2MjNBNTQyNDUwMQ",
+						"snippet": {
+							"title": "Death or Glory (Remastered)",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "5roekl1F9lU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuNDY0NEJDNTI0OUZERkQ2NQ",
+						"snippet": {
+							"title": "Koka Kola (Remastered)",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "dmSRvoCVc9g"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuQzUwMUIzNjgzQUYxNjdFNw",
+						"snippet": {
+							"title": "The Card Cheat (Remastered)",
+							"position": 13
+						},
+						"contentDetails": {
+							"videoId": "P5OaU91lhcw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuNDFDODYxNzQzQzg5MkY0Mw",
+						"snippet": {
+							"title": "Lover's Rock (Remastered)",
+							"position": 14
+						},
+						"contentDetails": {
+							"videoId": "O2jOMwPl6ro"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuMEVBN0IxNzVGMDBEMDI1RA",
+						"snippet": {
+							"title": "Four Horsemen (Remastered)",
+							"position": 15
+						},
+						"contentDetails": {
+							"videoId": "WsEwBsSwYiU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuMDQwRDUyMDU0RkZCQkI2NA",
+						"snippet": {
+							"title": "I'm Not Down (Remastered)",
+							"position": 16
+						},
+						"contentDetails": {
+							"videoId": "pWiVIcWEoEU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuMzEzRjFBNEQ3MjNGQjg4OA",
+						"snippet": {
+							"title": "Revolution Rock (Remastered)",
+							"position": 17
+						},
+						"contentDetails": {
+							"videoId": "07mvTzbIZok"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rZVdvUVVHZXR2NW41RTdmMlpyZzM2WFBNZUxjS05YbDQuNjZFNDAyQTcxNTFDMjZBMg",
+						"snippet": {
+							"title": "Train in Vain (Stand by Me) (Remastered)",
+							"position": 18
+						},
+						"contentDetails": {
+							"videoId": "b3akwA6CJ8U"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_lzHtIGedEzezMnqcunYw0c26rXHJJnwIY",
+				"title": "Album - Hypercolour (ARTBAT Remix)",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lzHtIGedEzezMnqcunYw0c26rXHJJnwIY/mqdefault.jpg?sqp=CJit_NIGir7X7AMICMW-vr0GEAE=&rs=AOn4CLCp3W2WVSk-qOW0Smk9J3BEpKt7BQ&v=1739562821",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lzHtIGedEzezMnqcunYw0c26rXHJJnwIY/sddefault.jpg?sqp=CJit_NIGir7X7AMICMW-vr0GEAE=&rs=AOn4CLB5y4meSbfq-eE9PVsIvA09yvIxfw&v=1739562821",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lzHtIGedEzezMnqcunYw0c26rXHJJnwIY/maxresdefault.jpg?sqp=CJit_NIGir7X7AMICMW-vr0GEAE=&rs=AOn4CLAZa0ka8Hv3E00egOHvizcYrUaPiA&v=1739562821",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sekh0SUdlZEV6ZXpNbnFjdW5ZdzBjMjZyWEhKSm53SVkuMkM5OEEwOUI5MzExRThCNQ",
+						"snippet": {
+							"title": "Hypercolour (ARTBAT Remix)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "ML6_yTfZvMs"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_kqz-DTb20gmfAqcjkaNnjxqo3u1gLXgjM",
+				"title": "Album - Tibet",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kqz-DTb20gmfAqcjkaNnjxqo3u1gLXgjM/mqdefault.jpg?sqp=CJit_NIGir7X7AMICIqj1M4GEAE=&rs=AOn4CLADM5H2FQH3W7VcipUSRZ5qF8lkXQ&v=1775571338",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kqz-DTb20gmfAqcjkaNnjxqo3u1gLXgjM/sddefault.jpg?sqp=CJit_NIGir7X7AMICIqj1M4GEAE=&rs=AOn4CLClrv9o1nZZbJonppzz_SkAIaSfRw&v=1775571338",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kqz-DTb20gmfAqcjkaNnjxqo3u1gLXgjM/maxresdefault.jpg?sqp=CJit_NIGir7X7AMICIqj1M4GEAE=&rs=AOn4CLA5qcmTXKV_05aprmeVPGS94eheyQ&v=1775571338",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9rcXotRFRiMjBnbWZBcWNqa2FObmp4cW8zdTFnTFhnak0uRjQ4NTY3NUM2REY5RUYxOQ",
+						"snippet": {
+							"title": "Tibet",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "1w_nsBjgmpU"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_kFbHKyRdOpKTlqi5WZKFysYwa5JAUUc_Q",
+				"title": "Album - Love is Gonna Save Us",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kFbHKyRdOpKTlqi5WZKFysYwa5JAUUc_Q/mqdefault.jpg?sqp=CJit_NIGir7X7AMICPvm0b0GEAE=&rs=AOn4CLBRf1tRqU3eCU9m_gWTnYv8ZsMKsg&v=1739879291",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kFbHKyRdOpKTlqi5WZKFysYwa5JAUUc_Q/sddefault.jpg?sqp=CJit_NIGir7X7AMICPvm0b0GEAE=&rs=AOn4CLCpst5R0oZ3D8WgYmo2MOp1S4RFtA&v=1739879291",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kFbHKyRdOpKTlqi5WZKFysYwa5JAUUc_Q/maxresdefault.jpg?sqp=CJit_NIGir7X7AMICPvm0b0GEAE=&rs=AOn4CLDbWpmii2mo5bdM2_rwVuB4W6PNbQ&v=1739879291",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9rRmJIS3lSZE9wS1RscWk1V1pLRnlzWXdhNUpBVVVjX1EuM0MxQTdERjczRURBQjIwRA",
+						"snippet": {
+							"title": "Love is Gonna Save Us",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "zblaSROS_8U"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mQx3nQQDvuVr84wwPL8mnL9tWERH7qL7A",
+				"title": "Album - Dance",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mQx3nQQDvuVr84wwPL8mnL9tWERH7qL7A/mqdefault.jpg?sqp=CJit_NIGir7X7AMICM7HjsgGEAE=&rs=AOn4CLD6YtgO8oOfsDKRhCdstWw49kITcg&v=1761846222",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mQx3nQQDvuVr84wwPL8mnL9tWERH7qL7A/sddefault.jpg?sqp=CJit_NIGir7X7AMICM7HjsgGEAE=&rs=AOn4CLClyrYlW9XzN0zXV5VR13fm7oDYrg&v=1761846222",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mQx3nQQDvuVr84wwPL8mnL9tWERH7qL7A/maxresdefault.jpg?sqp=CJit_NIGir7X7AMICM7HjsgGEAE=&rs=AOn4CLDkh1jxmuDG80pRIX-U587l6J7Agw&v=1761846222",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tUXgzblFRRHZ1VnI4NHd3UEw4bW5MOXRXRVJIN3FMN0EuQzJFODU2NUFBRkE2MDAxNw",
+						"snippet": {
+							"title": "Dance",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "6_BdJlSq8Fw"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_lfjvkXmS0nsIBGXXMDUx6W0GH9-WCTGAw",
+				"title": "Album - Pull Out",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lfjvkXmS0nsIBGXXMDUx6W0GH9-WCTGAw/mqdefault.jpg?sqp=CJit_NIGir7X7AMICKej1M4GEAE=&rs=AOn4CLAuy0PuH4baIk7C1qgdgHStSkhUIQ&v=1775571367",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lfjvkXmS0nsIBGXXMDUx6W0GH9-WCTGAw/sddefault.jpg?sqp=CJit_NIGir7X7AMICKej1M4GEAE=&rs=AOn4CLC0Uyf8i-2ggTk9KD9ZfVRpdvLR5A&v=1775571367",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lfjvkXmS0nsIBGXXMDUx6W0GH9-WCTGAw/maxresdefault.jpg?sqp=CJit_NIGir7X7AMICKej1M4GEAE=&rs=AOn4CLBOypxBGbrEj9Qpi-2BLdRQAZH7hw&v=1775571367",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sZmp2a1htUzBuc0lCR1hYTURVeDZXMEdIOS1XQ1RHQXcuNkUzQjhDMURCN0NFQzI1Ng",
+						"snippet": {
+							"title": "Pull Out (Short Mix)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "glYuJZoXXOY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sZmp2a1htUzBuc0lCR1hYTURVeDZXMEdIOS1XQ1RHQXcuN0MzQjZGRDcyMjA2NjI2QQ",
+						"snippet": {
+							"title": "Pull Out",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "Sd-6ZbFq8q8"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mrscxoKKwqDk2JJc0wG9v8ZvQ2BwKTc88",
+				"title": "Album - Montserrat / Closer",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mrscxoKKwqDk2JJc0wG9v8ZvQ2BwKTc88/mqdefault.jpg?sqp=CMSv_NIGir7X7AMICPSaob0GEAE=&rs=AOn4CLBw1djIeftMZUt5KAhk_Y4fHvTBjw&v=1739083124",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mrscxoKKwqDk2JJc0wG9v8ZvQ2BwKTc88/sddefault.jpg?sqp=CMSv_NIGir7X7AMICPSaob0GEAE=&rs=AOn4CLDjH5HonhZ0LfQPxHr3hn-jL0npNQ&v=1739083124",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mrscxoKKwqDk2JJc0wG9v8ZvQ2BwKTc88/maxresdefault.jpg?sqp=CMSv_NIGir7X7AMICPSaob0GEAE=&rs=AOn4CLDrHR3fG5eJ5q0aNlKG5hywXZmtjA&v=1739083124",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tcnNjeG9LS3dxRGsySkpjMHdHOXY4WnZRMkJ3S1RjODguMDdBQUVFRTRFQTE2QUNDMQ",
+						"snippet": {
+							"title": "Montserrat (Artbat Edit)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "7jQ2zKvB1mg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tcnNjeG9LS3dxRGsySkpjMHdHOXY4WnZRMkJ3S1RjODguRDg4MjY2ODMwN0M2OUU5MQ",
+						"snippet": {
+							"title": "Closer feat. WhoMadeWho",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "CzKg8f7hyn4"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_lmuCb7pu0XOGt7kT4gpyBnHRUHdoj0rwQ",
+				"title": "Album - Return to Oz (ARTBAT Remix)",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lmuCb7pu0XOGt7kT4gpyBnHRUHdoj0rwQ/mqdefault.jpg?sqp=CMSv_NIGir7X7AMICJG7w70GEAE=&rs=AOn4CLAPlylAr70E9V9xHaNPVH85xpzUKg&v=1739644305",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lmuCb7pu0XOGt7kT4gpyBnHRUHdoj0rwQ/sddefault.jpg?sqp=CMSv_NIGir7X7AMICJG7w70GEAE=&rs=AOn4CLBKFmTqzDl_X6_fVTtlC-1yWHss5g&v=1739644305",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_lmuCb7pu0XOGt7kT4gpyBnHRUHdoj0rwQ/maxresdefault.jpg?sqp=CMSv_NIGir7X7AMICJG7w70GEAE=&rs=AOn4CLDmOhk-k2OSuZX1Wpoz9T0yepzvGw&v=1739644305",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sbXVDYjdwdTBYT0d0N2tUNGdweUJuSFJVSGRvajByd1EuMEY4RTNDMTE1NTBFM0NFQQ",
+						"snippet": {
+							"title": "Return to Oz (ARTBAT Remix)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "OAz5zuKC33g"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_m96_zxvkXtpUzeGnJiBJf-xLbubGkQhf4",
+				"title": "Album - Keep Control (ARTBAT Remix)",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_m96_zxvkXtpUzeGnJiBJf-xLbubGkQhf4/mqdefault.jpg?sqp=CMSv_NIGir7X7AMICImnsb0GEAE=&rs=AOn4CLDfh8G2JZpb1GcS9acctFp84w3fHQ&v=1739346825",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_m96_zxvkXtpUzeGnJiBJf-xLbubGkQhf4/sddefault.jpg?sqp=CMSv_NIGir7X7AMICImnsb0GEAE=&rs=AOn4CLBcgH68GaBUe8tTRcW9919bOpVXSQ&v=1739346825",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_m96_zxvkXtpUzeGnJiBJf-xLbubGkQhf4/maxresdefault.jpg?sqp=CMSv_NIGir7X7AMICImnsb0GEAE=&rs=AOn4CLDmvBPbIoWePGf6tmPY_vUWtzsNpA&v=1739346825",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tOTZfenh2a1h0cFV6ZUduSmlCSmYteExidWJHa1FoZjQuMUQyRjk3OEZFMTM1MDFBRg",
+						"snippet": {
+							"title": "Keep Control (ARTBAT Remix)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "VsQ4ydOXqTQ"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mchpSuQfocrZAev4_DcpVJf9wZ8LJG47k",
+				"title": "Album - Sirens",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mchpSuQfocrZAev4_DcpVJf9wZ8LJG47k/mqdefault.jpg?sqp=CMSv_NIGir7X7AMICLbz0L0GEAE=&rs=AOn4CLA0P6yV-0qvyle9YHFQoLrVDEK1bQ&v=1739864502",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mchpSuQfocrZAev4_DcpVJf9wZ8LJG47k/sddefault.jpg?sqp=CMSv_NIGir7X7AMICLbz0L0GEAE=&rs=AOn4CLA4EY631qQ0gwAieV_WUjY0ENWhWQ&v=1739864502",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mchpSuQfocrZAev4_DcpVJf9wZ8LJG47k/maxresdefault.jpg?sqp=CMSv_NIGir7X7AMICLbz0L0GEAE=&rs=AOn4CLC8xe2yqHYyimSBMPTe-slAKaSmHA&v=1739864502",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tY2hwU3VRZm9jclpBZXY0X0RjcFZKZjl3WjhMSkc0N2suRTIxREZGMTIyNjY5MjI4OQ",
+						"snippet": {
+							"title": "Sirens",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "VYFuJBqyLt8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tY2hwU3VRZm9jclpBZXY0X0RjcFZKZjl3WjhMSkc0N2suRTkxN0UwRTIzRTAzRDNGMw",
+						"snippet": {
+							"title": "Sirens (Extended Version)",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "wLXkZ2UQY44"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_m0j--gqXohZ2QeriIq9C09_flUBWIu6C4",
+				"title": "Album - Under Dark (Innellea Remix)",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_m0j--gqXohZ2QeriIq9C09_flUBWIu6C4/mqdefault.jpg?sqp=CMSv_NIGir7X7AMICJyuy70GEAE=&rs=AOn4CLAKRlr-fFs4QQAk6DoJ7Hn-65aWPw&v=1739773724",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_m0j--gqXohZ2QeriIq9C09_flUBWIu6C4/sddefault.jpg?sqp=CMSv_NIGir7X7AMICJyuy70GEAE=&rs=AOn4CLBaX-KXzEkofbWTnzzmcbreqKYnAA&v=1739773724",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_m0j--gqXohZ2QeriIq9C09_flUBWIu6C4/maxresdefault.jpg?sqp=CMSv_NIGir7X7AMICJyuy70GEAE=&rs=AOn4CLD0uMF0Qb4U1q2sycTwMJ7_wO3E-Q&v=1739773724",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tMGotLWdxWG9oWjJRZXJpSXE5QzA5X2ZsVUJXSXU2QzQuMTM4MDMwREY0ODYxMzVBOQ",
+						"snippet": {
+							"title": "Under Dark (Innellea Remix)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "ud-qg0W9J4s"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_n1slpNZxwT903A201IIAEnXw5X_HconOQ",
+				"title": "Album - The Prey (Mind Against Remix)",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_n1slpNZxwT903A201IIAEnXw5X_HconOQ/mqdefault.jpg?sqp=CPCx_NIGir7X7AMICLGuqL0GEAE=&rs=AOn4CLDE2Uu7vkOkQ_EEeJrvJTgfO2m7kg&v=1739200305",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_n1slpNZxwT903A201IIAEnXw5X_HconOQ/sddefault.jpg?sqp=CPCx_NIGir7X7AMICLGuqL0GEAE=&rs=AOn4CLBIglM_EaiYCJhSYfYHH0QKfGGUvQ&v=1739200305",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_n1slpNZxwT903A201IIAEnXw5X_HconOQ/maxresdefault.jpg?sqp=CPCx_NIGir7X7AMICLGuqL0GEAE=&rs=AOn4CLAZXnruZrz3nGduEQkkWtmhaH-WmA&v=1739200305",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9uMXNscE5aeHdUOTAzQTIwMUlJQUVuWHc1WF9IY29uT1EuMzFBMjJEMDk5NDU4ODA4MA",
+						"snippet": {
+							"title": "The Prey (Mind Against Remix)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "uqEo7BCliUM"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_ldV-pvhD4oUfXTTB8T9vBtY3Bfku9tw8o",
+				"title": "Album - In Absentia",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_ldV-pvhD4oUfXTTB8T9vBtY3Bfku9tw8o/mqdefault.jpg?sqp=CNTh_dIGir7X7AMICNTjnr0GEAE=&rs=AOn4CLCB3LCRguRmXIBNYs-zfuZ0S54ZSg&v=1739043284",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_ldV-pvhD4oUfXTTB8T9vBtY3Bfku9tw8o/sddefault.jpg?sqp=CNTh_dIGir7X7AMICNTjnr0GEAE=&rs=AOn4CLDVB6GakTY4GVRCF0mX4cXA6baBRw&v=1739043284",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_ldV-pvhD4oUfXTTB8T9vBtY3Bfku9tw8o/maxresdefault.jpg?sqp=CNTh_dIGir7X7AMICNTjnr0GEAE=&rs=AOn4CLA8YfZ_CDsANEeyNJ3xR2gq0gveEA&v=1739043284",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9sZFYtcHZoRDRvVWZYVFRCOFQ5dkJ0WTNCZmt1OXR3OG8uRkIzMDkyMjIxQzQ0QTg2OQ",
+						"snippet": {
+							"title": "Blackest Eyes (2017 Remaster)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "3fULaAqUYEE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sZFYtcHZoRDRvVWZYVFRCOFQ5dkJ0WTNCZmt1OXR3OG8uQTdENDU5N0E2NzRBQzkxNQ",
+						"snippet": {
+							"title": "Trains (2017 Remaster)",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "nbhD-qeAXOI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sZFYtcHZoRDRvVWZYVFRCOFQ5dkJ0WTNCZmt1OXR3OG8uQTQ3NTEyNUQ5NDk4MEIxQg",
+						"snippet": {
+							"title": "Lips Of Ashes (2017 Remaster)",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "e-_pXiDLAuA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sZFYtcHZoRDRvVWZYVFRCOFQ5dkJ0WTNCZmt1OXR3OG8uMjAwMDMxMDcwMzRDRUU1MA",
+						"snippet": {
+							"title": "The Sound Of Muzak (2017 Remaster)",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "StnT4JBo3n4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sZFYtcHZoRDRvVWZYVFRCOFQ5dkJ0WTNCZmt1OXR3OG8uQjE5NDNBMURGQTgwMzQ1MA",
+						"snippet": {
+							"title": "Gravity Eyelids (2017 Remaster)",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "wqmd0-W1Roc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sZFYtcHZoRDRvVWZYVFRCOFQ5dkJ0WTNCZmt1OXR3OG8uMEYwNEQxNkE1MDE5NjJGNg",
+						"snippet": {
+							"title": "Wedding Nails (2017 Remaster)",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "rT3xo6vRiLk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sZFYtcHZoRDRvVWZYVFRCOFQ5dkJ0WTNCZmt1OXR3OG8uMDhBNDRBOEE5NUU3NDFCQQ",
+						"snippet": {
+							"title": "Prodigal (2017 Remaster)",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "PMQyuw04twQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sZFYtcHZoRDRvVWZYVFRCOFQ5dkJ0WTNCZmt1OXR3OG8uMjYxRTM1RDJFQ0U0QzhDMw",
+						"snippet": {
+							"title": ".3 (2017 Remaster)",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "Wam3EH1wYnI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sZFYtcHZoRDRvVWZYVFRCOFQ5dkJ0WTNCZmt1OXR3OG8uQzkzQzYwMDMxRTVGOTc2Mg",
+						"snippet": {
+							"title": "The Creator Has A Mastertape (2017 Remaster)",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "AyKOcbwJkOI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sZFYtcHZoRDRvVWZYVFRCOFQ5dkJ0WTNCZmt1OXR3OG8uRTE0QTA4MjdGRUI2ODM5MA",
+						"snippet": {
+							"title": "Heartattack In A Layby (2017 Remaster)",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "vCg48cCycSA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sZFYtcHZoRDRvVWZYVFRCOFQ5dkJ0WTNCZmt1OXR3OG8uNTgxMzgxQkQyM0FERkY1OQ",
+						"snippet": {
+							"title": "Strip The Soul (2017 Remaster)",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "K02vw4WWAt4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9sZFYtcHZoRDRvVWZYVFRCOFQ5dkJ0WTNCZmt1OXR3OG8uNzg1MUFEMzhCNkQxMDNBRg",
+						"snippet": {
+							"title": "Collapse The Light Into Earth (2017 Remaster)",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "i-s_hGq5WBQ"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_nWSnVa53zgUPO07lcTQa1CsTOTw4AVccE",
+				"title": "Album - אתה נמצא כאן",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nWSnVa53zgUPO07lcTQa1CsTOTw4AVccE/mqdefault.jpg?sqp=CIDk_dIGir7X7AMICKnvr70GEAE=&rs=AOn4CLAZI0HN31OCwWp36-hG-ZzQYFeaVA&v=1739323305",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nWSnVa53zgUPO07lcTQa1CsTOTw4AVccE/sddefault.jpg?sqp=CIDk_dIGir7X7AMICKnvr70GEAE=&rs=AOn4CLDbvRiTRrL4x8NHvWsV5ZwxL_qFxA&v=1739323305",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_nWSnVa53zgUPO07lcTQa1CsTOTw4AVccE/maxresdefault.jpg?sqp=CIDk_dIGir7X7AMICKnvr70GEAE=&rs=AOn4CLAwaJNZ99bjO41G0_FWXmj9GHXr5g&v=1739323305",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9uV1NuVmE1M3pnVVBPMDdsY1RRYTFDc1RPVHc0QVZjY0UuNDgxQkM2MTAwNzk5RjI0MA",
+						"snippet": {
+							"title": "הלוחש במכוניות",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "74kMRDGfHbQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uV1NuVmE1M3pnVVBPMDdsY1RRYTFDc1RPVHc0QVZjY0UuRERDMzkyMTYzRjU0QjQwNQ",
+						"snippet": {
+							"title": "זמן של מספרים",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "fcmSuu8BPv4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uV1NuVmE1M3pnVVBPMDdsY1RRYTFDc1RPVHc0QVZjY0UuNURDMjNGQTAxNDhGRDJGRg",
+						"snippet": {
+							"title": "כלום זה לא סתם",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "MKlKrh-PiVQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uV1NuVmE1M3pnVVBPMDdsY1RRYTFDc1RPVHc0QVZjY0UuNkFEOEY0RjBCRTc4NjQ4OQ",
+						"snippet": {
+							"title": "העין",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "61WbjkmFhhM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uV1NuVmE1M3pnVVBPMDdsY1RRYTFDc1RPVHc0QVZjY0UuNUNENzM5N0U2OUFDNTdCQw",
+						"snippet": {
+							"title": "נחמה",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "i6cJ0nlj9Ik"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uV1NuVmE1M3pnVVBPMDdsY1RRYTFDc1RPVHc0QVZjY0UuN0ZEREM1MDU1MUFFMDVBMg",
+						"snippet": {
+							"title": "ימים נוראים",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "nIq_MCGw2sI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uV1NuVmE1M3pnVVBPMDdsY1RRYTFDc1RPVHc0QVZjY0UuNTIyRkEzMjFBRTdCQkU5MA",
+						"snippet": {
+							"title": "אתה נמצא כאן",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "w_0JrBxGUyc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uV1NuVmE1M3pnVVBPMDdsY1RRYTFDc1RPVHc0QVZjY0UuQzcyN0M5RjkxMzM5MkFGQw",
+						"snippet": {
+							"title": "בארץ הפלאות",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "vEH9fB9f7pA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uV1NuVmE1M3pnVVBPMDdsY1RRYTFDc1RPVHc0QVZjY0UuMDIxMjBBQzE4MzVFM0U4OQ",
+						"snippet": {
+							"title": "הדרך לערד",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "N1bVXcKJpUE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uV1NuVmE1M3pnVVBPMDdsY1RRYTFDc1RPVHc0QVZjY0UuNEQ5RTI2MUJGNEMzREYwMg",
+						"snippet": {
+							"title": "האחד",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "dCp12zN6Fdo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uV1NuVmE1M3pnVVBPMDdsY1RRYTFDc1RPVHc0QVZjY0UuQ0IxMTIxNkIyRDEwQkUyMQ",
+						"snippet": {
+							"title": "צמאה לך נפשי",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "uwG2BMgHG0E"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mIVr0olTc7HNCaW_ww3IVq13Jg4pxp-OQ",
+				"title": "Album - הכל או כלום",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mIVr0olTc7HNCaW_ww3IVq13Jg4pxp-OQ/mqdefault.jpg?sqp=CKzm_dIGir7X7AMICPPPv70GEAE=&rs=AOn4CLDUeCUST7sW9WTbXi_ses85XtaZbg&v=1739581427",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mIVr0olTc7HNCaW_ww3IVq13Jg4pxp-OQ/sddefault.jpg?sqp=CKzm_dIGir7X7AMICPPPv70GEAE=&rs=AOn4CLARJmq1VyQfJCyPY7gLZaGgCF1a6g&v=1739581427",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mIVr0olTc7HNCaW_ww3IVq13Jg4pxp-OQ/maxresdefault.jpg?sqp=CKzm_dIGir7X7AMICPPPv70GEAE=&rs=AOn4CLDSLEuhLvylj1tt21GRtFftEmm6tA&v=1739581427",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tSVZyMG9sVGM3SE5DYVdfd3czSVZxMTNKZzRweHAtT1EuNjhGQThCNEFGNUY1RjQ1Qw",
+						"snippet": {
+							"title": "לחץ",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "jbdviYcyIEU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tSVZyMG9sVGM3SE5DYVdfd3czSVZxMTNKZzRweHAtT1EuQUY4MDdENzZGRkYwNzU1RQ",
+						"snippet": {
+							"title": "האיש שבקיר",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "ohcSDcJ2S80"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tSVZyMG9sVGM3SE5DYVdfd3czSVZxMTNKZzRweHAtT1EuMjcwNjZERjA1MEFCMkEzNQ",
+						"snippet": {
+							"title": "אמונה עיוורת",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "r-FgC7AJCfg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tSVZyMG9sVGM3SE5DYVdfd3czSVZxMTNKZzRweHAtT1EuNjNGRTE1RTY0NkRENzYzMQ",
+						"snippet": {
+							"title": "ערב חולה",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "uleXr8YMLhA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tSVZyMG9sVGM3SE5DYVdfd3czSVZxMTNKZzRweHAtT1EuMTBERUQ5QTQ0MUJDNDk0OA",
+						"snippet": {
+							"title": "השומר של הגן",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "9pEaES6n42s"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tSVZyMG9sVGM3SE5DYVdfd3czSVZxMTNKZzRweHAtT1EuMEM5M0I0MTJBNERDQ0ZDRg",
+						"snippet": {
+							"title": "שם יש",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "2-hzhJAlFx4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tSVZyMG9sVGM3SE5DYVdfd3czSVZxMTNKZzRweHAtT1EuRDZENkU4MTI4M0U5M0M1Qg",
+						"snippet": {
+							"title": "חלליות",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "b6T0X5421Xk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tSVZyMG9sVGM3SE5DYVdfd3czSVZxMTNKZzRweHAtT1EuNkRFMTc0ODMwMzM4OUYwQQ",
+						"snippet": {
+							"title": "אינני אוהב אותה",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "Sx2RNQ5LF6c"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tSVZyMG9sVGM3SE5DYVdfd3czSVZxMTNKZzRweHAtT1EuMzg4MUQwNjgwMTg3MjlDRg",
+						"snippet": {
+							"title": "נימפה",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "lj9jq7au4Yk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tSVZyMG9sVGM3SE5DYVdfd3czSVZxMTNKZzRweHAtT1EuMTAyQzMzNzA5QTM0NjE2MA",
+						"snippet": {
+							"title": "הזמנה להצגה יומית",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "AkhyeryUTok"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tSVZyMG9sVGM3SE5DYVdfd3czSVZxMTNKZzRweHAtT1EuNDMxQ0ExQkIzMDBGRkYyNw",
+						"snippet": {
+							"title": "חתולים",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "hojNkBlGRS8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tSVZyMG9sVGM3SE5DYVdfd3czSVZxMTNKZzRweHAtT1EuQjVEQUU0RjY1NDBFM0E4Nw",
+						"snippet": {
+							"title": "למעלה",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "UwJhUlU9Y5I"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tSVZyMG9sVGM3SE5DYVdfd3czSVZxMTNKZzRweHAtT1EuRTdERTFDMUMxOEVCREI5Mw",
+						"snippet": {
+							"title": "הכל או כלום",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "X7CYE5yKuVM"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mBdxLmeUlSUY3F5dUcRQBCbfn3_bLnezE",
+				"title": "Album - על המשמרת",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mBdxLmeUlSUY3F5dUcRQBCbfn3_bLnezE/mqdefault.jpg?sqp=CITr_dIGir7X7AMICN-txMMGEAE=&rs=AOn4CLCq9aw6gOTUaMIz0xrksHejhnzn9w&v=1752241887",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mBdxLmeUlSUY3F5dUcRQBCbfn3_bLnezE/sddefault.jpg?sqp=CITr_dIGir7X7AMICN-txMMGEAE=&rs=AOn4CLDwY_s7RN34x3MAvbX9bYxefJOAig&v=1752241887",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mBdxLmeUlSUY3F5dUcRQBCbfn3_bLnezE/maxresdefault.jpg?sqp=CITr_dIGir7X7AMICN-txMMGEAE=&rs=AOn4CLBkETWUoxNzPevogR9iD_IX4ApFxg&v=1752241887",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tQmR4TG1lVWxTVVkzRjVkVWNSUUJDYmZuM19iTG5lekUuMzNEQzI3NTVCQjk5N0E3OA",
+						"snippet": {
+							"title": "חדשות מהירח",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "zOTB6VyhoRY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tQmR4TG1lVWxTVVkzRjVkVWNSUUJDYmZuM19iTG5lekUuQzcyMTgzN0Y4OTA1QzFERA",
+						"snippet": {
+							"title": "על המשמרת",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "ixVYIJi_ao8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tQmR4TG1lVWxTVVkzRjVkVWNSUUJDYmZuM19iTG5lekUuNjUwMDNDMkZGNDdBNTZEMA",
+						"snippet": {
+							"title": "תחת אש",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "FKAWOEcMhTI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tQmR4TG1lVWxTVVkzRjVkVWNSUUJDYmZuM19iTG5lekUuQ0U0NUNDNkIzRTZFNzA4Rg",
+						"snippet": {
+							"title": "פנתר שחור",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "KeMnoKkTDLM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tQmR4TG1lVWxTVVkzRjVkVWNSUUJDYmZuM19iTG5lekUuOTY5QkU3NTI4MDhFRTVCQg",
+						"snippet": {
+							"title": "להתעורר",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "R227h_Qpp6M"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tQmR4TG1lVWxTVVkzRjVkVWNSUUJDYmZuM19iTG5lekUuRUE0RTQzMUU2NzVGRDgxMw",
+						"snippet": {
+							"title": "מעצבי דעת הקהל",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "zgyT1sxkOu4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tQmR4TG1lVWxTVVkzRjVkVWNSUUJDYmZuM19iTG5lekUuMTAzRjc0M0Q2NzJFMDgzQg",
+						"snippet": {
+							"title": "ישעיהו ליבוביץ'",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "x7I41MvXsD4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tQmR4TG1lVWxTVVkzRjVkVWNSUUJDYmZuM19iTG5lekUuQTIyMTI0ODE2MjM0MDRGMA",
+						"snippet": {
+							"title": "בסוף של יום",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "6ZM5kSqfD6s"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tQmR4TG1lVWxTVVkzRjVkVWNSUUJDYmZuM19iTG5lekUuMUU1Q0JBNDlEQjk2RDBGNA",
+						"snippet": {
+							"title": "לֵךְ לְךָ",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "bR4OdAYaq_g"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tQmR4TG1lVWxTVVkzRjVkVWNSUUJDYmZuM19iTG5lekUuRDQ3OEQxNjgxQ0RGMkFFMA",
+						"snippet": {
+							"title": "מועדון החולמים",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "mK3X-hLQtY8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tQmR4TG1lVWxTVVkzRjVkVWNSUUJDYmZuM19iTG5lekUuNEE0QzI2NEUzRjM1RDU5OQ",
+						"snippet": {
+							"title": "העולם האמיתי",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "B2VCdyNYYeo"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mPj0R9--LWW06hGnoMOioQdl2aW-jaGag",
+				"title": "Album - הופעות במפעל הפיס",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mPj0R9--LWW06hGnoMOioQdl2aW-jaGag/mqdefault.jpg?sqp=CLDt_dIGir7X7AMICN63xr0GEAE=&rs=AOn4CLAH7nU0qMOHqYqtb86bOe1zlcawFw&v=1739693022",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mPj0R9--LWW06hGnoMOioQdl2aW-jaGag/sddefault.jpg?sqp=CLDt_dIGir7X7AMICN63xr0GEAE=&rs=AOn4CLC8p7R7T4Gynb7VrTMbL3G0VP-l1w&v=1739693022",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mPj0R9--LWW06hGnoMOioQdl2aW-jaGag/maxresdefault.jpg?sqp=CLDt_dIGir7X7AMICN63xr0GEAE=&rs=AOn4CLCeZ_RVFhxiqCIbF8IG9JYCgHejAg&v=1739693022",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tUGowUjktLUxXVzA2aEdub01PaW9RZGwyYVctamFHYWcuRUI3MkQ2QTBDMjU2Nzk3RA",
+						"snippet": {
+							"title": "לא הכל כה פשוט (Live)",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "D-YcrkbnHQg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUGowUjktLUxXVzA2aEdub01PaW9RZGwyYVctamFHYWcuOERCOEFGQ0QyOTA3OENDRQ",
+						"snippet": {
+							"title": "אלי למה עזבתני (Live)",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "9b4CyQ1oG4A"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUGowUjktLUxXVzA2aEdub01PaW9RZGwyYVctamFHYWcuNDg1NjEwRjNDOTJCMEM1NA",
+						"snippet": {
+							"title": "אבק בנעליים (Live)",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "JB1QNnRRgiY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUGowUjktLUxXVzA2aEdub01PaW9RZGwyYVctamFHYWcuNkQ4MUNDNjlCMERGQjY2RQ",
+						"snippet": {
+							"title": "זמן של מספרים (Live)",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "ibsc8H0VUhg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUGowUjktLUxXVzA2aEdub01PaW9RZGwyYVctamFHYWcuNDMxMDZFOEVBNDI4QUY4OA",
+						"snippet": {
+							"title": "כשייתמו המילים (Live)",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "t4EtdIKrjBs"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mFPvWCwj4_C5JKwsWifTuYUNX2xS6iFgw",
+				"title": "Album - Mother Earth",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mFPvWCwj4_C5JKwsWifTuYUNX2xS6iFgw/mqdefault.jpg?sqp=CLDt_dIGir7X7AMICLbLmr0GEAE=&rs=AOn4CLDztFmMtyGqnN0S_7XxILBH1gcIHg&v=1738974646",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mFPvWCwj4_C5JKwsWifTuYUNX2xS6iFgw/sddefault.jpg?sqp=CLDt_dIGir7X7AMICLbLmr0GEAE=&rs=AOn4CLDzXlVMdZL5KlSD_OofPhq_ECUXDg&v=1738974646",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mFPvWCwj4_C5JKwsWifTuYUNX2xS6iFgw/maxresdefault.jpg?sqp=CLDt_dIGir7X7AMICLbLmr0GEAE=&rs=AOn4CLCP233qmN9IEV5mz4iPg3CE-W53Vw&v=1738974646",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuRkREOEI1MDIxRTA1Q0RGMA",
+						"snippet": {
+							"title": "Mother Earth",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "FVbDZaUuNvQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuNkIxNTY3QzFBOUQxM0MzNA",
+						"snippet": {
+							"title": "Ice Queen",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "_yKiqBO9ZaM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuNTI0MUYzRkYxNTE3OTVFRA",
+						"snippet": {
+							"title": "Our Farewell",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "W8YMx5ouNNA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuMjIyQzUyNUZGNjVDMTBDMw",
+						"snippet": {
+							"title": "Caged",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "kGdyfqel4D8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuQjg4MURFMkUyQTZDRjY0RQ",
+						"snippet": {
+							"title": "The Promise",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "wKzOlSkcShU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuODQ4QUEyQjM1RTE5OTlEQg",
+						"snippet": {
+							"title": "Never-ending Story",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "xOrXMGfTrJ8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuQzhCRjU4OUMyNTY5QTgzOA",
+						"snippet": {
+							"title": "Deceiver of Fools",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "EqniPax8LGE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuQkE4NUM5QjExQUI1REUxQw",
+						"snippet": {
+							"title": "Intro",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "QR5tsfea2xQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuNDIzQTZBMjI0RjZDRDlEQg",
+						"snippet": {
+							"title": "Dark Wings",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "SJYj03GXwxU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuNTRGNzI4RUE5QUQ2QjI4RQ",
+						"snippet": {
+							"title": "In Perfect Harmony",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "S3DeZuhqK6M"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuQ0RGOTcwMjg2OTg1MjlENw",
+						"snippet": {
+							"title": "World Of Make Believe",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "iJ_Z7RcjaXY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuRjFGQjE3OTM0ODJFNjUzNQ",
+						"snippet": {
+							"title": "Restless",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "icxf254IVpw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuNkUyQUIzMkIxMTU5RkFBNg",
+						"snippet": {
+							"title": "Bittersweet",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "Cjuu0x4eF30"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuMjU1Q0MzMkM5MTdFQzg1OA",
+						"snippet": {
+							"title": "Enter (Live at Utrecht 1998)",
+							"position": 13
+						},
+						"contentDetails": {
+							"videoId": "XrJbvuwWo0o"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuQjU1MDNFMTg2QTk1MDk2Mg",
+						"snippet": {
+							"title": "The Dance (Live at Utrecht 1998)",
+							"position": 14
+						},
+						"contentDetails": {
+							"videoId": "Cc4zuSbpIiw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuNjE2ODk0QzY0MUY3NTlCNg",
+						"snippet": {
+							"title": "The Dance (Live)",
+							"position": 15
+						},
+						"contentDetails": {
+							"videoId": "VQVYAY6Vgo4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuQ0I2QTBCRUQ2NjM0MkY0Qg",
+						"snippet": {
+							"title": "Deep Within (Live 2002)",
+							"position": 16
+						},
+						"contentDetails": {
+							"videoId": "Y9VqX2JWg4o"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuNkI5RTRCMzVEOTNCM0U0Qw",
+						"snippet": {
+							"title": "Deceiver of Fools (Live)",
+							"position": 17
+						},
+						"contentDetails": {
+							"videoId": "U1HbbexAfZU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuN0Q2M0ZGNEY2RkE4OUEyRg",
+						"snippet": {
+							"title": "Caged (Live)",
+							"position": 18
+						},
+						"contentDetails": {
+							"videoId": "TCtfvXv7I3I"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuMkY1MEEyOUYxMkM1RDAzNQ",
+						"snippet": {
+							"title": "Candles (Live)",
+							"position": 19
+						},
+						"contentDetails": {
+							"videoId": "LGNX9wjW9I4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tRlB2V0N3ajRfQzVKS3dzV2lmVHVZVU5YMnhTNmlGZ3cuOEIzMEVFRDI1RURBMjE5Qw",
+						"snippet": {
+							"title": "Ice Queen (Live)",
+							"position": 20
+						},
+						"contentDetails": {
+							"videoId": "hPZOnnWyipM"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_kE8z3K5iV7cbxnX8PDBfa436sLCDyrCuo",
+				"title": "Album - Scarsick",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kE8z3K5iV7cbxnX8PDBfa436sLCDyrCuo/mqdefault.jpg?sqp=CLDt_dIGir7X7AMICKfrvsEGEAE=&rs=AOn4CLDbDs_Sb8qJXVbDUfhWQpa9-0oQwA&v=1747957159",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kE8z3K5iV7cbxnX8PDBfa436sLCDyrCuo/sddefault.jpg?sqp=CLDt_dIGir7X7AMICKfrvsEGEAE=&rs=AOn4CLBBzhst0Uztj1iCUkXO6Z7UVIhDHA&v=1747957159",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_kE8z3K5iV7cbxnX8PDBfa436sLCDyrCuo/maxresdefault.jpg?sqp=CLDt_dIGir7X7AMICKfrvsEGEAE=&rs=AOn4CLDmzTVZe3W1wce-sVUAdy6J9Ri5ww&v=1747957159",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9rRTh6M0s1aVY3Y2J4blg4UERCZmE0MzZzTENEeXJDdW8uRUEwQkQ2NTg4NDAyMDI3NQ",
+						"snippet": {
+							"title": "Scarsick",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "woGCbPNDINg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rRTh6M0s1aVY3Y2J4blg4UERCZmE0MzZzTENEeXJDdW8uNjVGMDk1QUI5OEZCOTY2Qg",
+						"snippet": {
+							"title": "Spitfall",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "ReeUHmKB5bs"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rRTh6M0s1aVY3Y2J4blg4UERCZmE0MzZzTENEeXJDdW8uRUVGOEE1MjcxQjg2MEQ1Ng",
+						"snippet": {
+							"title": "Cribcaged",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "hYo9Tlgh03A"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rRTh6M0s1aVY3Y2J4blg4UERCZmE0MzZzTENEeXJDdW8uNEMxOUVBRTlCQzRGRTIyRg",
+						"snippet": {
+							"title": "America",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "Jv3eaJMOoO4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rRTh6M0s1aVY3Y2J4blg4UERCZmE0MzZzTENEeXJDdW8uNENCRDlGMUIzMENFNkU4OQ",
+						"snippet": {
+							"title": "Disco Queen",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "RwPflNGGin8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rRTh6M0s1aVY3Y2J4blg4UERCZmE0MzZzTENEeXJDdW8uMTRDN0JGQjJDQTU0NjlDQw",
+						"snippet": {
+							"title": "Kingdom of Loss",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "vGN7blqBbQg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rRTh6M0s1aVY3Y2J4blg4UERCZmE0MzZzTENEeXJDdW8uOTJCRENGNTk2ODQyNDEwQQ",
+						"snippet": {
+							"title": "Mrs. Modern Mother Mary",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "Iif5OnIRJ8w"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rRTh6M0s1aVY3Y2J4blg4UERCZmE0MzZzTENEeXJDdW8uQTU1Rjg0OENBOTE2MjkzQQ",
+						"snippet": {
+							"title": "Idiocracy",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "DKqICccvAlw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rRTh6M0s1aVY3Y2J4blg4UERCZmE0MzZzTENEeXJDdW8uMzE5NkIwMjRBQTg3RjQ3Nw",
+						"snippet": {
+							"title": "Flame to the Moth",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "wd9j4ang8IM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rRTh6M0s1aVY3Y2J4blg4UERCZmE0MzZzTENEeXJDdW8uNTg0NkY1OEU0MDUxQkE5NQ",
+						"snippet": {
+							"title": "Enter Rain",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "4IxCAeKP8Uk"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mPOHhQ8jCnzgtH5v0TBSENX_Rr0hSduRg",
+				"title": "Album - Unity Pt. 3",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mPOHhQ8jCnzgtH5v0TBSENX_Rr0hSduRg/mqdefault.jpg?sqp=CLDt_dIGir7X7AMICNTX8NEGEAE=&rs=AOn4CLBghulLAkCaoTcMhrewhjd0NMC0yw&v=1782328276",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mPOHhQ8jCnzgtH5v0TBSENX_Rr0hSduRg/sddefault.jpg?sqp=CLDt_dIGir7X7AMICNTX8NEGEAE=&rs=AOn4CLACbXV9lDy1oRDgcCXNSGxk3nsrJg&v=1782328276",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mPOHhQ8jCnzgtH5v0TBSENX_Rr0hSduRg/maxresdefault.jpg?sqp=CLDt_dIGir7X7AMICNTX8NEGEAE=&rs=AOn4CLCk_bo1gXuaI4naVTjmAvjYKVMXvw&v=1782328276",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuMUU0MUY0NzA0QkUwOEU4Qw",
+						"snippet": {
+							"title": "Cosmovision",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "1-5YFeMY2V0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuM0E0OTZEQUNFNTA2NTA4Nw",
+						"snippet": {
+							"title": "Landa",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "BgwCYONb8NY"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuNUEzOUE3NDUzOEYzQURFNg",
+						"snippet": {
+							"title": "Brutalism",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "71hxYdIRXiw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuMkEwOUMxOTU5NEQ0NjZFRg",
+						"snippet": {
+							"title": "Unstable Gravity Alert",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "fdhFhczpOzU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuNzA5NjlGMjc4OUExREFFQw",
+						"snippet": {
+							"title": "Runner",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "WUGEHT7a6aI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuMEJBRERFQzIyOTE4MjM1MA",
+						"snippet": {
+							"title": "Morning After The Rave",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "RvKQteRj9N8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuMUY1REMxNTZDREJDODU3OQ",
+						"snippet": {
+							"title": "System Failure",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "EfrqOc25vYU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuN0EzMDU5MTFCRDYwNkFGNw",
+						"snippet": {
+							"title": "Inertia",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "hWl08JZDxqg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuQkI0ODVFRjMxRjgwMkIwNQ",
+						"snippet": {
+							"title": "Biohazard",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "CR6VAq4iXos"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuNEJENzlDNDlBOEIzQ0U5MQ",
+						"snippet": {
+							"title": "Signs of Saturn",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "1du-vDD0t_s"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuQjc4QTc3QjYxREQyMkRERA",
+						"snippet": {
+							"title": "Targo",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "jAABGZxBELQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuQzM5ODQ4RDU0NkQyRkQzNA",
+						"snippet": {
+							"title": "Golden Means",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "hqI3oodAqGE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuRjE3RjdGMzZFNEFBNEJBRA",
+						"snippet": {
+							"title": "The Runner",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "rE6rd--GSes"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuNzU2M0ZERUNFQ0I4QjQ0Qg",
+						"snippet": {
+							"title": "Drain",
+							"position": 13
+						},
+						"contentDetails": {
+							"videoId": "v1Zpp_PLp5c"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuRTQyOUQ5RUE4MjIyNkIzMw",
+						"snippet": {
+							"title": "Drag",
+							"position": 14
+						},
+						"contentDetails": {
+							"videoId": "cw0hDQf6zsE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuN0I0N0RFNDMzQzkwNjA3Ng",
+						"snippet": {
+							"title": "1998 (Whitesquare Remix)",
+							"position": 15
+						},
+						"contentDetails": {
+							"videoId": "DKQBHCb4gSI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuOTkwM0RDRjZENEUzMTUzMg",
+						"snippet": {
+							"title": "Tesseract",
+							"position": 16
+						},
+						"contentDetails": {
+							"videoId": "OntUqCp3LV8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuNEVFODk5MEI0QUJEQTY3NA",
+						"snippet": {
+							"title": "Deeper Grounds",
+							"position": 17
+						},
+						"contentDetails": {
+							"videoId": "HyUe9VTouCs"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuNkE1RTZCMTA4RDNBQjI4RQ",
+						"snippet": {
+							"title": "Shake This World",
+							"position": 18
+						},
+						"contentDetails": {
+							"videoId": "R90um7bRmzU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuQTYzQ0MyRjY1M0M4NjJFOA",
+						"snippet": {
+							"title": "New Age",
+							"position": 19
+						},
+						"contentDetails": {
+							"videoId": "9ra2by7eBUA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuMUU3MTI4MUM2NjRCQkJDQQ",
+						"snippet": {
+							"title": "Fugitive",
+							"position": 20
+						},
+						"contentDetails": {
+							"videoId": "i4JZhe_N_fA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuMDY1QUU5RTUzQUE4QkQyQg",
+						"snippet": {
+							"title": "My World",
+							"position": 21
+						},
+						"contentDetails": {
+							"videoId": "BYwrby1LIyM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuOTk5MUUxMTczMDNGRjgzRA",
+						"snippet": {
+							"title": "Edges",
+							"position": 22
+						},
+						"contentDetails": {
+							"videoId": "jQk0-a6FCPM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuQjFDRDczMzUxRDk0MUYyNA",
+						"snippet": {
+							"title": "Mental Powers",
+							"position": 23
+						},
+						"contentDetails": {
+							"videoId": "WtMrJx2f0_U"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuNTVGQUYxMUVGNjVBOEQyQw",
+						"snippet": {
+							"title": "Isolate",
+							"position": 24
+						},
+						"contentDetails": {
+							"videoId": "3AQaOvhJRT8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuNDhEMjk0RTdCMkU0MjY3MA",
+						"snippet": {
+							"title": "Seyfert",
+							"position": 25
+						},
+						"contentDetails": {
+							"videoId": "3u4v26VHeJk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuNkIwNURGOTlGQzU2NDg0Rg",
+						"snippet": {
+							"title": "Andante n.64",
+							"position": 26
+						},
+						"contentDetails": {
+							"videoId": "Uo-E4G_LGsc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuODcyRUFBOTEyRDNGMDU2OQ",
+						"snippet": {
+							"title": "Life",
+							"position": 27
+						},
+						"contentDetails": {
+							"videoId": "cAg52AF28NU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuMDM4Qjg0QzQ4M0IwQjAyRA",
+						"snippet": {
+							"title": "Tundra",
+							"position": 28
+						},
+						"contentDetails": {
+							"videoId": "gsSzDkCNNC4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuMzhGRTQ4OENDRjNDQUI5Rg",
+						"snippet": {
+							"title": "U Can’t Ctrl Me",
+							"position": 29
+						},
+						"contentDetails": {
+							"videoId": "PiGnnEhrmIU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuQjQzRDg3NDlCMjdDMEE4OQ",
+						"snippet": {
+							"title": "We Need To Talk",
+							"position": 30
+						},
+						"contentDetails": {
+							"videoId": "hEfomi0KgLE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuREVBRDNEMkJDOTRCNDg0RQ",
+						"snippet": {
+							"title": "Breathe",
+							"position": 31
+						},
+						"contentDetails": {
+							"videoId": "2fjxwj_Hb5Q"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuNzYwRUQzQkE0NzAxMzVGOA",
+						"snippet": {
+							"title": "Spirit Receivers",
+							"position": 32
+						},
+						"contentDetails": {
+							"videoId": "4mPpsp9YSIA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuMzM1NDA2MjM5REU2NEQ4MQ",
+						"snippet": {
+							"title": "Crave",
+							"position": 33
+						},
+						"contentDetails": {
+							"videoId": "gXPw8hXX8gI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuNzQ2MDJENDQzMjY4MERDMA",
+						"snippet": {
+							"title": "Eagle In The Sky",
+							"position": 34
+						},
+						"contentDetails": {
+							"videoId": "W2kuDcK1ZbM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuNzVCODlGRjBDMTcyQzRDNw",
+						"snippet": {
+							"title": "Voicemail",
+							"position": 35
+						},
+						"contentDetails": {
+							"videoId": "3rOCSx-Q3vc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuRjUxRUVCNUFEMTNCQTY1RA",
+						"snippet": {
+							"title": "Always",
+							"position": 36
+						},
+						"contentDetails": {
+							"videoId": "mFQ9bnVydSM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuRUU3NTE3MkI5QjY3MUI3NA",
+						"snippet": {
+							"title": "In The Darkness",
+							"position": 37
+						},
+						"contentDetails": {
+							"videoId": "cxsFTziaCkc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tUE9IaFE4akNuemd0SDV2MFRCU0VOWF9ScjBoU2R1UmcuNUQ5RTc5QkIxOTc3MkE2MQ",
+						"snippet": {
+							"title": "Her Eyes",
+							"position": 38
+						},
+						"contentDetails": {
+							"videoId": "eSoqV7RqKmw"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_k-pW_Mbm5_yrjdJmViR8WcZvK5NPQ1RuA",
+				"title": "Album - Internet Protocol",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_k-pW_Mbm5_yrjdJmViR8WcZvK5NPQ1RuA/mqdefault.jpg?sqp=CNzv_dIGir7X7AMICPb1zL0GEAE=&rs=AOn4CLAW10sgL95vajWXiS7aHHniXQRSFQ&v=1739799286",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_k-pW_Mbm5_yrjdJmViR8WcZvK5NPQ1RuA/sddefault.jpg?sqp=CNzv_dIGir7X7AMICPb1zL0GEAE=&rs=AOn4CLBqYk33lNnlrmKNeII12FXqqep00g&v=1739799286",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_k-pW_Mbm5_yrjdJmViR8WcZvK5NPQ1RuA/maxresdefault.jpg?sqp=CNzv_dIGir7X7AMICPb1zL0GEAE=&rs=AOn4CLAMvOGxVIsulKOPZ7fKN0A58n7Z2Q&v=1739799286",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9rLXBXX01ibTVfeXJqZEptVmlSOFdjWnZLNU5QUTFSdUEuNTgzMDE2OUZCQkQwQ0Q1Mg",
+						"snippet": {
+							"title": "Ftp",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "eGPCBPSXKSQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rLXBXX01ibTVfeXJqZEptVmlSOFdjWnZLNU5QUTFSdUEuN0FGNjY4RDlBQzAxODI4MQ",
+						"snippet": {
+							"title": "Irc",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "8-JoWAodT8k"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rLXBXX01ibTVfeXJqZEptVmlSOFdjWnZLNU5QUTFSdUEuNkRDODE3MkQ5OUZBRjA4OQ",
+						"snippet": {
+							"title": "Telnet",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "sq_YLo609wc"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rLXBXX01ibTVfeXJqZEptVmlSOFdjWnZLNU5QUTFSdUEuMjgzN0EzMjJBRUQ3RDMzRA",
+						"snippet": {
+							"title": "Gopher",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "We9F5BUGlic"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rLXBXX01ibTVfeXJqZEptVmlSOFdjWnZLNU5QUTFSdUEuQzAwNUE1NzYxRDhCRDUzQw",
+						"snippet": {
+							"title": "Http",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "xQNLTpBprlw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rLXBXX01ibTVfeXJqZEptVmlSOFdjWnZLNU5QUTFSdUEuNjc4MkJBRTRFMjk2QzJBOA",
+						"snippet": {
+							"title": "Pop3",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "ZJGAGRLOLXQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rLXBXX01ibTVfeXJqZEptVmlSOFdjWnZLNU5QUTFSdUEuMjU0QjM3RTNFQzA0Q0ZCMw",
+						"snippet": {
+							"title": "Smtp",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "MBPPLCSBGXQ"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_moOvmmyxGonGKfq8keGqKG1JEcqSfx-W0",
+				"title": "Album - Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_moOvmmyxGonGKfq8keGqKG1JEcqSfx-W0/mqdefault.jpg?sqp=CNzv_dIGir7X7AMICMXtnb0GEAE=&rs=AOn4CLBOcM2reELbFPPbM72BRNWVky530A&v=1739028165",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_moOvmmyxGonGKfq8keGqKG1JEcqSfx-W0/sddefault.jpg?sqp=CNzv_dIGir7X7AMICMXtnb0GEAE=&rs=AOn4CLAarcq9SEhuVL0QfcVbe4Je2vTm2w&v=1739028165",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_moOvmmyxGonGKfq8keGqKG1JEcqSfx-W0/maxresdefault.jpg?sqp=CNzv_dIGir7X7AMICMXtnb0GEAE=&rs=AOn4CLBjfTyTF8mbQVy0oi6YGNXK1ymPIQ&v=1739028165",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuQzgyQUIzMTY5NzBBREFDRg",
+						"snippet": {
+							"title": "Ole",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "BDVz_iMSqlk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuNDdGQzBBNDE3MUJGMkNCOQ",
+						"snippet": {
+							"title": "Akpankoro",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "PepI4Ux5wCg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuRDdDQ0Y1Mzg4REIxQTVDMw",
+						"snippet": {
+							"title": "Onye Mmanya",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "fuHnE7SEQl0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuQUJCQ0FDNThDMTUxQkFDRA",
+						"snippet": {
+							"title": "Abraka",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "xryPu8RSMGM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuRDRCRjg1QjcxOEUyMTE0OA",
+						"snippet": {
+							"title": "Point of No Return",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "tCqKyeK4wYA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuNjg2RDgyODdFRkZCODBFMg",
+						"snippet": {
+							"title": "Akula Owu Onyeara",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "4Iq6dMpniSA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuNUNGQ0Q1MDQwM0UyODI4OQ",
+						"snippet": {
+							"title": "Acid Rock",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "7oIbAibaCM0"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuQTdFN0ZDRTFFN0UzRjM3OA",
+						"snippet": {
+							"title": "Ogbu Achara",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "hjKUTIEHUDE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuRTc4Mzk5Mzg3ODM2QkJBRA",
+						"snippet": {
+							"title": "Slipping Into Darkness",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "2iZEPvklbFU"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuMjExNzMxRUZGNDNFNjU0Qg",
+						"snippet": {
+							"title": "Dancing Time",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "FEo-it7Mw-c"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuRDlDOTVDMjA4MDAyQjA2MQ",
+						"snippet": {
+							"title": "Baby I Need You",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "tKc817shCx4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuMDMzRUY1NjdEODJDNkYwNA",
+						"snippet": {
+							"title": "Break Through",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "4y0aJlWGqAI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuN0FEQTJCOEE4RTMxOTM0Qw",
+						"snippet": {
+							"title": "Life",
+							"position": 12
+						},
+						"contentDetails": {
+							"videoId": "Tm3yI7S4nyE"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuNDM1QTdFNEQ1MkU2QTI0NA",
+						"snippet": {
+							"title": "Mimbo",
+							"position": 13
+						},
+						"contentDetails": {
+							"videoId": "_7eUEC3_JK4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuQkI1OEFFNzY0NTZEQjc1Mg",
+						"snippet": {
+							"title": "303",
+							"position": 14
+						},
+						"contentDetails": {
+							"videoId": "chO5me8pDik"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuMTA3OThBMzFDOTRCQTM1Qg",
+						"snippet": {
+							"title": "Dancing in the Nude",
+							"position": 15
+						},
+						"contentDetails": {
+							"videoId": "E8YdL52dq48"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuRkIwMTI3NTlDMDZBRkVERQ",
+						"snippet": {
+							"title": "Salem",
+							"position": 16
+						},
+						"contentDetails": {
+							"videoId": "GYAORBrKy9Y"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tb092bW15eEdvbkdLZnE4a2VHcUtHMUpFY3FTZngtVzAuQzI0NDI5NkU3NzRBMDA3OA",
+						"snippet": {
+							"title": "Dance With Me",
+							"position": 17
+						},
+						"contentDetails": {
+							"videoId": "_vK2OAv0W_8"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_k5DcQFVczwdIftc6OuQ9NAG-HQt5uY6WI",
+				"title": "Album - Grannie",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_k5DcQFVczwdIftc6OuQ9NAG-HQt5uY6WI/mqdefault.jpg?sqp=CNzv_dIGir7X7AMICPyS4c0GEAE=&rs=AOn4CLAH02p35TqRiQjsvOpLSN_b_Tb41w&v=1773685116",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_k5DcQFVczwdIftc6OuQ9NAG-HQt5uY6WI/sddefault.jpg?sqp=CNzv_dIGir7X7AMICPyS4c0GEAE=&rs=AOn4CLCNmcUtB1ItJO6JWlnEOst2zLeWpw&v=1773685116",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_k5DcQFVczwdIftc6OuQ9NAG-HQt5uY6WI/maxresdefault.jpg?sqp=CNzv_dIGir7X7AMICPyS4c0GEAE=&rs=AOn4CLAvdtEb4r9e2O4Vu9KAHhG-NASBUw&v=1773685116",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9rNURjUUZWY3p3ZElmdGM2T3VROU5BRy1IUXQ1dVk2V0kuN0Y3QUEzMDVFMEUwNUJBNw",
+						"snippet": {
+							"title": "Leaving",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "cjrTfjAXdU8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rNURjUUZWY3p3ZElmdGM2T3VROU5BRy1IUXQ1dVk2V0kuRjdBMEZDMUEyRjExQjQ3NQ",
+						"snippet": {
+							"title": "Romany Refrain",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "eS_MARE1lZM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rNURjUUZWY3p3ZElmdGM2T3VROU5BRy1IUXQ1dVk2V0kuRDVCOTkxQkJGMTQ1MUI0Nw",
+						"snippet": {
+							"title": "Tomorrow Today",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "XVeh4u4ssts"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rNURjUUZWY3p3ZElmdGM2T3VROU5BRy1IUXQ1dVk2V0kuQkYwRTk1M0ExODI4N0VCRQ",
+						"snippet": {
+							"title": "Saga of the Sad Jester",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "ve1r1-TRryI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rNURjUUZWY3p3ZElmdGM2T3VROU5BRy1IUXQ1dVk2V0kuNUE0OEEyMjNGNUUwRjFDRA",
+						"snippet": {
+							"title": "Dawn",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "-I7xWvt0KHM"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9rNURjUUZWY3p3ZElmdGM2T3VROU5BRy1IUXQ1dVk2V0kuMEIwOEJFRENERURCMzIxQg",
+						"snippet": {
+							"title": "Coloured Armageddon",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "7l1RaDAKVDo"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_njoEUsjxdb4xKuCBkVG-lnLlofeOQY2Mw",
+				"title": "Album - מזמורים נוספים",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_njoEUsjxdb4xKuCBkVG-lnLlofeOQY2Mw/mqdefault.jpg?sqp=CLT0_dIGir7X7AMICMia070GEAE=&rs=AOn4CLAGDNBV5yWpumImI7nrLeiAq2c5dg&v=1739902280",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_njoEUsjxdb4xKuCBkVG-lnLlofeOQY2Mw/sddefault.jpg?sqp=CLT0_dIGir7X7AMICMia070GEAE=&rs=AOn4CLDxfYV1GD6hiNDduzlN7STxLRuloQ&v=1739902280",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_njoEUsjxdb4xKuCBkVG-lnLlofeOQY2Mw/maxresdefault.jpg?sqp=CLT0_dIGir7X7AMICMia070GEAE=&rs=AOn4CLBQcZXQHhC0Xh1jCX97hgx7BbaEqA&v=1739902280",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9uam9FVXNqeGRiNHhLdUNCa1ZHLWxuTGxvZmVPUVkyTXcuMDY1OUVFNjM0MUQ3RDc3Nw",
+						"snippet": {
+							"title": "אדון יה",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "FTIj0DoKbC4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uam9FVXNqeGRiNHhLdUNCa1ZHLWxuTGxvZmVPUVkyTXcuNEY2Q0E4QzlGRjQyQ0FEOQ",
+						"snippet": {
+							"title": "שירת העשבים",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "g2py_tBbe8M"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uam9FVXNqeGRiNHhLdUNCa1ZHLWxuTGxvZmVPUVkyTXcuNzhBOUFBRTYzN0I0ODlCNw",
+						"snippet": {
+							"title": "מדרש יונתי",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "5PSj8ipewbo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uam9FVXNqeGRiNHhLdUNCa1ZHLWxuTGxvZmVPUVkyTXcuN0NCQzhGRDYzQjkzNzIyQw",
+						"snippet": {
+							"title": "ברכת כלולות",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "oukR6jS92mQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uam9FVXNqeGRiNHhLdUNCa1ZHLWxuTGxvZmVPUVkyTXcuNjU1MzJFM0YwNjg0QThERA",
+						"snippet": {
+							"title": "יא חביבי",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "p-N7csR4p70"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uam9FVXNqeGRiNHhLdUNCa1ZHLWxuTGxvZmVPUVkyTXcuQjJFQzZBQzEzRUI3RkY2MA",
+						"snippet": {
+							"title": "שירת העשבים שלי",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "WWUXS2jw1LI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uam9FVXNqeGRiNHhLdUNCa1ZHLWxuTGxvZmVPUVkyTXcuRjlEMzQ0QTYxOEYyMEM5NA",
+						"snippet": {
+							"title": "חמדת ימים",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "hIPNc1sRG9k"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uam9FVXNqeGRiNHhLdUNCa1ZHLWxuTGxvZmVPUVkyTXcuN0Y3RkQwQUEzMDc0RTBCMA",
+						"snippet": {
+							"title": "אגדה",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "NhblrZVGVj4"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uam9FVXNqeGRiNHhLdUNCa1ZHLWxuTGxvZmVPUVkyTXcuQkZDNjI1MjcxMkI0QjcwOA",
+						"snippet": {
+							"title": "משפחת צנעני",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "-MReGm3hn8M"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uam9FVXNqeGRiNHhLdUNCa1ZHLWxuTGxvZmVPUVkyTXcuQjM4NjI2MzFFNEJDNkUyMg",
+						"snippet": {
+							"title": "תפילה לשלום המדינה",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "vRJIJtbaNCQ"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uam9FVXNqeGRiNHhLdUNCa1ZHLWxuTGxvZmVPUVkyTXcuOUMzMUIwRjQzNzZCOUU4NA",
+						"snippet": {
+							"title": "על לבבכם ששמם",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "p9Wqkk3VtMk"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9uam9FVXNqeGRiNHhLdUNCa1ZHLWxuTGxvZmVPUVkyTXcuMjVGNEFGNDlCNzdGNDNGQQ",
+						"snippet": {
+							"title": "למען אחי ורעי",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "lmdyAQqCbms"
+						}
+					}
+				]
+			},
+			{
+				"id": "OLAK5uy_mNBkjFVhxui5sI-qQhxwO4NcL1PtHZI1U",
+				"title": "Album - מזמורי נבוכים",
+				"thumbnails": {
+					"medium": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mNBkjFVhxui5sI-qQhxwO4NcL1PtHZI1U/mqdefault.jpg?sqp=COD2_dIGir7X7AMICN7Atb0GEAE=&rs=AOn4CLD0AuTUp7sX9zJ2NweF9m1lQNn_PQ&v=1739415646",
+						"width": 180,
+						"height": 180
+					},
+					"standard": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mNBkjFVhxui5sI-qQhxwO4NcL1PtHZI1U/sddefault.jpg?sqp=COD2_dIGir7X7AMICN7Atb0GEAE=&rs=AOn4CLCb6Ar71tM-02WPUtPYx_HwEkY8Qw&v=1739415646",
+						"width": 640,
+						"height": 640
+					},
+					"maxres": {
+						"url": "https://i9.ytimg.com/s_p/OLAK5uy_mNBkjFVhxui5sI-qQhxwO4NcL1PtHZI1U/maxresdefault.jpg?sqp=COD2_dIGir7X7AMICN7Atb0GEAE=&rs=AOn4CLADgJAEyS9eN967_fQoI3bOsQGUSQ&v=1739415646",
+						"width": 1200,
+						"height": 1200
+					}
+				},
+				"items": [
+					{
+						"id": "T0xBSzV1eV9tTkJrakZWaHh1aTVzSS1xUWh4d080TmNMMVB0SFpJMVUuODU4M0EwOEU4RDJCMTExMA",
+						"snippet": {
+							"title": "פקק תנועה של ניסים",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "OvrtIhdTw24"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTkJrakZWaHh1aTVzSS1xUWh4d080TmNMMVB0SFpJMVUuNDRGQ0Y0QjM0QkY1NDNCOQ",
+						"snippet": {
+							"title": "אלוהי",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "6bBwysS1r88"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTkJrakZWaHh1aTVzSS1xUWh4d080TmNMMVB0SFpJMVUuMEQ2ODg3MzEwRjREQTEzNQ",
+						"snippet": {
+							"title": "מדרגות נעות",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "p2uBP4cFegw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTkJrakZWaHh1aTVzSS1xUWh4d080TmNMMVB0SFpJMVUuNkY3REQxRTFFRTY2MDdFRA",
+						"snippet": {
+							"title": "שוועת עניים",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "jfyyeHZaWdA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTkJrakZWaHh1aTVzSS1xUWh4d080TmNMMVB0SFpJMVUuNkU5M0U2OUVCMzE0NzVFQg",
+						"snippet": {
+							"title": "זלמן זה לא אתה",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "1lt6Vi-QYFw"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTkJrakZWaHh1aTVzSS1xUWh4d080TmNMMVB0SFpJMVUuNzdFQzY0RTg2RTI3QkQzNA",
+						"snippet": {
+							"title": "געגועי לגעגועים",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "kTmsl6B6LlA"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTkJrakZWaHh1aTVzSS1xUWh4d080TmNMMVB0SFpJMVUuQzVCNjQ3ODQxMEVEQjk0NQ",
+						"snippet": {
+							"title": "תפילת החילוני",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "bFsOA0MfaEg"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTkJrakZWaHh1aTVzSS1xUWh4d080TmNMMVB0SFpJMVUuMTIxMkUxNzVGQjBBN0FCQQ",
+						"snippet": {
+							"title": "ידידי די",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "gOTm05yOML8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTkJrakZWaHh1aTVzSS1xUWh4d080TmNMMVB0SFpJMVUuRDc2REI1NEI0QjI4QUEyOA",
+						"snippet": {
+							"title": "איש עם שלט מקרטון",
+							"position": 8
+						},
+						"contentDetails": {
+							"videoId": "l1Fyny2Tpq8"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTkJrakZWaHh1aTVzSS1xUWh4d080TmNMMVB0SFpJMVUuQ0U3NUQ3MEIzODQ2NjNCRA",
+						"snippet": {
+							"title": "רבי ג'ו כפרה",
+							"position": 9
+						},
+						"contentDetails": {
+							"videoId": "ZCKbAqvWfvo"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTkJrakZWaHh1aTVzSS1xUWh4d080TmNMMVB0SFpJMVUuQkQ0MTcyOTRDRUY4QzJDOA",
+						"snippet": {
+							"title": "מזמורי נבוכים",
+							"position": 10
+						},
+						"contentDetails": {
+							"videoId": "Mt8Dg0p1tVI"
+						}
+					},
+					{
+						"id": "T0xBSzV1eV9tTkJrakZWaHh1aTVzSS1xUWh4d080TmNMMVB0SFpJMVUuREM2NkZDRTM1NkYzREFGMg",
+						"snippet": {
+							"title": "נקבת השילוח",
+							"position": 11
+						},
+						"contentDetails": {
+							"videoId": "Itu6yHlkdoU"
+						}
+					}
+				]
+			}
+		]
+	}
+}

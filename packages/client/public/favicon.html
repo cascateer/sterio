@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cascateer Emblem</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap");
+
+      body {
+        background-color: #87cefa;
+      }
+
+      .scene {
+        background-color: hsl(227, 48%, 23%);
+        perspective: 400px;
+        height: 650px;
+        width: 975px;
+        transform: rotate(45deg) scale(1, 1.5) translate(400px, 80px);
+
+        --layer-offset: 1px;
+        --layer-min-lightness: 40%;
+      }
+
+      .scene2::before {
+        inset: 0;
+        content: "";
+        position: absolute;
+        transform: scale(1.5, 1) rotate(45deg) scale(1, 1.5) scale(0.7);
+        background-color: hsl(227, 48%, 23%);
+      }
+
+      .layer {
+        --layer-lightness: calc(
+          var(--layer-min-lightness) + (100% - var(--layer-min-lightness)) *
+            (var(--i) / var(--layer-count))
+        );
+        --layer-color: hsl(0, 0%, var(--layer-lightness));
+        color: var(--layer-color);
+        font-family: JetBrains Mono;
+        font-weight: 200;
+        transform: translate3D(
+          37px,
+          -2px,
+          calc(1 * var(--i) * var(--layer-offset))
+        );
+        position: absolute;
+        font-size: 500px;
+      }
+
+      .layer:first-child {
+        --layer-text-shadow-offset: 10px;
+        --layer-text-shadow-blur: 30px;
+        --layer-text-shadow-sign: 1;
+
+        text-shadow: calc(
+            var(--layer-text-shadow-sign) * var(--layer-text-shadow-offset)
+          )
+          calc(var(--layer-text-shadow-sign) * var(--layer-text-shadow-offset))
+          var(--layer-text-shadow-blur) hsl(0, 0%, 20%);
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      const layerCount = 80;
+
+      const sceneContainer = Object.assign(document.createElement("div"), {
+        className: "scene-container",
+      });
+
+      const scene = Object.assign(document.createElement("div"), {
+        className: "scene",
+        style: `--layer-count: ${layerCount}`,
+      });
+
+      for (let i = 0; i <= layerCount; i++) {
+        scene.append(
+          Object.assign(document.createElement("div"), {
+            className: "layer",
+            style: `--i: ${i}`,
+            textContent: "<$>",
+          }),
+        );
+      }
+
+      document.body.append(sceneContainer);
+      sceneContainer.append(scene);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,271 @@
+{
+	"id": "21",
+	"previousId": "20",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_B9ZaxihR2JK",
+				"spotifyId": "4xhCVL4LQtHIm3CEDkgtYy",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_2y0ZswwXZC4",
+				"spotifyId": "5DM1qCdgGt2zbknnsVn1Ca",
+				"youtubeIteratee": "${$.snippet.title/( \\(2011 Remaster\\))$//}",
+				"spotifyIteratee": "${$.name/( - 2011 Remaster)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_BuHnnKK6MXq",
+				"spotifyId": "59gl3QDzCgH4GXzXLEwe55",
+				"spotifyIteratee": "${${$.name/(?:- (.*))$/($1)/}/(?: \\((.*?); (.*?)\\))$/ ($1) ($2)/}",
+				"youtubeMusicIteratee": "${${$.name/(?: \\(.*?\\) \\[.*?\\] \\((.*?); (.*?)\\))$/ ($1) ($2)/}/(?: \\((.*?)\\) \\[(.*?)\\])$/ ($1) ($2)/}",
+				"youtubeIteratee": "${$.snippet.title/^(?:(The Boy with the Thorn in His Side|Hand in Glove|This Charming Man)( \\(2008 Remaster\\)))$/$1 (Single Version)$2/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_8B0BiQ0zT5S",
+				"spotifyId": "6cI1XoZsOhkyrCwtuI70CN",
+				"youtubeIteratee": "${$.snippet.title/( \\(2011 Remaster\\))$//}",
+				"spotifyIteratee": "${$.name/( - 2011 Remaster)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_LK6XKj3XSaf",
+				"spotifyId": "5Y0p2XCgRRIjna91aQE8q7",
+				"spotifyIteratee": "${$.name/( - 2011 Remaster)$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(2011 Remaster\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_vGZmA95flvv",
+				"spotifyId": "4upJm6GdUGCKUkVIzJIzb3"
+			},
+			{
+				"youtubeMusicId": "MPREb_xASvKbDfgo8",
+				"spotifyId": "6spo7M0HqW3q0UZVUrcdYF",
+				"spotifyIteratee": "${${$.name/(?:- (.*); (.*))$/($1) ($2)/}/(?:- (.*))$/($1)/}",
+				"youtubeMusicIteratee": "${${$.name/(?: \\(([^\\)]*)\\) \\[([^\\]]*)\\]( \\([^\\)]*; [^\\)]*\\))?)$/ ($1) ($2)/}/(?: \\[([^\\]]*)\\] \\[([^\\]]*)\\]( \\([^\\)]*; [^\\)]*\\))?)$/ ($1) ($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_Vm6WIiztBpB",
+				"spotifyId": "7hqwHciaHozB8o4vC4szId",
+				"youtubeMusicIteratee": "${${$.name/(?: \\(([^\\)]*)\\) \\[([^\\]]*)\\]( \\([^\\)]*; [^\\)]*\\))?)$/ ($1) ($2)/}/(?: \\[([^\\]]*)\\] \\[([^\\]]*)\\]( \\([^\\)]*; [^\\)]*\\))?)$/ ($1) ($2)/}",
+				"spotifyIteratee": "${${$.name/(?:- (.*); (.*))$/($1) ($2)/}/(?:- (.*))$/($1)/}",
+				"youtubeIteratee": "${${$.snippet.description/^(?:Provided to YouTube by Rhino\\n\\n)(.*)( ·[\\s\\S]*)$/$1/m}/(?:\\[(Live at Palais Des Sports, Paris, 5\\\\/7\\\\/1975)\\] \\[(Jakko Jakszyk Stereo Mix)\\]\\))$/($1) ($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_ptmy2ShNLbx",
+				"spotifyId": "4xOhK9LXV4Kz4VI1N7lOSO",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_mQkAeVwIXvi",
+				"spotifyId": "0hc4lRGEKpOzSdd2KXZ47j"
+			},
+			{
+				"youtubeMusicId": "MPREb_2FwZavE12Q2",
+				"spotifyId": "30t7nfMka4qIkBhJfmIRB3",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					3
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_ATAZpyTw2hf",
+				"spotifyId": "5al91xGt2Nnp7dTTtUsjAv",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_WwlZbZINWN8",
+				"spotifyId": "4TjGZHb5bukGCfmZwNZ5jm",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					9
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_aiGg9QQo1hu",
+				"spotifyId": "6acxUtsrvWJoP6aryvnzlo"
+			},
+			{
+				"youtubeMusicId": "MPREb_SWqiVVN5rmC",
+				"spotifyId": "7IidRI5klmEZuyvPSJwnn7",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeIteratee": "${$.snippet.title/( \\(Original Mix\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_uiTOkuzI8A3",
+				"spotifyId": "7qrdnd3NoxZwClPen84lC9",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_330zdhrXXcD",
+				"spotifyId": "7jBoIHvdbkH3MSLXhe4Mze",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_FyrpbBvemA5",
+				"spotifyId": "0d35dZfFpQwQymaJFOVHWo",
+				"spotifyIteratee": "${${$.name/(?:- (.*))$/($1)/}/( \\(Original Mix\\))$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(Original Mix\\))$//}",
+				"songs": [
+					2
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_yjQ2p5NKTu3",
+				"spotifyId": "4GPawXGx2GGTfN8dPKUBI9",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_xhuXpaowalW",
+				"spotifyId": "7e0mEjhM8D2x8E5c9H1oY3",
+				"songs": [
+					1
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_2BZNFOd4wVV",
+				"spotifyId": "0wK8s8VdUu8my45sFNB9dq",
+				"songs": [
+					2
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_5BRAC4agx48",
+				"spotifyId": "7xqfFa0vA2yHR2sgAG9dgf",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_ChYwLOciOH1",
+				"spotifyId": "5eH9ZsVF5KtFzlgTj9OZLu",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_1CKAA0RKXtW",
+				"spotifyId": "7IcQpBQ9z1iIlfCfTWBbOn",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_nDbsphvvKJA",
+				"spotifyId": "4n2DzX9Ow9SA7L2dKVy4Mc"
+			},
+			{
+				"youtubeMusicId": "MPREb_aDvpfC2n2RM",
+				"spotifyId": "1EyTRv6bb0EM2HgxeYGVjN"
+			},
+			{
+				"youtubeMusicId": "MPREb_BVqU9KAopET",
+				"spotifyId": "07bPNT9oLiFi5EiC0p4sAO",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_dtBrOf4K2Zx",
+				"spotifyId": "15DUUshcZ89Iivi1JTF6Is",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_i1ggK5Ac7N2",
+				"spotifyId": "5Z8BtfJrYGlyJEcuv7WCkv",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_OXyitnSIP9f",
+				"spotifyId": "3ZoEajMzgGXVRdiheQAVas",
+				"spotifyIteratee": "${${$.name/(?:- (.*))$/($1)/}/( \\(Original\\))$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(Original\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_Ub3ZQ9igO6Y",
+				"spotifyId": "5VuJpvVNpq35bXaXgGIpFR",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_OfgCrJUsc3a",
+				"spotifyId": "7BZrF6j0h9YWnOnOAEMgLc",
+				"youtubeIteratee": "${$.snippet.title/( \\(Original Mix\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_uETcIl3Lq1f",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"spotifyId": "3vvD1FivxYbLWMsOTPCvmi",
+				"songs": [
+					7
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_OPWCv0xWpI3",
+				"spotifyId": "5W3X60uJ524fwrtijDUcAy",
+				"youtubeIteratee": "${$.snippet.title/( \\(Original Mix\\))$//}",
+				"spotifyIteratee": "${${$.name/(?:- (.*))$/($1)/}/( \\(Original Mix\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_D7VPInCGIHl",
+				"spotifyId": "5Kjk00TQZfM2x1l6Gy1xj0",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					1
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_HgTPJRt69tA",
+				"spotifyId": "6K1rOoeHosGZ6e0mpeUfPd",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					1
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_UYvKYEWxTWX",
+				"spotifyId": "0ADj72oGG5W9jrH3aVppAC",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					3
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_BMoGpq8eYe5",
+				"spotifyId": "6dylMlHC16SU924l7a6UGV"
+			},
+			{
+				"youtubeMusicId": "MPREb_eoN4ATX5i0d",
+				"spotifyId": "39Z3F5JtCMmq7FtPhvugkr",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_anQKNSNxO0a",
+				"spotifyId": "4gWQQaN6oKa8D94c61sH01",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"songs": [
+					3
+				]
+			}
+		]
+	}
+}

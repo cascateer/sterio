@@ -1,0 +1,200 @@
+{
+	"id": "3",
+	"previousId": "2",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_VcIlKgBL8eR",
+				"spotifyId": "0vshXZYhBkbIoqxyC2fXcF",
+				"spotifyIteratee": "${$.name/( - Live)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_K8qWMWVqXGi",
+				"spotifyId": "4m2880jivSbbyEGAKfITCa"
+			},
+			{
+				"youtubeMusicId": "MPREb_22YjyfF6VIP",
+				"spotifyId": "5RlQyIjNj3WoYVZ6qNVKKe"
+			},
+			{
+				"youtubeMusicId": "MPREb_2ER16Pnctup",
+				"youtubeIteratee": "${$.snippet.title/( \\(2015 Remaster\\))$//}",
+				"spotifyId": "16Su3EUFLPqWVyrwN1q5wO",
+				"spotifyIteratee": "${$.name/( - 2015 Remaster)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_NDlk8xPfHu8",
+				"spotifyId": "3AKi7RG8om7ma2nUO1SvSn",
+				"youtubeIteratee": ""
+			},
+			{
+				"youtubeMusicId": "MPREb_ALeXezIU8OA",
+				"spotifyId": "5m1RkwKeU7MV0Ni6PH2lPy",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\. Andreya Triana\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_61T6Uzw7dQj",
+				"spotifyId": "1yAbzShRcY4muLKsX8UWxj"
+			},
+			{
+				"youtubeMusicId": "MPREb_48mIWWnaIxe",
+				"spotifyId": "4B84Q4vYuoTPaxmFMYlbWD",
+				"spotifyIteratee": "${$.name/(?:- (2007 Remaster))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_G1EvYRp4K2u",
+				"spotifyId": "2Eq6RyxCm7qEAF2YLOxa4s"
+			},
+			{
+				"youtubeMusicId": "MPREb_f3hk3FRACab",
+				"spotifyId": "5wdXBbdGH90qfKoWBErbdw"
+			},
+			{
+				"youtubeMusicId": "MPREb_Xe2eAUNqXNy",
+				"youtubeIteratee": "${$.snippet.title/( \\(Original Mix\\))$//}",
+				"spotifyId": "4wscEHyMYKMBiafZ6PyjRk",
+				"spotifyIteratee": "${$.name/( - Original Mix)$//}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_8BQmDBSDw1w",
+				"spotifyId": "53kkvZnrWCe8HOFQGr7o3h",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_doMIBkqfI1J",
+				"spotifyId": "0HdneqS7JmaAH26vKy1DBx",
+				"spotifyIteratee": "${$.name/( - 2018 Remix)$//}",
+				"youtubeMusicIteratee": "${$.name/( \\(2018 Remix\\)| \\[2018 Remix\\])$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(2018 Remix\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_sQ8U0WxfKar",
+				"spotifyId": "0lw68yx3MhKflWFqCsGkIs"
+			},
+			{
+				"youtubeMusicId": "MPREb_BOdsSuJVNP9",
+				"spotifyId": "3mLnqsQ4o8hPPj8s2yfYeI"
+			},
+			{
+				"youtubeMusicId": "MPREb_3dt33Aqn6I6",
+				"spotifyId": "2lntB9j8w94btDsGDrhfqQ"
+			},
+			{
+				"youtubeMusicId": "MPREb_OISWXS0Ylv6",
+				"spotifyId": "4YS5WQlwpRIyzU0JMgOUez"
+			},
+			{
+				"youtubeMusicId": "MPREb_eU0TnprQvZd",
+				"spotifyId": "4olc018Cln2QaMRFy1sk7v",
+				"youtubeIteratee": "${$.snippet.title/( \\(2015 Remaster\\))$//}",
+				"spotifyIteratee": "${$.name/( - 2015 Remaster)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_6m0nHsUQhPk",
+				"spotifyId": "0HKpzK9ZoJ0oVA43E5gewM"
+			},
+			{
+				"youtubeMusicId": "MPREb_ob5cslgCNc0",
+				"spotifyId": "6GjwtEZcfenmOf6l18N7T7"
+			},
+			{
+				"youtubeMusicId": "MPREb_HBwHC7oaiOz",
+				"spotifyId": "5mzoI3VH0ZWk1pLFR6RoYy"
+			},
+			{
+				"youtubeMusicId": "MPREb_BY2xSFZLr1V",
+				"spotifyId": "4UqasXaMU6F9eNdhFcVB6I",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_7dj05OvHK2a",
+				"spotifyId": "02irXlkWzK3uUlVYF5j6v4",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_9m3TFMJAQ8P",
+				"spotifyId": "5JY3b9cELQsoG7D5TJMOgw"
+			},
+			{
+				"youtubeMusicId": "MPREb_8P2AGgBtjka",
+				"spotifyId": "6uyslsVGFsHKzdGUosFwBM"
+			},
+			{
+				"youtubeMusicId": "MPREb_j7deMtIDHAx",
+				"spotifyId": "30Perjew8HyGkdSmqguYyg"
+			},
+			{
+				"youtubeMusicId": "MPREb_wafgRNVPB2T",
+				"spotifyId": "4lDPv6qUZAUeD4K3sLEd1o",
+				"spotifyIteratee": "${$.name/(?:- (2023 Abbey Road Remaster))/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_4j8bPSNBuAk",
+				"spotifyId": "1fvWYcbjuycyHpzNPH1Vfk"
+			},
+			{
+				"youtubeMusicId": "MPREb_LL37IDccsso",
+				"spotifyId": "6HlDm9fzYxk4vkkr3YEvSv"
+			},
+			{
+				"youtubeMusicId": "MPREb_R7YWbtrhTgm",
+				"spotifyId": "2DunsG1MC96gQLLyrHzYzq",
+				"youtubeId": "PLbrjDgFUnAbc"
+			},
+			{
+				"youtubeMusicId": "MPREb_M6DpXTxzfTn",
+				"spotifyId": "6BA8AsaJWZ4HfoaDZC67tZ",
+				"youtubeIteratee": "${$.snippet.title/^(Thorn)$/$1 (feat. Ihsahn)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_B33W8RgsOUC",
+				"spotifyId": "6RB6xhBXoySLi0gFT7TD8S",
+				"spotifyIteratee": "${$.name/(?:- (Live in Switzerland))/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_YSPFcShvt4k",
+				"spotifyId": "1J9W7Fkg34vdOVa8gR7dx7"
+			},
+			{
+				"youtubeMusicId": "MPREb_8tT6dnroAib",
+				"spotifyId": "1hmksZedGRygNPMlne4aDN"
+			},
+			{
+				"youtubeMusicId": "MPREb_fL6DYcrCOCx",
+				"spotifyId": "0LNFYw9QVdU7zR43TBDUeu"
+			},
+			{
+				"youtubeMusicId": "MPREb_hJzZft99Rzm",
+				"spotifyId": "1RyraIUPoHjVBcygWezq15"
+			},
+			{
+				"youtubeMusicId": "MPREb_dkMPGs3cUSu",
+				"spotifyId": "3KuXEGcqLcnEYWnn3OEGy0"
+			},
+			{
+				"youtubeMusicId": "MPREb_Phq0dLQ1olc",
+				"spotifyId": "3xoAUqjKs7Ps7wR26VAMbq",
+				"youtubeIteratee": "${$.snippet.title/^(Día luna\\.\\.\\.) (Día pena)$/$1$2/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_0jWGpoEaMNK",
+				"spotifyId": "32uueAtXcDeYIQ2I26qFo0"
+			},
+			{
+				"youtubeMusicId": "MPREb_FwqdLAJmb4l",
+				"spotifyId": "5jJGGsAztgUEXUHHZ2zrah"
+			}
+		]
+	}
+}

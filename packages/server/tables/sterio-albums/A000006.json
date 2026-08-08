@@ -1,0 +1,233 @@
+{
+	"id": "6",
+	"previousId": "5",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_MVxKOV5s7u6",
+				"spotifyId": "48OqGn9GnSmXUTcg5EXzi5"
+			},
+			{
+				"youtubeMusicId": "MPREb_vDieBQfPzY8",
+				"spotifyId": "65FsZnWioOAlYnWP6SD4ay",
+				"songs": [
+					1
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_nCGJWEfj2U8",
+				"spotifyId": "4e6ML9RBhDyyKTaTwbiRZv",
+				"youtubeIteratee": "${$.snippet.title/^((?:Holy Wars|Rust In Peace)\\.\\.\\.)( )(.*)$/$1$3/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_Wkb29bSy4Qd",
+				"spotifyId": "0dLnnm4PjeyqM4CoHqo6DI"
+			},
+			{
+				"youtubeMusicId": "MPREb_8f86BFrzv8J",
+				"spotifyId": "1oupMKdNzd7u1isqbtM4so"
+			},
+			{
+				"youtubeMusicId": "MPREb_1nwQ1udVEto",
+				"spotifyId": "5fmIolILp5NAtNYiRPjhzA"
+			},
+			{
+				"youtubeMusicId": "MPREb_7RgVPxnyBJE",
+				"spotifyId": "0Z6IBizcq7DLXpenjSHqF3"
+			},
+			{
+				"youtubeMusicId": "MPREb_Abm9HUJNq1Q",
+				"spotifyId": "2M9F2yYsUvqiBPwUGeNvn1"
+			},
+			{
+				"youtubeMusicId": "MPREb_PaGrFKrfo2u",
+				"spotifyId": "7xEluvnbmFtRB5g66CJ2ND",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_qtiIVjqUrrj",
+				"spotifyId": "6khFoLWnJZDQvZ7Pijym3b",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_vw8MTYShXni",
+				"spotifyId": "0DpQ4nOAIwvrOIZiDa2sSd",
+				"spotifyIteratee": "${$.name/( -.*)$//}",
+				"youtubeMusicIteratee": "${$.name/( \\(.*\\))$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(.*\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_9ooAUmPmMyf",
+				"youtubeIteratee": "${$.snippet.title/^(U)(?: )(\\&)(?: )(ME)$/$1$2$3/}",
+				"spotifyId": "26qp44gabjVGqWn3aUA3d2"
+			},
+			{
+				"youtubeMusicId": "MPREb_rAUnBJDQyDK",
+				"spotifyId": "7ny9OWZ336Y4gGSSgHlkFB",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_2YUxg4v0pwk",
+				"spotifyId": "3OmnatFgQ8o1DlYLp9EpNJ",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_6ZBhN5RmkCU",
+				"spotifyId": "6tjx1ACkf4cYyFuhkyqz2A"
+			},
+			{
+				"youtubeMusicId": "MPREb_wEyRwFa4mpV",
+				"youtubeMusicIteratee": "${$.name/^(\\(Anesthesia\\)--)?(.*)$/$2 (Remastered)/}",
+				"youtubeIteratee": "${$.snippet.title/^(?:\\[(Anesthesia)\\] --)//}",
+				"spotifyId": "1aGapZGHBovnmhwqVNI6JZ",
+				"spotifyIteratee": "${$.name/^(?:\\(Anesthesia\\) )?(.*)(?:- (.*))$/$1($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_txPhmBgRUj0",
+				"draft": false,
+				"spotifyId": "5ORyMl3oua4PPIWXZVN8kz",
+				"spotifyIteratee": "${${$.name/( - Part I)$/, Pt. 1/}/( - Part II)$/, Pt. 2/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_ri4sqH3nz0E",
+				"spotifyId": "4U8ZF5zDIRy4lBnnXBN2uO",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeMusicIteratee": "${$.name/^(.*)(?<!\\(.+\\))$/$1 (Remastered)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_0xCwlSKfLbr",
+				"spotifyId": "3oCFPekZM0pY9K9m60lZRy"
+			},
+			{
+				"youtubeMusicId": "MPREb_UtcayzRjjaw",
+				"spotifyId": "7BNkvpv44NRKzYYSzVajw2"
+			},
+			{
+				"youtubeMusicId": "MPREb_d0lggJKktFo",
+				"spotifyId": "7Eoz7hJvaX1eFkbpQxC5PA",
+				"youtubeMusicIteratee": "${$.name/(- )( )(Resolution)$/$1$3/}",
+				"youtubeIteratee": "${$.snippet.title/(- )( )(Resolution)$/$1$3/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_KfOu3PeXAYl",
+				"spotifyId": "6O5lhr0v3ci9fMEIK5g5a9"
+			},
+			{
+				"youtubeMusicId": "MPREb_jXBGRsMb9EJ",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}",
+				"spotifyId": "03GeIP6sDuMEQydiQgwJ9M"
+			},
+			{
+				"youtubeMusicId": "MPREb_ftnqB2evqM8",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}",
+				"spotifyId": "25JdFEbKXocMQyJdlBzD5d"
+			},
+			{
+				"youtubeMusicId": "MPREb_cflWoD8DKRE",
+				"spotifyId": "6KSLVAuJx6hWsYEk005uZj",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_0o2FSfoCgWe",
+				"spotifyId": "1rZGSWC3pMmejDwYG0ZXma",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeMusicIteratee": "${$.name/(?:\\[(2007 Stereo Mix)\\])$/($1)/}",
+				"youtubeIteratee": "${$.snippet.title/(?:\\[(2007 Stereo Mix)\\])$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_zxnGKn7X6Ie",
+				"spotifyId": "7ciZLTYyN246cK0ywCCEOx",
+				"youtubeIteratee": "${$.snippet.title/^(?:\\[(Somebody Else Been)\\])/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_BPrnaPVgzzs",
+				"spotifyId": "2mLtPMLV5nWE0rzjVvcEmt",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_URUziBuC6yh",
+				"spotifyId": "5uAxbuTg1AFuGVeOEhJ4Nj"
+			},
+			{
+				"youtubeMusicId": "MPREb_lYQOtnHtXsK",
+				"spotifyId": "2V5UdIsOhTshU0ePMw9Dg3"
+			},
+			{
+				"youtubeMusicId": "MPREb_moPx71jFNtV",
+				"spotifyId": "1Y31kS1a9b6tyXA9aAN9Tw"
+			},
+			{
+				"youtubeMusicId": "MPREb_3fhejsDEpAq",
+				"spotifyId": "4GWtkiuURhlTQPz7nqGN5J",
+				"youtubeIteratee": "${$.snippet.title/(?: \\(feat\\. Micha Rhein\\) \\[(Edit)\\])$/ ($1)/}",
+				"youtubeMusicIteratee": "${$.name/(?: \\[(Edit)\\] \\(feat\\. Micha Rhein\\))$/ ($1)/}",
+				"spotifyIteratee": "${${${$.name/(?:- (.*))$/($1)/}/(\\[t\\])/(t)/}/^(Zaubererbruder)$/$1 (feat. Eric Fish)/}",
+				"draft": false
+			},
+			{
+				"youtubeMusicId": "MPREb_ukTjqLejnuN",
+				"spotifyId": "1ERX7xuHtTKSUZCzrCqT3d",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeMusicIteratee": "${$.name/(?: \\[(Edit)\\] \\(feat\\. Micha Rhein\\))$/ ($1)/}",
+				"youtubeIteratee": "${$.snippet.title/(?: \\(feat\\. Micha Rhein\\) \\[(Edit)\\])$/ ($1)/}",
+				"draft": false
+			},
+			{
+				"youtubeMusicId": "MPREb_XTl9HNDLhQw",
+				"spotifyId": "1KydRtdnj6MZQ9dd7NqShb",
+				"spotifyIteratee": "${$.name/^(?:[\\s\\S]*)((Concert in F major|TWV \\d+:\\w+): \\d+)\\.(?:[\\s\\S]*)$/$1/}",
+				"draft": false,
+				"youtubeMusicIteratee": "${$.name/^(?:[\\s\\S]*)((Concert in F major|TWV \\d+:\\w+): \\d+)\\.(?:[\\s\\S]*)$/$1/}",
+				"youtubeIteratee": "${$.snippet.description/^(?:[\\s\\S]*)((Concert in F major|TWV \\d+:\\w+): \\d+)\\.(?:[\\s\\S]*)$/$1/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_BpGkrzStJ0t",
+				"spotifyId": "1gBKlrAnZaft88oNOfY9ML",
+				"youtubeIteratee": "${$.snippet.title/(Hilodama)/Hitodama/}",
+				"spotifyIteratee": "${$.name/(Hilodama)/Hitodama/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_0kj0TDMicYy",
+				"spotifyId": "4eEQ3aNA8mptFIfbFdX79p",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_Zy3sSeTU8YR",
+				"spotifyId": "4aGdxnGrlJzMRjRNCTZHiS"
+			},
+			{
+				"youtubeMusicId": "MPREb_6iUQKX9bKLv",
+				"spotifyId": "4vjBkjJeJByK2swq4DnuPc",
+				"spotifyIteratee": "${${$.name/( - (2000 Remaster|1999 Remaster|1998 Remaster|Version One))//}/(\\(Version One\\) \\[BBC Sounds Like Tony Brandon Show Session\\]|- BBC Sounds Like Tony Brandon Show Session|\\(BBC Top Gear Session\\))/(Live)/}",
+				"draft": false,
+				"youtubeIteratee": "${${$.snippet.title/( \\((2000 Remaster|1999 Remaster|1998 Remaster|Version One)\\))+//}/(BBC Top Gear Session|BBC Sounds Like Tony Brandon Show Session)/Live/}",
+				"youtubeMusicIteratee": "",
+				"songs": [
+					0,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12,
+					1
+				],
+				"youtubeId": "PLesmLIFxBETA"
+			},
+			{
+				"youtubeMusicId": "MPREb_p7gVVjL2Uyl",
+				"spotifyId": "6AyUVv7MnxxTuijp4WmrhO"
+			},
+			{
+				"youtubeMusicId": "MPREb_kkVO7r8BZ90",
+				"spotifyId": "2gBFXAQDdo8SEyP8PwcI6U"
+			}
+		]
+	}
+}

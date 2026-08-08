@@ -1,0 +1,179 @@
+@keyframes action_empty_odd {
+}
+
+@keyframes action_empty_even {
+}
+
+$faceProps: (
+    left: (
+        slice: "L",
+        color: #0046ad,
+        transform: rotateY(-90deg)
+    ),
+    right: (
+        slice: "R",
+        color: #009b48,
+        transform: rotateY(90deg)
+    ),
+    up: (
+        slice: "U",
+        color: #b71234,
+        transform: rotateX(90deg)
+    ),
+    down: (
+        slice: "D",
+        color: #ff5800,
+        transform: rotateX(-90deg)
+    ),
+    back: (
+        slice: "B",
+        color: #ffd500,
+        transform: rotateY(180deg)
+    ),
+    front: (
+        slice: "F",
+        color: #ffffff
+    )
+);
+
+$sliceProps: (
+    L: (
+        axis: "X",
+        direction: -1
+    ),
+    R: (
+        axis: "X",
+        direction: 1
+    ),
+    U: (
+        axis: "Y",
+        direction: -1
+    ),
+    D: (
+        axis: "Y",
+        direction: 1
+    ),
+    B: (
+        axis: "Z",
+        direction: -1
+    ),
+    F: (
+        axis: "Z",
+        direction: 1
+    ),
+    M: (
+        axis: "X",
+        direction: -1
+    ),
+    E: (
+        axis: "Y",
+        direction: 1
+    ),
+    S: (
+        axis: "Z",
+        direction: 1
+    )
+);
+
+.cube-space,
+.cubie-face {
+    height: 100%;
+    width: 100%;
+}
+
+.cube-space,
+.cube,
+.cubie-space,
+.cubie,
+.cubie-face,
+.cubie-facelet {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    transform-style: preserve-3d;
+}
+
+.cube {
+    pointer-events: none;
+}
+
+.cubie-space {
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+
+    &[data-cubie-slice-action$="_odd"] {
+        animation-name: action_empty_odd;
+    }
+
+    &[data-cubie-slice-action$="_even"] {
+        animation-name: action_empty_even;
+    }
+
+    @each $slice, $props in $sliceProps {
+        @each $sign in (-1, 1) {
+            @each $n in (1, 2, 3) {
+                $degree: calc($sign * $n);
+
+                @each $parity in (odd, even) {
+                    $animationName: action_#{$slice}#{$degree}_#{$parity};
+
+                    @keyframes #{$animationName} {
+                        to {
+                            transform: rotate#{map-get($props, "axis")
+                                }(calc(#{90deg * $degree} * #{map-get($props, "direction")}));
+                        }
+                    }
+
+                    &[data-cubie-slice-action="#{$slice}#{$degree}_#{$parity}"] {
+                        animation-name: $animationName;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.cubie,
+.cubie-face {
+    position: absolute;
+}
+
+.cubie {
+    font-size: calc(0.25 * var(--cubie-size));
+    height: var(--cubie-size);
+    transform: translate3d(
+        calc(var(--cubie-coord-0) * var(--cubie-size)),
+        calc(var(--cubie-coord-1) * var(--cubie-size)),
+        calc(var(--cubie-coord-2) * var(--cubie-size))
+    );
+    width: var(--cubie-size);
+
+    --cubie-size: 100px;
+}
+
+.cubie-face,
+.cubie-facelet {
+    border-radius: 10px;
+}
+
+.cubie-face {
+    background-color: black;
+
+    @each $face, $props in $faceProps {
+        &.cubie-face-#{map-get($props, "slice")} {
+            transform: map-get($props, "transform") translateZ(calc(0.5 * var(--cubie-size)));
+        }
+
+        .cubie-facelet[data-color=#{map-get($props, "slice")}] {
+            background-color: map-get($props, "color");
+        }
+    }
+}
+
+.cubie-facelet {
+    $margin: 10%;
+
+    backface-visibility: hidden;
+    height: calc(100% - $margin);
+    width: calc(100% - $margin);
+}

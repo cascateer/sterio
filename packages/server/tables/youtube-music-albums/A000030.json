@@ -1,0 +1,368 @@
+{
+	"id": "30",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"type": "ALBUM",
+				"albumId": "MPREb_jEMKaiVehME",
+				"name": "A Night in Monte-Carlo (Live)",
+				"playlistId": "OLAK5uy_mWfTKaR8yLDvPd8EbRi-iHiCmKfewyZp4",
+				"artist": {
+					"artistId": "UC8freEDn360RZUbhg4J690A",
+					"name": "Marcus Miller"
+				},
+				"year": 2010,
+				"thumbnails": [
+					{
+						"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w60-h60-l90-rj",
+						"width": 60,
+						"height": 60
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w120-h120-l90-rj",
+						"width": 120,
+						"height": 120
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w226-h226-l90-rj",
+						"width": 226,
+						"height": 226
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w544-h544-l90-rj",
+						"width": 544,
+						"height": 544
+					}
+				],
+				"songs": [
+					{
+						"type": "SONG",
+						"videoId": "TLX7wHe6dPs",
+						"name": "Blast! (Live)",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_jEMKaiVehME",
+							"name": "A Night in Monte-Carlo (Live)"
+						},
+						"duration": 475,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "jNonEFzh8qQ",
+						"name": "So What (Live)",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_jEMKaiVehME",
+							"name": "A Night in Monte-Carlo (Live)"
+						},
+						"duration": 456,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "FncTZK_6o4E",
+						"name": "State of Mind (Live) (feat. Raul Midón)",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_jEMKaiVehME",
+							"name": "A Night in Monte-Carlo (Live)"
+						},
+						"duration": 384,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "-jEfC3Rbdko",
+						"name": "I Loves You Porgy (Live)",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_jEMKaiVehME",
+							"name": "A Night in Monte-Carlo (Live)"
+						},
+						"duration": 423,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "-UshkM3Y2bU",
+						"name": "Amandla (Live) (feat. Roy Hargrove)",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_jEMKaiVehME",
+							"name": "A Night in Monte-Carlo (Live)"
+						},
+						"duration": 517,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "sYVMdzqYAWY",
+						"name": "I'm Glad There Is You (Live) (feat. Roy Hargrove)",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_jEMKaiVehME",
+							"name": "A Night in Monte-Carlo (Live)"
+						},
+						"duration": 361,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "IEVadMHc6RE",
+						"name": "Medley: O Mio Babbino Caro / Mas Que Nada (Live) (feat. Raul Midón & Roy Hargrove)",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_jEMKaiVehME",
+							"name": "A Night in Monte-Carlo (Live)"
+						},
+						"duration": 433,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "x3Nn61UtmT0",
+						"name": "Your Amazing Grace (Live) (feat. Raul Midón)",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_jEMKaiVehME",
+							"name": "A Night in Monte-Carlo (Live)"
+						},
+						"duration": 414,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "dS2T4MFVj8k",
+						"name": "Strange Fruit",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_jEMKaiVehME",
+							"name": "A Night in Monte-Carlo (Live)"
+						},
+						"duration": 353,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/6ToVTm2Ud1dSptPptxF1hCeDHrb2_IHZbQQarNHfnxVgb7RIVAst4T6fbmVOhaYdabHOkUnr4ojGG94M=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"previousId": "29"
+}

@@ -1,0 +1,246 @@
+{
+	"id": "1",
+	"previousId": "0",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_EPsGVFdEocN",
+				"spotifyId": "6jFLFLzf3ILnZ1hUF4wGpn"
+			},
+			{
+				"youtubeMusicId": "MPREb_FffTxz6SVBX",
+				"songs": [
+					0
+				],
+				"spotifyId": "5AqO2umH4s7XLh49yjsb6m",
+				"youtubeMusicIteratee": "",
+				"spotifyIteratee": "${$.name/^(.*) - (Ampish Remix)$/$1 ($2)/}",
+				"youtubeIteratee": "${$.snippet.title/^(.*) \\(Original Mix\\)$/$1/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_cnjxCfoFDNI",
+				"spotifyId": "3MhGOga5TlR7JfKxDSxv9Q",
+				"spotifyIteratee": "${$.name/^(.*) - (Techno Mix)$/$1 ($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_qfvgh3IGq3y",
+				"spotifyId": "4UagjNEJgp7hg9O46irhE0"
+			},
+			{
+				"youtubeMusicId": "MPREb_xwDyTxa0FaE",
+				"spotifyId": "4OIyRyrayU5OT9IAhMdP0f"
+			},
+			{
+				"youtubeMusicId": "MPREb_s9Gkvl3b7zM",
+				"spotifyId": "7BUxsv49YApxUBSwfYgG0e"
+			},
+			{
+				"youtubeMusicId": "MPREb_F7fpzfItD63",
+				"spotifyId": "0VeS0Tc1zJZ7rWSEkSGZ91"
+			},
+			{
+				"youtubeMusicId": "MPREb_3u4wCjBa8ln",
+				"spotifyId": "7dxBO3SmRSJ71KlcZTdE9x"
+			},
+			{
+				"youtubeMusicId": "MPREb_pZceehcbCfx",
+				"songs": [
+					0
+				],
+				"spotifyId": "0sg7WuMB5PY2pMS5kzofzn",
+				"spotifyIteratee": "${$.name/^(.*) - (Bolth Remix)$/$1 ($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_M88m36KPimS",
+				"spotifyId": "0YlzFGuIbiYiXS4jln13BG",
+				"spotifyIteratee": ""
+			},
+			{
+				"youtubeMusicId": "MPREb_va3f0Kvro11",
+				"spotifyId": "1fh6gxJ1fnPhfOosqj20yL"
+			},
+			{
+				"youtubeMusicId": "MPREb_1Z5bBJBDy7s",
+				"spotifyId": "6DJnx2cTEn3txXXK4Xo2Tf",
+				"youtubeMusicIteratee": "${$.name/( \\(feat. [^)]+\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_lS7nAQQN2Pb",
+				"spotifyId": "6Q4F5AMGnzaZz4vQblwwHb"
+			},
+			{
+				"youtubeMusicId": "MPREb_H2PVI7iQ9pv",
+				"spotifyId": "41SBFkoplTTWC58G4PoxYo"
+			},
+			{
+				"youtubeMusicId": "MPREb_OTdds1YAQqd",
+				"spotifyId": "3QxX3NbWyLlLG6lP1xveL3"
+			},
+			{
+				"youtubeMusicId": "MPREb_SEE5O2Kf5kV",
+				"spotifyId": "0cn6MHyx4YuZauaB7Pb66o"
+			},
+			{
+				"youtubeMusicId": "MPREb_2IyzsjcMyu2",
+				"songs": [
+					0,
+					2,
+					13
+				],
+				"spotifyId": "3MsGUzi6KydfvhUYVZBQhK",
+				"spotifyIteratee": "${$.name/^(.*) - (Omiki Remix)$/$1 ($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_IDCldR9NKX1",
+				"spotifyId": "1lJn3Ku809KZKTS3411iTT"
+			},
+			{
+				"youtubeMusicId": "MPREb_mFI6OT9H1lB",
+				"songs": [
+					2,
+					3
+				],
+				"spotifyId": "49K6hYDEr5M3GxIBBxlPf9"
+			},
+			{
+				"youtubeMusicId": "MPREb_kGyzNTOQJLH",
+				"youtubeMusicIteratee": "${$.name/^(.*) \\(2023 Abbey Road Remaster\\)$/$1/}",
+				"spotifyId": "6vPoK8jIddDv4a6ksinsGr",
+				"youtubeIteratee": "${$.snippet.title/^(.*) \\(2023 Abbey Road Remaster\\)$/$1/}",
+				"spotifyIteratee": "${$.name/^(.*) - (2023 Abbey Road Remaster)$/$1/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_uVgu2Gb6Nt7",
+				"spotifyId": "30aOR37h38PJzW1Hk0hpyU"
+			},
+			{
+				"youtubeMusicId": "MPREb_AXzCpc2ExiW",
+				"songs": [
+					2
+				],
+				"spotifyId": "6m8yu8ytRnnxy395MbA80U",
+				"spotifyIteratee": "${$.name/^(.*) - (Short Edit)$/$1 ($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_MhdL2uQTsVW",
+				"songs": [
+					1
+				],
+				"spotifyId": "7cfkSlQnFIzK5T5ZT8Q1mu",
+				"spotifyIteratee": "${$.name/^(.*) - (Edit)$/$1 ($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_mxE7FQWc7uX",
+				"songs": [
+					1
+				],
+				"spotifyId": "1jHVwSHDoqMMwjacTg69A6",
+				"spotifyIteratee": "${$.name/^(.*) - (Extended Mix)$/$1 ($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_1Xjf214SdV1",
+				"spotifyId": "6t7956yu5zYf5A829XRiHC",
+				"youtubeMusicIteratee": "${$.name/(.*) \\(feat\\. [^)]+\\)$/$1/}",
+				"spotifyIteratee": "${$.name/^(.*) - (Skit)$/$1 ($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_KKzZ6VJpArQ",
+				"spotifyId": "7acEciVtnuTzmwKptkjth5"
+			},
+			{
+				"youtubeMusicId": "MPREb_5ZGy3Z0VORa",
+				"spotifyId": "38RESkOlVA50pRlqXWQD31"
+			},
+			{
+				"youtubeMusicId": "MPREb_51rMqBBezCi",
+				"songs": [
+					1,
+					6
+				],
+				"spotifyId": "3Ioj3lqwEimehzxSjtaoBy",
+				"spotifyIteratee": "${$.name/^(.*) - (Satori Re:Imagined Mix)$/$1 ($2)/}",
+				"youtubeMusicIteratee": "${$.name/( \\(?feat\\. (Ahmad Zahir|Commedantor|Qiyans Krets)\\)?)//g}",
+				"youtubeIteratee": "${$.snippet.title/( \\(?feat\\. (Ahmad Zahir|Commedantor|Qiyans Krets)\\)?)//g}"
+			},
+			{
+				"youtubeMusicId": "MPREb_duybGPpGMF8",
+				"songs": [
+					1
+				],
+				"spotifyId": "04zGytx3eRCDR7JEQB9GSX",
+				"spotifyIteratee": "${$.name/^(.*) - (Epic (Edit|Mix))$/$1 ($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_swiRGzQyw4E",
+				"spotifyId": "7qPiD7ilnwVnBDyTLQs6ZM",
+				"spotifyIteratee": "${$.name/^(.*) - (Paul Seul Remix)$/$1 ($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_Kbw3jyO8P9G",
+				"spotifyId": "3DOUj6hNjyWupgxy7McEZl"
+			},
+			{
+				"youtubeMusicId": "MPREb_kXZB2lWLylz",
+				"songs": [
+					5,
+					6
+				],
+				"spotifyId": "1OegF0mIizsl36EVw1y1SW"
+			},
+			{
+				"youtubeMusicId": "MPREb_unmKx69mTsP",
+				"songs": [
+					0
+				],
+				"spotifyId": "6wz1BxyLMqtnziouqFnFtp",
+				"spotifyIteratee": "${$.name/^(.*) - (.+)$/$1 ($2)/}",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\. [^)]+\\))//g}"
+			},
+			{
+				"youtubeMusicId": "MPREb_svNpukAOt3U",
+				"songs": [
+					2
+				],
+				"spotifyId": "64uyT4gdSDQ5yBVbEH0vMi",
+				"spotifyIteratee": "${$.name/^(.*) - (.+)$/$1 ($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_wlp9Bfju24O",
+				"songs": [
+					0
+				],
+				"spotifyId": "3rZE7qT1ddYAqXATpWuZIK",
+				"youtubeMusicIteratee": "${$.name/( \\(?feat\\. (T.Etno)\\)?)//g}",
+				"youtubeIteratee": "${$.snippet.title/( \\(?feat\\. (T.Etno)\\)?)//g}",
+				"spotifyIteratee": "${$.name/^(.*?) - (.+)$/$1 ($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_waUmUh6MdeW",
+				"songs": [
+					2
+				],
+				"spotifyId": "5asqLE8StjaHpMWSyjzo2D",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\. [^)]+\\))//g}"
+			},
+			{
+				"youtubeMusicId": "MPREb_7ltM34kr0mH",
+				"spotifyId": "2noRn2Aes5aoNVsU6iWThc"
+			},
+			{
+				"youtubeMusicId": "MPREb_uHt6OYCeqbw",
+				"spotifyId": "5JNILV4zvZprib1vi8RgZl"
+			},
+			{
+				"youtubeMusicId": "MPREb_5gJVLv9q7fC",
+				"spotifyId": "0AkYV0mq8RuPYk07G8221P",
+				"youtubeMusicIteratee": "",
+				"spotifyIteratee": "${$.name/^(.*?) - (.+)$/$1 ($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_qMlbe7gLeuH",
+				"spotifyId": "4Gfnly5CzMJQqkUFfoHaP3"
+			}
+		]
+	}
+}

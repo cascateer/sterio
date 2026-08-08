@@ -1,0 +1,230 @@
+{
+	"id": "22",
+	"previousId": "21",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_769vV7j21Vg",
+				"spotifyId": "4KPtoIWjVyn5szWAvNG8rt",
+				"songs": [
+					3
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_G29qj5ijxBL",
+				"spotifyId": "1SsIBoE4vvSKKsMbpjHwRG",
+				"youtubeIteratee": "${$.snippet.title/( \\(Original Mix\\))$//}",
+				"spotifyIteratee": "${${$.name/(?:- (.*))$/($1)/}/( \\(Original Mix\\))$//}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_lZYsADX3lBb",
+				"spotifyId": "1cjtiYZGIm7ItJbJMLIjul"
+			},
+			{
+				"youtubeMusicId": "MPREb_jAd13GPy4Zy",
+				"spotifyId": "0T1MHuHlxRGyGqZT1KGubi",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_RSsh1IXunq1",
+				"spotifyId": "1ISBCc3tbcwChMBRR6pOV5"
+			},
+			{
+				"youtubeMusicId": "MPREb_C28JC3tiWR1",
+				"spotifyId": "7DPZDGSeigrE0rtrm51ylT"
+			},
+			{
+				"youtubeMusicId": "MPREb_doJ54Xc9e8h",
+				"spotifyId": "4h3DvNJePN9AoauotQ0hxU",
+				"songs": [
+					2
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_0dFu1pM5Y8g",
+				"spotifyId": "2XXBZ5juCP3vLdWC1Jn5vj"
+			},
+			{
+				"youtubeMusicId": "MPREb_UUPXLUmkOxH",
+				"spotifyId": "7BERWPmht3xhohFQMKtt54",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_mGLOdaEwSfe",
+				"spotifyId": "4NYblXdZWpWlsqrJFLTDs2",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_ay1FOwY78NQ",
+				"spotifyId": "3lOxGtxE3okQgACvvcJdDR"
+			},
+			{
+				"youtubeMusicId": "MPREb_FtzjUeULefp",
+				"spotifyId": "0q8ZO3GNm7PKdBtAxa4kI7",
+				"youtubeId": "PLV3twBgRdkhA"
+			},
+			{
+				"youtubeMusicId": "MPREb_pD2RrpJkvFj",
+				"spotifyId": "4EAehCii5lZgeewct1LA5p",
+				"songs": [
+					10
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_dMyeyHVKrtx",
+				"spotifyId": "73TcBRSRsPLKmxnjnVsSV3",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeMusicIteratee": "${$.name/^(?:(Surrender) \\[(Magdalena Remix)\\] \\((feat\\. Curtis Harding)\\))$/$1 ($3) ($2)/}",
+				"songs": [
+					6
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_jhsvJzingRP",
+				"spotifyId": "57hzAtjFnZoRea1DXpytuh"
+			},
+			{
+				"youtubeMusicId": "MPREb_Y21QAJDxZ7G",
+				"spotifyId": "7mXrF1il8uoZBOPpbbfvJ5"
+			},
+			{
+				"youtubeMusicId": "MPREb_70joRnXE667",
+				"spotifyId": "10EksXTJZirufLwupS1l06",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					5
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_DlbZ3cK6W1E",
+				"spotifyId": "54vbD17F1t5q3yHkj1cX37",
+				"spotifyIteratee": "${${${$.name/(?:- (.*))$/($1)/}/(\\( )/(/}/(Gabry Ponte)/D.J.$1/}",
+				"youtubeIteratee": "${${$.snippet.title/^(Another Race|Dub In Life)$/$1 (Album Edit)/}/(DJ Ponte)/D.J.Gabry Ponte/}",
+				"youtubeMusicIteratee": "${${$.name/(\\( )/(/}/(DJ Ponte)/D.J.Gabry Ponte/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_sew4NCs2zqf",
+				"spotifyId": "3ExyKxlUkqD41I8tQumMDF",
+				"youtubeIteratee": "${${${$.snippet.description/^(?:Provided to YouTube by Rhino\\n\\n)(.*)( ·[\\s\\S]*)$/$1/}/( \\(2017 Remaster\\))$//}/( \\[2017 Remaster\\])$//}",
+				"spotifyIteratee": "${$.name/( - 2017 Remaster)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_RY7hNSFao2l",
+				"spotifyId": "0qcHj5xbvRmOtwHx94EqIb"
+			},
+			{
+				"youtubeMusicId": "MPREb_szNDDUZqONE",
+				"spotifyId": "7wBx5WyE8lW6feEE5JrudW",
+				"youtubeId": "PLRBuUq5_TW0I"
+			},
+			{
+				"youtubeMusicId": "MPREb_KQpCCuxuBMD",
+				"spotifyId": "1z0n45uHXopsKTLEsqeFUW",
+				"spotifyIteratee": "${$.name/( - Single Version)$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\((Single Version|Original 1987 Mix)\\))$//}",
+				"youtubeMusicIteratee": "${$.name/( \\((Single Version|Original 1987 Mix)\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_J1rLeqlu0iV",
+				"spotifyId": "01lRg3lZOjzdo9uySHqlpG"
+			},
+			{
+				"youtubeMusicId": "MPREb_Yol7NkRXumh",
+				"spotifyId": "2n8DcbmSTtN7Gda05GXQqe"
+			},
+			{
+				"youtubeMusicId": "MPREb_JDnkhhue83g",
+				"spotifyId": "0muELmePPWZJW1nSD4U6k4"
+			},
+			{
+				"youtubeMusicId": "MPREb_m0u6eMtakZJ",
+				"spotifyId": "0a3YQpBnRzJzNktOjb6Dum",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_o65weWIqlrm",
+				"spotifyId": "12QmkIQGZNUvznHOO0EF57",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_WQLzHryBTJ2",
+				"spotifyId": "29mnCT1UKm7DduLNWdi842",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_QjxngesjBCy",
+				"spotifyId": "3GHSshTscPVcMEzS4BRHs9",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_YPfOI0q1Ih0",
+				"spotifyId": "4aPe3iiuhnIJLoqPATvhrp"
+			},
+			{
+				"youtubeMusicId": "MPREb_6ce7SkMIwN4",
+				"spotifyId": "2b53ZhXIiCGr3rPTYkpVeF"
+			},
+			{
+				"youtubeMusicId": "MPREb_GNdm5kPtMGb",
+				"spotifyId": "6M0IAJHwQ6dFNtTkFsXCJc"
+			},
+			{
+				"youtubeMusicId": "MPREb_8y790ArbpYL",
+				"spotifyId": "1bvhjpp45aO2i1d7kjbsjh",
+				"youtubeMusicIteratee": "${$.name/^(チルドレンズ・ソング - )(Children's Song)$/$2/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_QCZcABKRSiq",
+				"spotifyId": "33etMZVrNXc989ByzH0rlu",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(feat\\..*\\))$//}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_PC2xVGX6CsE",
+				"spotifyId": "0koBPzLDxkhwKrKb3JmJ9n"
+			},
+			{
+				"youtubeMusicId": "MPREb_FqnPSdENMdR",
+				"spotifyId": "7eTCej47mOrnPiXSiKPG8e",
+				"youtubeMusicIteratee": "${$.name/(\\\\\\/Sound Into Blood Into Wine| \\(Sound Into Blood Into Wine\\))//}",
+				"youtubeIteratee": "${$.snippet.title/(\\\\\\/Sound Into Blood Into Wine| \\(Sound Into Blood Into Wine\\))//}",
+				"songs": [
+					11
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_zVlJbzxqjbq",
+				"spotifyId": "1LORPYoTiPGpJC37GqYSvC"
+			},
+			{
+				"youtubeMusicId": "MPREb_jYlii6XML92",
+				"spotifyId": "0WVRXw04iy4QN2EnmXx11I"
+			},
+			{
+				"youtubeMusicId": "MPREb_2fyQMRQVcLu",
+				"spotifyId": "5vYvX7jM5TAg7fzK1oKySe"
+			},
+			{
+				"youtubeMusicId": "MPREb_TqrginknYDr",
+				"spotifyId": "5YvRPlTodhS1CHNfCqsRsI",
+				"spotifyIteratee": "${${$.name/(?:- (.*))/($1)/g}/(; )/) (/}",
+				"youtubeMusicIteratee": "${$.name/(?:\\((.*)\\) \\[(.*)\\] \\((.*)\\))$/($1) ($2)/}"
+			}
+		]
+	}
+}

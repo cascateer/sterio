@@ -1,0 +1,197 @@
+{
+	"id": "11",
+	"previousId": "10",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_gHeT62RDy0r",
+				"spotifyId": "61j7phQkxuKzcoFsi0XtkQ",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_E59zNcHoIz0",
+				"spotifyId": "3L6ss776rbc4BlupPEDOLw",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_LLOL6T01Nhb",
+				"spotifyId": "7pHTqbLIIKE1p600DlNZqw",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_8WbVJdkNGd9",
+				"spotifyId": "46fDgOnY2RavytWwL88x5M"
+			},
+			{
+				"youtubeMusicId": "MPREb_0m4OC9WDNrH",
+				"spotifyId": "6lA1sGw7eCv27bcpd5E0wT"
+			},
+			{
+				"youtubeMusicId": "MPREb_b3SaGrEbDp6",
+				"spotifyId": "1OZaosC2RtsE2TEqLziwAD",
+				"spotifyIteratee": "${${$.name/(?:- (Live))$/($1 with the SFSO)/}/^(Outlaw Torn)/The $1/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_DyYPOfs7HPD",
+				"spotifyId": "1HrMmB5useeZ0F5lHrMvl0"
+			},
+			{
+				"youtubeMusicId": "MPREb_xsmDKhqhQrG",
+				"spotifyId": "35UJLpClj5EDrhpNIi4DFg",
+				"youtubeIteratee": "${$.snippet.title/^\\[(Nice Dream)\\]$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_pHn32Q6RzS3",
+				"spotifyId": "1LoyJQVHPLHE3fCCS8Juek"
+			},
+			{
+				"youtubeMusicId": "MPREb_eFFXsvuuHnY",
+				"spotifyId": "57ystaP7WpAOxvCxKFxByS"
+			},
+			{
+				"youtubeMusicId": "MPREb_LIkIXP2ytT6",
+				"spotifyId": "3ZtICWkqezf0bBTUwY1Khe",
+				"youtubeIteratee": "${$.snippet.title/^(By-Tor )&( The Snow Dog)$/$1And$2/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_H8pbW8BWdkQ",
+				"spotifyId": "3eBrvZnagmIDbdgse7cjI6",
+				"spotifyIteratee": "${$.name/^(2112: Overture \\\\\\/ The Temples Of Syrinx \\\\\\/ Discovery)( \\\\\\/ Presentation \\\\\\/ Oracle \\\\\\/ Soliloquy \\\\\\/ Grand Finale - Medley)$/$1/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_8RTEBZnp6F7",
+				"spotifyId": "4KjbNbnTnJ97kZgQkOHr6v",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_QGrrd7Ht3FP",
+				"spotifyId": "7sN6lCgPf1rbZYmA3edMKv",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_kCSsLNrjz1C",
+				"youtubeIteratee": "${$.snippet.title/( \\(2012 Remaster\\))$//}",
+				"spotifyId": "5yByhxbOs8FOU2UutO7AGO",
+				"youtubeMusicIteratee": "${$.name/^(Tarkus \\(i\\. Eruption \\\\\\/ ii\\. Stones of Years \\\\\\/ iii\\. Iconoclast \\\\\\/ iv\\. Mass \\\\\\/ v\\. Manticore \\\\\\/ vi\\.)( Battlefield \\\\\\/ vii\\. Aquatarkus\\))$/$1.../}",
+				"spotifyIteratee": "${${${$.name/( - 2012 Remaster)$//}/(?:- (.*))$/($1)/}/^(Tarkus \\(i\\. Eruption \\\\\\/ ii\\. Stones of Years \\\\\\/ iii\\. Iconoclast \\\\\\/ iv\\. Mass \\\\\\/ v\\. Manticore \\\\\\/ vi\\.)( Battlefield \\\\\\/ vii\\. Aquatarkus\\))$/$1.../}"
+			},
+			{
+				"youtubeMusicId": "MPREb_LEXivFHS74A",
+				"spotifyId": "7wXj8GxTkGAUU99DXR7n2f"
+			},
+			{
+				"youtubeMusicId": "MPREb_4EzK0cGpJC8",
+				"spotifyId": "1Mozf4qsfZx8WIsPyUmwO6",
+				"youtubeIteratee": "${$.snippet.title/^\\[(Beginning of What's About to Happen)\\] (Hwy 74)$/($1) $2/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_jDIcx7Ks60i",
+				"spotifyId": "1Tuh9NcJDxe8aWOcOh26JW",
+				"spotifyIteratee": "${$.name/( \\((Live 1975|Live 1974|Radio Session 1974)\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_nt6WCxPBTto",
+				"spotifyId": "1VHLlFuKZYLVhnLanVzJxF"
+			},
+			{
+				"youtubeMusicId": "MPREb_lEA8JcSMgHz",
+				"spotifyId": "5A3JOh1ushS67m2JZ0QF6b",
+				"youtubeIteratee": "${$.snippet.title/( \\(2012 Remaster\\))$//}",
+				"spotifyIteratee": "${${$.name/( - 2012 Remaster)$//}/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_EuILBeE1vdO",
+				"spotifyId": "7mQtJGYkOBOSKmDNGLKJiV",
+				"youtubeId": "PLo-SYYgs6zFprGDOCx5VnWT5fIhID3MIR"
+			},
+			{
+				"youtubeMusicId": "MPREb_NWC9LHVbgN4",
+				"spotifyId": "1D0uoLl9Uf7bfBQjJfmlHc",
+				"spotifyIteratee": "${$.name/^(Song of Scheherazade \\\\/ I\\. Fanfare - II\\. \\\\/ The Betrayal \\\\/ III\\. The Sultan \\\\/ IV\\. Love Theme \\\\/ V\\.)(.*)/$1.../}",
+				"youtubeMusicIteratee": "${$.name/^(Song of Scheherazade \\\\/ I\\. Fanfare - II\\. \\\\/ The Betrayal \\\\/ III\\. The Sultan \\\\/ IV\\. Love Theme \\\\/ V\\.)(.*)/$1.../}"
+			},
+			{
+				"youtubeMusicId": "MPREb_nC8gTG1ii8x",
+				"spotifyId": "7f3mNxOgyJhDkdVyuxkJpZ"
+			},
+			{
+				"youtubeMusicId": "MPREb_IBgDGohw5WG",
+				"spotifyId": "5B4PYA7wNN4WdEXdIJu58a"
+			},
+			{
+				"youtubeMusicId": "MPREb_Gf0nXAEepbK",
+				"spotifyId": "5REF2imQI3lMAmeWcDXE3D",
+				"spotifyIteratee": "${$.name/( - 2015 Remaster)$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(2015 Remaster\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_zlq9N8ZrxCS",
+				"spotifyId": "1rG6IgNdwE1IGFuIKuYosz",
+				"youtubeIteratee": "${$.snippet.title/( \\(2015 Remaster\\))$//}",
+				"spotifyIteratee": "${$.name/( - 2015 Remaster)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_k4MHR8gzO14",
+				"spotifyId": "5YAfxU5OZKqAvE1GZPRQYY",
+				"spotifyIteratee": "${$.name/( - 2015 Remaster)$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(2015 Remaster\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_URzfIsCaTMW",
+				"spotifyId": "3TymcPWXqsCRA5oSL0TkPU"
+			},
+			{
+				"youtubeMusicId": "MPREb_8ov7rPTou1Y",
+				"spotifyId": "5bqtZRbUZUxUps8mrO9tGY"
+			},
+			{
+				"youtubeMusicId": "MPREb_mAVYTe4Go1r",
+				"spotifyId": "0V7mTTzioHiYIjfM8ATZBI",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_DysYPhLwfgT",
+				"spotifyId": "6JRaPcrT3cMBEmkgSqEPhI",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_MD3Idh7KEhP",
+				"spotifyId": "2T7DdrOvsqOqU9bGTkjBYu"
+			},
+			{
+				"youtubeMusicId": "MPREb_lHge5chlZRb",
+				"spotifyId": "19AUoKWRAaQYrggVvdQnqq"
+			},
+			{
+				"youtubeMusicId": "MPREb_yuYe1U7YjBi",
+				"spotifyId": "76mvVgXOde87B9aOzLXCOI"
+			},
+			{
+				"youtubeMusicId": "MPREb_PDXVptWTz7d",
+				"spotifyId": "3JwFNl80WWeXPiKEjIFbqa"
+			},
+			{
+				"youtubeMusicId": "MPREb_D5nYt9190Tm",
+				"spotifyId": "10v912xgTZbjAtYfyKWJCS"
+			},
+			{
+				"youtubeMusicId": "MPREb_tVFnbqCfJfQ",
+				"spotifyId": "0rOXa1wPbBrCNl6knMyDBW"
+			},
+			{
+				"youtubeMusicId": "MPREb_boUymB7soWX",
+				"spotifyId": "5jfgUmvXCar7Qf5lidVkqI"
+			},
+			{
+				"youtubeMusicId": "MPREb_9qO1WwgvgPd",
+				"spotifyId": "1dmBXO2zmCbsf8qAicqbs0",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_aSEvzrMxQ9h",
+				"spotifyId": "5JPVHEB67TREre4Q8JOfCQ"
+			}
+		]
+	}
+}

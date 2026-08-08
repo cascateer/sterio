@@ -1,0 +1,130 @@
+{
+	"id": "28",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"id": "PLML7ziSV-WtOLpkgBU851c8t0cQ__4_Mu",
+				"title": "Supertramp - Crime of the Century Full Album",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/T7YnLAt-gW4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/T7YnLAt-gW4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/T7YnLAt-gW4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/T7YnLAt-gW4/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/T7YnLAt-gW4/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"items": [
+					{
+						"id": "UExNTDd6aVNWLVd0T0xwa2dCVTg1MWM4dDBjUV9fNF9NdS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+						"snippet": {
+							"title": "Supertramp - School (Official Audio)",
+							"description": "Album: Crime Of The Century (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+							"position": 0
+						},
+						"contentDetails": {
+							"videoId": "JgJRM_8GWHg"
+						}
+					},
+					{
+						"id": "UExNTDd6aVNWLVd0T0xwa2dCVTg1MWM4dDBjUV9fNF9NdS4yQUE2Q0JEMTk4NTM3RTZC",
+						"snippet": {
+							"title": "Supertramp - Bloody Well Right (Official Audio)",
+							"description": "Album: Crime Of The Century (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+							"position": 1
+						},
+						"contentDetails": {
+							"videoId": "4Hydi04OYC0"
+						}
+					},
+					{
+						"id": "UExNTDd6aVNWLVd0T0xwa2dCVTg1MWM4dDBjUV9fNF9NdS5DMkU4NTY1QUFGQTYwMDE3",
+						"snippet": {
+							"title": "Supertramp - Hide In Your Shell (Official Audio)",
+							"description": "Album: Crime Of The Century (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+							"position": 2
+						},
+						"contentDetails": {
+							"videoId": "J3_UPuNxx74"
+						}
+					},
+					{
+						"id": "UExNTDd6aVNWLVd0T0xwa2dCVTg1MWM4dDBjUV9fNF9NdS44Mjc5REFBRUE2MTdFRDU0",
+						"snippet": {
+							"title": "Supertramp - Asylum (Official Audio)",
+							"description": "Album: Crime Of The Century (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+							"position": 3
+						},
+						"contentDetails": {
+							"videoId": "OHUF6dAudOg"
+						}
+					},
+					{
+						"id": "UExNTDd6aVNWLVd0T0xwa2dCVTg1MWM4dDBjUV9fNF9NdS43NDhFRTgwOTRERTU4Rjg3",
+						"snippet": {
+							"title": "Supertramp - Dreamer (Official Audio)",
+							"description": "Album: Crime Of The Century (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+							"position": 4
+						},
+						"contentDetails": {
+							"videoId": "fW-lYTNW-P0"
+						}
+					},
+					{
+						"id": "UExNTDd6aVNWLVd0T0xwa2dCVTg1MWM4dDBjUV9fNF9NdS41QUZGQTY5OTE4QTREQUU4",
+						"snippet": {
+							"title": "Supertramp - Rudy (Official Audio)",
+							"description": "Album: Crime Of The Century (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+							"position": 5
+						},
+						"contentDetails": {
+							"videoId": "gIIJ7LXrDeg"
+						}
+					},
+					{
+						"id": "UExNTDd6aVNWLVd0T0xwa2dCVTg1MWM4dDBjUV9fNF9NdS4zRDBDOEZDOUM0MDY5NEEz",
+						"snippet": {
+							"title": "Supertramp - If Everyone Was Listening (Official Audio)",
+							"description": "Album: Crime Of The Century (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+							"position": 6
+						},
+						"contentDetails": {
+							"videoId": "-KQ8iqGpwHY"
+						}
+					},
+					{
+						"id": "UExNTDd6aVNWLVd0T0xwa2dCVTg1MWM4dDBjUV9fNF9NdS5CMEQ2Mjk5NTc3NDZFRUNB",
+						"snippet": {
+							"title": "Supertramp - Crime Of The Century (Official Audio)",
+							"description": "Album: Crime Of The Century (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+							"position": 7
+						},
+						"contentDetails": {
+							"videoId": "S_VhxdfKE9A"
+						}
+					}
+				]
+			}
+		]
+	},
+	"previousId": "27"
+}

@@ -1,0 +1,195 @@
+{
+	"id": "9",
+	"previousId": "8",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_TLVxuc4eESR",
+				"spotifyId": "6o13o3tlmwPYFnlIrVoRhh"
+			},
+			{
+				"youtubeMusicId": "MPREb_ZAJCEohhT3K",
+				"spotifyId": "3zjdGox4jsxTejvl04KC3F",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}",
+				"draft": false,
+				"songs": [
+					15
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_DciERiuADkS",
+				"spotifyId": "3gBVdu4a1MMJVMy6vwPEb8"
+			},
+			{
+				"youtubeMusicId": "MPREb_yP82adhhofl",
+				"spotifyId": "5KFlXseVLgtUSSpvDCACW4"
+			},
+			{
+				"youtubeMusicId": "MPREb_BwfnzfQ6vms",
+				"spotifyId": "6Qw7O3ERyWBpYQlCGWphtc"
+			},
+			{
+				"youtubeMusicId": "MPREb_sd48ZSmgXfY",
+				"spotifyId": "2eH7fv2yltVBRpUOFjjYvJ"
+			},
+			{
+				"youtubeMusicId": "MPREb_aM0wi4DgIKD",
+				"spotifyId": "4ncxigcuC9s3fyjiuJSfQq"
+			},
+			{
+				"youtubeMusicId": "MPREb_QqTpgUE0HYJ",
+				"spotifyId": "1lG3iYVRwaTDseNfP458Sb",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}",
+				"spotifyIteratee": "${$.name/( \\(feat\\..*\\))//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_ulkQC6AK9rY",
+				"spotifyId": "5VStIeomlCrTmR8pkvSw6l"
+			},
+			{
+				"youtubeMusicId": "MPREb_bnf6R8Fkmlk",
+				"spotifyId": "093nLQ4H81HusNsFdGS4Or",
+				"youtubeIteratee": "${$.snippet.title/( \\(Remastered\\))//}",
+				"spotifyIteratee": "${${${${$.name/^(What Is This Thing Called Love)\\?/$1/}/^(Some)(day My Prince Will Come)$/$1 $2/}/^(?:(Blue In Green) - Album Version - \\(take 3\\))/$1/}/^(?:(Autumn Leaves) - Album Version - \\(Take 1\\))/$1/}",
+				"draft": false
+			},
+			{
+				"youtubeMusicId": "MPREb_Q55NLlA1vrO",
+				"spotifyId": "6vgKgg2IRR3g9HVMjfaEBu",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeId": "PLWxkcAxFyDoXhKC5ZLprgWae1uo5K2-H5"
+			},
+			{
+				"youtubeMusicId": "MPREb_NIJHIiuIc82",
+				"spotifyId": "2KhqEHyDKfe9XlRDN3SOsj"
+			},
+			{
+				"youtubeMusicId": "MPREb_jkbc63uGW6d",
+				"spotifyId": "7DfcyTg1u3eEf4V6xeFvsW"
+			},
+			{
+				"youtubeMusicId": "MPREb_ohpbefaOCEe",
+				"spotifyId": "3PrS5X3QNdDUlBIE4bz6J2"
+			},
+			{
+				"youtubeMusicId": "MPREb_qMyiOJo1tis",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}",
+				"spotifyId": "0oiIr95qBcBNiqeRFDB3fJ"
+			},
+			{
+				"youtubeMusicId": "MPREb_PVNvzjkjpjb",
+				"spotifyId": "4dcELIj5hI9iXfkCSCvsBm"
+			},
+			{
+				"youtubeMusicId": "MPREb_FqZp8ywBzNE",
+				"spotifyId": "0kz8kBV9DVFdrAn4JZctG3"
+			},
+			{
+				"youtubeMusicId": "MPREb_iQB5djm9UYc",
+				"spotifyId": "5VTlqV8lZH3YspQ1cDcjrL",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeIteratee": "${$.snippet.title/( \\(Album Version\\))//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_WAt6I1ycHil",
+				"spotifyId": "700RKaU6EOb65NBBcjd71K"
+			},
+			{
+				"youtubeMusicId": "MPREb_Ic3lGUayfkp",
+				"spotifyId": "2WrU1VLLBaZy4k5s0p5jzt"
+			},
+			{
+				"youtubeMusicId": "MPREb_HXuHpZfF7G8",
+				"spotifyId": "03srSIJshSQQOh2vJ3uVZi",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeIteratee": "${${$.snippet.title/^(\"You Got A Killer Scene There, Man\\.\\.\\.) \"$/$1\"/}/^(Like A Drug)$/$1 (Non-LP Version)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_LxuNwq2DCKw",
+				"spotifyId": "3ilXDEG0xiajK8AbqboeJz"
+			},
+			{
+				"youtubeMusicId": "MPREb_bIbTMSBcxhY",
+				"spotifyId": "4sP7CAPrmdBD1ojBBrPxiV"
+			},
+			{
+				"youtubeMusicId": "MPREb_tOqyUiybasL",
+				"spotifyId": "0ffmdP8MVb7yYBLMxDmpu4"
+			},
+			{
+				"youtubeMusicId": "MPREb_VrGkV0UcuM1",
+				"spotifyId": "76LSkZgq2zzoUhiJY21giE"
+			},
+			{
+				"youtubeMusicId": "MPREb_Src7uTjpLcL",
+				"spotifyId": "0zEKzPrRe1YiQgtU7dEMoD"
+			},
+			{
+				"youtubeMusicId": "MPREb_IWRcKKpdGcY",
+				"spotifyId": "3OLMehKzdw2yWK2ilfyhCR"
+			},
+			{
+				"youtubeMusicId": "MPREb_Dlj3PZaTijk",
+				"spotifyId": "4vu7F6h90Br1ZtYYaqfITy"
+			},
+			{
+				"youtubeMusicId": "MPREb_wr4YNKulb7Q",
+				"spotifyId": "1gdB9kn59KSAVG5VQcjdHi",
+				"youtubeIteratee": "${$.snippet.title/( \\(2015 Remaster\\))$//}",
+				"spotifyIteratee": "${$.name/( - 2015 Remaster)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_9whAxze7X0B",
+				"spotifyId": "7EPGJTyG9MQ6gJWANmL4n3",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_Qlm86odf6dX",
+				"spotifyId": "5NH94cATqx5fjBE794xZLy"
+			},
+			{
+				"youtubeMusicId": "MPREb_6xXY3v1mbmz",
+				"spotifyId": "2NU3mpjBFtZPUYjjT9pJoq",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_rcw3h9MuW19",
+				"spotifyId": "1AznpOdGM8OcHYmqOUBXy3"
+			},
+			{
+				"youtubeMusicId": "MPREb_jRJqf0DMCfd",
+				"spotifyId": "19yVtAOeHin37T0c6caGrk"
+			},
+			{
+				"youtubeMusicId": "MPREb_7ao9bZPsiyL",
+				"spotifyId": "4FmI0F5GvvR1M9RURWnJV9"
+			},
+			{
+				"youtubeMusicId": "MPREb_Ewzy6DY78Ld",
+				"spotifyId": "7cMJfxkJwUAcxHCHQMNYYs",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_NaQo5SfnEIG",
+				"spotifyId": "41zXQ5Rg8AdNgQ3tKAJALW"
+			},
+			{
+				"youtubeMusicId": "MPREb_XG2QLPJIRVK",
+				"spotifyId": "4uNzDULQ9RAy0nxGaPbCDn",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeIteratee": "${$.snippet.title/^(Intro)$/$1 (feat. Apocalyptica)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_ssYz7z3JiWt",
+				"spotifyId": "40XVZQuIXMq5QbxmxaOeif",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_OQL07QPipUl",
+				"spotifyId": "7DUvURQ0wfA1kgG8j99frR"
+			}
+		]
+	}
+}

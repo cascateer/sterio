@@ -1,0 +1,373 @@
+{
+	"id": "32",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"album_type": "album",
+				"total_tracks": 11,
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/1maOylFVQbXcjc4PAMu4Jp"
+				},
+				"href": "https://api.spotify.com/v1/albums/1maOylFVQbXcjc4PAMu4Jp",
+				"id": "1maOylFVQbXcjc4PAMu4Jp",
+				"images": [
+					{
+						"url": "https://i.scdn.co/image/ab67616d0000b273f681ad0897e6a8e18ee0c111",
+						"height": 640,
+						"width": 640
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00001e02f681ad0897e6a8e18ee0c111",
+						"height": 300,
+						"width": 300
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00004851f681ad0897e6a8e18ee0c111",
+						"height": 64,
+						"width": 64
+					}
+				],
+				"name": "The Sun Don't Lie",
+				"release_date": "1993-06-14",
+				"release_date_precision": "day",
+				"type": "album",
+				"uri": "spotify:album:1maOylFVQbXcjc4PAMu4Jp",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+						},
+						"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+						"id": "6fmq5mv6HnduZdlTOEYBC9",
+						"name": "Marcus Miller",
+						"type": "artist",
+						"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+					}
+				],
+				"tracks": {
+					"href": "https://api.spotify.com/v1/albums/1maOylFVQbXcjc4PAMu4Jp/tracks?offset=0&limit=50",
+					"limit": 50,
+					"next": null,
+					"offset": 0,
+					"previous": null,
+					"total": 11,
+					"items": [
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 362760,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0TPmg1nfi0y5kR694cVoeo"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0TPmg1nfi0y5kR694cVoeo",
+							"id": "0TPmg1nfi0y5kR694cVoeo",
+							"name": "Panther",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:0TPmg1nfi0y5kR694cVoeo",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 441760,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3AI8JazTyWvgT9Esz2u50z"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3AI8JazTyWvgT9Esz2u50z",
+							"id": "3AI8JazTyWvgT9Esz2u50z",
+							"name": "Steveland",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:3AI8JazTyWvgT9Esz2u50z",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 348040,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/041G3diNCeyY0WIUa1ATLp"
+							},
+							"href": "https://api.spotify.com/v1/tracks/041G3diNCeyY0WIUa1ATLp",
+							"id": "041G3diNCeyY0WIUa1ATLp",
+							"name": "Rampage",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:041G3diNCeyY0WIUa1ATLp",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 389533,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0DY7xSaCxqK4pZv809ntYp"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0DY7xSaCxqK4pZv809ntYp",
+							"id": "0DY7xSaCxqK4pZv809ntYp",
+							"name": "The Sun Don't Lie",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:0DY7xSaCxqK4pZv809ntYp",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 358400,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1K7PB1tKh7K7i9JFO9WlfJ"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1K7PB1tKh7K7i9JFO9WlfJ",
+							"id": "1K7PB1tKh7K7i9JFO9WlfJ",
+							"name": "Scoop",
+							"track_number": 5,
+							"type": "track",
+							"uri": "spotify:track:1K7PB1tKh7K7i9JFO9WlfJ",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 84106,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/2seJEa7nKiA8SWEil6mKfu"
+							},
+							"href": "https://api.spotify.com/v1/tracks/2seJEa7nKiA8SWEil6mKfu",
+							"id": "2seJEa7nKiA8SWEil6mKfu",
+							"name": "Mr. Pastorius",
+							"track_number": 6,
+							"type": "track",
+							"uri": "spotify:track:2seJEa7nKiA8SWEil6mKfu",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 325533,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1beF2Rv0jHD2W6sD3Zd5XQ"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1beF2Rv0jHD2W6sD3Zd5XQ",
+							"id": "1beF2Rv0jHD2W6sD3Zd5XQ",
+							"name": "Funny (All She Needs Is Love)",
+							"track_number": 7,
+							"type": "track",
+							"uri": "spotify:track:1beF2Rv0jHD2W6sD3Zd5XQ",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 292026,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/5zWzZHy5FyPf3ExiEvcH7m"
+							},
+							"href": "https://api.spotify.com/v1/tracks/5zWzZHy5FyPf3ExiEvcH7m",
+							"id": "5zWzZHy5FyPf3ExiEvcH7m",
+							"name": "Moons",
+							"track_number": 8,
+							"type": "track",
+							"uri": "spotify:track:5zWzZHy5FyPf3ExiEvcH7m",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 295666,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4b6LFy0X3v3laVNXtFsVPF"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4b6LFy0X3v3laVNXtFsVPF",
+							"id": "4b6LFy0X3v3laVNXtFsVPF",
+							"name": "Teen Town",
+							"track_number": 9,
+							"type": "track",
+							"uri": "spotify:track:4b6LFy0X3v3laVNXtFsVPF",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 361733,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/40ckVaod6DW7OehPZQEdRf"
+							},
+							"href": "https://api.spotify.com/v1/tracks/40ckVaod6DW7OehPZQEdRf",
+							"id": "40ckVaod6DW7OehPZQEdRf",
+							"name": "Juju",
+							"track_number": 10,
+							"type": "track",
+							"uri": "spotify:track:40ckVaod6DW7OehPZQEdRf",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+									},
+									"href": "https://api.spotify.com/v1/artists/6fmq5mv6HnduZdlTOEYBC9",
+									"id": "6fmq5mv6HnduZdlTOEYBC9",
+									"name": "Marcus Miller",
+									"type": "artist",
+									"uri": "spotify:artist:6fmq5mv6HnduZdlTOEYBC9"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 365333,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3b4TMJyuzTXYNaVreh2vEV"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3b4TMJyuzTXYNaVreh2vEV",
+							"id": "3b4TMJyuzTXYNaVreh2vEV",
+							"name": "The King Is Gone (For Miles)",
+							"track_number": 11,
+							"type": "track",
+							"uri": "spotify:track:3b4TMJyuzTXYNaVreh2vEV",
+							"is_local": false
+						}
+					]
+				},
+				"copyrights": [
+					{
+						"text": "1993 PRA Records, Inc. under exclusive license to Francis Dreyfus Music SARL, a BMG Company",
+						"type": "C"
+					},
+					{
+						"text": "1993 PRA Records, Inc. under exclusive license to Francis Dreyfus Music SARL, a BMG Company",
+						"type": "P"
+					}
+				],
+				"external_ids": {
+					"upc": "0886443379961"
+				},
+				"genres": []
+			}
+		]
+	},
+	"previousId": "31"
+}

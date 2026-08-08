@@ -1,0 +1,209 @@
+{
+	"id": "8",
+	"previousId": "7",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_AmmVchA41UA",
+				"spotifyId": "3dck2tBxGfxj9m3CguDgjb",
+				"spotifyIteratee": "${$.name/( - Remastered 2021)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_6si4Ckr7jcD",
+				"spotifyId": "1Dh27pjT3IEdiRG9Se5uQn"
+			},
+			{
+				"youtubeMusicId": "MPREb_dy1QTolreUe",
+				"spotifyId": "6QLMrrCJjjS2AsIj64CiVv",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\. Djeli Moussa Diawara\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_L6dAFvyZzdy",
+				"spotifyId": "13xlpKbai3GGoMSr75lOeX",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_DjjdtYrEt8o",
+				"spotifyId": "5HLoU4oijKdSIFOk2o7mYn",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_8nfkkpxSV9M",
+				"spotifyId": "5bfpRtBW7RNRdsm3tRyl3R"
+			},
+			{
+				"youtubeMusicId": "MPREb_VbkoX4NntnC",
+				"spotifyId": "6qb9MDR0lfsN9a2pw77uJy"
+			},
+			{
+				"youtubeMusicId": "MPREb_y0H87U0kToA",
+				"spotifyId": "05tJhGl52X4zGe0ySlcBk6",
+				"spotifyIteratee": "${$.name/(- \\((Reprise)\\))$/(($2))/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_tTziBK49hyZ",
+				"spotifyId": "0PSTqZ8cInMb1Wr68Uqdwp"
+			},
+			{
+				"youtubeMusicId": "MPREb_ILqcHjF1CgC",
+				"spotifyId": "1w71aBHYJ1zTOsSsmr2Fca",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeIteratee": "${$.snippet.title/( \\(Album Version\\))//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_1aVRMvtQMe2",
+				"spotifyId": "2w6Vy8qZLU4niyQAHyu0Ag"
+			},
+			{
+				"youtubeMusicId": "MPREb_yXhSI4FCUo6",
+				"spotifyId": "6dVIqQ8qmQ5GBnJ9shOYGE"
+			},
+			{
+				"youtubeMusicId": "MPREb_Or0NmhlTmpA",
+				"spotifyId": "1amYhlukNF8WdaQC3gKkgL"
+			},
+			{
+				"youtubeMusicId": "MPREb_OYfrh59v8Ff",
+				"spotifyId": "4T1iDqGZflgQdzTPSV7mBa"
+			},
+			{
+				"youtubeMusicId": "MPREb_6q6voDlEdaz",
+				"spotifyId": "02w1xMzzdF2OJxTeh1basm",
+				"draft": false,
+				"youtubeIteratee": "${$.snippet.position} ${$.snippet.title}",
+				"youtubeMusicIteratee": "${$.index} ${$.name}",
+				"spotifyIteratee": "${$.index} ${$.name/^(My Immortal)( - Band Version)$/$1/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_MToeVkZGrZj",
+				"spotifyId": "0bCjsDy7xtSGsKleQXF9ng"
+			},
+			{
+				"youtubeMusicId": "MPREb_uhekoS8BmTK",
+				"spotifyId": "41YFARi0dgf2zmF4eB11RD"
+			},
+			{
+				"youtubeMusicId": "MPREb_eZzrdQ9FyLl",
+				"spotifyId": "3oUXNITVgUpdN2cUwH3hmS",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_ZOvG3I2wEJj",
+				"spotifyId": "1fmStTr2R25vxA0hKFFbss"
+			},
+			{
+				"youtubeMusicId": "MPREb_SNRXbVMXCPM",
+				"spotifyId": "2vcisyP9y8jUFqI7W6x7BN",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_8lWPtIl3m8P",
+				"spotifyId": "2r8sAt9CLEunfJQpw5Hg5N",
+				"songs": [
+					1
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_KtRPEOQ8w0w",
+				"spotifyId": "55BuSEkqvRtQwQgz8Caj8k",
+				"songs": [
+					8
+				],
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_QpbGuGkUtvT",
+				"spotifyId": "2AijhURusFcqUjUEqpN74M",
+				"songs": [
+					0
+				],
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_z7qp67ca7xg",
+				"spotifyId": "1ToY6vQm5b4DgOpdGHZjVZ",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_Tbps5SwufY2",
+				"spotifyId": "3rtikOpy9VLFHFv79b2ZzQ"
+			},
+			{
+				"youtubeMusicId": "MPREb_bCpHZL2tEwm",
+				"spotifyId": "1Rhg4uHx4AITp2cOnykPur",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}",
+				"youtubeIteratee": "",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeId": "PLeG_OwnDgwh8"
+			},
+			{
+				"youtubeMusicId": "MPREb_LxsSYxDqgXY",
+				"spotifyId": "4qnDtActtsWu2i8VH9wkmE"
+			},
+			{
+				"youtubeMusicId": "MPREb_rtYsCrZP729",
+				"spotifyId": "5XD354NIdEhWcVrCr1kavF",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeIteratee": "${$.snippet.title/è/è/g}",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_i0rqgrwjg3B",
+				"spotifyId": "5KW3OTftGAkpe0ajr5KdTS"
+			},
+			{
+				"youtubeMusicId": "MPREb_epDHrawzNu7",
+				"spotifyId": "6mUdeDZCsExyJLMdAfDuwh"
+			},
+			{
+				"youtubeMusicId": "MPREb_F6W2run9gZu",
+				"spotifyId": "5sZi94xs9Q1aUpFVLx9RLI",
+				"youtubeId": "PLHTo__bpnlYXWk1oGp5lPHXdFBDlOsN4k"
+			},
+			{
+				"youtubeMusicId": "MPREb_yELfDYGM0bG",
+				"spotifyId": "0BTCS1O61sSYZ8o5kCqx03"
+			},
+			{
+				"youtubeMusicId": "MPREb_ByzvCFthJvQ",
+				"spotifyId": "2Y8x0EEu7il0K2gCQIqVRh",
+				"spotifyIteratee": "${$.name/( - 2015 Remaster)$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(2015 Remaster\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_D12CLg0QO77",
+				"spotifyId": "3bK58rVcWBh3V3vxMLzi0V"
+			},
+			{
+				"youtubeMusicId": "MPREb_Hz5YcigKX0k",
+				"spotifyId": "0ZD2tIjWo9fwzPndZ04wDY"
+			},
+			{
+				"youtubeMusicId": "MPREb_7PSSEWDxvPx",
+				"spotifyId": "24fNwoIq4NLDf4ARJYAFN9",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_JMNNIXwOCOC",
+				"youtubeIteratee": "${$.snippet.title/( \\(2012 Remaster\\))$//}",
+				"spotifyId": "7LGVdC9fFwgWYaIrZwsSv6",
+				"spotifyIteratee": "${$.name/( \\(2012 Remaster\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_Q6yh047iMaI",
+				"spotifyId": "7p5mnxLTjbvs4kInkK8za9"
+			},
+			{
+				"youtubeMusicId": "MPREb_3n9jhahGRLv",
+				"spotifyId": "6jWde94ln40epKIQCd8XUh"
+			},
+			{
+				"youtubeMusicId": "MPREb_Eya18F2W3ob",
+				"spotifyId": "3Esn6LoXuWtLZNYq8FCzr0"
+			}
+		]
+	}
+}

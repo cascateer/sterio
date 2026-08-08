@@ -1,0 +1,235 @@
+{
+	"id": "17",
+	"previousId": "16",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_owciBTGU3ZC",
+				"spotifyId": "3RS4yxzcOiOVvWQa89psrm"
+			},
+			{
+				"youtubeMusicId": "MPREb_u7MEglE7emE",
+				"spotifyId": "2jH18vsFaW6f1P71e4FgzP"
+			},
+			{
+				"youtubeMusicId": "MPREb_MHCa7JutPxI",
+				"spotifyId": "3qkEAk09nfovvGUuetLpJh",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_DzAetQ3LtDB",
+				"spotifyId": "4ZpnExyuNONqdQXjC4FRkw",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_9ienLuGXf1Y",
+				"spotifyId": "5NfCqGSYAFmpY7OrL3LC4o",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_ucQXMMHAyBX",
+				"spotifyId": "21RLU8mYVzBZ8CaVHuH6JC",
+				"songs": [
+					4
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_3q9uVNZgpZi",
+				"spotifyId": "3lZh54Qu0c8nWmC4IAUMOA",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_rqVlIEzbAR6",
+				"spotifyId": "4PlIGAbrP1pv3VPqBWonTm",
+				"songs": [
+					1
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_0rNepTl4Xrp",
+				"spotifyId": "7rdrIHvtAcAxbyMTC6fo9a",
+				"youtubeIteratee": "${$.snippet.title/è/è/g}",
+				"songs": [
+					9
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_YQCaQe4KU8G",
+				"spotifyId": "3KjkZXHlDZMbQKqdYPtsUn",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_zJAcAWSoMFO",
+				"spotifyId": "0BPXNEhv63ppBbjcR47Xyp",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_IW4fOJmX3Ve",
+				"spotifyId": "7CXTNkULXDTd2oHt4S9dp7",
+				"spotifyIteratee": "${$.name/(?:\\(Charlotte de Witte & Enrico Sangiuliano Remix\\) - (Charlotte de Witte & Enrico Sangiuliano Remix - Edit))$/($1)/}",
+				"songs": [
+					1
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_NLLj1fAOUyz",
+				"spotifyId": "7IcJIb5P7YXmKq0FZdXMNM",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_cmKyYPTG294",
+				"spotifyId": "4mvkqvRNyKfKPXS66OWGBf"
+			},
+			{
+				"youtubeMusicId": "MPREb_0LTTYqC2nZN",
+				"spotifyId": "7hFywUCGCMUzFU8vErgcfK"
+			},
+			{
+				"youtubeMusicId": "MPREb_N6eIRpIGTBc",
+				"spotifyId": "7Kri1IVMAtueFomsrzFhPt",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/[$1]/}",
+				"songs": [
+					1
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_FqmRUR5wHBc",
+				"spotifyId": "3RyPXkgqNcfXTPofK864z9",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeIteratee": "${$.snippet.title/( \\(Original Mix\\))$//}",
+				"songs": [
+					1
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_YDc6ErsVDoh",
+				"spotifyId": "4qbAmVXPe2NQZ9EiHVwZcE"
+			},
+			{
+				"youtubeMusicId": "MPREb_UoONNWILjOe",
+				"spotifyId": "0d1C6krgFJatiwKnP5wL0l",
+				"songs": [
+					7
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_UUzyvCG7Ols",
+				"spotifyId": "77gAd4MCswYYXswGlBaLbv",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_V8GycDuuLXp",
+				"spotifyId": "2be6MuI6wAu5tB4HrYmUfJ",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_vovVWWZGtCS",
+				"spotifyId": "2UrtjoCg18irLckHDZNbYt",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_7ZUpDU9TJPE",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"songs": [
+					2
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_2xVxFE4djo6",
+				"spotifyId": "6qKyW0Y52WFG8zPV24rJ8p",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_tSVXiNdi1vd",
+				"spotifyId": "2xIAtLLzGJu6LTf99Tj5IZ",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"songs": [
+					8
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_dsfpTLKuqzD",
+				"spotifyId": "2tWiZunnla7G5rQ9LgxMxV",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_ejpibx6DIXj"
+			},
+			{
+				"youtubeMusicId": "MPREb_eqIV2rnRs32",
+				"spotifyId": "0MziDmuTkzLhNnL82YDuoP"
+			},
+			{
+				"youtubeMusicId": "MPREb_ZsQ7oGjHkP8",
+				"spotifyId": "4X8Y79gWo6xm7Osdapg58E"
+			},
+			{
+				"youtubeMusicId": "MPREb_gsa6g1rokq5",
+				"spotifyId": "2BDQCkC9FPTAQce02qSpqs",
+				"youtubeIteratee": "${${$.snippet.title/( (\\[Original Version\\]|\\(Original Version\\)))$//}/( \\(feat\\..*\\))$//}",
+				"spotifyIteratee": "${$.name/( - Original Version)$//}",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_f5UjA7id5Wi",
+				"spotifyId": "1A4eEveUE0QORZUuBRKzlV"
+			},
+			{
+				"youtubeMusicId": "MPREb_ftrknfYGhdg",
+				"youtubeIteratee": "${$.snippet.title/( \\(Remastered\\))$//}",
+				"spotifyId": "2Z11cXWEa2qqYQBGkJrCga"
+			},
+			{
+				"youtubeMusicId": "MPREb_fskCooE0TKR",
+				"spotifyId": "3nLStxdTkSzihxm7FTLzCP"
+			},
+			{
+				"youtubeMusicId": "MPREb_IoyUvJQjtft",
+				"spotifyId": "0yPQi7v0fchTMkQWmfRBWB"
+			},
+			{
+				"youtubeMusicId": "MPREb_IA1XlNQhKLp",
+				"spotifyId": "58VJzBF0hLb6ylVHdn1XB0"
+			},
+			{
+				"youtubeMusicId": "MPREb_PfPqSlQHT91",
+				"spotifyId": "2sRtcZRiBZmIU4sKPMUBOw"
+			},
+			{
+				"youtubeMusicId": "MPREb_tJFcZE4JwVJ",
+				"spotifyId": "2sjF68plsvYE7M3FaMf6rD",
+				"youtubeIteratee": "${$.snippet.title/( \\(Album Version\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_6m3DUBBX9kC",
+				"spotifyId": "33kPJ8JFTSNiOUvpFd24pG",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_xuEn7KDfogE",
+				"spotifyId": "3MfnvCTtbVrFWyq1RnwkBN",
+				"spotifyIteratee": "${${$.name/^(Tragedy's A' Comin')$/Tragedy’s a’Comin’/}/’/'/g}",
+				"youtubeIteratee": "${${$.snippet.title/^(Tragedy's A' Comin')$/Tragedy’s a’Comin’/}/’/'/g}",
+				"youtubeMusicIteratee": "${$.name/’/'/g}",
+				"youtubeId": "PLQvL6GLJiX91EIylZJqjjHXStXg-Mxb5J"
+			},
+			{
+				"youtubeMusicId": "MPREb_rGH1DfISvgh",
+				"spotifyId": "6zeHM5CV0CjcS0K8ouWE4N",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			}
+		]
+	}
+}

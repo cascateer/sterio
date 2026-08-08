@@ -1,0 +1,14 @@
+{
+	"id": "417",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"url": "https://i.scdn.co/image/ab67616d0000b27384ba7f790cda595193895ac5",
+				"name": "856babf32f5e4f23ca9d1816f0af436ceead968d.jpg",
+				"checksum": "89bc7b6775672257be4ea0d6e26ba97e"
+			}
+		]
+	},
+	"previousId": "416"
+}

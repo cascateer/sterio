@@ -1,0 +1,244 @@
+{
+	"id": "5",
+	"previousId": "4",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_2KCFKkUkuk4",
+				"spotifyId": "6eQNR9fAkQUFiIwJOVLt8N"
+			},
+			{
+				"youtubeMusicId": "MPREb_FOh3R4nv7JJ",
+				"spotifyId": "25RG9BGoVlHs4Qr4d0UH9Z"
+			},
+			{
+				"youtubeMusicId": "MPREb_YK61XSmhkJ2",
+				"spotifyId": "3yYVSoRy926yJVhbL0HhlU"
+			},
+			{
+				"youtubeMusicId": "MPREb_EmlzditGQ5R",
+				"spotifyId": "58IwNbkCL527REhNX7emWv"
+			},
+			{
+				"youtubeMusicId": "MPREb_yhyBRK7q8z9",
+				"spotifyId": "7wKVcBB5SgqVX3Cj3LPllE"
+			},
+			{
+				"youtubeMusicId": "MPREb_UolLJqLunEj",
+				"spotifyId": "12rTdEhRhwPpV0XJvZW9u1"
+			},
+			{
+				"youtubeMusicId": "MPREb_uqCaq6qWpj0",
+				"spotifyId": "7LgrhuKnAXpNEv8qzcVd2t",
+				"spotifyIteratee": "${$.name/(?:- (Live))/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_L7IniZNfqEQ",
+				"spotifyId": "42QybsqCIxCc1H2SEskAiv"
+			},
+			{
+				"youtubeMusicId": "MPREb_kw8Dova0NEd",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}",
+				"spotifyId": "10aiDpdFGyfCFEcqpx6XTq",
+				"spotifyIteratee": "${$.name/( \\(feat\\..*\\))//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_OjiqBdm5Rox",
+				"spotifyId": "6dCEC4tQAbUlrVEeP8IIo3",
+				"youtubeIteratee": "${$.snippet.title/( \\(Remastered 2016\\))//}",
+				"spotifyIteratee": "${$.name/(\\: Wetterleuchten, Am Strand, Der Traum, Ein neuer Tag, Ins Licht)$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_UJf2HIsGqR2",
+				"spotifyId": "6ThuI10v4PW9WMgAu7sWnp"
+			},
+			{
+				"youtubeMusicId": "MPREb_QDFoAM3wIcj",
+				"spotifyId": "0eFHYz8NmK75zSplL5qlfM"
+			},
+			{
+				"youtubeMusicId": "MPREb_m9Z4cG6E3VE",
+				"spotifyId": "59J51uy6r6QcYe7cX0Fzz6"
+			},
+			{
+				"youtubeMusicId": "MPREb_DKSqGwVYnjQ",
+				"spotifyId": "2SurTgYPtoCJSn7103Uuvk"
+			},
+			{
+				"youtubeMusicId": "MPREb_EvUaRykfAC1",
+				"spotifyId": "2Lq2qX3hYhiuPckC8Flj21",
+				"youtubeIteratee": "${$.snippet.title/( \\(Remastered\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_z8zhYpy2sVe",
+				"spotifyId": "14IOe7ahxQPTwUYUQX3IFi"
+			},
+			{
+				"youtubeMusicId": "MPREb_JL6yotZbjrA",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"songs": [
+					14
+				],
+				"spotifyId": "5IYP53sl0ije0ah4Y2Z8YU",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_VhGqjQTzzhq",
+				"spotifyId": "5GA1vg8Xv8zqtNedFbHasK"
+			},
+			{
+				"youtubeMusicId": "MPREb_KOQwWuQqsin",
+				"spotifyId": "6X8Qi8j1bvHv7FYoJ04fE6",
+				"songs": [
+					0
+				],
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_HqL7WPgGcit",
+				"spotifyId": "2wEVylEKqSoSeaxahKcqJT"
+			},
+			{
+				"youtubeMusicId": "MPREb_sFQPlzj9CUw",
+				"spotifyId": "3e337N4JrILh8eZsyjAL2b"
+			},
+			{
+				"youtubeMusicId": "MPREb_0g243cIqwzk",
+				"spotifyId": "2POEND23KcLg9y4zzPSSuO",
+				"songs": [
+					1
+				],
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_YtRQrUZqYJe",
+				"spotifyId": "6Gl2pvL998fkxvVnfWlYOL"
+			},
+			{
+				"youtubeMusicId": "MPREb_1WuROp1EMgW",
+				"spotifyId": "34eqkiNdakhMaOmklFTpOv",
+				"songs": [
+					12,
+					5
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_Tw5aGF0lU6C",
+				"spotifyId": "2Kpw5rX51yvVPdGAT1de6D",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_jA9wSxubKAV",
+				"spotifyId": "3OGV2v7nCPdPBsGrw2tj5r",
+				"songs": [
+					0
+				],
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_lwa0qZJoRWl",
+				"spotifyId": "5YZFw1wuLL8CeSriTv4Q7w",
+				"songs": [
+					0
+				],
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeIteratee": "${$.snippet.title/(\\&)( )(ME)/$1$3/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_yLzCXieQ3ds",
+				"spotifyId": "5iHDU2XwpJwk0xiIH1Bc6Z",
+				"youtubeIteratee": "${$.snippet.title/( \\(feat\\..*\\))$//}",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_8bvuutTJBXD",
+				"spotifyId": "7Kjwp4YuatuRzoxoGjVVGE",
+				"songs": [
+					1
+				],
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_HCOg2NAWE6Y",
+				"spotifyId": "3bJv84cOA7UIJDDD8Hp54t",
+				"songs": [
+					0
+				],
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_ILonLiwSWYg",
+				"spotifyId": "4U2YF2IJazjWUSAFi5qkTz"
+			},
+			{
+				"youtubeMusicId": "MPREb_IyI6IszdmCr",
+				"spotifyId": "0ihSHBFI9OEuwPg4dqyi14"
+			},
+			{
+				"youtubeMusicId": "MPREb_9ame0hCKK9L",
+				"spotifyId": "2lIxvYowDx7gAa0fivAx5G",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_VLm1irDjydl",
+				"youtubeIteratee": "",
+				"songs": [
+					1
+				],
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"spotifyId": "0sdpLNuVlwTakX1YPljA1P",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_ukaTsXt8fgh",
+				"spotifyId": "7cWwVJNwzQJOcExUFVlXYq",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_qbCLJVOArrA",
+				"spotifyId": "46muHUrkAVYiExmNO11XhI"
+			},
+			{
+				"youtubeMusicId": "MPREb_FnrN6pfuYXB",
+				"spotifyId": "4gj4zscxMgaihZZLyKsCUA",
+				"songs": [
+					1
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_I9GRkxSEWV2",
+				"spotifyId": "5p3gCXAkyB8LeNetSEGalL",
+				"songs": [
+					2,
+					4,
+					11,
+					3
+				],
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"spotifyIteratee": "${$.name/( \\(feat\\..*\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_kzQJgJcSvMu",
+				"spotifyId": "1M9gSrMf9GN0XPC3PJIby7",
+				"songs": [
+					2
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_6xMx5y91s37",
+				"spotifyId": "4kEbcH3VT6NYfpv8Wkkk80",
+				"songs": [
+					4,
+					1
+				],
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			}
+		]
+	}
+}

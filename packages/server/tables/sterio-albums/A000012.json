@@ -1,0 +1,202 @@
+{
+	"id": "12",
+	"previousId": "11",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_KSbhqXquObX",
+				"spotifyId": "7qVfz4UGONwEd5nQjj0ESN"
+			},
+			{
+				"youtubeMusicId": "MPREb_6NxJve9rqGu",
+				"spotifyId": "7xl50xr9NDkd3i2kBbzsNZ",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_vXDfRZDGgb3",
+				"spotifyId": "0fLhefnjlIV3pGNF9Wo8CD"
+			},
+			{
+				"youtubeMusicId": "MPREb_944ntDvTSfX",
+				"spotifyId": "1oOkcBu5bgkUzZTvKD1m8z",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_0Kbv22plKi1",
+				"spotifyId": "58MQ0PLijVHePUonQlK76Y",
+				"spotifyIteratee": "${$.name/(?:- (.*))/($1)/}",
+				"youtubeIteratee": "${$.snippet.title/(\\[(Remaster)\\])$/($2)/}",
+				"youtubeMusicIteratee": "${$.name/(\\[(Remaster)\\])$/($2)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_GeZ4Mm5Sv4J",
+				"spotifyId": "5EyIDBAqhnlkAHqvPRwdbX",
+				"spotifyIteratee": "${$.name/(?:- (.*))/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_3BUtbp72JLJ",
+				"spotifyId": "4Q7cPyiP8cMIlUEHAqeYfd",
+				"spotifyIteratee": "${$.name/(?:- (.*))/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_mEcCDulhDwk",
+				"spotifyId": "1FcTAH4sBWvtdO55OffwCQ",
+				"spotifyIteratee": "${$.name/(?:- (.*))/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_UtKhzQpOi9v",
+				"spotifyId": "6BX8AS7J97PSQNrteX325Z",
+				"spotifyIteratee": "${$.name/(?:- (.*))/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_PVh1sm62cpJ",
+				"spotifyId": "6Q1fxM7xBU5K2J1zo0usMz"
+			},
+			{
+				"youtubeMusicId": "MPREb_5Vhhyr52Rcs",
+				"spotifyId": "6QfaZ05cdm3h2mOp8D7GD4",
+				"spotifyIteratee": "${$.name/(?:- (.*))/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_rBRWqWTZ72I",
+				"spotifyId": "71Y6kburF8k1qyHycovHy8"
+			},
+			{
+				"youtubeMusicId": "MPREb_tVZwW6CdiZD",
+				"spotifyId": "2vnJKtGjZXRUg0mYPZ3HGH"
+			},
+			{
+				"youtubeMusicId": "MPREb_pYj3YFxjhPp",
+				"spotifyId": "0bCAjiUamIFqKJsekOYuRw"
+			},
+			{
+				"youtubeMusicId": "MPREb_nHbCAGX6uUL",
+				"spotifyId": "4LH4d3cOWNNsVw41Gqt2kv"
+			},
+			{
+				"youtubeMusicId": "MPREb_tc3z4MYeOpY",
+				"spotifyId": "5Dbax7G8SWrP9xyzkOvy2F"
+			},
+			{
+				"youtubeMusicId": "MPREb_i3fWUOBlvsL",
+				"spotifyId": "00BBpx0gG4KfQtxSJBPKUZ",
+				"youtubeIteratee": "${$.snippet.title/^(Wot's\\.\\.\\.) (Uh the Deal)$/$1$2/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_0WGxVA5HJfD",
+				"spotifyId": "2cUpAOlQjV5uSjkWj5bEQY"
+			},
+			{
+				"youtubeMusicId": "MPREb_lBLylZFCj1l",
+				"spotifyId": "468ZwCchVtzEbt9BHmXopb"
+			},
+			{
+				"youtubeMusicId": "MPREb_9NCGTVzkjjR",
+				"spotifyId": "1ALR5shWvJ99oItXgRTbKj",
+				"youtubeMusicIteratee": "${$.name/^(.*?)( (-|\\(|\\\\/).*)$/$1/}",
+				"spotifyIteratee": "${$.name/^(.*?)( (-|\\(|\\\\/).*)$/$1/}",
+				"youtubeIteratee": "${$.snippet.title/^(.*?)( (-|\\(|\\\\/).*)$/$1/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_PPiIOOT96bf",
+				"spotifyId": "2AcOiEYDeMTAzUdVLJ0DP7",
+				"spotifyIteratee": "${$.name/(?:- (Edit))/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_cU5joiHjEhY",
+				"spotifyId": "4INFVEhhhnLiqNR4MVPaX8"
+			},
+			{
+				"youtubeMusicId": "MPREb_UqGfWRHXbpH",
+				"spotifyId": "4v6kYkn7mYjlWS9vONmmCP",
+				"youtubeMusicIteratee": "${$.name/( \\(2009 Remaster\\))$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(2009 Remaster\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_oQCKVu69ySY",
+				"spotifyId": "7khFXQNBzcfSfgGjPKerdE"
+			},
+			{
+				"youtubeMusicId": "MPREb_Ek2pqfhfEJN",
+				"spotifyId": "2yzeTza4DXX5XpzJYY7CXO"
+			},
+			{
+				"youtubeMusicId": "MPREb_ZhxU1PoFoJp",
+				"spotifyId": "1sRDi0MSGOy91fHhcpXIu4"
+			},
+			{
+				"youtubeMusicId": "MPREb_zchgciGdTs3",
+				"spotifyId": "1eYX6uNoyhwTdZMELCKnMW"
+			},
+			{
+				"youtubeMusicId": "MPREb_j4TpANdSzSw",
+				"spotifyId": "21NFTCa7a7LYxQ4BCmBTuS"
+			},
+			{
+				"youtubeMusicId": "MPREb_353dkf2ZWjp",
+				"spotifyId": "6E7Zkpk31fHefblsiMmWdH",
+				"spotifyIteratee": "${$.name/( - Remastered)$//}",
+				"youtubeIteratee": "${${$.snippet.title/( \\(Remastered\\))$//}/\\\\// \\/ /}"
+			},
+			{
+				"youtubeMusicId": "MPREb_VJbwo1zEkDt"
+			},
+			{
+				"youtubeMusicId": "MPREb_X7QffEAYTTO",
+				"spotifyId": "3cQO7jp5S9qLBoIVtbkSM1"
+			},
+			{
+				"youtubeMusicId": "MPREb_VtYIorA2otn",
+				"spotifyId": "055oBGhGjcZixkBREWdav2"
+			},
+			{
+				"youtubeMusicId": "MPREb_juC52fPAHtt",
+				"spotifyId": "3VyHgnHE4cp7YuU7skzuJ2",
+				"spotifyIteratee": "${$.name/( - 2012 Remaster)$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(2012 Remaster\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_GlJEvHgwui0",
+				"spotifyId": "4pFFGEuoEmxtOTbp22tva9",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeIteratee": "",
+				"youtubeMusicIteratee": "${$.name/(?:\\[(2000 Remaster)\\])/($1)/}",
+				"youtubeId": "PLD9WLinkyEmgDPMO2_DOx8XlYoMx7xwWP"
+			},
+			{
+				"youtubeMusicId": "MPREb_JugBWXAgq91",
+				"spotifyId": "6iLRy1tXA7lCHMLZfRSz90",
+				"spotifyIteratee": "${${$.name/( - Remastered)$//}/^(Peter)$/\"$1\"/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_RFsfZPHs3um",
+				"spotifyId": "37rnY9C3CxIq0c1YLSHCcR",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_p3ULAqDnQvB",
+				"spotifyId": "51dlz1mnMpWUHjwUM86eEx",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"draft": true,
+				"youtubeIteratee": "${$.snippet.title/(?:\\((.*)\\) \\[(.*)\\])/($1; $2)/}",
+				"youtubeMusicIteratee": "${${${$.name/^(.*) (?:\\((.*)\\) \\[(.*)\\])(.*)$/$1$4/}/( \\((Mono|1968 Monitor Mix)\\))//}/^(And the Address)$/$1 (2014 Remaster)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_EQskVPddP4j",
+				"spotifyId": "1Z2srVrfTUpqnLLxPcuj2K",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_zdxmRyNgVuf",
+				"spotifyId": "6cVCvMPFJDMSByLFfHtn4U",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_F6t0lmiLIXc",
+				"spotifyId": "0zrtTZC7yY2TOEhnbJzSb9",
+				"spotifyIteratee": "${${$.name/( - Live)$//}/^(?:Pressed (Rat And Warthog))$/$1/}"
+			}
+		]
+	}
+}

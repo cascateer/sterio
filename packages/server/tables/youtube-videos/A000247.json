@@ -1,0 +1,531 @@
+{
+	"id": "247",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"id": "U1ZURsd17GI",
+				"snippet": {
+					"publishedAt": "2022-02-28T08:11:32Z",
+					"channelId": "UColTsKEMf0kaZjkoOx7-Cww",
+					"title": "Supertramp - Gone Hollywood (Official Audio)",
+					"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/U1ZURsd17GI/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/U1ZURsd17GI/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/U1ZURsd17GI/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						},
+						"standard": {
+							"url": "https://i.ytimg.com/vi/U1ZURsd17GI/sddefault.jpg",
+							"width": 640,
+							"height": 480
+						},
+						"maxres": {
+							"url": "https://i.ytimg.com/vi/U1ZURsd17GI/maxresdefault.jpg",
+							"width": 1280,
+							"height": 720
+						}
+					},
+					"channelTitle": "Supertramp ",
+					"tags": [
+						"Supertramp",
+						"Gone Hollywood",
+						"Official Audio"
+					],
+					"categoryId": "10",
+					"liveBroadcastContent": "none",
+					"defaultLanguage": "da",
+					"localized": {
+						"title": "Supertramp - Gone Hollywood (Official Audio)",
+						"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home"
+					}
+				},
+				"contentDetails": {
+					"duration": "PT5M21S",
+					"dimension": "2d",
+					"definition": "hd",
+					"caption": "false",
+					"licensedContent": false,
+					"contentRating": {},
+					"projection": "rectangular"
+				}
+			},
+			{
+				"id": "w31GDDH_enM",
+				"snippet": {
+					"publishedAt": "2022-02-28T08:09:38Z",
+					"channelId": "UColTsKEMf0kaZjkoOx7-Cww",
+					"title": "Supertramp - The Logical Song (Official Audio)",
+					"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/w31GDDH_enM/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/w31GDDH_enM/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/w31GDDH_enM/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						},
+						"standard": {
+							"url": "https://i.ytimg.com/vi/w31GDDH_enM/sddefault.jpg",
+							"width": 640,
+							"height": 480
+						},
+						"maxres": {
+							"url": "https://i.ytimg.com/vi/w31GDDH_enM/maxresdefault.jpg",
+							"width": 1280,
+							"height": 720
+						}
+					},
+					"channelTitle": "Supertramp ",
+					"tags": [
+						"Supertramp",
+						"The Logical Song",
+						"Official Audio"
+					],
+					"categoryId": "10",
+					"liveBroadcastContent": "none",
+					"defaultLanguage": "da",
+					"localized": {
+						"title": "Supertramp - The Logical Song (Official Audio)",
+						"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home"
+					}
+				},
+				"contentDetails": {
+					"duration": "PT4M11S",
+					"dimension": "2d",
+					"definition": "hd",
+					"caption": "false",
+					"licensedContent": false,
+					"contentRating": {},
+					"projection": "rectangular"
+				}
+			},
+			{
+				"id": "eVRxeAnHhc4",
+				"snippet": {
+					"publishedAt": "2022-02-28T08:08:21Z",
+					"channelId": "UColTsKEMf0kaZjkoOx7-Cww",
+					"title": "Supertramp - Goodbye Stranger (Official Audio)",
+					"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/eVRxeAnHhc4/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/eVRxeAnHhc4/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/eVRxeAnHhc4/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						},
+						"standard": {
+							"url": "https://i.ytimg.com/vi/eVRxeAnHhc4/sddefault.jpg",
+							"width": 640,
+							"height": 480
+						},
+						"maxres": {
+							"url": "https://i.ytimg.com/vi/eVRxeAnHhc4/maxresdefault.jpg",
+							"width": 1280,
+							"height": 720
+						}
+					},
+					"channelTitle": "Supertramp ",
+					"tags": [
+						"Supertramp",
+						"Goodbye Stranger",
+						"Official Audio"
+					],
+					"categoryId": "10",
+					"liveBroadcastContent": "none",
+					"defaultLanguage": "da",
+					"localized": {
+						"title": "Supertramp - Goodbye Stranger (Official Audio)",
+						"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home"
+					}
+				},
+				"contentDetails": {
+					"duration": "PT5M50S",
+					"dimension": "2d",
+					"definition": "hd",
+					"caption": "false",
+					"licensedContent": false,
+					"contentRating": {},
+					"projection": "rectangular"
+				}
+			},
+			{
+				"id": "D6bA59wDgYE",
+				"snippet": {
+					"publishedAt": "2022-02-28T08:07:04Z",
+					"channelId": "UColTsKEMf0kaZjkoOx7-Cww",
+					"title": "Supertramp - Breakfast In America (Official Audio)",
+					"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/D6bA59wDgYE/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/D6bA59wDgYE/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/D6bA59wDgYE/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						},
+						"standard": {
+							"url": "https://i.ytimg.com/vi/D6bA59wDgYE/sddefault.jpg",
+							"width": 640,
+							"height": 480
+						},
+						"maxres": {
+							"url": "https://i.ytimg.com/vi/D6bA59wDgYE/maxresdefault.jpg",
+							"width": 1280,
+							"height": 720
+						}
+					},
+					"channelTitle": "Supertramp ",
+					"tags": [
+						"Supertramp",
+						"Breakfast In America",
+						"Official Audio"
+					],
+					"categoryId": "10",
+					"liveBroadcastContent": "none",
+					"defaultLanguage": "da",
+					"localized": {
+						"title": "Supertramp - Breakfast In America (Official Audio)",
+						"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home"
+					}
+				},
+				"contentDetails": {
+					"duration": "PT2M39S",
+					"dimension": "2d",
+					"definition": "hd",
+					"caption": "false",
+					"licensedContent": false,
+					"contentRating": {},
+					"projection": "rectangular"
+				}
+			},
+			{
+				"id": "S26A9oTCXAA",
+				"snippet": {
+					"publishedAt": "2022-02-28T08:05:56Z",
+					"channelId": "UColTsKEMf0kaZjkoOx7-Cww",
+					"title": "Supertramp - Oh Darling (Official Audio)",
+					"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/S26A9oTCXAA/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/S26A9oTCXAA/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/S26A9oTCXAA/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						},
+						"standard": {
+							"url": "https://i.ytimg.com/vi/S26A9oTCXAA/sddefault.jpg",
+							"width": 640,
+							"height": 480
+						},
+						"maxres": {
+							"url": "https://i.ytimg.com/vi/S26A9oTCXAA/maxresdefault.jpg",
+							"width": 1280,
+							"height": 720
+						}
+					},
+					"channelTitle": "Supertramp ",
+					"tags": [
+						"Supertramp",
+						"Oh Darling",
+						"Official Audio"
+					],
+					"categoryId": "10",
+					"liveBroadcastContent": "none",
+					"defaultLanguage": "da",
+					"localized": {
+						"title": "Supertramp - Oh Darling (Official Audio)",
+						"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home"
+					}
+				},
+				"contentDetails": {
+					"duration": "PT4M2S",
+					"dimension": "2d",
+					"definition": "hd",
+					"caption": "false",
+					"licensedContent": false,
+					"contentRating": {},
+					"projection": "rectangular"
+				}
+			},
+			{
+				"id": "_Pts0jqX-yY",
+				"snippet": {
+					"publishedAt": "2022-02-28T08:04:34Z",
+					"channelId": "UColTsKEMf0kaZjkoOx7-Cww",
+					"title": "Supertramp - Take The Long Way Home (Official Audio)",
+					"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/_Pts0jqX-yY/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/_Pts0jqX-yY/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/_Pts0jqX-yY/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						},
+						"standard": {
+							"url": "https://i.ytimg.com/vi/_Pts0jqX-yY/sddefault.jpg",
+							"width": 640,
+							"height": 480
+						},
+						"maxres": {
+							"url": "https://i.ytimg.com/vi/_Pts0jqX-yY/maxresdefault.jpg",
+							"width": 1280,
+							"height": 720
+						}
+					},
+					"channelTitle": "Supertramp ",
+					"tags": [
+						"Supertramp",
+						"Take The Long Way Home",
+						"Official Audio"
+					],
+					"categoryId": "10",
+					"liveBroadcastContent": "none",
+					"defaultLanguage": "en",
+					"localized": {
+						"title": "Supertramp - Take The Long Way Home (Official Audio)",
+						"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home"
+					}
+				},
+				"contentDetails": {
+					"duration": "PT5M9S",
+					"dimension": "2d",
+					"definition": "hd",
+					"caption": "false",
+					"licensedContent": false,
+					"contentRating": {},
+					"projection": "rectangular"
+				}
+			},
+			{
+				"id": "zah1klIbrL0",
+				"snippet": {
+					"publishedAt": "2022-02-28T08:01:54Z",
+					"channelId": "UColTsKEMf0kaZjkoOx7-Cww",
+					"title": "Supertramp - Just Another Nervous Wreck (Official Audio)",
+					"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/zah1klIbrL0/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/zah1klIbrL0/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/zah1klIbrL0/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						},
+						"standard": {
+							"url": "https://i.ytimg.com/vi/zah1klIbrL0/sddefault.jpg",
+							"width": 640,
+							"height": 480
+						},
+						"maxres": {
+							"url": "https://i.ytimg.com/vi/zah1klIbrL0/maxresdefault.jpg",
+							"width": 1280,
+							"height": 720
+						}
+					},
+					"channelTitle": "Supertramp ",
+					"tags": [
+						"Supertramp",
+						"Just Another Nervous Wreck",
+						"Official Audio"
+					],
+					"categoryId": "10",
+					"liveBroadcastContent": "none",
+					"defaultLanguage": "en",
+					"localized": {
+						"title": "Supertramp - Just Another Nervous Wreck (Official Audio)",
+						"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home"
+					}
+				},
+				"contentDetails": {
+					"duration": "PT4M26S",
+					"dimension": "2d",
+					"definition": "hd",
+					"caption": "false",
+					"licensedContent": false,
+					"contentRating": {},
+					"projection": "rectangular"
+				}
+			},
+			{
+				"id": "BsVL6oaOGEk",
+				"snippet": {
+					"publishedAt": "2022-02-28T07:59:53Z",
+					"channelId": "UColTsKEMf0kaZjkoOx7-Cww",
+					"title": "Supertramp - Casual Conversations (Official Audio)",
+					"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/BsVL6oaOGEk/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/BsVL6oaOGEk/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/BsVL6oaOGEk/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						},
+						"standard": {
+							"url": "https://i.ytimg.com/vi/BsVL6oaOGEk/sddefault.jpg",
+							"width": 640,
+							"height": 480
+						},
+						"maxres": {
+							"url": "https://i.ytimg.com/vi/BsVL6oaOGEk/maxresdefault.jpg",
+							"width": 1280,
+							"height": 720
+						}
+					},
+					"channelTitle": "Supertramp ",
+					"tags": [
+						"Supertramp",
+						"Casual Conversations",
+						"Official Audio"
+					],
+					"categoryId": "10",
+					"liveBroadcastContent": "none",
+					"defaultLanguage": "en",
+					"localized": {
+						"title": "Supertramp - Casual Conversations (Official Audio)",
+						"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home"
+					}
+				},
+				"contentDetails": {
+					"duration": "PT2M59S",
+					"dimension": "2d",
+					"definition": "hd",
+					"caption": "false",
+					"licensedContent": false,
+					"contentRating": {},
+					"projection": "rectangular"
+				}
+			},
+			{
+				"id": "SEReeNV8KpQ",
+				"snippet": {
+					"publishedAt": "2022-02-28T07:58:38Z",
+					"channelId": "UColTsKEMf0kaZjkoOx7-Cww",
+					"title": "Supertramp - Child Of Vision (Official Audio)",
+					"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/SEReeNV8KpQ/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/SEReeNV8KpQ/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/SEReeNV8KpQ/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						},
+						"standard": {
+							"url": "https://i.ytimg.com/vi/SEReeNV8KpQ/sddefault.jpg",
+							"width": 640,
+							"height": 480
+						},
+						"maxres": {
+							"url": "https://i.ytimg.com/vi/SEReeNV8KpQ/maxresdefault.jpg",
+							"width": 1280,
+							"height": 720
+						}
+					},
+					"channelTitle": "Supertramp ",
+					"tags": [
+						"Supertramp",
+						"Child Of Vision",
+						"Official Audio"
+					],
+					"categoryId": "10",
+					"liveBroadcastContent": "none",
+					"defaultLanguage": "da",
+					"localized": {
+						"title": "Supertramp - Child Of Vision (Official Audio)",
+						"description": "Album: Breakfast In America (Remastered 2010)\nSubscribe to Supertramp's official channel here: www.youtube.com/@supertrampofficial\n--\nWebsite: https://supertramp.com/home"
+					}
+				},
+				"contentDetails": {
+					"duration": "PT7M31S",
+					"dimension": "2d",
+					"definition": "hd",
+					"caption": "false",
+					"licensedContent": false,
+					"contentRating": {},
+					"projection": "rectangular"
+				}
+			}
+		]
+	},
+	"previousId": "246"
+}

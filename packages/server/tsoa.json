@@ -1,0 +1,14 @@
+{
+  "entryFile": "src/app.ts",
+  "noImplicitAdditionalProperties": "throw-on-extras",
+  "controllerPathGlobs": ["src/controller.ts"],
+  "spec": {
+    "outputDirectory": "build",
+    "host": "127.0.0.1:2700",
+    "schemes": ["http"],
+    "specVersion": 3
+  },
+  "routes": {
+    "routesDir": "build"
+  }
+}

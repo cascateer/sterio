@@ -1,0 +1,277 @@
+{
+	"id": "20",
+	"previousId": "19",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_sAmJExdj38r",
+				"spotifyId": "7ctNGV9Jb7KFDOE5aLtmqe",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_pnIjXKbpgOq",
+				"spotifyId": "7E0OgWZ0OPJkwcy5IuSvkp",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_aH8WoHkiuj5",
+				"spotifyId": "3UAuDhWEmWffV1h6I1okjZ",
+				"youtubeMusicIteratee": "${$.index} ${$.name}",
+				"spotifyIteratee": "${$.index} ${$.name}",
+				"youtubeIteratee": "${$.snippet.position} ${$.snippet.title}"
+			},
+			{
+				"youtubeMusicId": "MPREb_ySbFBfgyxE4",
+				"spotifyId": "1kFG3gKQNnwQvf3MEcr76q",
+				"youtubeIteratee": "${$.snippet.title/(\\.\\.\\. ,)/...,/g}",
+				"spotifyIteratee": "${$.name/^(Sonata A 2)$/Sonata in G Minor, Z. 807/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_cPHFKULpv8T",
+				"spotifyId": "2shR6I5NeyedqyYxzLIr02"
+			},
+			{
+				"youtubeMusicId": "MPREb_gPIZ8cJKc2D",
+				"spotifyId": "2sRq8eyjd4EcbePo8AfJPm",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(feat\\..*\\))$//}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_k9jJQGfeMKT",
+				"spotifyId": "5lVVT0ku5h6n9GYXjayZEy",
+				"spotifyIteratee": "${$.name/^(If A Change Is Gonna Come)(\\.\\.\\.)$/$1/}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_vkYyBfNGALW",
+				"spotifyId": "1RWjIsK48b5JVLV7Xo1qSo"
+			},
+			{
+				"youtubeMusicId": "MPREb_s46DCeWIXIU",
+				"spotifyId": "2PHWhTIESji4swKYAC4NhE",
+				"youtubeMusicIteratee": "${$.index} ${$.name/( -  )/ - /g}",
+				"spotifyIteratee": "${$.index} ${$.name}",
+				"youtubeIteratee": "${$.snippet.position} ${$.snippet.title}",
+				"songs": [
+					0,
+					1,
+					2,
+					4,
+					5,
+					6,
+					7,
+					9,
+					8,
+					10,
+					11,
+					12,
+					13,
+					14,
+					15,
+					16
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_smSQzaz3YVL",
+				"spotifyId": "0sNziLTA8B18XPuoRh3LZG"
+			},
+			{
+				"youtubeMusicId": "MPREb_ScWKAiVWanB",
+				"spotifyId": "2Q9cszfef06xEcrnfBDlhl"
+			},
+			{
+				"youtubeMusicId": "MPREb_1DiolFgOgll",
+				"spotifyId": "6iorsvdi87yyRU6kdsk0y6"
+			},
+			{
+				"youtubeMusicId": "MPREb_vAQ4no1gHQD",
+				"spotifyId": "02L3vrRV40BFHLlJk3fYPj",
+				"youtubeIteratee": "${$.snippet.title/( \\(Original\\))$//}",
+				"spotifyIteratee": "${${$.name/(?:- (.*))$/($1)/}/( \\(Original\\))$//}",
+				"songs": [
+					11
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_2bUlBTRKMJE",
+				"spotifyId": "69LMoWpK2ruprvAdiFPwSm",
+				"spotifyIteratee": "${${$.name/(?:- (.*))$/($1)/}/( \\(Original\\))$//}",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"youtubeIteratee": "${${$.snippet.title/( feat\\..*)$//}/( \\(Original\\))$//}",
+				"songs": [
+					1,
+					5
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_5bgP9aaAvAj",
+				"spotifyId": "4VXLcaP6e5hzVlyGJySA8S"
+			},
+			{
+				"youtubeMusicId": "MPREb_fkV5gNFZJ22",
+				"spotifyId": "6YEjK95sgoXQn1yGbYjHsp",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"songs": [
+					3
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_WKRBeUIQCzF",
+				"songs": [
+					4
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_xIH3dhxyNSd",
+				"spotifyId": "2O1q3IboqaR8KEDRy2cDRc",
+				"songs": [
+					1
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_L3fpcGTqfSl",
+				"spotifyId": "1gTx8C7jJeaHNDFLc6i8Mj"
+			},
+			{
+				"youtubeMusicId": "MPREb_fefuPLr0i7Z",
+				"spotifyId": "13bjyZWKWbYKFz00AYQZno",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_seKW5YSxbeB",
+				"spotifyId": "7fdd3jpfhZQR3sLn5HLQ3V"
+			},
+			{
+				"youtubeMusicId": "MPREb_VnjFT3wYgyO",
+				"spotifyId": "0LVa9IcLglFDKGBhdyLx5b",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/[$1]/}",
+				"youtubeIteratee": "${${$.snippet.title/\\(((Ruede Hagelstein|Krink) Remix)\\)$/[$1]/}/(\\(Live\\))/(Live Version)/}",
+				"songs": [
+					1
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_qkVq4rqffzX",
+				"spotifyId": "5raD4CbwEOJNdj9TkkEcBa",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_jTyMgTMoy2T",
+				"spotifyId": "18Ny5mx0OWqat32kkmoFC4",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_czyz3AM2beb",
+				"spotifyId": "1p10UaOsHeVWuyfwCE7561"
+			},
+			{
+				"youtubeMusicId": "MPREb_OO29wnm7y9C",
+				"spotifyId": "2l26l1aue644bMe3HCsMDB",
+				"youtubeIteratee": "${$.snippet.title/( \\(Original Mix\\))$//}",
+				"songs": [
+					3
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_XnhM4DmTfVq",
+				"spotifyId": "0q0JtFDTRMuS0FzsVWRVzv",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_TixapkyAYi8",
+				"spotifyId": "7Kk2AhZYfBN1OsCthy3XjZ",
+				"youtubeIteratee": "${$.snippet.title/Rey & Kjavik/Rey&Kjavik/}",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_780OYvvzfjJ",
+				"spotifyId": "4RnPHDVzLe3G7EMiExIAmM",
+				"songs": [
+					6
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_FORyEltZUWQ",
+				"spotifyId": "7lliLG5Mdf36rEcmOS8egT",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					18
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_13GRhCVZjMv",
+				"spotifyId": "3Lhg5VoqZlOrFBzGqppqnj",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_2bTkbHwZZZG",
+				"spotifyId": "63QglWXaVZfTcFOKvgIi54",
+				"spotifyIteratee": "${${$.name/(?:- (.*))$/($1)/}/( \\(Original\\))$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(Original\\))$//}",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"songs": [
+					1
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_IKU160pptRp",
+				"spotifyId": "7rUeIxbwf98yfAIcizljms",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"songs": [
+					0
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_vWOoemNxaBX",
+				"spotifyId": "2Bju49iO98LXuJsY2vKEqg"
+			},
+			{
+				"youtubeMusicId": "MPREb_4SzL9Agde9Z",
+				"spotifyId": "00xOZyPGbgcFnCBxtMpE1B"
+			},
+			{
+				"youtubeMusicId": "MPREb_UPOtCuxqZbe",
+				"spotifyId": "3KYxc3PjuBCRBGQZa3UWPh"
+			},
+			{
+				"youtubeMusicId": "MPREb_QfbuA7j9US3",
+				"spotifyId": "0kcsYvhfksJkcKLmpGGjl9"
+			},
+			{
+				"youtubeMusicId": "MPREb_93tl8jhEJdv",
+				"spotifyId": "4IoELctFmN7HWHSnb1hgFQ"
+			},
+			{
+				"youtubeMusicId": "MPREb_FPY6MXnYDvV",
+				"spotifyId": "1uVLEeDuKWgOazttohIOvd"
+			},
+			{
+				"youtubeMusicId": "MPREb_FRrlMHGe8dF",
+				"spotifyId": "5fprDXizxKL1cJOvTqf7T0",
+				"youtubeIteratee": "${$.snippet.title/(\\((Death’s Angel|By the Soldiers of Death)\\) )(\\((Remixed \\\\\\/ Remastered 2019)\\))$/$1[$4]/}"
+			}
+		]
+	}
+}

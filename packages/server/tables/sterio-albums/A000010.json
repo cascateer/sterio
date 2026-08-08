@@ -1,0 +1,207 @@
+{
+	"id": "10",
+	"previousId": "9",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_H7spt9FSUQ2",
+				"spotifyId": "07EFoHHspqSwsmkbnWaB4A"
+			},
+			{
+				"youtubeMusicId": "MPREb_U0qbOiLf9u2",
+				"spotifyId": "5EZhHDsJu9NvVGxNF2RYG2"
+			},
+			{
+				"youtubeMusicId": "MPREb_LYqWEAdGO5K",
+				"youtubeIteratee": "${$.snippet.title/( \\(Remastered\\))$//}",
+				"spotifyId": "5iA9ECcGKLN2BSxikuENma",
+				"spotifyIteratee": "${$.name/( \\(Remastered\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_hzr0NTV2jJ5",
+				"spotifyId": "3j0GCUTDz53x9Mzl8L1Fwz"
+			},
+			{
+				"youtubeMusicId": "MPREb_3tz7jklcoip",
+				"spotifyId": "6mlhGIWkXtfoWOQ7ySaLWY"
+			},
+			{
+				"youtubeMusicId": "MPREb_SDaPyItWqoq",
+				"spotifyId": "7vTIPNCT9nCHw8hhskPYj1",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_t5mSkuCCUjr",
+				"spotifyId": "1r7XjAgjwlakmXC2GbPXjH"
+			},
+			{
+				"youtubeMusicId": "MPREb_WX7lAGDexcF",
+				"spotifyId": "03JPFQvZRnHHysSZrSFmKY"
+			},
+			{
+				"youtubeMusicId": "MPREb_zbQdnBN5vq3",
+				"spotifyId": "2pidzXTaHV4WaIJYRxKDCH",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_YLlu64dS6F8",
+				"spotifyId": "6OMYQUITdN6wBaWfEtgooI",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_1wvIf3nUHvM",
+				"spotifyId": "3b4E89rxzZQ9zkhgKpj8N4"
+			},
+			{
+				"youtubeMusicId": "MPREb_QhEAqrwvE0A",
+				"spotifyId": "7jjzqewWL5T2lj8hU2Z4bG"
+			},
+			{
+				"youtubeMusicId": "MPREb_f0d0GYeJ4EM",
+				"spotifyId": "6lPb7Eoon6QPbscWbMsk6a",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_T4cXvjRsPkf",
+				"spotifyId": "7MX5xVaWcmU4jD6PHVVIbJ",
+				"youtubeId": "PLfmpazbWP_lQ"
+			},
+			{
+				"youtubeMusicId": "MPREb_O09WjIYPIwj",
+				"spotifyId": "7zIqyMrapcp7QWM12NkjaD"
+			},
+			{
+				"youtubeMusicId": "MPREb_sXXv0EKY2Jm",
+				"spotifyId": "4oruHZSLyTDKPNY2VQIlCS",
+				"spotifyIteratee": "${$.name/(?:- ([^-]*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_EegRXhKvkhC",
+				"spotifyId": "05pS5w3WfctccojsLD5HuX"
+			},
+			{
+				"youtubeMusicId": "MPREb_OR8MPxGPRSP",
+				"spotifyId": "3yWO0OWcsKQa46sqSgR3uj",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeMusicIteratee": "${$.name/^(.*)$/$1 (2018 Remaster)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_PF73L4eDkHR",
+				"spotifyId": "5f4vbRLrRmoDH0zpdQnyrE",
+				"spotifyIteratee": "${${$.name/(?:- (.*))$/($1)/}/^(Liar|Hook In Mouth|502|Mary Jane)( \\(Remastered\\))$/$1/}",
+				"youtubeMusicIteratee": "",
+				"youtubeIteratee": "${$.snippet.title/^(Liar|Hook In Mouth|502|Mary Jane)( \\(Remastered\\))$/$1/}",
+				"draft": false
+			},
+			{
+				"youtubeMusicId": "MPREb_BzCT63hM1z2",
+				"spotifyId": "4RLbwi2L62z1SJxtfPXyf2"
+			},
+			{
+				"youtubeMusicId": "MPREb_iA2enzCs2JC",
+				"spotifyId": "0VGTeQjbc9GvEgjhlrWmWP"
+			},
+			{
+				"youtubeMusicId": "MPREb_jYFIcHnyATo",
+				"spotifyId": "0U0dDGXD8RHUjh2bJr8jnt"
+			},
+			{
+				"youtubeMusicId": "MPREb_ldkOXymhqip",
+				"spotifyId": "0CvSM3QZgTG0a1Z0PGSQ38"
+			},
+			{
+				"youtubeMusicId": "MPREb_aVdXXHKGBmH",
+				"spotifyId": "3Z9374xnVPvgfflbcjw7rh",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\. INA\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_sFVVNq9E4Dp",
+				"spotifyId": "26qNnYvYynEI8NARFCCtlV",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"songs": [
+					2
+				]
+			},
+			{
+				"youtubeMusicId": "MPREb_37QClLsBZf4",
+				"spotifyId": "2NlSt0ZVPsx3dblkIoamuo"
+			},
+			{
+				"youtubeMusicId": "MPREb_1afsDFT7uNg",
+				"spotifyId": "3JvwDXsu92ml76ccbgesVJ",
+				"songs": [
+					1
+				],
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_TwWBLfk75MR",
+				"spotifyId": "36YULmDiKn1thbV76mDHSu",
+				"songs": [
+					0
+				],
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_5hFoMncYvUG",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"songs": [
+					18,
+					20
+				],
+				"spotifyId": "6MMe5dAtwWrV0ldIPdctgN",
+				"spotifyIteratee": "${${$.name/( \\(feat\\..*\\))//}/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_02enP24Xp56",
+				"spotifyId": "2ja8SLCZPMkgPHELcdDsgF"
+			},
+			{
+				"youtubeMusicId": "MPREb_UwQDPUYeXkS",
+				"spotifyId": "79hPlit22yH2TfyeW1a32K"
+			},
+			{
+				"youtubeMusicId": "MPREb_Ye1vgZigXUk",
+				"spotifyId": "6ptUHjI6CqNQqYqge5Tbje"
+			},
+			{
+				"youtubeMusicId": "MPREb_A6rEjx0enDN",
+				"spotifyId": "4tnzr7SczR98k17xTAji6H",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))//}",
+				"youtubeIteratee": "${${$.snippet.title/( \\(feat\\..*\\))//}/\\((Bonus Track)\\)/[$1]/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_gXewsH3i6eW",
+				"spotifyId": "79sAzylJxnZ7DpwyL2OxgX"
+			},
+			{
+				"youtubeMusicId": "MPREb_JHYL6L7t0tg",
+				"spotifyId": "3q6f8bwF1ZWxTGvS0veYi3"
+			},
+			{
+				"youtubeMusicId": "MPREb_40196TjekXJ",
+				"spotifyId": "1scIMnEMPyyVhO2PpFvgam"
+			},
+			{
+				"youtubeMusicId": "MPREb_GwizvsBTkH1"
+			},
+			{
+				"youtubeMusicId": "MPREb_KILg4o6v8f2",
+				"spotifyId": "4wtZQMNTC1O79kDxMBsEan",
+				"youtubeMusicIteratee": "${$.name/^(New Gold \\(feat\\. Tame Impala )&( Bootie Brown\\))$/$1and$2/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_BoPgUvE6PEC",
+				"spotifyId": "46gHYWaRr052RGEiL5Dg7T"
+			},
+			{
+				"youtubeMusicId": "MPREb_j8V94tiD0Am",
+				"spotifyId": "3VSOzRDe4dNrjcCYEeLz9b",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			}
+		]
+	}
+}

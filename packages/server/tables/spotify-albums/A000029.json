@@ -1,0 +1,211 @@
+{
+	"id": "29",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"album_type": "album",
+				"total_tracks": 5,
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/7owpoXa7Uz6Gcvp08wbaXE"
+				},
+				"href": "https://api.spotify.com/v1/albums/7owpoXa7Uz6Gcvp08wbaXE",
+				"id": "7owpoXa7Uz6Gcvp08wbaXE",
+				"images": [
+					{
+						"url": "https://i.scdn.co/image/ab67616d0000b2735ef2af5d9d5899b86b02424d",
+						"height": 640,
+						"width": 640
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d00001e025ef2af5d9d5899b86b02424d",
+						"height": 300,
+						"width": 300
+					},
+					{
+						"url": "https://i.scdn.co/image/ab67616d000048515ef2af5d9d5899b86b02424d",
+						"height": 64,
+						"width": 64
+					}
+				],
+				"name": "Black Talk! (RVG Remaster)",
+				"release_date": "1970",
+				"release_date_precision": "year",
+				"type": "album",
+				"uri": "spotify:album:7owpoXa7Uz6Gcvp08wbaXE",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi"
+						},
+						"href": "https://api.spotify.com/v1/artists/3ud1yQWO0eEL8hVcXyU0Oi",
+						"id": "3ud1yQWO0eEL8hVcXyU0Oi",
+						"name": "Charles Earland",
+						"type": "artist",
+						"uri": "spotify:artist:3ud1yQWO0eEL8hVcXyU0Oi"
+					}
+				],
+				"tracks": {
+					"href": "https://api.spotify.com/v1/albums/7owpoXa7Uz6Gcvp08wbaXE/tracks?offset=0&limit=50",
+					"limit": 50,
+					"next": null,
+					"offset": 0,
+					"previous": null,
+					"total": 5,
+					"items": [
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi"
+									},
+									"href": "https://api.spotify.com/v1/artists/3ud1yQWO0eEL8hVcXyU0Oi",
+									"id": "3ud1yQWO0eEL8hVcXyU0Oi",
+									"name": "Charles Earland",
+									"type": "artist",
+									"uri": "spotify:artist:3ud1yQWO0eEL8hVcXyU0Oi"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 469520,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/4iO4jLfzWmirvIN7PrWEYw"
+							},
+							"href": "https://api.spotify.com/v1/tracks/4iO4jLfzWmirvIN7PrWEYw",
+							"id": "4iO4jLfzWmirvIN7PrWEYw",
+							"name": "Black Talk - Rudy Van Gelder Remaster",
+							"track_number": 1,
+							"type": "track",
+							"uri": "spotify:track:4iO4jLfzWmirvIN7PrWEYw",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi"
+									},
+									"href": "https://api.spotify.com/v1/artists/3ud1yQWO0eEL8hVcXyU0Oi",
+									"id": "3ud1yQWO0eEL8hVcXyU0Oi",
+									"name": "Charles Earland",
+									"type": "artist",
+									"uri": "spotify:artist:3ud1yQWO0eEL8hVcXyU0Oi"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 184480,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0tdcLmdaZ2kHZjuBNFAFt6"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0tdcLmdaZ2kHZjuBNFAFt6",
+							"id": "0tdcLmdaZ2kHZjuBNFAFt6",
+							"name": "The Mighty Burner - Rudy Van Gelder Remaster",
+							"track_number": 2,
+							"type": "track",
+							"uri": "spotify:track:0tdcLmdaZ2kHZjuBNFAFt6",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi"
+									},
+									"href": "https://api.spotify.com/v1/artists/3ud1yQWO0eEL8hVcXyU0Oi",
+									"id": "3ud1yQWO0eEL8hVcXyU0Oi",
+									"name": "Charles Earland",
+									"type": "artist",
+									"uri": "spotify:artist:3ud1yQWO0eEL8hVcXyU0Oi"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 497880,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/3PsPVwvNUVHRDcm3uhCAAs"
+							},
+							"href": "https://api.spotify.com/v1/tracks/3PsPVwvNUVHRDcm3uhCAAs",
+							"id": "3PsPVwvNUVHRDcm3uhCAAs",
+							"name": "Here Comes Charlie - Instrumental",
+							"track_number": 3,
+							"type": "track",
+							"uri": "spotify:track:3PsPVwvNUVHRDcm3uhCAAs",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi"
+									},
+									"href": "https://api.spotify.com/v1/artists/3ud1yQWO0eEL8hVcXyU0Oi",
+									"id": "3ud1yQWO0eEL8hVcXyU0Oi",
+									"name": "Charles Earland",
+									"type": "artist",
+									"uri": "spotify:artist:3ud1yQWO0eEL8hVcXyU0Oi"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 481826,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/1jtt5j3DoK8R9OEz2AEAOW"
+							},
+							"href": "https://api.spotify.com/v1/tracks/1jtt5j3DoK8R9OEz2AEAOW",
+							"id": "1jtt5j3DoK8R9OEz2AEAOW",
+							"name": "Aquarius - Instrumental",
+							"track_number": 4,
+							"type": "track",
+							"uri": "spotify:track:1jtt5j3DoK8R9OEz2AEAOW",
+							"is_local": false
+						},
+						{
+							"artists": [
+								{
+									"external_urls": {
+										"spotify": "https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi"
+									},
+									"href": "https://api.spotify.com/v1/artists/3ud1yQWO0eEL8hVcXyU0Oi",
+									"id": "3ud1yQWO0eEL8hVcXyU0Oi",
+									"name": "Charles Earland",
+									"type": "artist",
+									"uri": "spotify:artist:3ud1yQWO0eEL8hVcXyU0Oi"
+								}
+							],
+							"disc_number": 1,
+							"duration_ms": 673840,
+							"explicit": false,
+							"external_urls": {
+								"spotify": "https://open.spotify.com/track/0hY1lriPizkVAlt4XXx1pG"
+							},
+							"href": "https://api.spotify.com/v1/tracks/0hY1lriPizkVAlt4XXx1pG",
+							"id": "0hY1lriPizkVAlt4XXx1pG",
+							"name": "More Today Than Yesterday - Instrumental",
+							"track_number": 5,
+							"type": "track",
+							"uri": "spotify:track:0hY1lriPizkVAlt4XXx1pG",
+							"is_local": false
+						}
+					]
+				},
+				"copyrights": [
+					{
+						"text": "© 2006 Concord Music Group, Inc.",
+						"type": "C"
+					},
+					{
+						"text": "℗ 2006 Concord Music Group, Inc.",
+						"type": "P"
+					}
+				],
+				"external_ids": {
+					"upc": "00888072300828"
+				},
+				"genres": []
+			}
+		]
+	},
+	"previousId": "28"
+}

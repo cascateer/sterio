@@ -1,0 +1,209 @@
+{
+	"id": "70",
+	"previousId": "69",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"url": "https://youtube.com/watch?v=X7eMqD8QmDo",
+				"name": "X7eMqD8QmDo.mp3",
+				"checksum": "83365d39e349b61c9de8bd047b3446a5"
+			},
+			{
+				"url": "https://youtube.com/watch?v=DIgpo_oin0Q",
+				"name": "DIgpo_oin0Q.mp3",
+				"checksum": "10d7f09236c0f89a7b72cb2c4f3ab845"
+			},
+			{
+				"url": "https://youtube.com/watch?v=hoTazncPG1g",
+				"name": "hoTazncPG1g.mp3",
+				"checksum": "7f97199cd6ca638d19c8f0fdfe67a654"
+			},
+			{
+				"url": "https://youtube.com/watch?v=Af_8pKmKUC8",
+				"name": "Af_8pKmKUC8.mp3",
+				"checksum": "ad7f7df1c79d6c3bccc573c1495b5f8c"
+			},
+			{
+				"url": "https://youtube.com/watch?v=vLxQclN1_js",
+				"name": "vLxQclN1_js.mp3",
+				"checksum": "5923f315d41826af0af6fa7cf2cd3c3e"
+			},
+			{
+				"url": "https://youtube.com/watch?v=-RErgH4tOgc",
+				"name": "-RErgH4tOgc.mp3",
+				"checksum": "8d5b95c7733aacfab00572e7daefdbfd"
+			},
+			{
+				"url": "https://youtube.com/watch?v=LUIsdyQg7hU",
+				"name": "LUIsdyQg7hU.mp3",
+				"checksum": "a91cccdf3e801b54d8f9f77b87e172f3"
+			},
+			{
+				"url": "https://youtube.com/watch?v=wCjmnNotBSo",
+				"name": "wCjmnNotBSo.mp3",
+				"checksum": "656046e98ce182061f9c0e998c7b3c18"
+			},
+			{
+				"url": "https://youtube.com/watch?v=AccbAu2KmFg",
+				"name": "AccbAu2KmFg.mp3",
+				"checksum": "4e7fe73218cda474e32b76602ded4c22"
+			},
+			{
+				"url": "https://youtube.com/watch?v=vI74KB39wyY",
+				"name": "vI74KB39wyY.mp3",
+				"checksum": "0c4af4123c8c0b337ceca6d3d078363c"
+			},
+			{
+				"url": "https://youtube.com/watch?v=lBpDFjau-Ps",
+				"name": "lBpDFjau-Ps.mp3",
+				"checksum": "63bb6752ed10d16bed4765ab19e96205"
+			},
+			{
+				"url": "https://youtube.com/watch?v=CYpE6B4SV5E",
+				"name": "CYpE6B4SV5E.mp3",
+				"checksum": "211d25d1eed06656fbe892210a083d88"
+			},
+			{
+				"url": "https://youtube.com/watch?v=U_3nyOueehs",
+				"name": "U_3nyOueehs.mp3",
+				"checksum": "5fc28e3d3bcf5327ee1194bfe643e4a3"
+			},
+			{
+				"url": "https://youtube.com/watch?v=9ufAE-skaA4",
+				"name": "9ufAE-skaA4.mp3",
+				"checksum": "6d6395fb570c57b5241231313ecbbc0e"
+			},
+			{
+				"url": "https://youtube.com/watch?v=NyJRKEnCaiA",
+				"name": "NyJRKEnCaiA.mp3",
+				"checksum": "d4a3ebe247193a0f418d6b9dde0e4a56"
+			},
+			{
+				"url": "https://youtube.com/watch?v=nJ0tuEmBH9k",
+				"name": "nJ0tuEmBH9k.mp3",
+				"checksum": "b2a590328918dcce62456c3dab60fd4d"
+			},
+			{
+				"url": "https://youtube.com/watch?v=wmuJjRpBxEc",
+				"name": "wmuJjRpBxEc.mp3",
+				"checksum": "8bc39647b26a332259957cf0c211888e"
+			},
+			{
+				"url": "https://youtube.com/watch?v=bUAX0qVUnR0",
+				"name": "bUAX0qVUnR0.mp3",
+				"checksum": "bda8a257a971508e55f81c0740a3388e"
+			},
+			{
+				"url": "https://youtube.com/watch?v=MKJNbSKOoFw",
+				"name": "MKJNbSKOoFw.mp3",
+				"checksum": "3665c414c33a790c749d178ae0b4d2bd"
+			},
+			{
+				"url": "https://youtube.com/watch?v=a6KiQ0E0qu8",
+				"name": "a6KiQ0E0qu8.mp3",
+				"checksum": "8f0a7b8132d7ca568dbf5fa8222fe543"
+			},
+			{
+				"url": "https://youtube.com/watch?v=VzEZQlmHkVo",
+				"name": "VzEZQlmHkVo.mp3",
+				"checksum": "2f696ede1545375dd1817f625149e547"
+			},
+			{
+				"url": "https://youtube.com/watch?v=padeNqsWVJw",
+				"name": "padeNqsWVJw.mp3",
+				"checksum": "e6af3c96985d5bcbf340e416160d1a9d"
+			},
+			{
+				"url": "https://youtube.com/watch?v=VXGynIEVjfo",
+				"name": "VXGynIEVjfo.mp3",
+				"checksum": "9f982b4abfbd10437f0c7bc313a548ae"
+			},
+			{
+				"url": "https://youtube.com/watch?v=aiv-X8bFuvw",
+				"name": "aiv-X8bFuvw.mp3",
+				"checksum": "abee6e777f4706c582aca77688d1e155"
+			},
+			{
+				"url": "https://youtube.com/watch?v=XnaNPcP-cTI",
+				"name": "XnaNPcP-cTI.mp3",
+				"checksum": "b2c94398956cffafefc8d571431f36d6"
+			},
+			{
+				"url": "https://youtube.com/watch?v=R93pdDg0DO4",
+				"name": "R93pdDg0DO4.mp3",
+				"checksum": "8aa168ee94567b6a09957dc73b7097c9"
+			},
+			{
+				"url": "https://youtube.com/watch?v=fKCy5F2SOnY",
+				"name": "fKCy5F2SOnY.mp3",
+				"checksum": "2e051a4f48294e1865a324de780f11f4"
+			},
+			{
+				"url": "https://youtube.com/watch?v=UQKIahVBo3Y",
+				"name": "UQKIahVBo3Y.mp3",
+				"checksum": "8737277b7ba9f5c3a4cdc168329430c3"
+			},
+			{
+				"url": "https://youtube.com/watch?v=p01nNho_Xno",
+				"name": "p01nNho_Xno.mp3",
+				"checksum": "5d126f3f5dd411382a86624c5f887943"
+			},
+			{
+				"url": "https://youtube.com/watch?v=hKbzOFWXhlE",
+				"name": "hKbzOFWXhlE.mp3",
+				"checksum": "890c15a5ce00124d0b78687f0c94b24f"
+			},
+			{
+				"url": "https://youtube.com/watch?v=OQEfoLQxlvU",
+				"name": "OQEfoLQxlvU.mp3",
+				"checksum": "f72d8b82f3ec8b389e55f03bba798968"
+			},
+			{
+				"url": "https://youtube.com/watch?v=_Dz75F5297Y",
+				"name": "_Dz75F5297Y.mp3",
+				"checksum": "7ca02ab6c36f8128408816a218572fc0"
+			},
+			{
+				"url": "https://youtube.com/watch?v=InIZ6_9L_Vs",
+				"name": "InIZ6_9L_Vs.mp3",
+				"checksum": "c0b852f2065ee78c0a90f896dbf59686"
+			},
+			{
+				"url": "https://youtube.com/watch?v=_WZNjTkwMLU",
+				"name": "_WZNjTkwMLU.mp3",
+				"checksum": "09447fe969245d0b0e26ccd3a5d1c599"
+			},
+			{
+				"url": "https://youtube.com/watch?v=eXIFfelSaZs",
+				"name": "eXIFfelSaZs.mp3",
+				"checksum": "184255d145d7af905a07cccaa1746042"
+			},
+			{
+				"url": "https://youtube.com/watch?v=T9cfogGZ_Kc",
+				"name": "T9cfogGZ_Kc.mp3",
+				"checksum": "8dc7fc31f5bea50232b3d924f0368d3c"
+			},
+			{
+				"url": "https://youtube.com/watch?v=73IliRMPU5w",
+				"name": "73IliRMPU5w.mp3",
+				"checksum": "d55f91812df4f72a95fd94835b086ca9"
+			},
+			{
+				"url": "https://youtube.com/watch?v=njI7WfRmWqs",
+				"name": "njI7WfRmWqs.mp3",
+				"checksum": "0c7a50c025556275ee37e8357bdfbcdc"
+			},
+			{
+				"url": "https://youtube.com/watch?v=L3UeTBAVnWw",
+				"name": "L3UeTBAVnWw.mp3",
+				"checksum": "10d2dcc32140597a8c2d697a5190dbcc"
+			},
+			{
+				"url": "https://youtube.com/watch?v=tUZeH4PLcFI",
+				"name": "tUZeH4PLcFI.mp3",
+				"checksum": "d36f4fe8c5afcc07428e5d0ababb60ff"
+			}
+		]
+	}
+}

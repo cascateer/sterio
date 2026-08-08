@@ -1,0 +1,260 @@
+{
+	"id": "26",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"type": "ALBUM",
+				"albumId": "MPREb_OXs21wIlthC",
+				"name": "Scenery",
+				"playlistId": "OLAK5uy_l63UotXvycgKWYn_GkpJcyRfMEf78qYxg",
+				"artist": {
+					"artistId": "UC3v8sOyI_FGAyfDMex1VRVw",
+					"name": "Ryo Fukui"
+				},
+				"year": 2016,
+				"thumbnails": [
+					{
+						"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w60-h60-l90-rj",
+						"width": 60,
+						"height": 60
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w120-h120-l90-rj",
+						"width": 120,
+						"height": 120
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w226-h226-l90-rj",
+						"width": 226,
+						"height": 226
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w544-h544-l90-rj",
+						"width": 544,
+						"height": 544
+					}
+				],
+				"songs": [
+					{
+						"type": "SONG",
+						"videoId": "-yX4S7exMtU",
+						"name": "It Could Happen to You",
+						"artist": {
+							"artistId": "UC3v8sOyI_FGAyfDMex1VRVw",
+							"name": "Ryo Fukui"
+						},
+						"album": {
+							"albumId": "MPREb_OXs21wIlthC",
+							"name": "Scenery"
+						},
+						"duration": 257,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "-T5jjfZtP5g",
+						"name": "I Want to Talk About You",
+						"artist": {
+							"artistId": "UC3v8sOyI_FGAyfDMex1VRVw",
+							"name": "Ryo Fukui"
+						},
+						"album": {
+							"albumId": "MPREb_OXs21wIlthC",
+							"name": "Scenery"
+						},
+						"duration": 393,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "F5EFsUU7RRA",
+						"name": "Early Summer",
+						"artist": {
+							"artistId": "UC3v8sOyI_FGAyfDMex1VRVw",
+							"name": "Ryo Fukui"
+						},
+						"album": {
+							"albumId": "MPREb_OXs21wIlthC",
+							"name": "Scenery"
+						},
+						"duration": 645,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "WiUzmWbDIFw",
+						"name": "Willow Weep for Me",
+						"artist": {
+							"artistId": "UC3v8sOyI_FGAyfDMex1VRVw",
+							"name": "Ryo Fukui"
+						},
+						"album": {
+							"albumId": "MPREb_OXs21wIlthC",
+							"name": "Scenery"
+						},
+						"duration": 464,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "XaAiNL-YJIs",
+						"name": "Autumn Leaves",
+						"artist": {
+							"artistId": "UC3v8sOyI_FGAyfDMex1VRVw",
+							"name": "Ryo Fukui"
+						},
+						"album": {
+							"albumId": "MPREb_OXs21wIlthC",
+							"name": "Scenery"
+						},
+						"duration": 392,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "sr4vIBaumiM",
+						"name": "Scenery",
+						"artist": {
+							"artistId": "UC3v8sOyI_FGAyfDMex1VRVw",
+							"name": "Ryo Fukui"
+						},
+						"album": {
+							"albumId": "MPREb_OXs21wIlthC",
+							"name": "Scenery"
+						},
+						"duration": 332,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/1DyYARahpOK6evJZL1Nb6r5eHJoLmqxbmjOakg2zalOBRL5pe5ZbxeAGXdjbqzcbVa7b5-lYY-53dl4=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"previousId": "25"
+}

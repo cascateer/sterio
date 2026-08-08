@@ -1,0 +1,296 @@
+{
+	"id": "27",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"type": "ALBUM",
+				"albumId": "MPREb_27IQFbfGFQj",
+				"name": "Time Out",
+				"playlistId": "OLAK5uy_lUvDoQMeYsJ3ILj4rbPiDMRF7bBVONlg4",
+				"artist": {
+					"artistId": "UCMBevFAp40kVlvIcOvzv5Bw",
+					"name": "The Dave Brubeck Quartet"
+				},
+				"year": 1959,
+				"thumbnails": [
+					{
+						"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w60-h60-l90-rj",
+						"width": 60,
+						"height": 60
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w120-h120-l90-rj",
+						"width": 120,
+						"height": 120
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w226-h226-l90-rj",
+						"width": 226,
+						"height": 226
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w544-h544-l90-rj",
+						"width": 544,
+						"height": 544
+					}
+				],
+				"songs": [
+					{
+						"type": "SONG",
+						"videoId": "omKZNZf6P_0",
+						"name": "Blue Rondo à la Turk",
+						"artist": {
+							"artistId": "UCMBevFAp40kVlvIcOvzv5Bw",
+							"name": "The Dave Brubeck Quartet"
+						},
+						"album": {
+							"albumId": "MPREb_27IQFbfGFQj",
+							"name": "Time Out"
+						},
+						"duration": 404,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "b9PuQEgjGWk",
+						"name": "Strange Meadow Lark",
+						"artist": {
+							"artistId": "UCMBevFAp40kVlvIcOvzv5Bw",
+							"name": "The Dave Brubeck Quartet"
+						},
+						"album": {
+							"albumId": "MPREb_27IQFbfGFQj",
+							"name": "Time Out"
+						},
+						"duration": 443,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "-DHuW1h1wHw",
+						"name": "Take Five",
+						"artist": {
+							"artistId": "UCMBevFAp40kVlvIcOvzv5Bw",
+							"name": "The Dave Brubeck Quartet"
+						},
+						"album": {
+							"albumId": "MPREb_27IQFbfGFQj",
+							"name": "Time Out"
+						},
+						"duration": 325,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "O63Qwm3dnFU",
+						"name": "Three to Get Ready",
+						"artist": {
+							"artistId": "UCMBevFAp40kVlvIcOvzv5Bw",
+							"name": "The Dave Brubeck Quartet"
+						},
+						"album": {
+							"albumId": "MPREb_27IQFbfGFQj",
+							"name": "Time Out"
+						},
+						"duration": 324,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "tYgoHBtll5o",
+						"name": "Kathy's Waltz",
+						"artist": {
+							"artistId": "UCMBevFAp40kVlvIcOvzv5Bw",
+							"name": "The Dave Brubeck Quartet"
+						},
+						"album": {
+							"albumId": "MPREb_27IQFbfGFQj",
+							"name": "Time Out"
+						},
+						"duration": 288,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "XG03iMOBHKc",
+						"name": "Everybody's Jumpin'",
+						"artist": {
+							"artistId": "UCMBevFAp40kVlvIcOvzv5Bw",
+							"name": "The Dave Brubeck Quartet"
+						},
+						"album": {
+							"albumId": "MPREb_27IQFbfGFQj",
+							"name": "Time Out"
+						},
+						"duration": 263,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "OfwJu9czpPc",
+						"name": "Pick up Sticks",
+						"artist": {
+							"artistId": "UCMBevFAp40kVlvIcOvzv5Bw",
+							"name": "The Dave Brubeck Quartet"
+						},
+						"album": {
+							"albumId": "MPREb_27IQFbfGFQj",
+							"name": "Time Out"
+						},
+						"duration": 257,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/bHgJCIXh3PZS8OHZC_L4YhQ8pv18iW6JZcqpkKCyiOScZ-is4yPxNQagVmE-AlgioEwd1aMaNFI-q1D_=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"previousId": "26"
+}

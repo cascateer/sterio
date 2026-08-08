@@ -1,0 +1,43 @@
+{
+  "name": "@cascateer/sterio",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cascateer/sterio.git"
+  },
+  "scripts": {
+    "dev": "turbo dev",
+    "lint": "turbo lint",
+    "lint-staged": "lint-staged",
+    "test": "turbo test",
+    "build": "turbo build",
+    "prepare": "husky",
+    "build-ci": "turbo build lint test",
+    "release-ci": "npm run build-ci && changeset publish"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "npm@12.0.2",
+  "devDependencies": {
+    "@changesets/cli": "^2.31.1",
+    "husky": "^9.1.7",
+    "lint-staged": "^17.2.0",
+    "prettier": "^3.9.6",
+    "turbo": "^2.10.7",
+    "typescript": "^6.0.2",
+    "vitest": "^4.1.10"
+  },
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "*"
+  },
+  "lint-staged": {
+    "!(packages/eslint-config/**/*)*.{js,ts}": [
+      "eslint",
+      "prettier --write --ignore-unknown"
+    ],
+    "!(*.js|*.ts)": [
+      "prettier --write --ignore-unknown"
+    ]
+  }
+}

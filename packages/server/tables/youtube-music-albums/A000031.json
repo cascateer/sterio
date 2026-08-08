@@ -1,0 +1,440 @@
+{
+	"id": "31",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"type": "ALBUM",
+				"albumId": "MPREb_BWgqy4VESY3",
+				"name": "The Sun Don't Lie",
+				"playlistId": "OLAK5uy_lCac7fX--H5x2I5Z2tWzysE4cJD78uJAo",
+				"artist": {
+					"artistId": "UC8freEDn360RZUbhg4J690A",
+					"name": "Marcus Miller"
+				},
+				"year": 1993,
+				"thumbnails": [
+					{
+						"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w60-h60-l90-rj",
+						"width": 60,
+						"height": 60
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w120-h120-l90-rj",
+						"width": 120,
+						"height": 120
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w226-h226-l90-rj",
+						"width": 226,
+						"height": 226
+					},
+					{
+						"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w544-h544-l90-rj",
+						"width": 544,
+						"height": 544
+					}
+				],
+				"songs": [
+					{
+						"type": "SONG",
+						"videoId": "4b1gDkpfXWo",
+						"name": "Panther",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_BWgqy4VESY3",
+							"name": "The Sun Don't Lie"
+						},
+						"duration": 363,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "QclcynrNfUM",
+						"name": "Steveland",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_BWgqy4VESY3",
+							"name": "The Sun Don't Lie"
+						},
+						"duration": 442,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "yH5Ruq-05rM",
+						"name": "Rampage",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_BWgqy4VESY3",
+							"name": "The Sun Don't Lie"
+						},
+						"duration": 349,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "gz5B_9mFIyc",
+						"name": "The Sun Don't Lie",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_BWgqy4VESY3",
+							"name": "The Sun Don't Lie"
+						},
+						"duration": 390,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "Gwj2arTNdy8",
+						"name": "Scoop",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_BWgqy4VESY3",
+							"name": "The Sun Don't Lie"
+						},
+						"duration": 359,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "HlwW1S4nFY4",
+						"name": "Mr. Pastorius",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_BWgqy4VESY3",
+							"name": "The Sun Don't Lie"
+						},
+						"duration": 85,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "ub42RERiISw",
+						"name": "Funny (All She Needs Is Love)",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_BWgqy4VESY3",
+							"name": "The Sun Don't Lie"
+						},
+						"duration": 326,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "u_8q-dpXb50",
+						"name": "Moons",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_BWgqy4VESY3",
+							"name": "The Sun Don't Lie"
+						},
+						"duration": 293,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "cR-q-ez3z9o",
+						"name": "Teen Town",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_BWgqy4VESY3",
+							"name": "The Sun Don't Lie"
+						},
+						"duration": 296,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "yoBWbLNwVVM",
+						"name": "Juju",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_BWgqy4VESY3",
+							"name": "The Sun Don't Lie"
+						},
+						"duration": 362,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					},
+					{
+						"type": "SONG",
+						"videoId": "73rOu5XrV8A",
+						"name": "The King Is Gone (For Miles)",
+						"artist": {
+							"artistId": "UC8freEDn360RZUbhg4J690A",
+							"name": "Marcus Miller"
+						},
+						"album": {
+							"albumId": "MPREb_BWgqy4VESY3",
+							"name": "The Sun Don't Lie"
+						},
+						"duration": 366,
+						"thumbnails": [
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w60-h60-l90-rj",
+								"width": 60,
+								"height": 60
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w120-h120-l90-rj",
+								"width": 120,
+								"height": 120
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w226-h226-l90-rj",
+								"width": 226,
+								"height": 226
+							},
+							{
+								"url": "https://yt3.googleusercontent.com/Su-s_2JXy8alLqf00guNW6wMPkD3jsFbQxHy2wDjQ_ZceasqGIUGsaTpcnA_3sjNurVmlZMCznj-zYw=w544-h544-l90-rj",
+								"width": 544,
+								"height": 544
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"previousId": "30"
+}

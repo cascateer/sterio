@@ -1,0 +1,105 @@
+{
+	"id": "24",
+	"previousId": "23",
+	"type": "insert",
+	"payload": {
+		"records": [
+			{
+				"youtubeMusicId": "MPREb_Ktyh2BesrfV",
+				"spotifyId": "7qK4d2MZ3PaA63sg689CJr"
+			},
+			{
+				"youtubeMusicId": "MPREb_eEpQf8QskKl",
+				"spotifyId": "1TkbyIkf6GSrO5e7gWS4AM"
+			},
+			{
+				"youtubeMusicId": "MPREb_AeFVIDnzTTK",
+				"spotifyId": "6uj0z3xtvQ8Y0UWevdQlIx"
+			},
+			{
+				"youtubeMusicId": "MPREb_wL6nXzC1xOW",
+				"spotifyId": "7hq6mnrJ7CWbemk6B3H8PJ"
+			},
+			{
+				"youtubeMusicId": "MPREb_Euy0QMj2bxG",
+				"spotifyId": "0CNfnxzURJtjzeyELCBfvj"
+			},
+			{
+				"youtubeMusicId": "MPREb_kUqKugbff7l",
+				"spotifyId": "1a3cHkyL7mfcoN7qAEw4Y5"
+			},
+			{
+				"youtubeMusicId": "MPREb_yHz218NZzvF",
+				"spotifyId": "3b3jKDLyZnLn3lvQN8i1Oi",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_m6zHPSZXwvA",
+				"spotifyId": "5CW3oDyXQn1geNR2oZJZAP",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_jupoZu2eIE4",
+				"spotifyId": "5YjtryDPR0CWnBNRowJCiC",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(feat\\..*(\\)|\\.\\.\\.))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_MmefNORZcYE",
+				"spotifyId": "4wExFfncaUIqSgoxnqa3Eh",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}"
+			},
+			{
+				"youtubeMusicId": "MPREb_P4I8SoW1SLq",
+				"youtubeMusicIteratee": "${$.name/( \\(feat\\..*\\))$//}",
+				"spotifyId": "4g3C6o4QkfvPprBk9xXiyU"
+			},
+			{
+				"youtubeMusicId": "MPREb_aUWBfAZPKsw",
+				"spotifyId": "2Y2C9HLJ5GpSPjbF977eU0"
+			},
+			{
+				"youtubeMusicId": "MPREb_59wrGvR510O",
+				"spotifyId": "2UpRdZUOrFVtAnXN0l2EfQ",
+				"spotifyIteratee": "${$.name/(?:- (.*))$/($1)/}",
+				"youtubeId": "PLIwKmWzFxLP0"
+			},
+			{
+				"youtubeMusicId": "MPREb_C22SFakP7rQ",
+				"spotifyId": "0S69wprLxzNEGSB7vvEghL",
+				"youtubeId": "PLen7ZffTN200"
+			},
+			{
+				"youtubeMusicId": "MPREb_EAeD04XerYv",
+				"spotifyId": "2wrHaulTgqqkVKx0k7Kq4r"
+			},
+			{
+				"youtubeMusicId": "MPREb_1m8EXkVqxc0",
+				"spotifyId": "6980dSuVArqFiWikMp846E"
+			},
+			{
+				"youtubeMusicId": "MPREb_CcmTY8zBg6z",
+				"spotifyId": "2tUk95VSnQ5JuLxfaMuZNK"
+			},
+			{
+				"youtubeMusicId": "MPREb_VRKVznvVa3M",
+				"spotifyId": "2WSR17uMwL0t4mfbumO9nE"
+			},
+			{
+				"youtubeMusicId": "MPREb_0LoYnYtprVM",
+				"spotifyId": "1zcm3UvHNHpseYOUfd0pna",
+				"spotifyIteratee": "${${$.name/(?:- (.*))$/($1)/}/( \\(Remastered 2010\\))$//}",
+				"youtubeIteratee": "${$.snippet.title/( \\(Remastered 2010\\))$//}",
+				"youtubeMusicIteratee": "${$.name/( \\(Remastered 2010\\))$//}"
+			},
+			{
+				"youtubeMusicId": "MPREb_2HL0WFyDfPy",
+				"spotifyId": "4seR9L4jUm7oFTJkaFdAMp",
+				"songs": [
+					2
+				]
+			}
+		]
+	}
+}
